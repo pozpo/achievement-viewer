@@ -4,14 +4,14 @@ on:
   workflow_call:
     inputs:
       trigger_source:
-        description: 'Source of the trigger: manual, scheduled, or push'
+        description: 'Source of the trigger'
         required: false
         type: string
         default: 'push'
   workflow_dispatch:
     inputs:
       trigger_source:
-        description: 'Source of the trigger: manual, scheduled, or push'
+        description: 'Source of the trigger'
         required: false
         type: string
         default: 'manual'
@@ -24,9 +24,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Fetch full history for better diff detection
+          fetch-depth: 0
           ref: main
 
       - name: Copy Python scripts
@@ -48,26 +48,22 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 lxml playwright
-          playwright install
+          playwright install --with-deps
 
       - name: Update TOP_OWNER_IDS (scheduled only)
-        if: ${{ github.event_name == 'schedule' }}
+        if: ${{ github.event_name == 'schedule' || inputs.trigger_source == 'scheduled' }}
         run: python /tmp/scripts/update_top_owners.py
 
       - name: Fetch game data
         env:
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
-          GITHUB_SHA: ${{ github.sha }}
-          GITHUB_BEFORE: ${{ github.event.before }}
-          # Use the trigger_source input, defaulting based on event type
-          TRIGGER_SOURCE: ${{ inputs.trigger_source }}
+          # This handles both API dispatch and Workflow Call inputs
+          TRIGGER_SOURCE: ${{ inputs.trigger_source || github.event.inputs.trigger_source }}
         run: python /tmp/scripts/fetch_game_data.py
 
       - name: Commit changes
         run: |
-          set -e
-
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
@@ -75,12 +71,8 @@ jobs:
           FILES="$FILES top_owners.json game-data.json"
 
           git fetch origin user
-
-          # Merge remote changes into local
-          # Use 'ours' strategy only for files that do NOT conflict
           git merge origin/user -X ours --no-edit || true
 
-          # For safety, if any conflicts remain, reset those files to remote version
           git diff --name-only --diff-filter=U | while read file; do
             git checkout --theirs -- "$file"
           done
@@ -88,9 +80,8 @@ jobs:
           git add $FILES 2>/dev/null || true
 
           if [ -z "$(git status --porcelain)" ]; then
-            echo "No changes to commit to user branch"
+            echo "No changes to commit"
           else
             git commit -m "Update game data [skip ci]"
+            git push origin user
           fi
-
-          git push origin user
