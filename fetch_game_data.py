@@ -83,10 +83,16 @@ async def fetch_steamhunters_achievements(appid):
         )
         page = await context.new_page()
         try:
-            await page.goto(url, timeout=15000)
-            await page.wait_for_function(
-                """() => Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh'));"""
-            )
+await page.goto(url, timeout=30000)
+try:
+    await page.wait_for_function(
+        """() => Array.from(document.querySelectorAll('script')).some(s => s.textContent.includes('var sh'));""",
+        timeout=20000
+    )
+except Exception:
+    # SteamHunters blocked this runner IP — return empty, will fall back to XML/existing data
+    print(f"    ✗ SteamHunters blocked or timed out for {appid}, skipping")
+    return []
             await page.evaluate(
                 """() => { const scripts = Array.from(document.querySelectorAll('script')); const target = scripts.find(s => s.textContent.includes('var sh')); eval(target.textContent); }"""
             )
