@@ -1,4 +1,61 @@
-import { getGitHubUserInfo } from './utils.js';
+// Parse GoldBerg/CreamAPI style achievements.ini (lowercase filename)
+// Sections = achievement API names, keys: Achieved, UnlockTime
+function parseIniLowercase(text) {
+    const result = {};
+    const sectionRe = /^\[([^\]]+)\]/;
+    const kvRe = /^([^=]+)=(.*)$/;
+    let current = null;
+    for (const rawLine of text.split(/\r?\n/)) {
+        const line = rawLine.trim();
+        const secMatch = line.match(sectionRe);
+        if (secMatch) {
+            current = secMatch[1];
+            if (current.toLowerCase() === 'steamachievements') { current = null; continue; }
+            result[current] = { earned: false, earned_time: 0 };
+            continue;
+        }
+        if (current) {
+            const kvMatch = line.match(kvRe);
+            if (kvMatch) {
+                const k = kvMatch[1].trim().toLowerCase();
+                const v = kvMatch[2].trim();
+                if (k === 'achieved') result[current].earned = (v === '1' || v.toLowerCase() === 'true');
+                if (k === 'unlocktime') result[current].earned_time = parseInt(v) || 0;
+            }
+        }
+    }
+    return result;
+}
+
+// Parse CODEX/ALI213 style Achievements.ini (uppercase filename)
+// Sections = achievement API names, keys: achieved, timestamp
+function parseIniUppercase(text) {
+    const result = {};
+    const sectionRe = /^\[([^\]]+)\]/;
+    const kvRe = /^([^=]+)=(.*)$/;
+    let current = null;
+    for (const rawLine of text.split(/\r?\n/)) {
+        const line = rawLine.trim();
+        const secMatch = line.match(sectionRe);
+        if (secMatch) {
+            current = secMatch[1];
+            result[current] = { earned: false, earned_time: 0 };
+            continue;
+        }
+        if (current) {
+            const kvMatch = line.match(kvRe);
+            if (kvMatch) {
+                const k = kvMatch[1].trim().toLowerCase();
+                const v = kvMatch[2].trim();
+                if (k === 'achieved') result[current].earned = (v === '1' || v.toLowerCase() === 'true');
+                if (k === 'timestamp') result[current].earned_time = parseInt(v) || 0;
+            }
+        }
+    }
+    return result;
+}
+
+
 
 let userInfo = getGitHubUserInfo();
 let baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
@@ -144,6 +201,30 @@ export async function loadGamesFromAppIds(appIds) {
             if (!achResponse.ok) {
                 achievementsPath = `AppID/${appId}/${appId}.db`;
                 achResponse = await fetch(baseUrl + achievementsPath);
+            }
+
+            // Try GoldBerg/CreamAPI style (lowercase)
+            if (!achResponse.ok) {
+                achievementsPath = `AppID/${appId}/achievements.ini`;
+                achResponse = await fetch(baseUrl + achievementsPath);
+                if (achResponse.ok) {
+                    const text = await achResponse.text();
+                    const parsed = parseIniLowercase(text);
+                    await processGameData(appId, parsed, null);
+                    continue;
+                }
+            }
+
+            // Try CODEX/ALI213 style (uppercase)
+            if (!achResponse.ok) {
+                achievementsPath = `AppID/${appId}/Achievements.ini`;
+                achResponse = await fetch(baseUrl + achievementsPath);
+                if (achResponse.ok) {
+                    const text = await achResponse.text();
+                    const parsed = parseIniUppercase(text);
+                    await processGameData(appId, parsed, null);
+                    continue;
+                }
             }
             
             if (!achResponse.ok) continue;
