@@ -1,3 +1,5 @@
+import { getGitHubUserInfo } from './utils.js';
+
 // Parse GoldBerg/CreamAPI style achievements.ini (lowercase filename)
 // Sections = achievement API names, keys: Achieved, UnlockTime
 function parseIniLowercase(text) {
