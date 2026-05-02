@@ -455,6 +455,7 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
     # ALWAYS fetch from SteamHunters to get Group Data (if possible)
     # Even if we have an API key, the API key doesn't give us Groups/DLCs
     steamhunters_data = {}
+    sh_data = []
     try:
         print("  → Fetching extra data (groups) from SteamHunters...")
         sh_data = asyncio.run(fetch_steamhunters_achievements(appid))
@@ -465,8 +466,25 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 
     try:
         # Primary source: SteamHunters (no API key required)
-        # Steam API key support removed — SteamHunters provides names, icons, and group data
-        achievements = sh_data if sh_data else []
+        # Fallback: Community XML (fetch_community_achievements result)
+        if sh_data:
+            achievements = sh_data
+        elif achievements_from_xml:
+            print(f"  → SteamHunters returned 0, falling back to Community XML ({len(achievements_from_xml)} achievements)")
+            # Convert XML dict format to list format matching SteamHunters output
+            achievements = [
+                {
+                    "name": api_name,
+                    "displayName": info.get("name", api_name),
+                    "description": info.get("description", ""),
+                    "icon": info.get("icon", ""),
+                    "icongray": info.get("icongray", ""),
+                    "hidden": 1 if info.get("hidden", False) else 0,
+                }
+                for api_name, info in achievements_from_xml.items()
+            ]
+        else:
+            achievements = []
         
         # Fix icons for ALL achievements
         try:
@@ -632,24 +650,57 @@ for appid in appids:
         appid, existing_info, achievements_from_xml
     )
     
-    # Skip games with 0 achievements (similar to skip file behavior)
+    # Skip games with 0 achievements from all sources — but still generate game-info.json
     if len(achievements) == 0:
-        print(f"  ! Steam returned 0 achievements, skipping data fetch for {appid}")
-        existing_info = load_json_file(base_path / "game-info.json")
+        print(f"  ! All sources returned 0 achievements for {appid}")
+        existing_info_file = load_json_file(base_path / "game-info.json")
         achievements_data, file_type = load_achievements_file(base_path)
-        
-        if existing_info and achievements_data:
-            existing_info["platform"] = current_platform
-            existing_info["blacklist"] = current_blacklist
-            
+
+        if existing_info_file and achievements_data:
+            # We already have a game-info.json — just update platform/blacklist
+            existing_info_file["platform"] = current_platform
+            existing_info_file["blacklist"] = current_blacklist
+            save_json_file(base_path / "game-info.json", existing_info_file)
             existing_game_data[str(appid)] = {
                 "appid": str(appid),
-                "info": existing_info,
+                "info": existing_info_file,
                 "achievements": achievements_data,
             }
-            print(f"  ✓ Existing data preserved with platform: {current_platform}")
+            print(f"  ✓ Existing game-info.json preserved with platform: {current_platform}")
+        elif achievements_data:
+            # No game-info.json yet — build a minimal one from the ini keys
+            # so the frontend can at least render achievement names
+            print(f"  → Building minimal game-info.json from {file_type} ({len(achievements_data)} entries)")
+            store_info = fetch_steam_store_info(appid)
+            minimal_info = {
+                "appid": appid,
+                "name": store_info.get("name", f"Game {appid}"),
+                "icon": store_info.get("icon", ""),
+                "platform": current_platform,
+                "blacklist": current_blacklist,
+                "uses_db": (base_path / f"{appid}.db").exists(),
+                "uses_ini": True,
+                # Build minimal achievement stubs so the frontend has names to display
+                "achievements": {
+                    api_name: {
+                        "name": api_name,
+                        "description": "",
+                        "icon": FALLBACK_ICON_URL,
+                        "icongray": FALLBACK_ICON_URL,
+                        "hidden": False,
+                    }
+                    for api_name in achievements_data
+                },
+            }
+            save_json_file(base_path / "game-info.json", minimal_info)
+            existing_game_data[str(appid)] = {
+                "appid": str(appid),
+                "info": minimal_info,
+                "achievements": achievements_data,
+            }
+            print(f"  ✓ Wrote minimal game-info.json for {appid}")
         else:
-            print(f"  ✗ Could not load existing info/achievements for game {appid} with 0 achievements")
+            print(f"  ✗ No achievements file found for {appid}, skipping entirely")
         continue
     
     game_info["achievements"].update(achievements)
