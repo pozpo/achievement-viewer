@@ -369,7 +369,88 @@ def load_achievements_file(folder):
     return None, None
 
 
-def scrape_hidden_achievements(appid, steam_id, achievement_names_map):
+def is_codex_numeric_scheme(ini_keys):
+    """
+    Detect if an ini file uses CODEX-style sequential numeric achievement names.
+    CODEX uses ACH1, ACH2, ... ACHn (1-indexed sequential integers).
+    Returns True if ALL keys match the pattern ACH<number>.
+    """
+    import re
+    pattern = re.compile(r'^ACH\d+$', re.IGNORECASE)
+    if not ini_keys:
+        return False
+    return all(pattern.match(k) for k in ini_keys)
+
+
+def remap_codex_achievements(ini_data, xml_achievements_ordered):
+    """
+    Remap CODEX-style ACHn keys to real Steam API names.
+    CODEX numbers achievements 1-indexed in the order they appear in the Steam schema.
+    ACH1 → 1st achievement in xml_achievements_ordered (index 0)
+    ACH41 → 41st achievement (index 40)
+    
+    Returns: dict mapping real_api_name → {earned, earned_time}
+    """
+    xml_keys = list(xml_achievements_ordered.keys())  # ordered list of real names
+    remapped = {}
+
+    for codex_key, status in ini_data.items():
+        # Extract the integer index from ACH<n>
+        try:
+            idx = int(codex_key[3:]) - 1  # ACH41 → index 40
+        except (ValueError, IndexError):
+            continue
+        if 0 <= idx < len(xml_keys):
+            real_name = xml_keys[idx]
+            remapped[real_name] = status
+        else:
+            print(f"  ⚠ CODEX key {codex_key} (index {idx+1}) out of range "
+                  f"(game has {len(xml_keys)} achievements)")
+
+    return remapped
+
+
+def build_full_achievement_user_data(ini_data, xml_achievements_ordered):
+    """
+    Given ini earned data and the full ordered XML achievement list, produce a
+    complete user-data dict covering ALL Steam achievements (earned + unearned).
+    
+    Handles three cases:
+    1. Real API names in ini → direct match
+    2. CODEX ACHn scheme → remap by index
+    3. Mix / unknown → best-effort direct match, warn on unmatched
+    """
+    if not xml_achievements_ordered:
+        # No XML data available — return ini data as-is
+        return ini_data
+
+    ini_keys = list(ini_data.keys())
+
+    # Detect CODEX numeric scheme
+    if is_codex_numeric_scheme(ini_keys):
+        print(f"  → Detected CODEX ACHn scheme ({len(ini_keys)} earned), "
+              f"remapping to {len(xml_achievements_ordered)} real achievement names")
+        earned_mapped = remap_codex_achievements(ini_data, xml_achievements_ordered)
+    else:
+        # Direct name match (real API names like ALI213, GoldBerg, some CODEX variants)
+        earned_mapped = ini_data.copy()
+        unmatched = [k for k in ini_keys if k not in xml_achievements_ordered]
+        if unmatched:
+            print(f"  ⚠ {len(unmatched)} ini keys not found in Steam list: "
+                  f"{unmatched[:5]}{'...' if len(unmatched) > 5 else ''}")
+
+    # Build complete achievement data: ALL steam achievements, earned status from ini
+    full_data = {}
+    for real_name in xml_achievements_ordered:
+        if real_name in earned_mapped:
+            full_data[real_name] = earned_mapped[real_name]
+        else:
+            full_data[real_name] = {"earned": False, "earned_time": 0}
+
+    matched_earned = sum(1 for v in full_data.values() if v["earned"])
+    print(f"  ✓ Built full achievement list: {len(full_data)} total, "
+          f"{matched_earned} earned")
+    return full_data
     try:
         url = (
             f"https://steamcommunity.com/profiles/{steam_id}/stats/{appid}/achievements"
@@ -422,28 +503,40 @@ def fetch_steam_store_info(appid):
 
 
 def fetch_community_achievements(appid):
-    achievements = {}
+    """
+    Fetch all achievements from Steam's community XML endpoint.
+    Uses lxml with recover=True to handle malformed XML (unescaped & and < chars
+    in achievement names/descriptions, which break stdlib's xml.etree.ElementTree).
+    Returns an OrderedDict so position-based CODEX ACHn mapping works correctly.
+    """
+    from collections import OrderedDict
+    from lxml import etree as lxml_etree
+
+    achievements = OrderedDict()
     try:
         response = requests.get(
             f"https://steamcommunity.com/stats/{appid}/achievements/?xml=1", timeout=10
         )
         if response.ok:
-            root = ET.fromstring(response.content)
+            parser = lxml_etree.XMLParser(recover=True)
+            root = lxml_etree.fromstring(response.content, parser=parser)
             for ach in root.findall(".//achievement"):
                 api_name_elem = ach.find("apiname")
                 if api_name_elem is not None and api_name_elem.text:
-                    api_name = api_name_elem.text
+                    api_name = api_name_elem.text.strip()
                     achievements[api_name] = {
-                        "name": get_text(ach.find("name")),
-                        "description": get_text(ach.find("description")),
-                        "icon": get_text(ach.find("iconOpen")),
-                        "icongray": get_text(ach.find("iconClosed")),
+                        "name": (ach.findtext("name") or "").strip(),
+                        "description": (ach.findtext("description") or "").strip(),
+                        "icon": (ach.findtext("iconOpen") or "").strip(),
+                        "icongray": (ach.findtext("iconClosed") or "").strip(),
                         "hidden": False,
                     }
-    except ET.ParseError as e:
-        print(f"  ✗ XML parse error for {appid}: {e}")
+            if achievements:
+                print(f"  ✓ XML parsed successfully: {len(achievements)} achievements")
+        else:
+            print(f"  ✗ XML endpoint returned HTTP {response.status_code}")
     except Exception as e:
-        print(f"Error fetching community achievements for {appid}: {e}")
+        print(f"  ✗ XML fetch/parse error for {appid}: {e}")
     return achievements
 
 
@@ -650,9 +743,10 @@ for appid in appids:
         appid, existing_info, achievements_from_xml
     )
     
-    # Skip games with 0 achievements from all sources — but still generate game-info.json
+    # When all metadata sources (SteamHunters + XML) return 0 achievements,
+    # still generate a useful game-info.json from whatever data we have.
     if len(achievements) == 0:
-        print(f"  ! All sources returned 0 achievements for {appid}")
+        print(f"  ! All metadata sources returned 0 achievements for {appid}")
         existing_info_file = load_json_file(base_path / "game-info.json")
         achievements_data, file_type = load_achievements_file(base_path)
 
@@ -668,8 +762,7 @@ for appid in appids:
             }
             print(f"  ✓ Existing game-info.json preserved with platform: {current_platform}")
         elif achievements_data:
-            # No game-info.json yet — build a minimal one from the ini keys
-            # so the frontend can at least render achievement names
+            # No game-info.json yet — build a minimal one from the ini/json keys
             print(f"  → Building minimal game-info.json from {file_type} ({len(achievements_data)} entries)")
             store_info = fetch_steam_store_info(appid)
             minimal_info = {
@@ -680,7 +773,6 @@ for appid in appids:
                 "blacklist": current_blacklist,
                 "uses_db": (base_path / f"{appid}.db").exists(),
                 "uses_ini": True,
-                # Build minimal achievement stubs so the frontend has names to display
                 "achievements": {
                     api_name: {
                         "name": api_name,
@@ -705,6 +797,23 @@ for appid in appids:
     
     game_info["achievements"].update(achievements)
     print(f"  ✓ Merged {len(achievements)} achievements")
+
+    # For ini-based games: remap earned data to cover ALL steam achievements,
+    # not just the subset recorded in the ini file.
+    # This handles CODEX ACHn indexing and ensures unearned achievements appear too.
+    raw_ini_data, ini_file_type = load_achievements_file(base_path)
+    if raw_ini_data and ini_file_type and ini_file_type.endswith(".ini"):
+        # achievements_from_xml is an OrderedDict with real API names in Steam order
+        if achievements_from_xml:
+            full_user_data = build_full_achievement_user_data(raw_ini_data, achievements_from_xml)
+        else:
+            full_user_data = raw_ini_data
+        # Write the expanded user data back to the ini-named key so game-data.json
+        # stores the complete earned/unearned mapping under real API names.
+        # We store it in a temporary variable; it gets written into existing_game_data below.
+        expanded_achievements_data = full_user_data
+    else:
+        expanded_achievements_data = None
 
     if hidden_achievements:
         print(
@@ -800,10 +909,13 @@ for appid in appids:
         continue
     print(f"  ✓ Loaded achievements from {file_type} format")
 
+    # Use the expanded (full Steam list) user data for ini-based games
+    final_achievements_data = expanded_achievements_data if expanded_achievements_data is not None else achievements_data
+
     existing_game_data[str(appid)] = {
         "appid": str(appid),
         "info": game_info,
-        "achievements": achievements_data,
+        "achievements": final_achievements_data,
     }
 
 # --- Rebuild complete game-data.json --- #
