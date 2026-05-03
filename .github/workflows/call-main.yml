@@ -1,0 +1,29 @@
+name: Trigger Main Workflow
+
+on:
+  push:
+    branches:
+      - user
+    paths:
+      - 'AppID/**/achievements.json'
+      - 'AppID/**/*.db'
+      - 'AppID/**/*.platform'
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  trigger-main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger workflow on main branch
+        env:
+          REPO: ${{ github.repository }}
+        run: |
+          echo "Triggering main workflow on branch main in repo $REPO with trigger_source=push"
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/$REPO/actions/workflows/fetch-game-data.yml/dispatches \
+            -d '{"ref":"main","inputs":{"trigger_source":"push"}}'
