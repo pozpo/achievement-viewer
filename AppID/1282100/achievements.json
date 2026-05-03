@@ -1,0 +1,262 @@
+﻿{
+  "Defeat_Mantis": {
+    "earned": true,
+    "earned_time": 1773228654
+  },
+  "Obtain_Archetype": {
+    "earned": true,
+    "earned_time": 1773228971
+  },
+  "Obtain_Traits_A": {
+    "earned": true,
+    "earned_time": 1773245273
+  },
+  "Craft_Weapon_Mod_A": {
+    "earned": true,
+    "earned_time": 1773710537
+  },
+  "Defeat_World_Boss": {
+    "earned": true,
+    "earned_time": 1773380413
+  },
+  "Defeat_Cube": {
+    "earned": true,
+    "earned_time": 1773384365
+  },
+  "Obtain_Boss_Weapon": {
+    "earned": true,
+    "earned_time": 1773646984
+  },
+  "Upgrade_Traits_A": {
+    "earned": true,
+    "earned_time": 1773556334
+  },
+  "Meet_Flautist": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Archetype_Dual": {
+    "earned": true,
+    "earned_time": 1773637050
+  },
+  "Meet_Custodian": {
+    "earned": true,
+    "earned_time": 1773549506
+  },
+  "Meet_Nimue": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Relic": {
+    "earned": true,
+    "earned_time": 1773637172
+  },
+  "Upgrade_Standard_Weapon_A": {
+    "earned": true,
+    "earned_time": 1773635398
+  },
+  "Defeat_Special_Enemies": {
+    "earned": true,
+    "earned_time": 1773643586
+  },
+  "Obtain_Archetype_Level": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Meet_Meidra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Boss_Weapon_B": {
+    "earned": true,
+    "earned_time": 1773710645
+  },
+  "Obtain_Archetype_Secret": {
+    "earned": true,
+    "earned_time": 1773710911
+  },
+  "Defeat_Nightweaver": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Faelin_Faerin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Boss_Alt_Reward": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Many_Faces": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Guardian": {
+    "earned": true,
+    "earned_time": 1773554727
+  },
+  "Defeat_Corrupted_Ravager": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Nightweaver_Item": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Final_Boss": {
+    "earned": true,
+    "earned_time": 1773707103
+  },
+  "Defeat_Abberations_A": {
+    "earned": true,
+    "earned_time": 1773639371
+  },
+  "Defeat_Tal_Ratha": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Scrap_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Traits_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Blood_Moon_Item": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Discover_Letos_Lab": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Guns_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Meet_Mudtooth": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Melee_Weapons_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Weapon_Mutator": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Boss_Weapon_A": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Standard_Weapon_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Scrap_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Water_Harp_Item": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Discover_Blood_Moon_Room": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Upgrade_Traits_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Abberations_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_Defeat_OneTrueKing": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Craft_Weapon_Mod_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_Obtain_Archetype": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat_Boss_No_Damage": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Relics": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Guns_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Melee_Weapons_B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Complete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Obtain_Traits_C": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Obtain_Archetype": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Complete": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Obtain_Archetype": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_Obtain_Warden_Reward": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_Discover_True_Ending": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Meet_Walt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Obtain_Bastion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Upgrade_Item": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_Obtain_Scribe_Reward": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Obtain_Crossbow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Obtain_SpiritAlternator": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Obtain_Redeemer": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
