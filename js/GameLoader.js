@@ -1,64 +1,5 @@
 import { getGitHubUserInfo } from './utils.js';
 
-// Parse GoldBerg/CreamAPI style achievements.ini (lowercase filename)
-// Sections = achievement API names, keys: Achieved, UnlockTime
-function parseIniLowercase(text) {
-    const result = {};
-    const sectionRe = /^\[([^\]]+)\]/;
-    const kvRe = /^([^=]+)=(.*)$/;
-    let current = null;
-    for (const rawLine of text.split(/\r?\n/)) {
-        const line = rawLine.trim();
-        const secMatch = line.match(sectionRe);
-        if (secMatch) {
-            current = secMatch[1];
-            if (current.toLowerCase() === 'steamachievements') { current = null; continue; }
-            result[current] = { earned: false, earned_time: 0 };
-            continue;
-        }
-        if (current) {
-            const kvMatch = line.match(kvRe);
-            if (kvMatch) {
-                const k = kvMatch[1].trim().toLowerCase();
-                const v = kvMatch[2].trim();
-                if (k === 'achieved') result[current].earned = (v === '1' || v.toLowerCase() === 'true');
-                if (k === 'unlocktime') result[current].earned_time = parseInt(v) || 0;
-            }
-        }
-    }
-    return result;
-}
-
-// Parse CODEX/ALI213 style Achievements.ini (uppercase filename)
-// Sections = achievement API names, keys: achieved, timestamp
-function parseIniUppercase(text) {
-    const result = {};
-    const sectionRe = /^\[([^\]]+)\]/;
-    const kvRe = /^([^=]+)=(.*)$/;
-    let current = null;
-    for (const rawLine of text.split(/\r?\n/)) {
-        const line = rawLine.trim();
-        const secMatch = line.match(sectionRe);
-        if (secMatch) {
-            current = secMatch[1];
-            result[current] = { earned: false, earned_time: 0 };
-            continue;
-        }
-        if (current) {
-            const kvMatch = line.match(kvRe);
-            if (kvMatch) {
-                const k = kvMatch[1].trim().toLowerCase();
-                const v = kvMatch[2].trim();
-                if (k === 'achieved') result[current].earned = (v === '1' || v.toLowerCase() === 'true');
-                if (k === 'timestamp') result[current].earned_time = parseInt(v) || 0;
-            }
-        }
-    }
-    return result;
-}
-
-
-
 let userInfo = getGitHubUserInfo();
 let baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
 export const gamesData = new Map();
@@ -78,9 +19,11 @@ async function loadGameDataWithCache() {
         let data = null;
         let needsFullFetch = true;
 
+        const cacheBust = `?t=${Date.now()}`;
+
         // 1. SMART CHECK: Fetch only the first 200 bytes to check the timestamp
         try {
-            const partialResponse = await fetch(baseUrl + 'game-data.json', {
+            const partialResponse = await fetch(baseUrl + `game-data.json${cacheBust}`, {
                 headers: { 'Range': 'bytes=0-200' },
                 cache: 'no-cache'
             });
@@ -91,7 +34,8 @@ async function loadGameDataWithCache() {
 
                 if (match && match[1]) {
                     const serverTimestamp = match[1];
-                    
+                    console.log(`🕐 Server timestamp: ${serverTimestamp} (${new Date(serverTimestamp * 1000).toLocaleString()})`);
+
                     if (cachedTimestamp && cachedGames && serverTimestamp === cachedTimestamp) {
                         console.log(`✓ Smart check: Timestamp unchanged for ${userInfo.username}, using cache.`);
                         return JSON.parse(cachedGames);
@@ -111,7 +55,7 @@ async function loadGameDataWithCache() {
         // 2. Full Fetch (only if smart check found an update or failed)
         if (needsFullFetch) {
             console.log(`Fetching full game data for ${userInfo.username}...`);
-            const dataResponse = await fetch(baseUrl + 'game-data.json', {
+            const dataResponse = await fetch(baseUrl + `game-data.json${cacheBust}`, {
                 cache: 'no-cache'
             });
             
@@ -148,6 +92,7 @@ async function loadGameDataWithCache() {
                 localStorage.setItem(CACHE_TIMESTAMP_KEY, lastUpdated.toString());
                 localStorage.setItem(CACHE_DATA_KEY, JSON.stringify(games));
                 console.log(`✓ Cache updated successfully for ${userInfo.username}`);
+                console.log(`🕐 Cached timestamp: ${lastUpdated} (${new Date(lastUpdated * 1000).toLocaleString()})`);
             } catch (e) {
                 if (e.name === 'QuotaExceededError' || e.name === 'NS_ERROR_DOM_QUOTA_REACHED') {
                     console.warn('⚠ LocalStorage quota exceeded. Caching disabled for this session.');
@@ -203,30 +148,6 @@ export async function loadGamesFromAppIds(appIds) {
             if (!achResponse.ok) {
                 achievementsPath = `AppID/${appId}/${appId}.db`;
                 achResponse = await fetch(baseUrl + achievementsPath);
-            }
-
-            // Try GoldBerg/CreamAPI style (lowercase)
-            if (!achResponse.ok) {
-                achievementsPath = `AppID/${appId}/achievements.ini`;
-                achResponse = await fetch(baseUrl + achievementsPath);
-                if (achResponse.ok) {
-                    const text = await achResponse.text();
-                    const parsed = parseIniLowercase(text);
-                    await processGameData(appId, parsed, null);
-                    continue;
-                }
-            }
-
-            // Try CODEX/ALI213 style (uppercase)
-            if (!achResponse.ok) {
-                achievementsPath = `AppID/${appId}/Achievements.ini`;
-                achResponse = await fetch(baseUrl + achievementsPath);
-                if (achResponse.ok) {
-                    const text = await achResponse.text();
-                    const parsed = parseIniUppercase(text);
-                    await processGameData(appId, parsed, null);
-                    continue;
-                }
             }
             
             if (!achResponse.ok) continue;
