@@ -1,0 +1,314 @@
+﻿{
+    "LILAC":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "BUTCHER_OF_BLAVIKEN":  {
+                                "earned":  false,
+                                "earned_time":  0
+                            },
+    "FIST_OF_THE_SOUTH_STAR":  {
+                                   "earned":  false,
+                                   "earned_time":  0
+                               },
+    "LETS_COOK":  {
+                      "earned":  false,
+                      "earned_time":  0
+                  },
+    "CANT_TOUCH_THIS":  {
+                            "earned":  false,
+                            "earned_time":  0
+                        },
+    "BOOKWORM":  {
+                     "earned":  false,
+                     "earned_time":  0
+                 },
+    "FAMILY_COUNSELOR":  {
+                             "earned":  false,
+                             "earned_time":  0
+                         },
+    "FRIENDS_WITH_BENEFITS":  {
+                                  "earned":  false,
+                                  "earned_time":  0
+                              },
+    "BOMBARDIER":  {
+                       "earned":  false,
+                       "earned_time":  0
+                   },
+    "TRIPLE_THREAT":  {
+                          "earned":  false,
+                          "earned_time":  0
+                      },
+    "FRIEND_IN_NEED":  {
+                           "earned":  false,
+                           "earned_time":  0
+                       },
+    "SHRIEKER":  {
+                     "earned":  false,
+                     "earned_time":  0
+                 },
+    "NECROMANCER":  {
+                        "earned":  false,
+                        "earned_time":  0
+                    },
+    "ENVIRONMENTALLY_UNFRIENDLY":  {
+                                       "earned":  false,
+                                       "earned_time":  0
+                                   },
+    "MUTANT":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "FIRE_IN_THE_HOLE":  {
+                             "earned":  false,
+                             "earned_time":  0
+                         },
+    "MAKER":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "SOMETHING_MORE":  {
+                           "earned":  false,
+                           "earned_time":  0
+                       },
+    "GLOBETROTTER":  {
+                         "earned":  false,
+                         "earned_time":  0
+                     },
+    "MUNCHKIN":  {
+                     "earned":  false,
+                     "earned_time":  0
+                 },
+    "THE_DOPPLER_EFFECT":  {
+                               "earned":  false,
+                               "earned_time":  0
+                           },
+    "XENONAUT":  {
+                     "earned":  false,
+                     "earned_time":  0
+                 },
+    "FEARLESS_VAMPIRE_SLAYER":  {
+                                    "earned":  false,
+                                    "earned_time":  0
+                                },
+    "PASSED_THE_TRIAL":  {
+                             "earned":  false,
+                             "earned_time":  0
+                         },
+    "THE_KING":  {
+                     "earned":  false,
+                     "earned_time":  0
+                 },
+    "ASHES_TO_ASHES":  {
+                           "earned":  false,
+                           "earned_time":  0
+                       },
+    "FULL_CREW":  {
+                      "earned":  false,
+                      "earned_time":  0
+                  },
+    "EP2_1":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "EP1_1":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "FIEND_OR_FOE":  {
+                         "earned":  false,
+                         "earned_time":  0
+                     },
+    "ARMED_AND_DANGEROUS":  {
+                                "earned":  false,
+                                "earned_time":  0
+                            },
+    "EP1_5":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "GERALT_AND_FRIENDS":  {
+                               "earned":  false,
+                               "earned_time":  0
+                           },
+    "ALL_IN":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "BRAWLER":  {
+                    "earned":  false,
+                    "earned_time":  0
+                },
+    "ASSASSIN":  {
+                     "earned":  false,
+                     "earned_time":  0
+                 },
+    "EP2_11":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "BRAWL_MASTER":  {
+                         "earned":  false,
+                         "earned_time":  0
+                     },
+    "EP2_6":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "EP1_12":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "EP2_2":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "WOODLAND_SPIRIT":  {
+                            "earned":  false,
+                            "earned_time":  0
+                        },
+    "EP2_5":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "EP2_4":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "GWENT_MASTER":  {
+                         "earned":  false,
+                         "earned_time":  0
+                     },
+    "EP1_4":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "THE_PROFESSIONAL":  {
+                             "earned":  false,
+                             "earned_time":  0
+                         },
+    "FAST_AND_FURIOUS":  {
+                             "earned":  false,
+                             "earned_time":  0
+                         },
+    "EP2_9":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "EP2_10":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "EP1_3":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "EVEN_ODDS":  {
+                      "earned":  false,
+                      "earned_time":  0
+                  },
+    "EP1_2":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "PEST_CONTROL":  {
+                         "earned":  false,
+                         "earned_time":  0
+                     },
+    "EP2_7":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "DENDROLOGIST":  {
+                         "earned":  false,
+                         "earned_time":  0
+                     },
+    "EP2_8":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "EP1_9":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "RAN_THE_GAUNTLET":  {
+                             "earned":  false,
+                             "earned_time":  0
+                         },
+    "EP1_13":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "POWER_OVERWHELMING":  {
+                               "earned":  false,
+                               "earned_time":  0
+                           },
+    "CARD_COLLECTOR":  {
+                           "earned":  false,
+                           "earned_time":  0
+                       },
+    "KAER_MORHEN_TRAINED":  {
+                                "earned":  false,
+                                "earned_time":  0
+                            },
+    "EP1_8":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "WALKED_THE_PATH":  {
+                            "earned":  false,
+                            "earned_time":  0
+                        },
+    "EP1_7":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "EP2_13":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "THE_EVILEST_THING":  {
+                              "earned":  false,
+                              "earned_time":  0
+                          },
+    "EP2_3":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "WHAT_WAS_THAT":  {
+                          "earned":  false,
+                          "earned_time":  0
+                      },
+    "OVERKILL":  {
+                     "earned":  false,
+                     "earned_time":  0
+                 },
+    "EP1_11":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "EP1_10":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "EP1_6":  {
+                  "earned":  false,
+                  "earned_time":  0
+              },
+    "ENEMY_OF_MY_ENEMY":  {
+                              "earned":  false,
+                              "earned_time":  0
+                          },
+    "EP2_12":  {
+                   "earned":  false,
+                   "earned_time":  0
+               },
+    "HUMPTY_DUMPTY":  {
+                          "earned":  false,
+                          "earned_time":  0
+                      },
+    "MASTER_MARKSMAN":  {
+                            "earned":  false,
+                            "earned_time":  0
+                        }
+}
