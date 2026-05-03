@@ -1,0 +1,388 @@
+{
+  "appid": "3008130",
+  "name": "Dying Light: The Beast",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/12cc1d5f3bc9e43345f388abe36f0737e999f966/header.jpg?t=1777373421",
+  "achievements": {
+    "ACH_1": {
+      "name": "Free at Last",
+      "description": "Escape from the Baron's bunker",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/af80c86bc70f06a5ba4c32563ca56f1799f3d7c6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/0970613c9b76c98ac19c65f2c24328121b94fb0e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "97.4"
+    },
+    "ACH_2": {
+      "name": "New Friends",
+      "description": "Save the survivors at town hall",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/89b163bdbf935604b28fdc8e491b8646d3da1fc3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/11fad14e69b26bfcfaecf55eb687999b9c66f163.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "88.5"
+    },
+    "ACH_3": {
+      "name": "Largo Embargo",
+      "description": "Discover the Baron's sabotage",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/fffe2dedb4f3ed13a60e6e6db0283f6e242eac17.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5fc1531f32e15a777c847fe12f6c170f511eedec.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "73.4"
+    },
+    "ACH_4": {
+      "name": "Less Obedient",
+      "description": "Get a mountain dropped onto your head",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/e9096374ac0cf3c6de06a7d3df4b0e269a565d4e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5b0f7db3400353d869cbc7044d536a503b09ed15.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.0"
+    },
+    "ACH_5": {
+      "name": "Enhanced Telepathy",
+      "description": "Survive the test field experiment",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/82b623051d01ee470d88290e039b0db8f523ea2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/35f66f4e8e8907035553c5772a1192bf5f4054b5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "42.8"
+    },
+    "ACH_6": {
+      "name": "There You Are!",
+      "description": "Capture \"The Beast\"",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/f199f16522a81f278c6054a5bc9b6d26ad88dd2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5f01089f5c826120e6855910d3806faa276df64a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "41.7"
+    },
+    "ACH_7": {
+      "name": "Glimpse into the Future",
+      "description": "Complete the main story",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/52806c28901b82a4e8277aba8cc5d773cb32aefd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/9ef5c1036f7d70848617ec746a75b0d425ea2102.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.5"
+    },
+    "ACH_8": {
+      "name": "Good Samaritan",
+      "description": "Complete all side quests",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/272bfbaac357939224ed57431a968fdcf38331fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/14296648b0ab4dba5abb140e6c106643956ce073.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.2"
+    },
+    "ACH_9": {
+      "name": "Ultimate Survivor",
+      "description": "Fully regain your survival skills",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/3e863078501e9c87cd7c651aa5f816591b4a2176.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/ccd0ab54ac477eddd779ed6b5b401400f2faeb7b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.0"
+    },
+    "ACH_10": {
+      "name": "Ultimate Beast",
+      "description": "Fully unlock your inner beast",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/72242ff9ce6abdceff59d994845cc2dde925e563.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5117f4efa18c2ade50db2ed118249e98ad2926d3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.9"
+    },
+    "ACH_11": {
+      "name": "We're Safe Here!",
+      "description": "Activate all safe zones",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5d24c17f6341fcc0aa4d2727d75f6ab896a81903.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/2a1d3ef4ca580f057b7ce5c357f1d7e9ab8f2e61.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.7"
+    },
+    "ACH_12": {
+      "name": "And Then There Was Light",
+      "description": "Activate all transformer stations",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/4e5c2bd3b7351a65738f3a7eb761b389b9a30b37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/49bac0a6a9fe285bd885f0512fba9d8791d0e6b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.2"
+    },
+    "ACH_13": {
+      "name": "Experiment on the Loose",
+      "description": "Defeat your first chimera",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/dbfaca88ceff358eb6cff4bd54df0006216b5e28.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/892f03e782419041276b5e3fa55ac0e1126d253c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "95.3"
+    },
+    "ACH_14": {
+      "name": "I Still Don't Approve of Mindless Fun",
+      "description": "Kill 500 zombies with your vehicle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/6c34679dffd570f5325f93b9cdf52bf4fa5b7eff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/889a4767e275569f8e8efd9ebf57f7a34fa4c665.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.5"
+    },
+    "ACH_15": {
+      "name": "Gunslinger",
+      "description": "Do 6 headshots with a revolver within 20 seconds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/ccae37dea1f588384d307d7fd8e2511ef1beba1b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/6fdaf6e3402e1d12080e53d66e7e06cd2f10a704.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.7"
+    },
+    "ACH_16": {
+      "name": "Craftsman",
+      "description": "Upgrade all blueprints to their maximum",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/4f7624a70497b37f5514e3074206069b33afa1f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/2cbb474afb96772f89de80200b2d8a8f29841a9e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ACH_17": {
+      "name": "Kylin McCrane",
+      "description": "Win gold in all Travis's races",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/f94eec381336451bd3bd7a979dc6f5145d010db3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/44dbb57dbe5443661ec017be839d2ff290f6fa2c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ACH_18": {
+      "name": "Apex Predator",
+      "description": "Kill a Volatile",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/6e5ff18479b9c85bbc77aecb0ad4771691b1ab62.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/0a2dbaa2f5de3ef66115997856224e487cca8b61.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.5"
+    },
+    "ACH_19": {
+      "name": "Blacksmith",
+      "description": "Repair your weapons 50 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/95c353ed684dff8d022b6494416917d113ebec55.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/fa2dacbbb5ce8a64c1e20d0bc1660f1262a4c91f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.5"
+    },
+    "ACH_20": {
+      "name": "Firefighter",
+      "description": "Kill 112 enemies with the flamethrower",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/fe812862933ef0853913a0e9e0a2b6d584e1d7ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5d31e6b80dc59ee4b5c64a3392620b081727de6d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ACH_21": {
+      "name": "Hexakosioihexekontahexa ",
+      "description": "Kill 666 enemies using your beast-like powers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/a54636ec1e0455c6a38e3543dc5d009c7038a633.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/32bfef1f86dae25e739e26bea1d9aa2e219ff169.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACH_22": {
+      "name": "Iconic",
+      "description": "Kill an enemy using a Dropkick",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/2f8ea235ca8387d53815de85974df531bf4a1406.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/27b5deb0c6c4ff718568547d23183054e892b1ca.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.0"
+    },
+    "ACH_23": {
+      "name": "Sunday Morning Run",
+      "description": "Run at least 10,000 meters",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/263894edf753dcdeed68a9fa88f8ac2d0a76f120.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/c6716c6505a514e0b1b7dd68fa1e042c9c121186.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "84.9"
+    },
+    "ACH_24": {
+      "name": "Cabinet of Curiosities",
+      "description": "Find all collectibles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/ba8cca142f68c0bafe7b7ce7feffa7320163d6e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/3737077059ae87a38d955209d2fe0d1d7c224e01.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.3"
+    },
+    "ACH_25": {
+      "name": "Know What 'Castor' Means?",
+      "description": "Find all Castor Woods Beavers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/4ddc6d5b75be10c6836a6f38af0e83e28f01f22d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/3b1254af50af9b1cc9946da13a4263e3c460a47b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "ACH_26": {
+      "name": "And Don't Forget to Wash Your Hands",
+      "description": "Find all of the \"Hidden Truths with Spark\" podcast recordings",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/470224b52f880af43ff8bda6d1c002afa186c88f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/9115360f5dc0871d330583b86ddd4bc1012e3709.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.7"
+    },
+    "ACH_27": {
+      "name": "Craftsman's Apprentice",
+      "description": "Install your first weapon mod",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/7895088690a80975f9240d3cc6f44fb322e312a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/1ce39ccee9dbed9cf2f34533f2b85b54a8a01832.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.3"
+    },
+    "ACH_28": {
+      "name": "Crane on a Monument",
+      "description": "The world looks different from up here, ain't it?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/ba26630635f8d355aad3cf751e419deb15562077.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/31cc53d398d0da5916eaff75a2443bc0d21aee75.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "ACH_29": {
+      "name": "What Happened at the Asylum",
+      "description": "Find all secrets about the St. Valentine Asylum",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/9353539ca35335fa5042cf39089fcabca03aa757.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/92dbf5760c75eb07b14d16e4f9f0cd86daf3dd9c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ACH_30": {
+      "name": "Family Picture",
+      "description": "Find all Fischer family newspaper clippings",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5d590293ec0ad3ec8934094e24c506ec3efa769f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/df3c9b3e689b0edae8ffdf19e873aa2360d63c57.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACH_31": {
+      "name": "Second Ascent",
+      "description": "Finish the game in NewGame+ mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/36d6fe38e80d49d203d59235a254e14f9da0b72d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/c61c838ad690c81a5842ea249139745f3c5f4626.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACH_32": {
+      "name": "The Legend Dawns",
+      "description": "Spend your first Legend Point",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/0c7cc519febce4ab116fcbd86c120defebff60b3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/40c9ce209e8e636e8f6f061166423717ce3b6c8f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "ACH_33": {
+      "name": "Beast's Dowry",
+      "description": "Get an Iconic Weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/bd80214b16a3d30bd9d9053713055ccd4fb34d8a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/b35b0c322f5320380264d761c19e9a7438ffa587.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.9"
+    },
+    "ACH_34": {
+      "name": "I am The Alpha now",
+      "description": "Kill The Alpha Volatile",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/c490cddecb6b466c09ed2ef05e85aecebddbc2d2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/4c399110fec7dbad36bdf89c9ba4234d4c0efbe7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.9"
+    },
+    "ACH_35": {
+      "name": "The Nightmare is over",
+      "description": "Complete the story on Nightmare difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/f473ed90349762f0bd75f33296e0333e0af0f190.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/b0a78ee8e8aed5751618d21c92a0a171a9625867.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACH_36": {
+      "name": "Pushing Through",
+      "description": "Complete the quest \"Vengeance is Mine\" in Restored Land Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/c2a8a9d09d5fbfbce71cad9a7b45038c758192ed.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/e979de96d510c24a562e2b23683e8cb6ce270777.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACH_37": {
+      "name": "True Survivor",
+      "description": "Complete the story in Restored Land Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/5230a1de787b87f62ccf5e5952721da46f265003.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/b1556dd858dd1a9c033ba64669da7485b45fc984.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.8"
+    },
+    "ACH_38": {
+      "name": "Unbeatable",
+      "description": "Complete the story in Restored Land Mode with the One Life option turned on",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/d5437de28a586941452815dab9b5daafc56f6022.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/58d59018ff17b0ba49482f145c624c0008e841ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "ACH_39": {
+      "name": "Hoarder",
+      "description": "Complete all Dark Zones and Convoys in Restored Land Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/98fa212bfca49dafb14c2dff40fe6f96f4d8c2b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/fdddbe2fbef3793cf22575b7a4ffb1592f1ee72a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "ACH_40": {
+      "name": "Better Be Safe",
+      "description": "Complete all Safe Zones and Safe Spots in Restored Land Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/b06583600e15bd4ef87d7ffa64dfcf02516bb7c0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/4db1427c4b23fdb91df54f648fda195adbe2c62d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACH_41": {
+      "name": "The Fearless Samaritan",
+      "description": "Complete all Side Quests in Restored Land Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/48c8b7d0faa4434a9bbf0d09297854fd93f7203b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/3e43c4511de6549069e641c27d354ceb2426963a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    },
+    "ACH_42": {
+      "name": "Peace Bringer",
+      "description": "Reclaim all the regions of Castor Woods in Restored Land Mode",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/60a24b7e8bfb71bf6816c1935277c294ffae8e1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3008130/48c6df4a348e4c1aebbce117adaf9dfec624470f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
