@@ -1,0 +1,170 @@
+﻿{
+  "ACH_1": {
+         "earned": false,
+         "earned_time": 0
+       },
+  "ACH_13": {
+          "earned": true,
+          "earned_time": 1772152494
+        },
+  "ACH_2": {
+         "earned": true,
+         "earned_time": 1772165205
+       },
+  "ACH_23": {
+          "earned": true,
+          "earned_time": 1772221536
+        },
+  "ACH_27": {
+          "earned": true,
+          "earned_time": 1772593611
+        },
+  "ACH_18": {
+          "earned": true,
+          "earned_time": 1773118856
+        },
+  "ACH_3": {
+         "earned": true,
+         "earned_time": 1773120264
+       },
+  "ACH_22": {
+          "earned": true,
+          "earned_time": 1773124395
+        },
+  "ACH_4": {
+         "earned": false,
+         "earned_time": 0
+       },
+  "ACH_10": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_5": {
+         "earned": true,
+         "earned_time": 1773115880
+       },
+  "ACH_6": {
+         "earned": false,
+         "earned_time": 0
+       },
+  "ACH_7": {
+         "earned": false,
+         "earned_time": 0
+       },
+  "ACH_9": {
+         "earned": true,
+         "earned_time": 1772153133
+       },
+  "ACH_12": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_11": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_28": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_14": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_33": {
+          "earned": true,
+          "earned_time": 1772167800
+        },
+  "ACH_32": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_8": {
+         "earned": false,
+         "earned_time": 0
+       },
+  "ACH_19": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_15": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_20": {
+          "earned": true,
+          "earned_time": 1772169077
+        },
+  "ACH_17": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_21": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_34": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_29": {
+          "earned": true,
+          "earned_time": 1772985341
+        },
+  "ACH_16": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_25": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_26": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_30": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_24": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_31": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_40": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_35": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_36": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_37": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_42": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_41": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_38": {
+          "earned": false,
+          "earned_time": 0
+        },
+  "ACH_39": {
+          "earned": false,
+          "earned_time": 0
+        }
+}
