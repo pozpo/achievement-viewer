@@ -34,7 +34,7 @@ print(f"Using fallback icon URL: {FALLBACK_ICON_URL}")
 if STEAM_API_KEY:
     print("Steam API key found — will use ISteamUserStats/GetSchemaForGame")
 else:
-    print("No Steam API key — falling back to SteamHunters / community XML")
+    print("No Steam API key — falling back to SteamDB / SteamHunters / community XML")
 
 appid_dir       = Path("AppID")
 game_data_path  = Path("game-data.json")
@@ -333,6 +333,166 @@ def fetch_global_percentages_order(appid):
         print(f"  ✗ Global percentages error: {e}")
     return result
 
+# ─── SteamDB scraper (Playwright, Python port of Achievements app logic) ──────
+async def fetch_steamdb(appid):
+    """
+    Scrape achievement metadata from steamdb.info/app/{appid}/stats/.
+    Mirrors the scrapeSteamDB() logic from the Achievements desktop app.
+    Returns OrderedDict of api_name → {name, description, icon, icongray, hidden, group}.
+    """
+    url = f"https://steamdb.info/app/{appid}/stats/"
+    print(f"    → Fetching from SteamDB…")
+    result = OrderedDict()
+
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"])
+        ctx = await browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/121.0.0.0 Safari/537.36"),
+            viewport={"width": 1400, "height": 1000})
+
+        # Block media/font to speed up loading
+        async def block_resources(route):
+            if re.search(r'\.(mp4|webm|gif|woff2?|ttf|otf)$', route.request.url, re.I):
+                await route.abort()
+            else:
+                await route.continue_()
+        await ctx.route("**/*", block_resources)
+
+        page = await ctx.new_page()
+        page.set_default_timeout(20000)
+
+        try:
+            await page.goto(url, wait_until="domcontentloaded")
+
+            # Wait for achievement rows to appear
+            try:
+                await page.wait_for_selector('[id^="achievement-"]', timeout=15000)
+            except Exception:
+                print(f"    ✗ SteamDB: no achievements found for {appid} (timeout or no data)")
+                return result
+
+            # Scroll through all items to trigger lazy-load images (mirrors the app's hover loop)
+            items = await page.query_selector_all('[id^="achievement-"]')
+            if not items:
+                print(f"    ✗ SteamDB: no achievement elements for {appid}")
+                return result
+
+            for item in items:
+                try:
+                    await item.scroll_into_view_if_needed()
+                    await item.hover()
+                    await asyncio.sleep(0.012)
+                except Exception:
+                    pass
+
+            # Parse from page HTML (mirrors extractSteamDbFromHtml)
+            html = await page.content()
+            from bs4 import BeautifulSoup as _BS
+            soup = _BS(html, "lxml")
+
+            def safe_text(el):
+                return el.get_text(strip=True) if el else ""
+
+            def to_abs(raw_url):
+                if not raw_url:
+                    return ""
+                if raw_url.startswith("http"):
+                    return raw_url
+                if raw_url.startswith("//"):
+                    return "https:" + raw_url
+                return raw_url
+
+            def fix_icon(raw_url, appid_str):
+                raw_url = to_abs(raw_url)
+                if not raw_url:
+                    return FALLBACK_ICON_URL
+                return raw_url
+
+            seen = set()
+            for el in soup.find_all(id=re.compile(r'^achievement-')):
+                el_id = el.get("id", "")
+                if not el_id.startswith("achievement-"):
+                    continue
+
+                # API name: div.achievement_api inside div.achievement_right
+                api_el = el.select_one(
+                    "div.achievement_inner > div > div.achievement_right > div.achievement_api")
+                api_name = safe_text(api_el) or el_id.replace("achievement-", "")
+                if not api_name or api_name in seen:
+                    continue
+                seen.add(api_name)
+
+                # Display name
+                name_el = el.select_one(
+                    "div.achievement_inner > div > div:nth-child(1) > div.achievement_name")
+                display_name = safe_text(name_el) or api_name
+
+                # Description (may contain "Hidden achievement: ..." prefix)
+                desc_el = el.select_one(
+                    "div.achievement_inner > div > div:nth-child(1) > div.achievement_desc")
+                raw_desc = safe_text(desc_el)
+
+                # Detect and strip hidden prefix (mirrors normalizeHidden)
+                hidden = False
+                description = raw_desc
+                if re.match(r'^\s*Hidden achievement', raw_desc, re.IGNORECASE):
+                    hidden = True
+                    description = re.sub(
+                        r'^\s*Hidden achievement[:\.]?\s*', '', raw_desc, flags=re.IGNORECASE).strip()
+                    if re.match(r'^This achievement is hidden\.$', description, re.IGNORECASE):
+                        description = ""
+
+                # Icon (unlocked) — div.achievement_inner > img
+                icon_el = el.select_one("div.achievement_inner > img")
+                icon_url = ""
+                if icon_el:
+                    icon_url = (icon_el.get("src") or icon_el.get("data-src") or
+                                icon_el.get("data-original") or "")
+                if not icon_url:
+                    pic_img = el.select_one(".achievement_inner picture img")
+                    if pic_img:
+                        icon_url = (pic_img.get("src") or pic_img.get("data-src") or "")
+                icon_url = fix_icon(icon_url, appid)
+
+                # Gray icon (locked) — div.achievement_checkmark > img
+                gray_el = el.select_one("div.achievement_checkmark > img")
+                gray_url = ""
+                if gray_el:
+                    gray_url = (gray_el.get("src") or gray_el.get("data-src") or
+                                gray_el.get("data-original") or "")
+                    if not gray_url:
+                        data_name = gray_el.get("data-name")
+                        if data_name:
+                            gray_url = (f"https://cdn.fastly.steamstatic.com/"
+                                        f"steamcommunity/public/images/apps/{appid}/{data_name}")
+                gray_url = fix_icon(gray_url, appid) or icon_url
+
+                result[api_name] = {
+                    "name":        display_name,
+                    "description": description,
+                    "icon":        icon_url or FALLBACK_ICON_URL,
+                    "icongray":    gray_url or FALLBACK_ICON_URL,
+                    "hidden":      hidden,
+                    "group":       "Base Game",
+                }
+
+            if result:
+                print(f"    ✓ SteamDB: {len(result)} achievements for {appid}")
+            else:
+                print(f"    ✗ SteamDB: parsed HTML but found 0 achievements for {appid}")
+
+        except Exception as e:
+            print(f"    ✗ SteamDB error for {appid}: {e}")
+        finally:
+            await browser.close()
+
+    return result
+
 async def fetch_steamhunters(appid):
     """Fetch achievement metadata from SteamHunters (includes group/DLC info)."""
     url = f"https://steamhunters.com/apps/{appid}/achievements?group=&sort=name"
@@ -408,8 +568,9 @@ def fetch_achievements_metadata(appid, existing_info):
     """
     Fetch achievement metadata from the best available source:
       1. Steam API key (most reliable, requires STEAM_API_KEY secret)
-      2. SteamHunters (no key, but sometimes blocked)
-      3. Community XML (no key, fallback)
+      2. SteamDB (Playwright scrape — no key needed, same approach as Achievements app)
+      3. SteamHunters (Playwright scrape — no key, includes DLC grouping)
+      4. Community XML (plain HTTP, no key, fallback)
     Returns: (OrderedDict of metadata, list of hidden api names needing descriptions)
     """
     # ── Source 1: Steam API key ────────────────────────────────────────────────
@@ -433,7 +594,23 @@ def fetch_achievements_metadata(appid, existing_info):
             hidden = [k for k, v in schema.items() if v["hidden"] and not v["description"]]
             return schema, hidden
 
-    # ── Source 2: SteamHunters ────────────────────────────────────────────────
+    # ── Source 2: SteamDB ─────────────────────────────────────────────────────
+    try:
+        steamdb_data = asyncio.run(fetch_steamdb(appid))
+    except Exception as e:
+        print(f"  ✗ SteamDB exception: {e}")
+        steamdb_data = OrderedDict()
+
+    if steamdb_data:
+        for api, info in steamdb_data.items():
+            if not info["description"]:
+                info["description"] = (
+                    existing_info.get("achievements", {})
+                    .get(api, {}).get("description", ""))
+        hidden = [k for k, v in steamdb_data.items() if v["hidden"] and not v["description"]]
+        return steamdb_data, hidden
+
+    # ── Source 3: SteamHunters ────────────────────────────────────────────────
     try:
         sh_data = asyncio.run(fetch_steamhunters(appid))
     except Exception as e:
@@ -462,7 +639,7 @@ def fetch_achievements_metadata(appid, existing_info):
         print(f"  ✓ SteamHunters: {len(result)} achievements")
         return result, hidden
 
-    # ── Source 3: Community XML ───────────────────────────────────────────────
+    # ── Source 4: Community XML ───────────────────────────────────────────────
     xml_data = fetch_community_xml(appid)
     if xml_data:
         for api, info in xml_data.items():
