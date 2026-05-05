@@ -26,7 +26,7 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch full history for better diff detection
+          fetch-depth: 0
           ref: main
 
       - name: Copy Python scripts
@@ -37,7 +37,7 @@ jobs:
       - name: Checkout user branch
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch full history for better diff detection
+          fetch-depth: 0
           ref: user
 
       - name: Set up Python
@@ -48,7 +48,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4 lxml playwright
-          playwright install
+          playwright install chromium
 
       - name: Update TOP_OWNER_IDS
         run: python /tmp/scripts/update_top_owners.py
@@ -59,7 +59,6 @@ jobs:
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           GITHUB_SHA: ${{ github.sha }}
           GITHUB_BEFORE: ${{ github.event.before }}
-          # Use the trigger_source input, defaulting based on event type
           TRIGGER_SOURCE: ${{ inputs.trigger_source }}
         run: python /tmp/scripts/fetch_game_data.py
 
@@ -70,24 +69,25 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git fetch origin user
-
-          # Merge remote changes into local
-          # Use 'ours' strategy only for files that do NOT conflict
-          git merge origin/user -X ours --no-edit || true
-
-          # For safety, if any conflicts remain, reset those files to remote version
-          git diff --name-only --diff-filter=U | while read file; do
-            git checkout --theirs -- "$file"
-          done
-
+          # Stage everything the Python scripts produced BEFORE fetching/merging.
+          # Without this, 'git merge' aborts because it would overwrite unstaged
+          # modifications to game-data.json / top_owners.json and untracked new
+          # game-info.json files — causing the subsequent push to be rejected.
           git add game-data.json top_owners.json
           git add AppID/
 
+          # Nothing changed? Exit early so we don't create an empty commit.
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit to user branch"
-          else
-            git commit -m "Update game data [skip ci]"
+            exit 0
           fi
+
+          git commit -m "Update game data [skip ci]"
+
+          # Fetch the latest remote user branch and rebase our commit on top of it.
+          # --rebase avoids a merge commit and handles the non-fast-forward case cleanly.
+          # -X ours keeps our version of any file that both sides touched.
+          git fetch origin user
+          git rebase origin/user -X ours
 
           git push origin user
