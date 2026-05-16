@@ -1,0 +1,505 @@
+{
+  "appid": "3892270",
+  "name": "Gamble With Your Friends",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1778274309",
+  "achievements": {
+    "ACH_ENDING_COINFLIP_WON": {
+      "name": "Let It Ride!",
+      "description": "Like a true gambler, you risked it all and became filthy rich (again).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.1"
+    },
+    "ACH_ENDING_COINFLIP_LOST": {
+      "name": "End of the Line",
+      "description": "You won't learn, won't you?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "7.9"
+    },
+    "ACH_ENDING_DEBT_PAID": {
+      "name": "...And They Lived Happily After",
+      "description": "Quit gambling and start a new life, congrats!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "ACH_CHA_F1_BIGSPENDER": {
+      "name": "Big Spender",
+      "description": "Spend a lot of money on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.4"
+    },
+    "ACH_CHA_F1_BLACKJACK": {
+      "name": "No Bust Run",
+      "description": "Win 4 games in a row on Blackjack on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.4"
+    },
+    "ACH_CHA_F1_CRAPS": {
+      "name": "Lucky 7",
+      "description": "Get 7 on your first roll on Street Craps on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.2"
+    },
+    "ACH_CHA_F1_HIGHROLLER": {
+      "name": "High Roller",
+      "description": "Place a very big bet on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.6"
+    },
+    "ACH_CHA_F1_LUCKYSTREAK": {
+      "name": "Lucky Streak",
+      "description": "Win 3 games in a row on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.2"
+    },
+    "ACH_CHA_F1_ROULETTE": {
+      "name": "All on Red",
+      "description": "Bet a lot of money on Roulette on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.8"
+    },
+    "ACH_CHA_F1_SLOTS": {
+      "name": "Jackpot Hunter",
+      "description": "Win with 10X on Slot Machine on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.7"
+    },
+    "ACH_CHA_F1_BLACKJACK2": {
+      "name": "Risky Move",
+      "description": "Win on Blackjack with a hand value less than 10 on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.1"
+    },
+    "ACH_CHA_F1_DUCKRACE": {
+      "name": "YARLL!!!",
+      "description": "Bet on YARL and win on Duck Race on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.3"
+    },
+    "ACH_CHA_F1_WHEELOFFORTUNE": {
+      "name": "Spin The Wheel",
+      "description": "Win 3 games by betting a lot of money on Wheel of Fortune on Floor 1.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.0"
+    },
+    "ACH_CHA_F2_BIGSPENDER2": {
+      "name": "Big Spender 2",
+      "description": "Spend a lot of money on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.7"
+    },
+    "ACH_CHA_F2_CRASH": {
+      "name": "Greed Test",
+      "description": "Win at least 10X on Crash on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "ACH_CHA_F2_CROSSYROAD": {
+      "name": "Winner Winner Penguin Dinner",
+      "description": "Win at least \"3X\" 2 times in a row on Penguin Cross on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ACH_CHA_F2_DICE": {
+      "name": "Roll the Odds",
+      "description": "Profit a lot of money on HiLo on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_CHA_F2_HIGHROLLER2": {
+      "name": "High Roller 2",
+      "description": "Place a very big bet on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "ACH_CHA_F2_KENO": {
+      "name": "Spot On",
+      "description": "Bet a lot of money on Keno on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.8"
+    },
+    "ACH_CHA_F2_LUCKYSTREAK2": {
+      "name": "Lucky Streak 2 ",
+      "description": "Win 4 games in a row on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.0"
+    },
+    "ACH_CHA_F2_MONEYWHEEL": {
+      "name": "Spin Streak",
+      "description": "Win 3 games in a row with a lot of money on Money Wheel on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACH_CHA_F2_PLINKO": {
+      "name": "Clean Fall",
+      "description": "Win 24X on Plinko on Floor 2.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.1"
+    },
+    "ACH_CHA_F3_POKER": {
+      "name": "Poker Face",
+      "description": "Don't lock cards and win with a hand equal to or better than Two of a Kind on 1P Poker on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACH_CHA_F3_BIGSPENDER3": {
+      "name": "Big Spender 3",
+      "description": "Bet a lot of money across all games on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.8"
+    },
+    "ACH_CHA_F3_CRAPS": {
+      "name": "Natural Roller",
+      "description": "Win on Street Craps during the point phase on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.2"
+    },
+    "ACH_CHA_F3_CROSSYROAD": {
+      "name": "Traffic Monster",
+      "description": "Win at least 4X on Penguin Cross on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ACH_CHA_F3_DICE": {
+      "name": "No Safe Rolls",
+      "description": "Win 10x on HiLo on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACH_CHA_F3_DRAGONTOWER": {
+      "name": "Step Into Fire",
+      "description": "Lose 4 times in a row on Dragon Tower on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "ACH_CHA_F3_HIGHROLLER3": {
+      "name": "High Roller 3",
+      "description": "Place a very big bet on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.0"
+    },
+    "ACH_CHA_F3_LUCKYSTREAK3": {
+      "name": "Lucky Streak 3",
+      "description": "Win 5 games in a row on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.4"
+    },
+    "ACH_CHA_F3_MINESWEEPER": {
+      "name": "Perfect Sweep",
+      "description": "Win at least 20X on Mine Sweeper on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACH_CHA_F3_WHEELOFFORTUNE": {
+      "name": "Keep It Spinning",
+      "description": "Spend a lot of money on Wheel of Fortune on Floor 3.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.8"
+    },
+    "ACH_CHA_F4_BIGSPENDER4": {
+      "name": "Big Spender 4",
+      "description": "Bet a lot of money across all games on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ACH_CHA_F4_BLACKJACK": {
+      "name": "House Breaker",
+      "description": "Win a lot of money on Blackjack on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_CHA_F4_CRASH": {
+      "name": "Safe Exit",
+      "description": "Win 4 times in a row on Crash on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACH_CHA_F4_CROSSYROAD": {
+      "name": "No Hesitation",
+      "description": "Spend a lot of money on Penguin Cross on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACH_CHA_F4_DRAGONTOWER": {
+      "name": "Flameproof",
+      "description": "Win at least \"3x\" 3 times in a row on Dragon Tower on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "ACH_CHA_F4_DUCKRACE": {
+      "name": "Unstoppable Quack",
+      "description": "Win 2 games in a row on Duck Race on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.4"
+    },
+    "ACH_CHA_F4_HIGHROLLER4": {
+      "name": "High Roller 4",
+      "description": "Place a very big bet on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.8"
+    },
+    "ACH_CHA_F4_KENO": {
+      "name": "Marked to Win",
+      "description": "Profit a lot of money on Keno on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACH_CHA_F4_LUCKYSTREAK4": {
+      "name": "Lucky Streak 4 ",
+      "description": "Win 5 games in a row on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.5"
+    },
+    "ACH_CHA_F4_MINESWEEPER": {
+      "name": "No Detonations",
+      "description": "Win \"5X\" 3 times in a row on Mine Sweeper on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.1"
+    },
+    "ACH_CHA_F4_MONEYWHEEL": {
+      "name": "High Risk Wedge",
+      "description": "Lose 5 games in a row on Money Wheel on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.2"
+    },
+    "ACH_CHA_F4_PLINKO": {
+      "name": "Straight Down",
+      "description": "Lose 7 games in a row on Plinko on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.8"
+    },
+    "ACH_CHA_F4_ROULETTE": {
+      "name": "Ball in Motion",
+      "description": "Spend a lot of money on Roulette on Floor 4.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.0"
+    },
+    "ACH_MONEY_10M": {
+      "name": "HARDER",
+      "description": "Collect $10M.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.3"
+    },
+    "ACH_MONEY_100M": {
+      "name": "BETTER",
+      "description": "Collect $100M.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.0"
+    },
+    "ACH_MONEY_1B": {
+      "name": "FASTER",
+      "description": "Collect $1B.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.2"
+    },
+    "ACH_MONEY_10B": {
+      "name": "STRONGER",
+      "description": "Collect $10B.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.2"
+    },
+    "ACH_MONEY_100B": {
+      "name": "WORK IS NEVER OVER!",
+      "description": "Collect $100B.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.6"
+    },
+    "ACH_MISC_NOTOGAMBLE": {
+      "name": "Not Feeling It",
+      "description": "You coward...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.3"
+    },
+    "ACH_MISC_YESTOGAMBLEWIN": {
+      "name": "The Gambler's Blessing",
+      "description": "Be worthy enough to play our game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.0"
+    },
+    "ACH_MISC_YESTOGAMBLELOSE": {
+      "name": "Unlucky :(",
+      "description": "Try again (hehe).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "68.1"
+    },
+    "ACH_MISC_PEAK": {
+      "name": "You reached...PEAK!",
+      "description": "I think you'd also enjoy climbing a mountain with your friends?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.0"
+    },
+    "ACH_MISC_GETHELP": {
+      "name": "Real Gambling Is Not Cool.",
+      "description": "Check out the Gambling Support Services around the world and educate yourself.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
