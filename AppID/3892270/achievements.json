@@ -1,0 +1,222 @@
+{
+  "ACH_CHA_F1_BIGSPENDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_BLACKJACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_BLACKJACK2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_CRAPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_DUCKRACE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_HIGHROLLER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_LUCKYSTREAK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_ROULETTE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_SLOTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F1_WHEELOFFORTUNE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_BIGSPENDER2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_CRASH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_CROSSYROAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_DICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_HIGHROLLER2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_KENO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_LUCKYSTREAK2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_MONEYWHEEL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F2_PLINKO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_BIGSPENDER3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_CRAPS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_CROSSYROAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_DICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_DRAGONTOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_HIGHROLLER3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_LUCKYSTREAK3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_MINESWEEPER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_POKER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F3_WHEELOFFORTUNE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_BIGSPENDER4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_BLACKJACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_CRASH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_CROSSYROAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_DRAGONTOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_DUCKRACE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_HIGHROLLER4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_KENO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_LUCKYSTREAK4": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_MINESWEEPER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_MONEYWHEEL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_PLINKO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CHA_F4_ROULETTE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENDING_COINFLIP_LOST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENDING_COINFLIP_WON": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_ENDING_DEBT_PAID": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MISC_GETHELP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MISC_NOTOGAMBLE": {
+    "earned": true,
+    "earned_time": 1778960900
+  },
+  "ACH_MISC_PEAK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MISC_YESTOGAMBLELOSE": {
+    "earned": true,
+    "earned_time": 1778960878
+  },
+  "ACH_MISC_YESTOGAMBLEWIN": {
+    "earned": true,
+    "earned_time": 1778960441
+  },
+  "ACH_MONEY_100B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MONEY_100M": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MONEY_10B": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MONEY_10M": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_MONEY_1B": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
