@@ -20,8 +20,8 @@
     "earned_time": 0
   },
   "ACH_CHA_F1_HIGHROLLER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778965473
   },
   "ACH_CHA_F1_LUCKYSTREAK": {
     "earned": false,
@@ -185,7 +185,7 @@
   },
   "ACH_MISC_NOTOGAMBLE": {
     "earned": true,
-    "earned_time": 1778960900
+    "earned_time": 1778966184
   },
   "ACH_MISC_PEAK": {
     "earned": false,
@@ -193,7 +193,7 @@
   },
   "ACH_MISC_YESTOGAMBLELOSE": {
     "earned": true,
-    "earned_time": 1778960878
+    "earned_time": 1778963877
   },
   "ACH_MISC_YESTOGAMBLEWIN": {
     "earned": true,
