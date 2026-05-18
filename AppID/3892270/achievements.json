@@ -1,7 +1,7 @@
 {
   "ACH_CHA_F1_BIGSPENDER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779045908
   },
   "ACH_CHA_F1_BLACKJACK": {
     "earned": false,
@@ -21,7 +21,7 @@
   },
   "ACH_CHA_F1_HIGHROLLER": {
     "earned": true,
-    "earned_time": 1778965473
+    "earned_time": 1779043743
   },
   "ACH_CHA_F1_LUCKYSTREAK": {
     "earned": false,
@@ -180,12 +180,12 @@
     "earned_time": 0
   },
   "ACH_MISC_GETHELP": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779050184
   },
   "ACH_MISC_NOTOGAMBLE": {
     "earned": true,
-    "earned_time": 1778966184
+    "earned_time": 1779052224
   },
   "ACH_MISC_PEAK": {
     "earned": false,
@@ -197,7 +197,7 @@
   },
   "ACH_MISC_YESTOGAMBLEWIN": {
     "earned": true,
-    "earned_time": 1778960441
+    "earned_time": 1779042603
   },
   "ACH_MONEY_100B": {
     "earned": false,
