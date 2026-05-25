@@ -1,0 +1,78 @@
+{
+  "ACH_COMPLETE_CHAPTER_EIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_CHAPTER_FIVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_CHAPTER_FOUR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_CHAPTER_NINE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_CHAPTER_ONE": {
+    "earned": true,
+    "earned_time": 1779656510
+  },
+  "ACH_COMPLETE_CHAPTER_SEVEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_CHAPTER_SIX": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_CHAPTER_THREE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_CHAPTER_TWO": {
+    "earned": true,
+    "earned_time": 1779658415
+  },
+  "ACH_COMPLETE_GAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_COMPLETE_GAME_WITHOUT_DYING": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FINAL_BOSS_NO_DAMAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PERFECT_ATTACKS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PERFECT_DODGES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PERFECT_PARRIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNLOCK_SKILLS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNLOCK_SWORD_PARTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNLOCK_TREASURES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_UNLOCK_TRINKETS": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
