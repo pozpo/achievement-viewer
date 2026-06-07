@@ -1,5 +1,5 @@
 {
-  "last_updated": 1780838769,
+  "last_updated": 1780863407,
   "total_games": 12,
   "games": [
     {
@@ -491,7 +491,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1895900/b578a3467b5f7d05889a00acf17335c9c18764b5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "37.7"
+            "percent": "37.8"
           },
           "ACH_COMPLETE_CHAPTER_FOUR": {
             "name": "Chapter IV",
@@ -644,8 +644,8 @@
       },
       "achievements": {
         "ACH_COMPLETE_CHAPTER_EIGHT": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1780848248
         },
         "ACH_COMPLETE_CHAPTER_FIVE": {
           "earned": true,
@@ -656,16 +656,16 @@
           "earned_time": 1780833085
         },
         "ACH_COMPLETE_CHAPTER_NINE": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1780851290
         },
         "ACH_COMPLETE_CHAPTER_ONE": {
           "earned": true,
           "earned_time": 1779656510
         },
         "ACH_COMPLETE_CHAPTER_SEVEN": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1780846452
         },
         "ACH_COMPLETE_CHAPTER_SIX": {
           "earned": true,
@@ -680,8 +680,8 @@
           "earned_time": 1779658415
         },
         "ACH_COMPLETE_GAME": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1780851290
         },
         "ACH_COMPLETE_GAME_WITHOUT_DYING": {
           "earned": false,
@@ -692,8 +692,8 @@
           "earned_time": 0
         },
         "ACH_PERFECT_ATTACKS": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1780845442
         },
         "ACH_PERFECT_DODGES": {
           "earned": false,
@@ -712,8 +712,8 @@
           "earned_time": 0
         },
         "ACH_UNLOCK_TREASURES": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1780850135
         },
         "ACH_UNLOCK_TRINKETS": {
           "earned": false,
