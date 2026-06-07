@@ -4,12 +4,12 @@
     "earned_time": 0
   },
   "ACH_COMPLETE_CHAPTER_FIVE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780834803
   },
   "ACH_COMPLETE_CHAPTER_FOUR": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780833085
   },
   "ACH_COMPLETE_CHAPTER_NINE": {
     "earned": false,
@@ -24,12 +24,12 @@
     "earned_time": 0
   },
   "ACH_COMPLETE_CHAPTER_SIX": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780836575
   },
   "ACH_COMPLETE_CHAPTER_THREE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1780829085
   },
   "ACH_COMPLETE_CHAPTER_TWO": {
     "earned": true,
