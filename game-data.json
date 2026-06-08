@@ -1,5 +1,5 @@
 {
-  "last_updated": 1780863407,
+  "last_updated": 1780945032,
   "total_games": 12,
   "games": [
     {
@@ -5561,7 +5561,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "11.5"
+            "percent": "13.4"
           },
           "ACH_ENDING_COINFLIP_LOST": {
             "name": "End of the Line",
@@ -5570,7 +5570,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "8.2"
+            "percent": "9.7"
           },
           "ACH_ENDING_DEBT_PAID": {
             "name": "...And They Lived Happily After",
@@ -5579,7 +5579,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "8.7"
+            "percent": "10.2"
           },
           "ACH_CHA_F1_BIGSPENDER": {
             "name": "Big Spender",
@@ -5588,7 +5588,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "74.3"
+            "percent": "74.1"
           },
           "ACH_CHA_F1_BLACKJACK": {
             "name": "No Bust Run",
@@ -5597,7 +5597,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "35.6"
+            "percent": "35.9"
           },
           "ACH_CHA_F1_CRAPS": {
             "name": "Lucky 7",
@@ -5606,7 +5606,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "47.6"
+            "percent": "48.5"
           },
           "ACH_CHA_F1_HIGHROLLER": {
             "name": "High Roller",
@@ -5615,7 +5615,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "74.5"
+            "percent": "74.1"
           },
           "ACH_CHA_F1_LUCKYSTREAK": {
             "name": "Lucky Streak",
@@ -5624,7 +5624,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "67.2"
+            "percent": "66.8"
           },
           "ACH_CHA_F1_ROULETTE": {
             "name": "All on Red",
@@ -5633,7 +5633,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "60.0"
+            "percent": "60.5"
           },
           "ACH_CHA_F1_SLOTS": {
             "name": "Jackpot Hunter",
@@ -5642,7 +5642,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.9"
+            "percent": "35.2"
           },
           "ACH_CHA_F1_BLACKJACK2": {
             "name": "Risky Move",
@@ -5651,7 +5651,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.3"
+            "percent": "38.4"
           },
           "ACH_CHA_F1_DUCKRACE": {
             "name": "YARLL!!!",
@@ -5660,7 +5660,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.6"
+            "percent": "51.9"
           },
           "ACH_CHA_F1_WHEELOFFORTUNE": {
             "name": "Spin The Wheel",
@@ -5669,7 +5669,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.3"
+            "percent": "44.7"
           },
           "ACH_CHA_F2_BIGSPENDER2": {
             "name": "Big Spender 2",
@@ -5678,7 +5678,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "28.9"
+            "percent": "36.0"
           },
           "ACH_CHA_F2_CRASH": {
             "name": "Greed Test",
@@ -5687,7 +5687,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.9"
           },
           "ACH_CHA_F2_CROSSYROAD": {
             "name": "Winner Winner Penguin Dinner",
@@ -5696,7 +5696,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.4"
+            "percent": "25.4"
           },
           "ACH_CHA_F2_DICE": {
             "name": "Roll the Odds",
@@ -5705,7 +5705,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.1"
+            "percent": "6.6"
           },
           "ACH_CHA_F2_HIGHROLLER2": {
             "name": "High Roller 2",
@@ -5714,7 +5714,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "32.1"
+            "percent": "39.7"
           },
           "ACH_CHA_F2_KENO": {
             "name": "Spot On",
@@ -5723,7 +5723,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.0"
+            "percent": "14.6"
           },
           "ACH_CHA_F2_LUCKYSTREAK2": {
             "name": "Lucky Streak 2 ",
@@ -5732,7 +5732,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "23.8"
+            "percent": "30.1"
           },
           "ACH_CHA_F2_MONEYWHEEL": {
             "name": "Spin Streak",
@@ -5741,7 +5741,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.9"
+            "percent": "6.3"
           },
           "ACH_CHA_F2_PLINKO": {
             "name": "Clean Fall",
@@ -5750,7 +5750,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.4"
+            "percent": "7.2"
           },
           "ACH_CHA_F3_POKER": {
             "name": "Poker Face",
@@ -5759,7 +5759,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.7"
+            "percent": "3.0"
           },
           "ACH_CHA_F3_BIGSPENDER3": {
             "name": "Big Spender 3",
@@ -5768,7 +5768,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.0"
+            "percent": "18.3"
           },
           "ACH_CHA_F3_CRAPS": {
             "name": "Natural Roller",
@@ -5777,7 +5777,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.5"
+            "percent": "8.4"
           },
           "ACH_CHA_F3_CROSSYROAD": {
             "name": "Traffic Monster",
@@ -5786,7 +5786,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.6"
+            "percent": "8.3"
           },
           "ACH_CHA_F3_DICE": {
             "name": "No Safe Rolls",
@@ -5795,7 +5795,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.7"
+            "percent": "3.3"
           },
           "ACH_CHA_F3_DRAGONTOWER": {
             "name": "Step Into Fire",
@@ -5804,7 +5804,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.1"
+            "percent": "6.9"
           },
           "ACH_CHA_F3_HIGHROLLER3": {
             "name": "High Roller 3",
@@ -5813,7 +5813,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.5"
+            "percent": "22.6"
           },
           "ACH_CHA_F3_LUCKYSTREAK3": {
             "name": "Lucky Streak 3",
@@ -5822,7 +5822,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.2"
+            "percent": "12.4"
           },
           "ACH_CHA_F3_MINESWEEPER": {
             "name": "Perfect Sweep",
@@ -5831,7 +5831,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.5"
+            "percent": "1.7"
           },
           "ACH_CHA_F3_WHEELOFFORTUNE": {
             "name": "Keep It Spinning",
@@ -5840,7 +5840,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.0"
+            "percent": "6.6"
           },
           "ACH_CHA_F4_BIGSPENDER4": {
             "name": "Big Spender 4",
@@ -5849,7 +5849,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.8"
+            "percent": "10.6"
           },
           "ACH_CHA_F4_BLACKJACK": {
             "name": "House Breaker",
@@ -5858,7 +5858,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.2"
+            "percent": "1.4"
           },
           "ACH_CHA_F4_CRASH": {
             "name": "Safe Exit",
@@ -5867,7 +5867,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.6"
+            "percent": "1.9"
           },
           "ACH_CHA_F4_CROSSYROAD": {
             "name": "No Hesitation",
@@ -5876,7 +5876,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.2"
+            "percent": "4.9"
           },
           "ACH_CHA_F4_DRAGONTOWER": {
             "name": "Flameproof",
@@ -5885,7 +5885,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.9"
+            "percent": "2.2"
           },
           "ACH_CHA_F4_DUCKRACE": {
             "name": "Unstoppable Quack",
@@ -5894,7 +5894,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.4"
+            "percent": "1.7"
           },
           "ACH_CHA_F4_HIGHROLLER4": {
             "name": "High Roller 4",
@@ -5903,7 +5903,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.6"
+            "percent": "11.6"
           },
           "ACH_CHA_F4_KENO": {
             "name": "Marked to Win",
@@ -5912,7 +5912,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.8"
+            "percent": "4.4"
           },
           "ACH_CHA_F4_LUCKYSTREAK4": {
             "name": "Lucky Streak 4 ",
@@ -5921,7 +5921,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.1"
+            "percent": "8.5"
           },
           "ACH_CHA_F4_MINESWEEPER": {
             "name": "No Detonations",
@@ -5930,7 +5930,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.2"
+            "percent": "1.4"
           },
           "ACH_CHA_F4_MONEYWHEEL": {
             "name": "High Risk Wedge",
@@ -5939,7 +5939,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.3"
+            "percent": "1.6"
           },
           "ACH_CHA_F4_PLINKO": {
             "name": "Straight Down",
@@ -5948,7 +5948,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.0"
+            "percent": "3.4"
           },
           "ACH_CHA_F4_ROULETTE": {
             "name": "Ball in Motion",
@@ -5957,7 +5957,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.2"
+            "percent": "6.0"
           },
           "ACH_MONEY_10M": {
             "name": "HARDER",
@@ -5966,7 +5966,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.3"
+            "percent": "42.2"
           },
           "ACH_MONEY_100M": {
             "name": "BETTER",
@@ -5975,7 +5975,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "31.0"
+            "percent": "35.0"
           },
           "ACH_MONEY_1B": {
             "name": "FASTER",
@@ -5984,7 +5984,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.1"
+            "percent": "27.8"
           },
           "ACH_MONEY_10B": {
             "name": "STRONGER",
@@ -5993,7 +5993,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.0"
+            "percent": "21.3"
           },
           "ACH_MONEY_100B": {
             "name": "WORK IS NEVER OVER!",
@@ -6002,7 +6002,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.3"
+            "percent": "16.1"
           },
           "ACH_MISC_NOTOGAMBLE": {
             "name": "Not Feeling It",
@@ -6011,7 +6011,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "59.6"
+            "percent": "61.6"
           },
           "ACH_MISC_YESTOGAMBLEWIN": {
             "name": "The Gambler's Blessing",
@@ -6020,7 +6020,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "83.9"
+            "percent": "84.0"
           },
           "ACH_MISC_YESTOGAMBLELOSE": {
             "name": "Unlucky :(",
@@ -6029,7 +6029,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "68.3"
+            "percent": "69.9"
           },
           "ACH_MISC_PEAK": {
             "name": "You reached...PEAK!",
@@ -6038,7 +6038,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "54.3"
+            "percent": "54.0"
           },
           "ACH_MISC_GETHELP": {
             "name": "Real Gambling Is Not Cool.",
@@ -6047,235 +6047,14 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.9"
+            "percent": "26.0"
           }
         },
         "platform": null,
         "blacklist": [],
         "uses_db": false
       },
-      "achievements": {
-        "ACH_CHA_F1_BIGSPENDER": {
-          "earned": true,
-          "earned_time": 1779045908
-        },
-        "ACH_CHA_F1_BLACKJACK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F1_BLACKJACK2": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F1_CRAPS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F1_DUCKRACE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F1_HIGHROLLER": {
-          "earned": true,
-          "earned_time": 1779043743
-        },
-        "ACH_CHA_F1_LUCKYSTREAK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F1_ROULETTE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F1_SLOTS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F1_WHEELOFFORTUNE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_BIGSPENDER2": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_CRASH": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_CROSSYROAD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_DICE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_HIGHROLLER2": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_KENO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_LUCKYSTREAK2": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_MONEYWHEEL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_PLINKO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_BIGSPENDER3": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_CRAPS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_CROSSYROAD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_DICE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_DRAGONTOWER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_HIGHROLLER3": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_LUCKYSTREAK3": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_MINESWEEPER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_POKER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_WHEELOFFORTUNE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_BIGSPENDER4": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_BLACKJACK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_CRASH": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_CROSSYROAD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_DRAGONTOWER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_DUCKRACE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_HIGHROLLER4": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_KENO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_LUCKYSTREAK4": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_MINESWEEPER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_MONEYWHEEL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_PLINKO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_ROULETTE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ENDING_COINFLIP_LOST": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ENDING_COINFLIP_WON": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ENDING_DEBT_PAID": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MISC_GETHELP": {
-          "earned": true,
-          "earned_time": 1779050184
-        },
-        "ACH_MISC_NOTOGAMBLE": {
-          "earned": true,
-          "earned_time": 1779052224
-        },
-        "ACH_MISC_PEAK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MISC_YESTOGAMBLELOSE": {
-          "earned": true,
-          "earned_time": 1778963877
-        },
-        "ACH_MISC_YESTOGAMBLEWIN": {
-          "earned": true,
-          "earned_time": 1779042603
-        },
-        "ACH_MONEY_100B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MONEY_100M": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MONEY_10B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MONEY_10M": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MONEY_1B": {
-          "earned": false,
-          "earned_time": 0
-        }
-      }
+      "achievements": {}
     },
     {
       "appid": "3357650",
