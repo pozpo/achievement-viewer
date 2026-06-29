@@ -1,0 +1,100 @@
+{
+  "appid": "4121170",
+  "name": "Fears to Fathom® - Scratch Creek",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
+  "achievements": {
+    "SURVIVOR": {
+      "name": "Survivor",
+      "description": "Survive through this episode of fears to fathom.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/56c4a5c8561cb7edb42ab73a166a6ad3b7415ec4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/1ff663795617ec2ff6215df5f61c4a6ace8c49ed.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "71.0"
+    },
+    "HITCHED_UP": {
+      "name": "All Hitched Up",
+      "description": "Trailer's connected. Time to go.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/971246bfbe2126572616e8c537ac00923c40e080.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/8a46db0474380b09d44b504162744691a91e2d6a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "62.0"
+    },
+    "HOLY_COW": {
+      "name": "Holy Cow",
+      "description": "Reach 100,000,000 in the cow clicker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/78c0b1d711c5ca4486543d0dba23e331fb2f27ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/4aa9fe81484f906156251f6d37f253eacd73b2b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.7"
+    },
+    "EAVESDROPPER": {
+      "name": "Eavesdropper",
+      "description": "Eavesdrop on all the staff chatter in the parsonage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/30b29ebf8abffe106155bc8061bee556d0cc8d03.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/66132186b307f9629bc059855eab12d4ce42e7b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "COME_IN": {
+      "name": "Come In",
+      "description": "Let Henry into the room.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/3af0cdad62148a1c1229ac659752bd10bedd88bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/16db7c02ffc2c5197146a54f9d98dad83e39aee6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "DRIFTER": {
+      "name": "The Drifter",
+      "description": "Talk to the man living at the abandoned gas station.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/9c97542b61b8d9195bf29abc8ebc0b84775383dc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/55453e6b0f5018c2b13ff8e4ee4e798b449da38e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.9"
+    },
+    "OUT_OF_SIGHT": {
+      "name": "Out of Sight",
+      "description": "Hide in the trailer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/ac480b9e9b7795e5fb56e1494911c32b4066a61a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/ab6a2ac09d4f1ef906b7d014ad398fe9ca8f5528.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.8"
+    },
+    "WHOS_WATCHING": {
+      "name": "Who's Watching?",
+      "description": "Confront the figure watching you.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/40c9adb183e5ada250698e18108872d737233c95.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/db2c445d8045128ea701cf37dab90998f2b646c3.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "DOWN_IN_DARK": {
+      "name": "Down in the Dark",
+      "description": "Marcus's last chore.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/d8103a6d5dec293bac933936817a99840b87eb58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/135631301815d2a8c517adffbd82b074311dc500.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.9"
+    },
+    "TEXTER": {
+      "name": "Texter",
+      "description": "Send a manual text to the other survivor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/b865445e9eeeeae65146f115dc012f6fb83378ba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/8d0352e6c98ee1a8d0e3d162f634781d74615c1c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "79.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
