@@ -1,0 +1,42 @@
+{
+  "COME_IN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DOWN_IN_DARK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DRIFTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EAVESDROPPER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HITCHED_UP": {
+    "earned": true,
+    "earned_time": 1782751157
+  },
+  "HOLY_COW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "OUT_OF_SIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SURVIVOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TEXTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WHOS_WATCHING": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
