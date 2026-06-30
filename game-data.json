@@ -1,6 +1,6 @@
 {
-  "last_updated": 1782757666,
-  "total_games": 14,
+  "last_updated": 1782807430,
+  "total_games": 16,
   "games": [
     {
       "appid": "3321460",
@@ -1028,6 +1028,489 @@
           "earned_time": 0
         },
         "ACH42": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "383980",
+      "info": {
+        "appid": "383980",
+        "name": "Rivals of Aether",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383980/header.jpg?t=1721063075",
+        "achievements": {
+          "Story_Zetterburn": {
+            "name": "A Fiery Tale",
+            "description": "Complete Zetterburn's Story Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/ea2bfd337df30030775f6e140e36bccb470f6127.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/1c3585f68b49917f992ce777dc7f0cee3709f338.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "24.2"
+          },
+          "Story_Orcane": {
+            "name": "A Slippery Saga",
+            "description": "Complete Orcane's Story Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/55d272d8d0ffc2c629028a9fa67dab2c30fb06dd.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/ed48114ae7f84a3f478cf06c403b674cdafbab19.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.9"
+          },
+          "Story_Wrastor": {
+            "name": "An Adverse Adventure",
+            "description": "Complete Wrastor's Story Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/04abb3d1facd7ec936f3846f2a56d20644c7e723.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/26f255d2effcaf3f0432c52c45a9a2775ef54ef1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.0"
+          },
+          "Story_Kragg": {
+            "name": "A Rocky Start",
+            "description": "Complete Kragg's Story Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/0e54462eec8e501790e5912215c29d99d86e0989.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/59948232699650b261ece912d489062d7fd70c68.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "25.5"
+          },
+          "Story_Forsburn": {
+            "name": "A Smoldering Plot",
+            "description": "Complete Forsburn's Story Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/4136d91e580e0357adfe8b23760c6800d44d3fc5.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/f55586233c946064944a71a80063816b92d482f6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "20.7"
+          },
+          "Story_Maypul": {
+            "name": "A Maypul Story",
+            "description": "Complete Maypul's Story Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/a5fecd1088205488c4b8b150890a480cfa00c425.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/3ad6ef32a00a0c64861b61954cdc0487e16ca871.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.6"
+          },
+          "Story_Boss": {
+            "name": "Open the Gates",
+            "description": "Complete the Story Mode Epilogue",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/9ce387291fe05d1af1079a46b121e5ed0ac3a60e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/515898744b8cc390179c9039ca3acd1e1b92f46a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "17.2"
+          },
+          "Abyss_Wave_Easy": {
+            "name": "Into the Depths",
+            "description": "Complete Wave 15 of Abyss Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/07bb727050293b6f7c2c14cd4aecc36d14ce4114.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/be4ad5ab8826fa905b4c2529310ffdd995a36fc1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "10.9"
+          },
+          "Abyss_Wave_Hard": {
+            "name": "The Endless Abyss",
+            "description": "Complete Wave 45 of Abyss Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/8350eefd771909db1bb67e2d699c5d27aa480b8d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/9494d6fd12373f8f8ba78fc5f66eadd00d77ad23.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.5"
+          },
+          "Num_Matches": {
+            "name": "The Seasoned Rival",
+            "description": "Complete 300 Matches Locally or Online",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/c570f76f5681ec514bc43602f6dca113af2d2bc4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/1f73054a6b49e77db2237267d7bae06418583fba.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "16.2"
+          },
+          "Tutorial_Beginner": {
+            "name": "The Apprentice Rival",
+            "description": "Complete the Beginner Tutorial Lessons",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/974ac7771b9abb05bf42e2321f37bd160e3eb593.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/86d426e04ae213f65921048931f727ea6fcab660.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "33.7"
+          },
+          "Tutorial_All": {
+            "name": "The Master Rival",
+            "description": "Complete all Tutorial Lessons",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/be7f18d111f4cf422f8f66ccc43ea0145f7687d1.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/93a190e1a34d7834fcb97f5cf6a7e43d7769c842.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.7"
+          },
+          "Practice_Mode": {
+            "name": "The Skeptical Rival",
+            "description": "Turn on Hitboxes in Practice Mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/3fcdb2389cb0dd7cd17abce6db123c4735f1b645.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/74fc8efe1eef17b4d7c80b767c3ddd1423ae7c01.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "22.9"
+          },
+          "Story_Modes_Fast": {
+            "name": "The Swift Rival",
+            "description": "Earn a Gold Medal on the 7 Story Modes",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/6c65f4cc9d892ab7f56df972a1211a479a0543d8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/c7ebf28c7ec21002f204d02a7f803d507c7742a5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.9"
+          },
+          "Aether_Coins": {
+            "name": "The Opulent Rival",
+            "description": "Earn 100,000 Aether Coins",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/1e1d4f849b219570478ed29572d469e638f92996.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/870107ab6e42f95db485084b39f9c3c06689b159.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.6"
+          },
+          "Level_10_Abyss": {
+            "name": "The Ardent Rival",
+            "description": "Reach Level 10 with all 14 Abyss Characters",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/e81b29eb6f68415389094dbb0757ad79902584ab.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/bb31bf363d71ef063ebf8610217fc3d2884d8cf2.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.2"
+          },
+          "Boss_Zetter": {
+            "name": "The Lone Rival",
+            "description": "Defeat the Story Mode Epilogue without losing a stock",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/f47913b75dfe8c930e4d7e20eb8e2487522390d0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/2244adbffa441989c9d827c44fb1118f981714db.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.7"
+          },
+          "Gameplay_Zetterburn": {
+            "name": "The Reckless Flame",
+            "description": "Get a KO with Zetterburn's Aerial Down Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/a028a16ab9c2b242ddc1f332ef9931ebb95bc3c2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/ec3b805e5916a4d5afb976ea9da3fbfcabbd2db4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.7"
+          },
+          "Gameplay_Orcane": {
+            "name": "The Watery Trap",
+            "description": "Get a KO with Orcane's Up Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/e39ef9dd1040612f40acba5b308e4d374ffe532a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/dce7bbaaf6e7445f24979ee5ea4d52c2c03b0a9d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "22.1"
+          },
+          "Gameplay_Wrastor": {
+            "name": "The Terrible Tempest",
+            "description": "Get a KO with Wrastor's Neutral Special off the top.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/809bcef2c8bd707a9d98dd699564a6fa9cfc8181.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/2094eae5d6f2d04239ac1b5484ce695f08a1942d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.4"
+          },
+          "Gameplay_Kragg": {
+            "name": "The Boulder Barrage",
+            "description": "Get a KO with Kragg's rock shards.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/bc382e0fbd497825d55447ed6e3a6c562a27b7d8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/c9d5e60188ad8e2973419a242efad083010102e7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.3"
+          },
+          "Gameplay_Forsburn": {
+            "name": "The Deadly Deception",
+            "description": "Get a KO with Forsburn's Clone.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/62f1a03565db13c3ac85ba803e10c28e5b3af1c1.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/5493c11ddeb4d1e68fb19629235d39294364dcd1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.6"
+          },
+          "Gameplay_Maypul": {
+            "name": "The Vicious Vine",
+            "description": "Get a KO by using Maypul's tether into an aerial.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/d4f711d084e4bcb8249abbfafe1adcd390a06034.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/de46bebf729aef6a49b3fd67e9da3f6747e2837b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.0"
+          },
+          "Gameplay_Absa": {
+            "name": "The Calculated Strike",
+            "description": "Get a KO using Absa's cloud exploded Down Air.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/88ce755f5976eb8a67d35255e6c260b9ee69e558.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/d57ae2e0b6e17880e53c2db37a6a0eda8a20bad4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.5"
+          },
+          "Gameplay_Etalus": {
+            "name": "The Icy Plummet",
+            "description": "Get a KO with Etalus' Up Special.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/2e79ca2fe82db3f0978d2cc34471147a43742ef5.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/76f267a2ee173194b0092a38f0e2a827e8646903.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.2"
+          },
+          "Gameplay_Ori": {
+            "name": "The Light of Nibel",
+            "description": "Get a KO using Ori's Down Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/930c7ff51ce93086588b2d214627c776a6facb9e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/620c02963d535220a928b9d8881921d38fa8c0ab.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.8"
+          },
+          "Gameplay_Ranno": {
+            "name": "The Poisonous Storm",
+            "description": "Get a KO with Ranno's Up Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/6920544ca062526d7e914d3e24d22379d16fef6b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/e921f98197ec25a1c3e160f68bc51799463b048b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.3"
+          },
+          "Gameplay_Clairen": {
+            "name": "The Unlimited Reach",
+            "description": "Get a KO with Clairen's Up Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/c4755f2a0cf6294585fc95e82aec1735dc3e9c17.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/d16ec7b1ad2630eb07ee39d0ee51dec4c54188e9.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.3"
+          },
+          "Gameplay_Sylvanos": {
+            "name": "The Relentless Seed",
+            "description": "Get a KO with Sylvanos' Neutral Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/615dfd6fc266c759842aa244e352c10af5978b82.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/4ea248c27a041648f4414394e9d4bf794a2e50df.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.0"
+          },
+          "Gameplay_Elliana": {
+            "name": "The Steampunk Sniper",
+            "description": "Get a KO with Elliana's Forward Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/6af7bf63138928c54ccccaac30540c68f0a53a2d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/714a6646298559317b3958a96a3f43118d00adc8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.5"
+          },
+          "Gameplay_Shovel_Knight": {
+            "name": "The Deadly Catch",
+            "description": "Get a KO with Shovel Knight's Down Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/88201d15fcc4c0d72946d0e3e468acbfc8a53d41.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/18ed748b48f039fd648995a8cae13125dd1042d1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.2"
+          },
+          "Workshop": {
+            "name": "Endless Creativity",
+            "description": "Download and play as a Workshop Character in any mode.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/98f57144030c3be258ee6287773c6c85b3201a16.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/99fe2c5745a5f7ffd2bb1157347991ed4e19f308.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.1"
+          },
+          "Gameplay_Mollo": {
+            "name": "The Rebel's Strike",
+            "description": "Get a KO with the tip of Mollo's Down Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/78e843b0a60e7e36599fe2f49ec1efc56f8c772e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/78d563fe7497200747b763073463af7fb61752a4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.7"
+          },
+          "Gameplay_Hodan": {
+            "name": "The Sweaty Smackdown",
+            "description": "Get a KO with Hodan's Parried Down Strong.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/0ad0a66ffeb4332dd171182b9be7257051abe1b1.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/8017a790a752deaa083eb829ad61c62b2da8fb66.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.4"
+          },
+          "Gameplay_Pomme": {
+            "name": "The Glamorous Showstopper",
+            "description": "Get a KO with Pomme's Up Special.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/85a42226e3ab94e314d207855cd488fb60b7245e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/4ae106b3f822ce99464532d4ba03e844b529ad9a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.0"
+          },
+          "Gameplay_Olympia": {
+            "name": "The Flawless Fist",
+            "description": "Get a KO with Olympia's Down Air.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/42121e926cc26552b50494d4b20ccda12ad4212e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/383980/575b3f8054aaebede4fb137a0499e16a48f53fa0.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.0"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "Abyss_Wave_Easy": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Abyss_Wave_Hard": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Aether_Coins": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Boss_Zetter": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Absa": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Clairen": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Elliana": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Etalus": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Forsburn": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Hodan": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Kragg": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Maypul": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Mollo": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Olympia": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Orcane": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Ori": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Pomme": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Ranno": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Shovel_Knight": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Sylvanos": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Wrastor": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gameplay_Zetterburn": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Level_10_Abyss": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Num_Matches": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Practice_Mode": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Story_Boss": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Story_Forsburn": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Story_Kragg": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Story_Maypul": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Story_Modes_Fast": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Story_Orcane": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Story_Wrastor": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Story_Zetterburn": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Tutorial_All": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Tutorial_Beginner": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Workshop": {
           "earned": false,
           "earned_time": 0
         }
@@ -2834,7 +3317,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/1ff663795617ec2ff6215df5f61c4a6ace8c49ed.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "71.0"
+            "percent": "71.2"
           },
           "HITCHED_UP": {
             "name": "All Hitched Up",
@@ -2843,7 +3326,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/8a46db0474380b09d44b504162744691a91e2d6a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "62.0"
+            "percent": "62.2"
           },
           "HOLY_COW": {
             "name": "Holy Cow",
@@ -2870,7 +3353,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/16db7c02ffc2c5197146a54f9d98dad83e39aee6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.5"
+            "percent": "25.6"
           },
           "DRIFTER": {
             "name": "The Drifter",
@@ -2888,7 +3371,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/ab6a2ac09d4f1ef906b7d014ad398fe9ca8f5528.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "29.8"
+            "percent": "29.9"
           },
           "WHOS_WATCHING": {
             "name": "Who's Watching?",
@@ -2897,7 +3380,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/db2c445d8045128ea701cf37dab90998f2b646c3.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.1"
+            "percent": "37.2"
           },
           "DOWN_IN_DARK": {
             "name": "Down in the Dark",
@@ -2906,7 +3389,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/135631301815d2a8c517adffbd82b074311dc500.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "9.9"
+            "percent": "10.0"
           },
           "TEXTER": {
             "name": "Texter",
@@ -2915,7 +3398,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4121170/8d0352e6c98ee1a8d0e3d162f634781d74615c1c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "79.0"
+            "percent": "79.2"
           }
         },
         "platform": null,
@@ -2952,12 +3435,12 @@
           "earned_time": 0
         },
         "SURVIVOR": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1782763431
         },
         "TEXTER": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1782759286
         },
         "WHOS_WATCHING": {
           "earned": false,
@@ -6640,6 +7123,944 @@
         "ACH_9": {
           "earned": true,
           "earned_time": 1772153133
+        }
+      }
+    },
+    {
+      "appid": "2217000",
+      "info": {
+        "appid": "2217000",
+        "name": "Rivals of Aether II",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/3d8742ad5d7dd77235f75dba0a3814b0689d4df3/header.jpg?t=1780336617",
+        "achievements": {
+          "Lvl_Zet": {
+            "name": "The Fire's Roar",
+            "description": "Reach character level 20 as Zetterburn",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d77ddc91147724e5ea0028d3ea3adcc7da6bcf3b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/94327e4305a6719a1dd4eac3df71a0edf42aad0e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.0"
+          },
+          "Lvl_Ran": {
+            "name": "The Poisonous Pacifist",
+            "description": "Reach character level 20 as Ranno",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/61e16078c2b1a49d8b795890acf860773c9ce2d6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/931dd04958745e8b55f97691b1e3c116bf893443.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.5"
+          },
+          "Lvl_Wra": {
+            "name": "The Wind's Fury",
+            "description": "Reach character level 20 as Wrastor",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7c39ffa1510d9a192671984f315beac23796119a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3c1430feac52ad8ac0bcc8b61c8a9e9cdba80f80.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.7"
+          },
+          "Lvl_Kra": {
+            "name": "Earth's Bastion",
+            "description": "Reach character level 20 as Kragg",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/97e295978b6069fb2851529ff1262421b4d3f147.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/91fce5c150f37422f2069d34bbd406edaf0cc3d6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.8"
+          },
+          "Lvl_May": {
+            "name": "The Sylvan Watcher",
+            "description": "Reach character level 20 as Maypul",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/daab816f720e58924997c92f2a0b1bd27ddc29cd.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/dff6b362bc4d0078dc842299b30539f1e228b43e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.1"
+          },
+          "Lvl_Fle": {
+            "name": "Hero of Julesvale",
+            "description": "Reach character level 20 as Fleet",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/aca1cc3b72f7eaf6c789a3b8e2b1f3266c909a9b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/64f71962063e5ca78ae14372da4e322a7a9bd745.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.6"
+          },
+          "Lvl_Cla": {
+            "name": "The Flame's Salvation",
+            "description": "Reach character level 20 as Clairen",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/92b75ba2ca80f2705f88f5734b6dfde6ee0b39b7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/5582f7e9aa0682e39f078ac81f30b777ff0766e6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.5"
+          },
+          "Lvl_Lox": {
+            "name": "The Molten Emperor",
+            "description": "Reach character level 20 as Loxodont",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/df278754c97adb772c6f25ce2f0bc55406fc01cf.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ecbd96a0c2054729618e686bf13c20a795021275.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.9"
+          },
+          "Lvl_Orc": {
+            "name": "The Puddle Jumper",
+            "description": "Reach character level 20 as Orcane",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/f5e0c0d57cf7c05022b0c9866672fcd913c68a1e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/eb298c470566eeaa94749b587b0ae67207cf244e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.6"
+          },
+          "Lvl_For": {
+            "name": "The Exiled Flame",
+            "description": "Reach character level 20 as Forsburn",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/15e8ce18c721099c98f059b86ffa92fbd534fe77.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/188c2a5727f5892c41fe2facf44b9b71dc0fc03b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.6"
+          },
+          "Arc_Zet": {
+            "name": "Path Of Conquest",
+            "description": "Complete arcade on hard difficulty as Zetterburn",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7e8e2e4b84213451ddccdfa6bc56e284678f5641.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/c34871d21b5a178f05b63c0d14c4a6868987cf9b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.1"
+          },
+          "Arc_Ran": {
+            "name": "Path Of Peace",
+            "description": "Complete arcade on hard difficulty as Ranno",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/bb7f74385d5babdb59bdad3fd7a092167ff16cf1.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/784af6c15c504c7ef07d3c93316b0e4ea46bcfee.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.6"
+          },
+          "Arc_Wra": {
+            "name": "Path Of Deputation",
+            "description": "Complete arcade on hard difficulty as Wrastor",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/c6178f62a9222a9118696a3853e78d03dbab1a74.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/1096f83a487edc7825627d8ed0cebd1a0c4f42ca.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.8"
+          },
+          "Arc_Kra": {
+            "name": "Path Of Tenacity",
+            "description": "Complete arcade on hard difficulty as Kragg",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/17c9ea232fc38aea91ca1e4d229d1ac03bfbad7f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/4be1d754f33515327e076d60ba45b87a06e61a8c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.2"
+          },
+          "Arc_May": {
+            "name": "Path Of Vigilance",
+            "description": "Complete arcade on hard difficulty as Maypul",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/389621be52cd6ee82e791fb1822eeefe07ad6e1b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3dc8820e416a039c3818aedb74136f15cfc74c68.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.9"
+          },
+          "Arc_Fle": {
+            "name": "Path Of Revelation",
+            "description": "Complete arcade on hard difficulty as Fleet",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/99f64611ec4c89998a2a81aa74673f8718e641e6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/666f8694d0de1b48918328a98f22967b84f35034.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.3"
+          },
+          "Arc_Cla": {
+            "name": "Path Of Vengence",
+            "description": "Complete arcade on hard difficulty as Clairen",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2bcf23cd4c10bcefc3cacfc0e108cf2d647c6197.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7327d4ffa4896f8f61aa83213234a99be73327b5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.3"
+          },
+          "Arc_Lox": {
+            "name": "Path Of Tyranny",
+            "description": "Complete arcade on hard difficulty as Loxodont",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/9311ef684597855249699759f6d7b81df61d3a18.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/b510ea9d73acc9c8885a91cba0b7edbd8f1269fe.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.9"
+          },
+          "Arc_Orc": {
+            "name": "Path Of Restoration",
+            "description": "Complete arcade on hard difficulty as Orcane",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/deb1e9c1c7954b8abdf50ad61239b832f71dc3eb.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/f78c38724bb9e912a740365a318fad39c1c06af6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.8"
+          },
+          "Arc_For": {
+            "name": "Path Of Vindication",
+            "description": "Complete arcade on hard difficulty as Forsburn",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/de95728024233c16353483b6cd9f3a7498bb8456.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ca8867ce4b2d8f2714e642001eb183fa15ee27ab.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.9"
+          },
+          "KO_Zet": {
+            "name": "The Reckless Flame",
+            "description": "Get a KO with Zetterburn's Aerial Down Special ",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/fd6492e611684eac239f77a58e71d1ef163d2e1f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d7d7681dd7d5f2d191e5645bbe29068af102e223.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.8"
+          },
+          "KO_Ran": {
+            "name": "The Poisonous Storm",
+            "description": "Get a KO with Ranno's Up Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7c6ca8df9dcb786aeb91622980946a6bd8c4278e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/1d5664be0fbdccbd0fbfedb190138d6204a3ea32.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "15.1"
+          },
+          "KO_Wra": {
+            "name": "The Terrible Tempest",
+            "description": "Get a KO with Wrastor's Neutral Special off the top.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a045255c09bf0405bca68bb0ba52ad08c61aee22.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ac98dc605d3806cfe060ebc0e006c76cfe88841a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.0"
+          },
+          "KO_Kra": {
+            "name": "The Boulder Barrage",
+            "description": "Get a KO with Kragg's rock shards",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2a1959971fdd100cf5644c305f3f7e0856f4182b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a1a2b1c7e6c259c0e0072b92b0c507c791d2b599.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.6"
+          },
+          "KO_May": {
+            "name": "The Vicious Vine",
+            "description": "Get a KO with Maypul's tether into an aerial",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d6a2b76fa19e4320a80e068cc3ab7e2c3f87c625.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/636a58e61ed3eb37ba29a6c1449b8cee4b045f62.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.7"
+          },
+          "KO_Fle": {
+            "name": "The Rising Arrow",
+            "description": "Get a KO off the top with Fleet's Up Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/67e88e964131a27e7048ab50d53e14cfb750f044.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/32a241b26cb863a372c3f57686d2726d404490f1.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "13.3"
+          },
+          "KO_Cla": {
+            "name": "The Unlimited Sight",
+            "description": "Get a KO with Clairen's Down Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/8554bb10e9c7923d78e8032bea1e5545f420b34e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/00684cd56507e657d1f517f3509869c0d1ab3657.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.5"
+          },
+          "KO_Lox": {
+            "name": "The Igneous Axe",
+            "description": "Get a Spike KO with Loxodont's Up Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/fcb69db771890abd5c98ba4c6e6168899ec2a73b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a573ac9bc9ce0fd8b2b12988253d65c276b86de7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.3"
+          },
+          "KO_Orc": {
+            "name": "The Bubble Butt",
+            "description": "Get a KO with Orcane's Forward Aerial",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/bf360f4b7378ba9b485be7c7a3f00d1b9f1f269d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7803f96ee073604c388a154f28b3efe09025cbf5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.7"
+          },
+          "KO_For": {
+            "name": "The Deadly Deception",
+            "description": "Get a KO with Forsburn's Clone",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2d06035f7c07d6ca76717f9102fd068f92c3e9db.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/07637929b575a025c5d460f0d04e5f3958268e7c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.2"
+          },
+          "Skill_Zet": {
+            "name": "Flash In The Pan",
+            "description": "As Zetterburn hit an opponent with 3 Neutral Specials in 1 second",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/c76c3292a567c5a5b88fe48d1e23849e1c89f396.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2ed8a536a0f447add60eac81e8f3d0491b73ca7b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.0"
+          },
+          "Skill_Ran": {
+            "name": "Pacifist Punching Bag",
+            "description": "As Ranno deal over 50 damage to a bubbled opponent",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a3dd5f89354b3736d0323f239d4fcb7a13314a59.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a2ad0c31196d69551109888fae4da6072233b738.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.2"
+          },
+          "Skill_Wra": {
+            "name": "The Towering Tornado",
+            "description": "As Wrastor, land a special pummel while standing on a tornado platform.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2484340d3bcf489f8b25ea6829a1fe27d29c8a13.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ef19f78749d9cf249bbac377da9653a043cc4ad2.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.6"
+          },
+          "Skill_Kra": {
+            "name": "Rock The Block",
+            "description": "As Kragg, hit an opponent with a rock 3 times in a row",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7f197f9c2b91a4064032d46d10a4b0d082ee8f35.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/375467a1151e0c1d2297211daa99ef962e94ca29.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.3"
+          },
+          "Skill_May": {
+            "name": "Maypals!",
+            "description": "As Maypul have Lily, Poppy and Terry out at the same time",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/768ec54901c3d6b1d7ecba4fba3406ac56e6c7cd.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/36c73a94ccd82aab6e0b868a5ec0cc7f0756065f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.4"
+          },
+          "Skill_Fle": {
+            "name": "Julesvale Juggle",
+            "description": "As Fleet hit an opponent with 3 Up Strongs in a row.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/b8242995d13c9f0718de158515bef6aba85cf79f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a3daeb09fa6f5e5480897409a92d6ae3da653d8e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.2"
+          },
+          "Skill_Cla": {
+            "name": "Future Foreseer",
+            "description": "As Clairen, hit 2 or more players at once with fully charged Neutral Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3e933905f4aefd133a8ce9787867aa5b980a6204.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/09328cee34107b04d8f88f1bff3cf9d8002cd8ca.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.0"
+          },
+          "Skill_Lox": {
+            "name": "King's Court",
+            "description": "Hit a single Molten Boulder 5 times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/fe939d52eaf7bab7ead8a48d6a2ba51e6b2e779c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ca7500cb1f7bd6e242ed3c0efd251e2f9a13c051.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.6"
+          },
+          "Skill_Orc": {
+            "name": "The Daring Orca Hop",
+            "description": "Grab ledge after combining Orcane's Up Special with a jump deep below the stage.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d60881cc3b03cc3588d23df257e88b69c1036917.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2f2b280da1888e49ae4466c4b9fb8de5ec643479.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.6"
+          },
+          "Skill_For": {
+            "name": "Long Con",
+            "description": "As Forsburn keep a clone alive for 10 seconds",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/20ab2fcba4a64b1cecdb5c3125904d39ea079808.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/b180b047edee518f3a259c4ea72301d28c7dcee0.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "22.4"
+          },
+          "New_Icon": {
+            "name": "A Thousand words",
+            "description": "Equip a Player Icon",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3f3e991293e95efaf18dedc4205da8cddc3a1087.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3629cc78580a652c22c84681fbcb6e3b6a27ebed.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "51.4"
+          },
+          "New_Emote": {
+            "name": "Quick To Listen",
+            "description": "Emote to your opponent before a match ",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/fb1128c2d46aff8faab9feb227185b4c527b70e5.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/6fd520fcee79f82216cd529649886e86e07f7ee3.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "52.8"
+          },
+          "New_2v2": {
+            "name": "Friendly Symbiosis",
+            "description": "Play a 2v2 online match with a friend",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/328d7ab0c771d7eb438249a94cd2f3351cf162a0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/c29a78e72a3b90181d1e20d0a8532f469e6f6640.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.8"
+          },
+          "New_Skin": {
+            "name": " Vainglory ",
+            "description": "Win a match using a skin or palette",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/1635f5d3fd0226b0ef4c3291f225e4a19df1409c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a597474b2eebdbde67c5229db16ce7cc68dc41f6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "69.2"
+          },
+          "New_CPU": {
+            "name": "Power Down",
+            "description": "Defeat a cpu opponent in any mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/db57ac492dc4e4ed519c36f7bbf5ef4784ac4dfe.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/9dbebcd2cc48d69f4251257e4def1680f37c5747.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "59.7"
+          },
+          "New_Training": {
+            "name": "Still Skeptical",
+            "description": "View hitboxes in training mode",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/4c038949a3f7899ca15bc1ac21ea22690b7678f1.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a39630f37d3498d97b8b22d17c38729ad4b07c76.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "40.6"
+          },
+          "Lvl_Eta": {
+            "name": "The Glacier's Might",
+            "description": "Reach character level 20 as Etalus",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ce10fd82b09bcad4f4498c13ea24a9243ac75235.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/24c9322c950a5c66cbdf6bdaec1a69e345355456.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.0"
+          },
+          "Arc_Eta": {
+            "name": "Path of Solitude",
+            "description": "Complete arcade on hard difficulty as Etalus",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/78d5ce7da5671aa0228d182237809d9e7539db30.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/72240df6dfa2093fd70f08a3184ed1b7e65e6916.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.5"
+          },
+          "KO_Eta": {
+            "name": "The Icy Plummet",
+            "description": "Get a KO with Etalus' Up Special.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/12c633a0d33b2db4fadd52d94444cf4bc09ccb5f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/538bfedeeebfa89f42c49259e16fcb3ebec018cd.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.5"
+          },
+          "Skill_Eta": {
+            "name": "Ice is Right!",
+            "description": "As Etalus break an opponent's frozen shield.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a3d905d318dfbfcbac8c7994b78df989f8813c07.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/bb81a5c7bc29fd010f280e28c2ff8f89fc10886c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.5"
+          },
+          "Lvl_Oly": {
+            "name": "The Amethyst Fist",
+            "description": "Reach character level 20 as Olympia",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/6c3cc02e0d1726bcb1e944abe901276f04662380.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/8d9001a50f55c70e760fba69a89686b3256f9fae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.2"
+          },
+          "Arc_Oly": {
+            "name": "Path of Refinement",
+            "description": "Complete arcade on hard difficulty as Olympia",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/5d08d2a8d1cbe6f75389fe1f87e23fd684c15921.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/e8f72f8ea5d0cf0056ba4afdac53590254d34037.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.6"
+          },
+          "KO_Oly": {
+            "name": "The Shimmering Somersault",
+            "description": "Get a spike KO with Olympia's Up air.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/5cc3c87acc15f8ca62e1a367befb7f06506f3845.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/5910a202f9147d970901b51026180a7ec9d0d89c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.3"
+          },
+          "Skill_Oly": {
+            "name": "Double Terminated ",
+            "description": "As Olympia, crystalize the opponent while they're already crystalized",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a31ab430068be02bfe193c782e94a06be4cef701.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/785b6d85ff572cd86b10375a380072264a119266.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.4"
+          },
+          "Lvl_Abs": {
+            "name": "The Storm Architect",
+            "description": "Reach character level 20 as Absa",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/14b1ea519393bc9a6e0fa631df3663e749d03e14.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/8cd16d637628177d0c16833fa448f57860540f3e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.7"
+          },
+          "Arc_Abs": {
+            "name": "Path of Inception",
+            "description": "Complete arcade on hard difficulty as Absa",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/6cb9a2578768306896d53f7f320d37b0a37d5d62.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d54dd80d008542a28215fbd4f2733a7792ea7017.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.0"
+          },
+          "KO_Abs": {
+            "name": "The Elegant Electrocution",
+            "description": "Get a KO with Absa's fully-charged Down Special.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/30c1ff546097e8cbdf409e977cb4f16faeb8cc7c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2fdb4eed8e4f023fee342d9216a3e6b55871074e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.5"
+          },
+          "Skill_Abs": {
+            "name": "Stuck and Struck",
+            "description": "KO an opponent with a cloud after sticking it to them with Special Pummel.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/e7aeef55779c0c7ae066ba7315fa002abbc01c24.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/6afe606013442aeee46e78c55b560145b078f75d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.0"
+          },
+          "Lvl_Gal": {
+            "name": "The Ferrous Fossil",
+            "description": "Reach character level 20 as Galvan",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/099c0d336de1818bed17c9a26a8524e69da51623.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/c5519b34e9692555ab421313716668d0e573b795.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.6"
+          },
+          "Arc_Gal": {
+            "name": "Path of Ferocity",
+            "description": "Complete arcade on hard difficulty as Galvan",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/1f337ec834194cc2ee3d450db4e15475a4fc7986.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/f88b28be42458ad27bcec3fca01717c430968006.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.8"
+          },
+          "KO_Gal": {
+            "name": "Sedimentary Stomp",
+            "description": "KO an opponent with Galvan's Aerial Down Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/733771d50b730baa53fd3d34392d5f11538ec752.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/64b3ec0fa5dd1a4f6c24cc1dbb8bd2fd6d5bedef.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.5"
+          },
+          "Skill_Gal": {
+            "name": "The Drills Are Alive",
+            "description": "Launch an opponent into 3 drills consecutively ",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/8e8dd2a39a89988a2bf765ca84ea69031ce685d9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/f43cfe0943bbda833c501ea3530412a6ca037310.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.1"
+          },
+          "New_Mint": {
+            "name": "Achievemint",
+            "description": "Play a match with a mint palette",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3ff07774d2dbc075e69046894dd705b3e7360d6b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ddba863224126ee40588fd2083a0a75bb210caf6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.4"
+          },
+          "Lvl_Lar": {
+            "name": "The Crowd Magnet",
+            "description": "Reach character level 20 as La Reina",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/5371a4d5ddfb20543393520f0149845feea88b6b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/8d479c93936bacde11fab550efd2d418837b2e32.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.8"
+          },
+          "Arc_Lar": {
+            "name": "Path of Grandiosity",
+            "description": "Complete arcade on hard difficulty as La Reina",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/c597e7f7322472822035580aa30d041f627e96a4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/bacdc0563932c795ecb9bbfcef15bf0c9e60449f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.9"
+          },
+          "KO_Lar": {
+            "name": "The Furnishing Flux",
+            "description": "KO an opponent with La Reina's Neutral Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3f1b559f61ac284a195978fccf0cdd436eaf0545.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/774d1c80063d7b4e052609674a5d05e03033d750.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.5"
+          },
+          "Skill_Lar": {
+            "name": "Heavenly Polarity Piledriver",
+            "description": "Pile Drive an opponent with Up Special after falling 16 meters",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ae1b73d09b47d7a6bd83716709ad636a96ab918e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2018b2aaebea1b2d6d32120f0c2abb57da6cc552.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.0"
+          },
+          "Lvl_Sla": {
+            "name": "The Swagger of the Sea",
+            "description": "Reach character level 20 as Slade",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/668b334df6ef402e45940fed3b7b49357d644920.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/56b9146917ac8998fab8546bfd5c41e6f6acdda0.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.0"
+          },
+          "Arc_Sla": {
+            "name": "Path of Plunder",
+            "description": "Complete arcade on hard difficulty as Slade",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a4ce7cd6af8fdbf891af6232ba990336da2cacf2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/5323bf9ab0d1fdadb3c9b868c341f4ec725f13ec.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.5"
+          },
+          "KO_Sla": {
+            "name": "Gone Fishing",
+            "description": "KO an opponent with Slade's Ledge Special",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d6bb023d4d415ff9e3d528fad7d98e895599582e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7137516280ab880ea3babbbee264687881f8bb6c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.4"
+          },
+          "Skill_Sla": {
+            "name": "Bootyful",
+            "description": "As Slade, have all four treasures equipped at the same time",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/d05b04a79400a23fbda021b2d42d826f00d34066.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3d7e8c5da13e9f92bb77020c203e316f407bdcfb.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.8"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "Arc_Abs": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Cla": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Eta": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Fle": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_For": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Gal": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Kra": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Lar": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Lox": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_May": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Oly": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Orc": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Ran": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Sla": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Wra": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Arc_Zet": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Abs": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Cla": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Eta": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Fle": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_For": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Gal": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Kra": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Lar": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Lox": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_May": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Oly": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Orc": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Ran": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Sla": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Wra": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KO_Zet": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Abs": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Cla": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Eta": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Fle": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_For": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Gal": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Kra": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Lar": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Lox": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_May": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Oly": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Orc": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Ran": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Sla": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Wra": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Lvl_Zet": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "New_2v2": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "New_CPU": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "New_Emote": {
+          "earned": true,
+          "earned_time": 1782766385
+        },
+        "New_Icon": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "New_Mint": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "New_Skin": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "New_Training": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Abs": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Cla": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Eta": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Fle": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_For": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Gal": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Kra": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Lar": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Lox": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_May": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Oly": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Orc": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Ran": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Sla": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Wra": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Skill_Zet": {
+          "earned": false,
+          "earned_time": 0
         }
       }
     },
