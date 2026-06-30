@@ -28,12 +28,12 @@
     "earned_time": 0
   },
   "SURVIVOR": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1782763431
   },
   "TEXTER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1782759286
   },
   "WHOS_WATCHING": {
     "earned": false,

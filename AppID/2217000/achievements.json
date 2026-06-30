@@ -1,0 +1,286 @@
+{
+  "Arc_Abs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Cla": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Eta": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Fle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_For": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Gal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Kra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Lar": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Lox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_May": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Oly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Orc": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Ran": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Sla": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Wra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Arc_Zet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Abs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Cla": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Eta": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Fle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_For": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Gal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Kra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Lar": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Lox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_May": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Oly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Orc": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Ran": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Sla": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Wra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KO_Zet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Abs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Cla": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Eta": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Fle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_For": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Gal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Kra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Lar": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Lox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_May": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Oly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Orc": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Ran": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Sla": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Wra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Zet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "New_2v2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "New_CPU": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "New_Emote": {
+    "earned": true,
+    "earned_time": 1782766385
+  },
+  "New_Icon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "New_Mint": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "New_Skin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "New_Training": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Abs": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Cla": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Eta": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Fle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_For": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Gal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Kra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Lar": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Lox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_May": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Oly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Orc": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Ran": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Sla": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Wra": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Zet": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
