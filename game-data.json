@@ -1,6 +1,6 @@
 {
-  "last_updated": 1782807430,
-  "total_games": 16,
+  "last_updated": 1783018933,
+  "total_games": 17,
   "games": [
     {
       "appid": "3321460",
@@ -1511,6 +1511,411 @@
           "earned_time": 0
         },
         "Workshop": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "1194630",
+      "info": {
+        "appid": "1194630",
+        "name": "The Dark Pictures Anthology: Little Hope",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1194630/header.jpg?t=1731918218",
+        "achievements": {
+          "FOUND_SUPERNATURAL_SECRETS": {
+            "name": "Dirty Little Secrets",
+            "description": "Found all witchcraft secrets",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/6e217b8e11a6551a95d9e977758c0a17e31b920c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.8"
+          },
+          "PLAYED_MODE_PROLOGUE": {
+            "name": "So Much Death",
+            "description": "Completed the prologue",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/554308159184ed0e4571669aa856f49159535b16.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "85.6"
+          },
+          "PLAYED_MODE_MOVIENIGHT": {
+            "name": "Coven of Witches",
+            "description": "Finished Movie Night",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/af29d5c3397d8c4ffddc347993857f60877f68bc.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.0"
+          },
+          "TAYLOR_DEMONS": {
+            "name": "Our Own Demons",
+            "description": "Defeated Taylor's demons",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/36d4f263b49c19a8b7ebbf77904e6325964d942b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/634e1cec790bfb3f1760e05ae85c8e26a3b1e4ff.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "13.9"
+          },
+          "COMBAT_FIVE_IN_A_ROW": {
+            "name": "On A Roll",
+            "description": "Completed 5 combat events in succession",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/f3f396fa7472d0c8c83c12d0bf863dfbcff96547.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.6"
+          },
+          "SAVE_MARY": {
+            "name": "Forgiveness",
+            "description": "Saved Mary",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/941653535a050b54fb7494fc170017f0784a7a30.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "39.3"
+          },
+          "UNLOCKED_RATIONAL": {
+            "name": "Rational Mind",
+            "description": "Rational was one of top two traits for John",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/bc2d10b69e7e3ef06059ed54808e692f1bd1b864.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.3"
+          },
+          "UNLOCKED_AMIABLE": {
+            "name": "Amiable Character",
+            "description": "Amiable was one of top two traits for Daniel",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/62eb902b8d83c0e391758c0fabd196f0368e6b65.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "49.5"
+          },
+          "UNLOCKED_COMPASSION": {
+            "name": "Compassionate Soul",
+            "description": "Compassionate was one of top two traits for Andrew",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/933c602e2ff0095eaa43672339e15e2fab382e51.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/634e1cec790bfb3f1760e05ae85c8e26a3b1e4ff.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "54.9"
+          },
+          "UNLOCKED_HEADSTRONG": {
+            "name": "Headstrong Heroine",
+            "description": "Headstrong was one of top two traits for Taylor",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/ca8b40f510d72e77060e89fdea90afacf4105b97.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "35.8"
+          },
+          "UNLOCKED_MATURE": {
+            "name": "Deeper Understanding",
+            "description": "Understanding was one of top two traits for Angela",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/2efb3372f4fb273fc6213761b4c7a05e719b5e73.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "42.5"
+          },
+          "CHOOSE_HEART": {
+            "name": "Instinctive Reaction",
+            "description": "Chose all of the Heart decisions",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/3b046a8d9afd039a5ef27b1cd59826614e42d200.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.5"
+          },
+          "CHOOSE_HEAD": {
+            "name": "Considered Opinion",
+            "description": "Chose all of the Head decisions",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/677e1847cae4d2a2b622631cb450ad81480fa8be.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.5"
+          },
+          "DANIEL_REDEEMED": {
+            "name": "Unbroken",
+            "description": "Saved Daniel",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/3067b4b745a114409c7830ac8bb9c9bdd476cc25.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "36.1"
+          },
+          "TAYLOR_REDEEMED": {
+            "name": "Free Spirit",
+            "description": "Saved Taylor",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/8fae0954c3af4152a07fe708991dc06a1c3839b7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "13.9"
+          },
+          "ANGELA_REDEEMED": {
+            "name": "We Are of Water",
+            "description": "Saved Angela",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/eaa2710b887a7e1a6cafec37ffc09f863b3e12e5.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "32.1"
+          },
+          "ANDREW_REDEEMED": {
+            "name": "Strength From Within",
+            "description": "Saved Andrew",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/68b33d57281936e2422a2e9d3339c26c65677d0b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "46.1"
+          },
+          "JOHN_REDEEMED": {
+            "name": "Heavy Burden",
+            "description": "Saved John",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/a9d8f99f525fae3e5bfc6ec653e448c162e2e5d7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "30.8"
+          },
+          "FOUND_PICTURES_BLACK": {
+            "name": "Deathly Visions",
+            "description": "Found all of the black framed Pictures",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/07fce5f44a3c7fa5bee57af5fea8003f2d6b1cc0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.9"
+          },
+          "FOUND_PICTURES_WHITE": {
+            "name": "Glimmer of Hope",
+            "description": "Found all of the white framed Pictures",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/7bf2f0bd260da169c32db428efca75c4337ce87e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.8"
+          },
+          "COMPLETED_SOLO": {
+            "name": "Full Circle",
+            "description": "Completed the Solo Story",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/21ac879ebcb3815c0ea87f091e1633b12059623b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "20.1"
+          },
+          "DOOMED_ALL": {
+            "name": "No Escaping Fate",
+            "description": "Everyone died at the ruined house",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/b9a14478603e24622561823e7760467463b89e5a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "1.4"
+          },
+          "REDEEM_ALL": {
+            "name": "Salvation",
+            "description": "Everyone was saved",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/b040c201dea52b78ccec6fd3f0f34ab2716a7470.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "6.6"
+          },
+          "RELATIONSHIP_ANGELA_JOHN": {
+            "name": "The Odd Couple",
+            "description": "Maximized Angela and John's Relationship",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/1a025c48394e62809072ecd9f641beea37365207.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "5.6"
+          },
+          "RELATIONSHIP_DANIEL_TAYLOR": {
+            "name": "Solid As a Rock",
+            "description": "Maximized Daniel and Taylor's Relationship",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/38184720abd5a5e6ec440bb06f557bfb986f2d16.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "44.9"
+          },
+          "RELATIONSHIP_ANDREW_ALL": {
+            "name": "All Together Now",
+            "description": "Andrew has a good relationship with all characters",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/df3bddeaab691c60a7b82847890a7dd7753129b3.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "13.0"
+          },
+          "FOUND_FAMILY_SECRETS": {
+            "name": "Secrets Too Dark",
+            "description": "Found all family secrets",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/e7f95592dca90c5ca0b2030e835fa3a7e630dd5b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.8"
+          },
+          "FOUND_PICTURES_ALL": {
+            "name": "A Complete Picture",
+            "description": "Found all Pictures",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/4b449ad07a7a25478fe5cf51023848f745b98790.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.6"
+          },
+          "KILLED_ALL": {
+            "name": "That Dream is Your Enemy",
+            "description": "No-one survived",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/b9ff98559c5bdc3ca34ef10a4b04b179671acd43.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.0"
+          },
+          "SOLE_SURVIVOR": {
+            "name": "Fate Worse Than Death",
+            "description": "Andrew was saved from himself",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/e6e877b55a970aee075f5abbde723b463e4db226.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1194630/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "8.8"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ANDREW_REDEEMED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ANGELA_REDEEMED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "CHOOSE_HEAD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "CHOOSE_HEART": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMBAT_FIVE_IN_A_ROW": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETED_SOLO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DANIEL_REDEEMED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DOOMED_ALL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FOUND_FAMILY_SECRETS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FOUND_PICTURES_ALL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FOUND_PICTURES_BLACK": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FOUND_PICTURES_WHITE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FOUND_SUPERNATURAL_SECRETS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "JOHN_REDEEMED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KILLED_ALL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PLAYED_MODE_MOVIENIGHT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PLAYED_MODE_PROLOGUE": {
+          "earned": true,
+          "earned_time": 1782854621
+        },
+        "REDEEM_ALL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "RELATIONSHIP_ANDREW_ALL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "RELATIONSHIP_ANGELA_JOHN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "RELATIONSHIP_DANIEL_TAYLOR": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SAVE_MARY": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SOLE_SURVIVOR": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TAYLOR_DEMONS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TAYLOR_REDEEMED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UNLOCKED_AMIABLE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UNLOCKED_COMPASSION": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UNLOCKED_HEADSTRONG": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UNLOCKED_MATURE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UNLOCKED_RATIONAL": {
           "earned": false,
           "earned_time": 0
         }
@@ -7212,7 +7617,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/eb298c470566eeaa94749b587b0ae67207cf244e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.6"
+            "percent": "3.5"
           },
           "Lvl_For": {
             "name": "The Exiled Flame",
@@ -7293,7 +7698,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/b510ea9d73acc9c8885a91cba0b7edbd8f1269fe.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.9"
+            "percent": "3.8"
           },
           "Arc_Orc": {
             "name": "Path Of Restoration",
@@ -7410,7 +7815,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2ed8a536a0f447add60eac81e8f3d0491b73ca7b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.0"
+            "percent": "6.9"
           },
           "Skill_Ran": {
             "name": "Pacifist Punching Bag",
@@ -7455,7 +7860,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a3daeb09fa6f5e5480897409a92d6ae3da653d8e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.2"
+            "percent": "8.1"
           },
           "Skill_Cla": {
             "name": "Future Foreseer",
@@ -7464,7 +7869,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/09328cee34107b04d8f88f1bff3cf9d8002cd8ca.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.0"
+            "percent": "7.9"
           },
           "Skill_Lox": {
             "name": "King's Court",
@@ -7500,7 +7905,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/3629cc78580a652c22c84681fbcb6e3b6a27ebed.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.4"
+            "percent": "51.3"
           },
           "New_Emote": {
             "name": "Quick To Listen",
@@ -7527,7 +7932,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a597474b2eebdbde67c5229db16ce7cc68dc41f6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "69.2"
+            "percent": "69.1"
           },
           "New_CPU": {
             "name": "Power Down",
@@ -7536,7 +7941,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/9dbebcd2cc48d69f4251257e4def1680f37c5747.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "59.7"
+            "percent": "59.6"
           },
           "New_Training": {
             "name": "Still Skeptical",
@@ -7545,7 +7950,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/a39630f37d3498d97b8b22d17c38729ad4b07c76.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.6"
+            "percent": "40.4"
           },
           "Lvl_Eta": {
             "name": "The Glacier's Might",
@@ -7572,7 +7977,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/538bfedeeebfa89f42c49259e16fcb3ebec018cd.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "8.5"
+            "percent": "8.6"
           },
           "Skill_Eta": {
             "name": "Ice is Right!",
@@ -7644,7 +8049,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2fdb4eed8e4f023fee342d9216a3e6b55871074e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.5"
+            "percent": "4.6"
           },
           "Skill_Abs": {
             "name": "Stuck and Struck",
@@ -7698,7 +8103,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/ddba863224126ee40588fd2083a0a75bb210caf6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.4"
+            "percent": "3.5"
           },
           "Lvl_Lar": {
             "name": "The Crowd Magnet",
@@ -7725,7 +8130,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/774d1c80063d7b4e052609674a5d05e03033d750.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.5"
+            "percent": "7.6"
           },
           "Skill_Lar": {
             "name": "Heavenly Polarity Piledriver",
@@ -7734,7 +8139,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/2018b2aaebea1b2d6d32120f0c2abb57da6cc552.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.0"
+            "percent": "5.1"
           },
           "Lvl_Sla": {
             "name": "The Swagger of the Sea",
@@ -7761,7 +8166,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2217000/7137516280ab880ea3babbbee264687881f8bb6c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.4"
+            "percent": "3.5"
           },
           "Skill_Sla": {
             "name": "Bootyful",
@@ -7980,11 +8385,11 @@
         },
         "New_Emote": {
           "earned": true,
-          "earned_time": 1782766385
+          "earned_time": 1782840974
         },
         "New_Icon": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1782812469
         },
         "New_Mint": {
           "earned": false,
