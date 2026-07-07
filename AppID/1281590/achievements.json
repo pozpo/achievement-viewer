@@ -36,8 +36,8 @@
     "earned_time": 0
   },
   "HEARTTOHEART": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783355602
   },
   "ILLUMINATINGEVIDENCE": {
     "earned": false,
@@ -72,8 +72,8 @@
     "earned_time": 0
   },
   "SEMPERFI": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783355823
   },
   "SIXMINUTESOFNIGHT": {
     "earned": false,
