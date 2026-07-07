@@ -1,0 +1,343 @@
+{
+  "appid": "3768760",
+  "name": "007 First Light",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/header.jpg?t=1782807423",
+  "achievements": {
+    "KNT_Achievement_01": {
+      "name": "Icebreaker",
+      "description": "Survive the helicopter crash",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/b3332b48b48964e7ddb245b4cfe6672b33df1c68.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/aca48647f32aea7e9e160eeeb2a8fd70b85cfd3d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "94.1"
+    },
+    "KNT_Achievement_02": {
+      "name": "From Malta with love",
+      "description": "Complete your training as a recruit in Malta",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/2e75a773161a979b0b4d92613130d8da59f06b9e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/5bbc5b10b763344639247b910f22be18a4293af0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "86.2"
+    },
+    "KNT_Achievement_03": {
+      "name": "Shaken not stirred",
+      "description": "Complete your first assignment at the nightclub",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/934da489227787a7bb353fd679ab11b196c80259.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/d0f401961daa0f4b6a9d06e22ef90faa55025d56.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "84.5"
+    },
+    "KNT_Achievement_04": {
+      "name": "I expect you to die",
+      "description": "Survive the explosion at the hotel in Slovakia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/8798d04bc0571bc9756f40fb7f5b7339ac0b6f39.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a87c77082e006e58a96b105d6605339fb5ebe781.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "78.7"
+    },
+    "KNT_Achievement_05": {
+      "name": "Skyfall",
+      "description": "Jump out of a plane in Slovakia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/9e6c4787f666b5c2d6cdf3f9abfa4838faf34064.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/394f970a91f3c5738c9078dff08a602dd33f57a5.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "78.1"
+    },
+    "KNT_Achievement_06": {
+      "name": "Win, lose or die",
+      "description": "Win the auction",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a49aa7c75ed20df80bf565aa782cfacd4383ed3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a6edca7d1459ee3c60a4f5ac60fd9f82db0b706d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "72.9"
+    },
+    "KNT_Achievement_07": {
+      "name": "Nobody lives forever",
+      "description": "Find 009s body",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/4efed74f25456d5f42c449c313b7dcee98e19197.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/6e2c38a65f4609c8ca24ba3653dd1bc8fec78a86.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "71.6"
+    },
+    "KNT_Achievement_08": {
+      "name": "Trigger Mortis",
+      "description": "Escape the ambush alive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/e13e11626a097dbc6c6c47be344fdad2ef8bf0bc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/6ecb9a35118fa0cd80c435d85fffd13d9ca1e84e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.8"
+    },
+    "KNT_Achievement_09": {
+      "name": "A hard man to kill",
+      "description": "Survive an assassination attempt",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/16db7f6836d4e8e4af91c73958be71b6b19354ce.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/aa3e3ebf1a07dc580f1c14464074140592381404.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "69.2"
+    },
+    "KNT_Achievement_10": {
+      "name": "You only live twice",
+      "description": "Defeat the assassin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/857351d6f353bf26c3f84d183d2fcce9c61b30df.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/e98ec7da81790cc6073ac69d6dc43123c7cae463.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.7"
+    },
+    "KNT_Achievement_11": {
+      "name": "Agent under fire",
+      "description": "Escape in the bin lorry",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/020dea62175af4f7ccf8ce22be1660bc11044f42.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/c1f5b7f86623311f322c254fccb74c1a1dfce1f0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.4"
+    },
+    "KNT_Achievement_12": {
+      "name": "All time high",
+      "description": "Infiltrate Nicholas Webb's penthouse",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a70faad78fd6609b88297b70e161c76737e8dd34.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/eb718bf54f6047b978b241575d816181abb7cb64.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.5"
+    },
+    "KNT_Achievement_13": {
+      "name": "No time to die",
+      "description": "Escape by helicopter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/750137817822d6f47938522899f91a1fb9f41375.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/b003156a257a1018ecce032d63a9fb134d8dd55e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.8"
+    },
+    "KNT_Achievement_14": {
+      "name": "Double or die",
+      "description": "Save Theresa Lorca",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/77c00e2166958487284eeaa815ddf0b64fa2e135.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/1d2afc204efdd09aacdcadb0528004ed140e6007.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.9"
+    },
+    "KNT_Achievement_15": {
+      "name": "You know my name",
+      "description": "Defeat Damien Webb",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/ed92c00338addcae138ade3f1287bee3ef7d211c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/93d33499b30c1ee7ab42ca4befa801cf8fa64aee.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "56.4"
+    },
+    "KNT_Achievement_16": {
+      "name": "Solo",
+      "description": "Leave MI6 as a rogue agent",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/15c1c53eecaa1b6b783c79a20fa41358f1c87760.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7eaf6cfdf0d3764cc49a623fdbf8ade0bb0bcfb0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "55.3"
+    },
+    "KNT_Achievement_17": {
+      "name": "The writing is on the wall",
+      "description": "Catch Isola",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/cf3ada4d7a96f5c6f6d16e30a08e89144179bccb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a38c1755ec9f739a5eeec0dfedf7e47020c21ecc.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "KNT_Achievement_18": {
+      "name": "For king and country",
+      "description": "Defend MI6",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/905868ec8d1954b4d6493c9a0531c97f802787ee.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/cf1cb9e5f2d263f17948de1b0e0690fa654a8638.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.5"
+    },
+    "KNT_Achievement_19": {
+      "name": "The world is not enough",
+      "description": "Collect all postcards",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/5dbddb258fc8a41b1fcf18b2419b0b6e325ecee4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/3531673b9665223001c9142ba9c9c814d871449f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "KNT_Achievement_20": {
+      "name": "For your eyes only",
+      "description": "Unlock all MI6 files",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/e542f0685d2cc8a2c1fc389630fa16076f4dac88.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/0cda81ba71d30b2a2f546c864220017cf3ea7063.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "KNT_Achievement_21": {
+      "name": "Recovered assets",
+      "description": "Collect all mementos",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/9a4e4ddae7916eb392df21c5ee0dbf4954026730.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a1410479fb26d1c9a362d0f4f2643d58e96beac3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.9"
+    },
+    "KNT_Achievement_22": {
+      "name": "Casino Royale",
+      "description": "Collect all playing cards",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/1dbbf5aa2e49c0dd338f31f02d071a5e69134337.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/ed2fad2918e6df474518724ce20963035d823413.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    },
+    "KNT_Achievement_23": {
+      "name": "A collector’s habit",
+      "description": "Find all collectibles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/247db2735077da8015452a202aea9cb2819d2f90.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/1a997e57f2426717056e56aed6534a651ee37078.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.7"
+    },
+    "KNT_Achievement_24": {
+      "name": "Soft landing",
+      "description": "Tackle an enemy over a ledge",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/f63db78e74ac4f090d0480238517da3049df9fd8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/53986345d236846f30b04b3e0149c2240979d16f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "KNT_Achievement_25": {
+      "name": "Sleight of hand",
+      "description": "Disarm an enemy by shooting a weapon from their hand",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/ea87673bd63d056dd785b5d530273f120386c590.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/d4b6edf1747689bd1c11012221fcad382ff0b3a0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.3"
+    },
+    "KNT_Achievement_26": {
+      "name": "Positively shocking",
+      "description": "Make an enemy taser another enemy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/88c8741685e385a3caa4f9f352a616b8850f4afb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/77b01d2d1ed61385409522742905bfe003f83273.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.4"
+    },
+    "KNT_Achievement_27": {
+      "name": "Short fuse",
+      "description": "Shoot at an enemy while he's throwing a grenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/90df340a3674082f9f565d941cdf5556808d6a08.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7dc759daa766c7385525fb75dd0227aedea584fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "72.4"
+    },
+    "KNT_Achievement_28": {
+      "name": "He'll live",
+      "description": "Knock out an enemy by shooting him in the legs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7b01b8bd1f4319cd4079929f76705a50bfaa5b1c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/39297dee398641023bde81e413d3e1fbeffb332e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.3"
+    },
+    "KNT_Achievement_29": {
+      "name": "Firestarter",
+      "description": "Push an enemy into a fire extinguisher",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/52b5daf0927bfa54d9ffc7476606ffc9597829f1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/e0b6bb896968d5dfd170b2ae7c8a9d08efe1720b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.2"
+    },
+    "KNT_Achievement_30": {
+      "name": "Damp squib",
+      "description": "Hack a grenade before it explodes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7cb4e193bf296f1125b0931b512b82baf9a1e901.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/cca08491abd5f6b250337051f0d971a84b145918.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.2"
+    },
+    "KNT_Achievement_31": {
+      "name": "Disarming personality",
+      "description": "Disarm an enemy with a laser",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/c5dff90146c86da3743a0b8fd8c03a60cedb0587.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/9e9e03526896dfc5c716b0079540d7cbf0506270.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.4"
+    },
+    "KNT_Achievement_32": {
+      "name": "Always have an exit plan",
+      "description": "Use a gadget to escape a confrontation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/81f69644846803f6a09a7738f4bb0514cb872f80.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/3bf2c4a62b9b7233fddd150f0fc60349e3cc0f18.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "KNT_Achievement_33": {
+      "name": "What if...?",
+      "description": "Complete an Operation in TacSim",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/70f3439c7db43ed316bfadd34fb97025430e9cc8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/80293d83d6ae14dd1cd6b334ea8e00ada172dba3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.3"
+    },
+    "KNT_Achievement_34": {
+      "name": "A change of pace",
+      "description": "Complete an Escalation in TacSim",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/20acc22ae1b47d72733aef83a7d81ace6fea0ffa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/8f9d6722c080089d119372b3efdaf648bf8d7606.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.8"
+    },
+    "KNT_Achievement_35": {
+      "name": "Keep moving forward",
+      "description": "Achieve clearance level 3",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/377a247574d1057e5aa85da4a3ea2605e9a098c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/415e616341a818fb4e1e1da31459e99953ad8c57.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "KNT_Achievement_36": {
+      "name": "The readiness is all",
+      "description": "Beat tier 3 of an Escalation in TacSim",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/876df3b86d94e891bbd5137e18974c8c9833c59c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/0b8a6a26fe3608eb71e14117bf3b14d523bd68fd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.8"
+    },
+    "KNT_Achievement_37": {
+      "name": "A legacy of spycraft",
+      "description": "Discover all legacy items",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/2ac9946a74d3f23ff91c93a712548e5829dfc6da.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/f7b91736c799e416cca7da487426b19064ae947b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
