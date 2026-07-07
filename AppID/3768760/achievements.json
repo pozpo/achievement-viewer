@@ -20,20 +20,20 @@
     "earned_time": 1783437802
   },
   "KNT_Achievement_06": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783449819
   },
   "KNT_Achievement_07": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783451623
   },
   "KNT_Achievement_08": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783454169
   },
   "KNT_Achievement_09": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783455153
   },
   "KNT_Achievement_10": {
     "earned": false,
@@ -81,7 +81,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 23,
-    "progress": 0
+    "progress": 3
   },
   "KNT_Achievement_21": {
     "earned": false,
@@ -93,13 +93,13 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 36,
-    "progress": 2
+    "progress": 4
   },
   "KNT_Achievement_23": {
     "earned": false,
     "earned_time": 0,
     "max_progress": 92,
-    "progress": 4
+    "progress": 9
   },
   "KNT_Achievement_24": {
     "earned": false,
@@ -118,8 +118,8 @@
     "earned_time": 1783437802
   },
   "KNT_Achievement_28": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783453495
   },
   "KNT_Achievement_29": {
     "earned": true,
@@ -130,8 +130,8 @@
     "earned_time": 0
   },
   "KNT_Achievement_31": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1783454082
   },
   "KNT_Achievement_32": {
     "earned": false,
