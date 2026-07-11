@@ -1,0 +1,280 @@
+{
+  "appid": "1567020",
+  "name": "The Dark Pictures Anthology: The Devil in Me",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567020/header.jpg?t=1676560649",
+  "achievements": {
+    "MURDERCASTLE": {
+      "name": "Murder Castle",
+      "description": "Completed the prologue",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/6bb343f788acee5f0f2abf0ee0f399a51eb78db5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "88.5"
+    },
+    "HOPEYOUENJOYEDYOURSTAY": {
+      "name": "Hope You Enjoyed Your Stay",
+      "description": "Completed the Solo Story",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/c7d706c8855b22aeecc6dbb26fa4ca37d30078f5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.5"
+    },
+    "UNHAPPYENDING": {
+      "name": "Unhappy Ending",
+      "description": "No-one survived",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/3e66360812ed9df3660236b1078b2173c05cb026.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.5"
+    },
+    "HAPPYENDING": {
+      "name": "Happy Ending",
+      "description": "Everyone survived",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/7c97d11e99d8fc645009c29f6e763a534d80be54.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.5"
+    },
+    "HAPPIERENDING": {
+      "name": "Happier Ending",
+      "description": "The dog made it off the island alive",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/733e404c3d7d61240d19fbe3961486c4c75a24eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.3"
+    },
+    "PHOENIX": {
+      "name": "Phoenix",
+      "description": "Charlie survived the furnace",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/fb8d165547a5a6bae90806009304a09c7f74da50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "44.9"
+    },
+    "SHATTERINGEXPECTATIONS": {
+      "name": "Shattering Expectations",
+      "description": "Kate and Jamie both escaped the glass trap",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/132d276cc1edfae939c736a61216867659b1e5a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.2"
+    },
+    "HARK": {
+      "name": "Hark!",
+      "description": "Mark got the lighthouse working",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/38089e816fbb5dc974ef059210253fd0cb633313.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.1"
+    },
+    "GUILTY": {
+      "name": "Guilty",
+      "description": "The crew didn't trust Charlie and he paid the price",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/c816db52daf692d1bc3040c88697f53c679d3612.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.3"
+    },
+    "AWARDWORTHY": {
+      "name": "Award Worthy",
+      "description": "Kate fell for Du'Met's impersonation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/174d56c690603d73264453c8a226f2fe92e4a8de.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "5.1"
+    },
+    "THECYCLECONTINUES": {
+      "name": "The Cycle Continues",
+      "description": "Mark agreed to Du'Met's proposal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/ffda768178f75d303eb38816a47c576194a11721.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "0451": {
+      "name": "0451",
+      "description": "Jamie reset the fuse box",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/484889ac03272d3e20c43ba997f7d7a77f3f7484.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "45.7"
+    },
+    "LENDMEAHAND": {
+      "name": "Lend Me A Hand?",
+      "description": "Charlie's hand was crushed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/567e7557c97779e1e35aac81492624e8d319c57d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "12.1"
+    },
+    "SPARKS": {
+      "name": "Sparks",
+      "description": "Jamie and Erin kissed",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/b698c32d31770566ccc4fbcdccab2e7ec1f92e21.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "70.7"
+    },
+    "CANYOUPETTHEDOG": {
+      "name": "Can You Pet The Dog?",
+      "description": "Yes, you can pet the dog",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/455ec0b8ca80ec32042962831f3bd678a9430eb9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "10.2"
+    },
+    "REKINDLED": {
+      "name": "Rekindled",
+      "description": "Kate and Mark rekindled their relationship",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/a5f4a914665eb7a33327be762ea260748edeb9a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "EXTINGUISHED": {
+      "name": "Extinguished",
+      "description": "Jamie chose to sacrifice herself in the glass trap",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/8d4046f6abe5c96704fa53472d1155d1e74af2e8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "9.6"
+    },
+    "IGNITED": {
+      "name": "Ignited",
+      "description": "Jamie chose to save Erin in the suffocation chamber",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/f3cef3cb02c3ef3f307a15f55477c00b71ea5fac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.7"
+    },
+    "UNTILDEATHDOUSPART2": {
+      "name": "Until Death Do Us Part 2",
+      "description": "Jeff and Marie watched each other die",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/71932e02bb0da2be53a83d23eaf3c7f107aa1fbe.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "50.1"
+    },
+    "TOASTY": {
+      "name": "Toasty",
+      "description": "Charlie maintained control during dinner",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/c960175c132b265d9bfd3a64752c0fd5213af4c3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "62.8"
+    },
+    "SHOCKING": {
+      "name": "Shocking",
+      "description": "Fixed all of the fuse boxes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/5264f49fa0e0d1f06c4bb8e2fd038813be58088c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.5"
+    },
+    "HANDY": {
+      "name": "Handy",
+      "description": "Obtained all of the inventory items",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/203af02850eb9cd51c9e4147721ba681760d8227.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "CRIMESCENEPHOTOGRAPHER": {
+      "name": "Crime Scene Photographer",
+      "description": "Found all of Mark's photo opportunities",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/a48002cc3e670568fd7ca70e94552bab5ffa8da4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "SAYCHEESE": {
+      "name": "Say Cheese!",
+      "description": "Took a photo of each crew member",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/5476d4a68e36852e644ec32a42423eb845376142.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.9"
+    },
+    "INVESTIGATOR": {
+      "name": "Investigator",
+      "description": "Found all of the Silver Framed Secrets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/2dee09535dc000a4490c1c2431adb8db7dba0f2a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "MANOFMANYINTERESTS": {
+      "name": "Man of Many Interests",
+      "description": "Found all of Du'Met's business cards",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/138c67595daec48feeaf7bf0898da66e0155ac02.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "ILIKEMONEY": {
+      "name": "I Like Money",
+      "description": "Collected 200 obols",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/eaf502fdbf850553eca4736a868a58a0f8ef2d32.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.2"
+    },
+    "CAMERASHY": {
+      "name": "Camera Shy",
+      "description": "Found all of the Black Framed Pictures",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/feb363508d299cc68f990373fa60bf9d1a131c58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.4"
+    },
+    "PHOTOGENIC": {
+      "name": "Photogenic",
+      "description": "Found all of the White Framed Pictures",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/a55549d879905ad6c2d61eafc0e3857e391f12fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.4"
+    },
+    "COLLECTOR": {
+      "name": "Collector",
+      "description": "Found all of the Secrets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/32790749a22f8fd0d1763c737d9889ca87e7ec98.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1567020/dedf475cc83b9ddcb861485e600589543f879a46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.8"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
