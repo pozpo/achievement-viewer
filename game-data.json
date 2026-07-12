@@ -1,5 +1,5 @@
 {
-  "last_updated": 1783868306,
+  "last_updated": 1783889288,
   "total_games": 20,
   "games": [
     {
@@ -7479,8 +7479,8 @@
           "earned_time": 0
         },
         "HAPPYENDING": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1783883656
         },
         "HARK": {
           "earned": false,
@@ -7491,8 +7491,8 @@
           "earned_time": 0
         },
         "IGNITED": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1783874723
         },
         "ILIKEMONEY": {
           "earned": false,
@@ -7515,24 +7515,24 @@
           "earned_time": 1783796845
         },
         "PHOENIX": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1783875570
         },
         "PHOTOGENIC": {
           "earned": false,
           "earned_time": 0
         },
         "REKINDLED": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1783870149
         },
         "SAYCHEESE": {
           "earned": false,
           "earned_time": 0
         },
         "SHATTERINGEXPECTATIONS": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1783879851
         },
         "SHOCKING": {
           "earned": false,
