@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/6e2c38a65f4609c8ca24ba3653dd1bc8fec78a86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.5"
+      "percent": "71.4"
     },
     "KNT_Achievement_08": {
       "name": "Trigger Mortis",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/6ecb9a35118fa0cd80c435d85fffd13d9ca1e84e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.7"
+      "percent": "69.6"
     },
     "KNT_Achievement_09": {
       "name": "A hard man to kill",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/c1f5b7f86623311f322c254fccb74c1a1dfce1f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "KNT_Achievement_12": {
       "name": "All time high",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/eb718bf54f6047b978b241575d816181abb7cb64.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.3"
+      "percent": "62.2"
     },
     "KNT_Achievement_13": {
       "name": "No time to die",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/b003156a257a1018ecce032d63a9fb134d8dd55e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.5"
     },
     "KNT_Achievement_14": {
       "name": "Double or die",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/1d2afc204efdd09aacdcadb0528004ed140e6007.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.7"
+      "percent": "56.6"
     },
     "KNT_Achievement_15": {
       "name": "You know my name",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/93d33499b30c1ee7ab42ca4befa801cf8fa64aee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.1"
+      "percent": "56.0"
     },
     "KNT_Achievement_16": {
       "name": "Solo",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7eaf6cfdf0d3764cc49a623fdbf8ade0bb0bcfb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "55.0"
+      "percent": "54.9"
     },
     "KNT_Achievement_17": {
       "name": "The writing is on the wall",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a38c1755ec9f739a5eeec0dfedf7e47020c21ecc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.4"
+      "percent": "51.3"
     },
     "KNT_Achievement_18": {
       "name": "For king and country",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/cf1cb9e5f2d263f17948de1b0e0690fa654a8638.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.2"
+      "percent": "50.1"
     },
     "KNT_Achievement_19": {
       "name": "The world is not enough",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/d4b6edf1747689bd1c11012221fcad382ff0b3a0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.2"
+      "percent": "91.3"
     },
     "KNT_Achievement_26": {
       "name": "Positively shocking",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/77b01d2d1ed61385409522742905bfe003f83273.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "KNT_Achievement_27": {
       "name": "Short fuse",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/e0b6bb896968d5dfd170b2ae7c8a9d08efe1720b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "KNT_Achievement_30": {
       "name": "Damp squib",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/3bf2c4a62b9b7233fddd150f0fc60349e3cc0f18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "KNT_Achievement_33": {
       "name": "What if...?",
