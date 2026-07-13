@@ -10,7 +10,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/aca48647f32aea7e9e160eeeb2a8fd70b85cfd3d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "94.0"
+      "percent": "94.1"
     },
     "KNT_Achievement_02": {
       "name": "From Malta with love",
@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/5bbc5b10b763344639247b910f22be18a4293af0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "86.1"
+      "percent": "86.3"
     },
     "KNT_Achievement_03": {
       "name": "Shaken not stirred",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/d0f401961daa0f4b6a9d06e22ef90faa55025d56.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "84.4"
+      "percent": "84.6"
     },
     "KNT_Achievement_04": {
       "name": "I expect you to die",
@@ -37,7 +37,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a87c77082e006e58a96b105d6605339fb5ebe781.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "78.6"
+      "percent": "78.9"
     },
     "KNT_Achievement_05": {
       "name": "Skyfall",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/394f970a91f3c5738c9078dff08a602dd33f57a5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "77.9"
+      "percent": "78.2"
     },
     "KNT_Achievement_06": {
       "name": "Win, lose or die",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a6edca7d1459ee3c60a4f5ac60fd9f82db0b706d.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "72.7"
+      "percent": "73.1"
     },
     "KNT_Achievement_07": {
       "name": "Nobody lives forever",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/6e2c38a65f4609c8ca24ba3653dd1bc8fec78a86.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "71.4"
+      "percent": "71.9"
     },
     "KNT_Achievement_08": {
       "name": "Trigger Mortis",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/6ecb9a35118fa0cd80c435d85fffd13d9ca1e84e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.6"
+      "percent": "70.2"
     },
     "KNT_Achievement_09": {
       "name": "A hard man to kill",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/aa3e3ebf1a07dc580f1c14464074140592381404.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "69.0"
+      "percent": "69.6"
     },
     "KNT_Achievement_10": {
       "name": "You only live twice",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/e98ec7da81790cc6073ac69d6dc43123c7cae463.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.5"
+      "percent": "67.2"
     },
     "KNT_Achievement_11": {
       "name": "Agent under fire",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/c1f5b7f86623311f322c254fccb74c1a1dfce1f0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.9"
     },
     "KNT_Achievement_12": {
       "name": "All time high",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/eb718bf54f6047b978b241575d816181abb7cb64.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "62.2"
+      "percent": "63.0"
     },
     "KNT_Achievement_13": {
       "name": "No time to die",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/b003156a257a1018ecce032d63a9fb134d8dd55e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "61.4"
     },
     "KNT_Achievement_14": {
       "name": "Double or die",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/1d2afc204efdd09aacdcadb0528004ed140e6007.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.6"
+      "percent": "57.6"
     },
     "KNT_Achievement_15": {
       "name": "You know my name",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/93d33499b30c1ee7ab42ca4befa801cf8fa64aee.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.0"
+      "percent": "57.1"
     },
     "KNT_Achievement_16": {
       "name": "Solo",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7eaf6cfdf0d3764cc49a623fdbf8ade0bb0bcfb0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.9"
+      "percent": "56.0"
     },
     "KNT_Achievement_17": {
       "name": "The writing is on the wall",
@@ -154,7 +154,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a38c1755ec9f739a5eeec0dfedf7e47020c21ecc.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "51.3"
+      "percent": "52.5"
     },
     "KNT_Achievement_18": {
       "name": "For king and country",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/cf1cb9e5f2d263f17948de1b0e0690fa654a8638.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.1"
+      "percent": "51.3"
     },
     "KNT_Achievement_19": {
       "name": "The world is not enough",
@@ -172,7 +172,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/3531673b9665223001c9142ba9c9c814d871449f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "KNT_Achievement_20": {
       "name": "For your eyes only",
@@ -181,7 +181,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/0cda81ba71d30b2a2f546c864220017cf3ea7063.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "KNT_Achievement_21": {
       "name": "Recovered assets",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a1410479fb26d1c9a362d0f4f2643d58e96beac3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.8"
+      "percent": "1.9"
     },
     "KNT_Achievement_22": {
       "name": "Casino Royale",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/1a997e57f2426717056e56aed6534a651ee37078.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "1.7"
+      "percent": "1.8"
     },
     "KNT_Achievement_24": {
       "name": "Soft landing",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/53986345d236846f30b04b3e0149c2240979d16f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "15.1"
     },
     "KNT_Achievement_25": {
       "name": "Sleight of hand",
@@ -235,7 +235,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/77b01d2d1ed61385409522742905bfe003f83273.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.6"
     },
     "KNT_Achievement_27": {
       "name": "Short fuse",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7dc759daa766c7385525fb75dd0227aedea584fe.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.2"
+      "percent": "72.6"
     },
     "KNT_Achievement_28": {
       "name": "He'll live",
@@ -253,7 +253,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/39297dee398641023bde81e413d3e1fbeffb332e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.1"
+      "percent": "65.6"
     },
     "KNT_Achievement_29": {
       "name": "Firestarter",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/e0b6bb896968d5dfd170b2ae7c8a9d08efe1720b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "58.0"
+      "percent": "58.6"
     },
     "KNT_Achievement_30": {
       "name": "Damp squib",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/cca08491abd5f6b250337051f0d971a84b145918.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.1"
+      "percent": "12.3"
     },
     "KNT_Achievement_31": {
       "name": "Disarming personality",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/9e9e03526896dfc5c716b0079540d7cbf0506270.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "65.2"
+      "percent": "65.9"
     },
     "KNT_Achievement_32": {
       "name": "Always have an exit plan",
@@ -289,7 +289,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/3bf2c4a62b9b7233fddd150f0fc60349e3cc0f18.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.5"
+      "percent": "15.8"
     },
     "KNT_Achievement_33": {
       "name": "What if...?",
@@ -298,7 +298,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/80293d83d6ae14dd1cd6b334ea8e00ada172dba3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "KNT_Achievement_34": {
       "name": "A change of pace",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/8f9d6722c080089d119372b3efdaf648bf8d7606.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.8"
+      "percent": "35.0"
     },
     "KNT_Achievement_35": {
       "name": "Keep moving forward",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/415e616341a818fb4e1e1da31459e99953ad8c57.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.4"
     },
     "KNT_Achievement_36": {
       "name": "The readiness is all",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/0b8a6a26fe3608eb71e14117bf3b14d523bd68fd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.7"
+      "percent": "22.8"
     },
     "KNT_Achievement_37": {
       "name": "A legacy of spycraft",
