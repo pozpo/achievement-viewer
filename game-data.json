@@ -1,6 +1,6 @@
 {
-  "last_updated": 1783957301,
-  "total_games": 20,
+  "last_updated": 1784025878,
+  "total_games": 21,
   "games": [
     {
       "appid": "3321460",
@@ -6646,6 +6646,411 @@
       }
     },
     {
+      "appid": "2255370",
+      "info": {
+        "appid": "2255370",
+        "name": "Directive 8020",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2255370/2b4f082173300bee376ffcd0d111fc5de22e738a/header.jpg?t=1783539806",
+        "achievements": {
+          "CYCLECOMPLETE": {
+            "name": "Cycle Complete",
+            "description": "Completed all 8 episodes",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/5dac7663102532156682f3b7ac596e8b4e24275f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/61442954014d5644c276676b4e8d224a72966144.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "45.4"
+          },
+          "LIVEWITHTHECONSEQUENCES": {
+            "name": "Live with the Consequences",
+            "description": "Completed the story on Survivor Playstyle",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/1d2028cce8b692b8a4382528459202781bed1d58.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/32f60aee0144b2efdc1aab63e7baa176d97fc380.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "20.3"
+          },
+          "WAKEUPCREW": {
+            "name": "Wake-Up Crew",
+            "description": "Completed Episode 1",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/3d66889ae75d945f8ecbc36e04cd8d6be2d4927a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/a30efc7b58f730d1bbfaa196170afe62e15e6d68.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "83.0"
+          },
+          "PAINTTHEWALLS": {
+            "name": "Paint The Walls",
+            "description": "Killed the whole crew",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/0a786a17fa0e17d100e062c42b0ac650e27254d0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/1c3aa196bf05ccaa0eff1440bcc79b1dffdea7f8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.6"
+          },
+          "HUMANITARIAN": {
+            "name": "Humanitarian",
+            "description": "Saved the whole crew",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/7b7b1e3dd2116df8dabe260bed18e7fdc3a0d00e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/da4f5fbd1a0716cb37a68e4fccf3533fc0f6cce0.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "10.8"
+          },
+          "THUMBONTHELASTPAGE": {
+            "name": "Thumb on the Last Page",
+            "description": "Used a Turning Point to change your path",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/5c569b77a8c75ee0eba0f1c9fb1d9a0ce8de0d9f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/925735f6fda873e848ac764fda9cc026b36ac66d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "49.7"
+          },
+          "ODEATH": {
+            "name": "O Death",
+            "description": "Found all of the Curator's Secrets",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/80ec69f422143b5fd8a49d92ca3bc9d00f0c59fc.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/dab86f8a68ea482d6ca8e06c153cda8bc4c1b95e.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "5.1"
+          },
+          "DEARMUM": {
+            "name": "Dear Mum...",
+            "description": "Found all Simms' recordings",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/25de0631b050aa916dc553fa3dac9270fba20f82.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/e4fe0e8de18d3d9233ac9595fe7b95898e0a1a47.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "6.5"
+          },
+          "NOSTONELEFTUNTURNED": {
+            "name": "No Stone Left Unturned",
+            "description": "Found all Secrets in the game",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/c62d8dee549d48350432916ccb6321c90901825a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/60534cf19b5b2a7e6847cf6c2a0a4431131c8474.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "3.1"
+          },
+          "PERSONALITYMANIFEST": {
+            "name": "Personality Manifest",
+            "description": "Unlocked a Character Destiny",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/31300ce5c6d5ff7cb84ebf702730e4eb5312e80d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/4d62a4960f10378a4850e66843f2b535f8adb17e.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "85.9"
+          },
+          "ALLPOSSIBLEFUTURES": {
+            "name": "All Possible Futures",
+            "description": "Unlocked all Character Destinies",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/c0fe1556794ea534765ec5cb71b2f9a8a180d6a9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/63966d4dcd2341646851c66c3d28b2b1ad8d8f18.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "1.5"
+          },
+          "SOCIALBUTTERFLY": {
+            "name": "Social Butterfly",
+            "description": "Messaged every crew member",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/d8a9147d174a25f72ca5104e90c47e783e1d842a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/1233b6b634b5037064e90bbf23df590ed06cae9c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "38.6"
+          },
+          "NOTTODAYBOSS": {
+            "name": "Not Today, Boss",
+            "description": "Cernan escaped Williams without being caught",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/573027ccab36d35ee51570ba68ace5db8056a5fd.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/93be670c124ab41e3678d70cc91150a56fa244f3.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "62.2"
+          },
+          "ALWAYSWEARASEATBELT": {
+            "name": "Always Wear a Seatbelt",
+            "description": "Stafford survived the crash",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/519d9dccdb8e08bb67734029b0b1eb0b49494246.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/0919c0391962625470df8c413f4c341e6a20b4e8.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "47.1"
+          },
+          "LOSTANDFOUND": {
+            "name": "Lost and Found",
+            "description": "Found Carter's Utility Strap",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/a02494422b98b935d05b355a4ce6ce18f990dce5.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/9cdb4395b231eaa866e9c6baf4451df391d1b372.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "50.3"
+          },
+          "RIGHTTOBEARARMS": {
+            "name": "Right to Bear Arms",
+            "description": "Approved the use of the gun",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/c43a69690a2f38610c74847416d194a4c758d2e2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/1417846dc800bfefefc68aafd75d00e01b319023.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "38.4"
+          },
+          "ORGANICWASTEDISPOSAL": {
+            "name": "Organic Waste Disposal",
+            "description": "Burned the Duplicate in Waste Management",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/a833a6bb1d7a08dec014f78a4f15d4e8c40056c0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/508d4d73ae7fe2383da98b55dffa5cd6d02f7cae.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "43.1"
+          },
+          "ISTHISDECAF": {
+            "name": "Is This Decaf?",
+            "description": "Sedated Williams",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/5b75c26fd0dada337226d73ffe47ce268bbb7182.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/71556482fd3f2faa44d64715741a5aa3ee3405ba.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "45.0"
+          },
+          "THISSTEAKSRAW": {
+            "name": "This Steak's Raw",
+            "description": "Mitchell and Anders survived the experiment unharmed",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/7149d74d3a5f57eb1d1a595deaf35faefa7eb62a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/426695279e82cfcd6171647669c3a1b90a3403c7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "35.2"
+          },
+          "PASSWORD1": {
+            "name": "Password1",
+            "description": "Anders hacked into Williams' computer",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/da8f27bbb56fd1fdbfdcc4ae79c3ae53191fc524.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/5ba124421bf416f72dcf4d3c9df4b63b9653f809.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "34.8"
+          },
+          "TOTALPARTYKILL": {
+            "name": "Total Party Kill",
+            "description": "The standoff at the scanner turned into a death spiral",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/e9a579bffed7aba42f98888478a31bf128870505.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/ded87c97e6a1943b0acb42c30f8ce12fc3574a33.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.2"
+          },
+          "SUSPECTACQUITTED": {
+            "name": "Suspect Acquitted",
+            "description": "Williams was identified as human",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/626a066c4f710e8d3557b054ee0b6cebb2142696.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/dd89eb6920a573e20bee328665c2bb96a4482534.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "38.3"
+          },
+          "HUMANAFTERALL": {
+            "name": "Human After All",
+            "description": "All crew members passed safely through the scanner",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/64eb97d9bbb93770a3ffa1d93b38d8e67072f42c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/96675e91951422eaf1f4b804ba962d3ccae31545.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "18.3"
+          },
+          "THISISNOTAPLACEOFHONOR": {
+            "name": "This is Not a Place of Honor",
+            "description": "Young sent a warning to the Andromeda",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/9be95ca23ead359d020bf8c95de078d68e17dd70.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/a12fb515fbff8d7714978f11aac338dad031ffee.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "25.7"
+          },
+          "MESSAGEINABOTTLE": {
+            "name": "Message in a Bottle",
+            "description": "Young sent an SOS to the Andromeda",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/d1cee7ee44170f59c68715ce800854ce7289c9f0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/f1878d8cab236e2a595b21cfe287db0e93c07c11.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "29.5"
+          },
+          "STEALTH100": {
+            "name": "Stealth 100",
+            "description": "Returned to Bridge Ops without losing any characters",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/e373da413f8741ad48d5672f7f99602bcc6b033b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/fbe291a0b854c87f206f1731b3f1a4c5ea41ee56.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "44.3"
+          },
+          "CATSOUTTHEBAG": {
+            "name": "Cat's Out the Bag",
+            "description": "Persuaded Williams to reveal the truth about the mission",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/fccd1fa919998c092ce8fd9d21140b3f3003c6c7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/f6d24a7190f9ae573354fa80dad086e85c2cccce.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "17.1"
+          },
+          "WEHAVERESERVES": {
+            "name": "We Have Reserves",
+            "description": "Sent a second team down to redirect the fuel",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/9ecd691bfdb8f2ef04693ace607ac761a9e1c967.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/552428a5c91f018c304846aeb1950a2e8659ea80.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.7"
+          },
+          "HOMEFREE": {
+            "name": "Home Free",
+            "description": "Charted a course for Earth without any intruders on board",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/8f45e4efd89e34a41f03e80d7ab2582fac1874bc.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/6630eddb872587f7f8718d6bc627c6de47ff1377.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.6"
+          },
+          "NDABREAKER": {
+            "name": "NDA Breaker",
+            "description": "Exposed the truth about the clone program",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/11336dc4bf3429d87e958a2450fd6a482ec853b8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/6b820fb503ff9246182fb194e1323d59df913466.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "28.8"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ALLPOSSIBLEFUTURES": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ALWAYSWEARASEATBELT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "CATSOUTTHEBAG": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "CYCLECOMPLETE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DEARMUM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HOMEFREE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HUMANAFTERALL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HUMANITARIAN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ISTHISDECAF": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "LIVEWITHTHECONSEQUENCES": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "LOSTANDFOUND": {
+          "earned": true,
+          "earned_time": 1783968707
+        },
+        "MESSAGEINABOTTLE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "NDABREAKER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "NOSTONELEFTUNTURNED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "NOTTODAYBOSS": {
+          "earned": true,
+          "earned_time": 1783963803
+        },
+        "ODEATH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ORGANICWASTEDISPOSAL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PAINTTHEWALLS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PASSWORD1": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PERSONALITYMANIFEST": {
+          "earned": true,
+          "earned_time": 1783959257
+        },
+        "RIGHTTOBEARARMS": {
+          "earned": true,
+          "earned_time": 1783969592
+        },
+        "SOCIALBUTTERFLY": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "STEALTH100": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SUSPECTACQUITTED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "THISISNOTAPLACEOFHONOR": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "THISSTEAKSRAW": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "THUMBONTHELASTPAGE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TOTALPARTYKILL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WAKEUPCREW": {
+          "earned": true,
+          "earned_time": 1783959814
+        },
+        "WEHAVERESERVES": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
       "appid": "3768760",
       "info": {
         "appid": "3768760",
@@ -6695,7 +7100,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/394f970a91f3c5738c9078dff08a602dd33f57a5.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "78.2"
+            "percent": "78.3"
           },
           "KNT_Achievement_06": {
             "name": "Win, lose or die",
@@ -6704,7 +7109,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a6edca7d1459ee3c60a4f5ac60fd9f82db0b706d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "73.1"
+            "percent": "73.2"
           },
           "KNT_Achievement_07": {
             "name": "Nobody lives forever",
@@ -6713,7 +7118,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/6e2c38a65f4609c8ca24ba3653dd1bc8fec78a86.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "71.9"
+            "percent": "72.0"
           },
           "KNT_Achievement_08": {
             "name": "Trigger Mortis",
@@ -6758,7 +7163,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/eb718bf54f6047b978b241575d816181abb7cb64.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "63.0"
+            "percent": "63.1"
           },
           "KNT_Achievement_13": {
             "name": "No time to die",
@@ -6767,7 +7172,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/b003156a257a1018ecce032d63a9fb134d8dd55e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "61.4"
+            "percent": "61.5"
           },
           "KNT_Achievement_14": {
             "name": "Double or die",
@@ -6776,7 +7181,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/1d2afc204efdd09aacdcadb0528004ed140e6007.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.6"
+            "percent": "57.7"
           },
           "KNT_Achievement_15": {
             "name": "You know my name",
@@ -6785,7 +7190,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/93d33499b30c1ee7ab42ca4befa801cf8fa64aee.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "57.1"
+            "percent": "57.2"
           },
           "KNT_Achievement_16": {
             "name": "Solo",
@@ -6794,7 +7199,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7eaf6cfdf0d3764cc49a623fdbf8ade0bb0bcfb0.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "56.0"
+            "percent": "56.1"
           },
           "KNT_Achievement_17": {
             "name": "The writing is on the wall",
@@ -6803,7 +7208,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/a38c1755ec9f739a5eeec0dfedf7e47020c21ecc.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "52.5"
+            "percent": "52.6"
           },
           "KNT_Achievement_18": {
             "name": "For king and country",
@@ -6812,7 +7217,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/cf1cb9e5f2d263f17948de1b0e0690fa654a8638.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "51.3"
+            "percent": "51.4"
           },
           "KNT_Achievement_19": {
             "name": "The world is not enough",
@@ -6848,7 +7253,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/ed2fad2918e6df474518724ce20963035d823413.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.8"
+            "percent": "1.9"
           },
           "KNT_Achievement_23": {
             "name": "A collector’s habit",
@@ -6893,7 +7298,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/7dc759daa766c7385525fb75dd0227aedea584fe.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "72.6"
+            "percent": "72.7"
           },
           "KNT_Achievement_28": {
             "name": "He'll live",
@@ -6983,7 +7388,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3768760/f7b91736c799e416cca7da487426b19064ae947b.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "1.9"
+            "percent": "2.0"
           }
         },
         "platform": null,
@@ -7048,12 +7453,12 @@
           "earned_time": 1783941547
         },
         "KNT_Achievement_15": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1784017361
         },
         "KNT_Achievement_16": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1784020033
         },
         "KNT_Achievement_17": {
           "earned": false,
@@ -7073,25 +7478,25 @@
           "earned": false,
           "earned_time": 0,
           "max_progress": 23,
-          "progress": 6
+          "progress": 7
         },
         "KNT_Achievement_21": {
           "earned": false,
           "earned_time": 0,
           "max_progress": 14,
-          "progress": 5
+          "progress": 6
         },
         "KNT_Achievement_22": {
           "earned": false,
           "earned_time": 0,
           "max_progress": 36,
-          "progress": 6
+          "progress": 7
         },
         "KNT_Achievement_23": {
           "earned": false,
           "earned_time": 0,
           "max_progress": 92,
-          "progress": 19
+          "progress": 22
         },
         "KNT_Achievement_24": {
           "earned": false,
