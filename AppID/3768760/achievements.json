@@ -64,12 +64,12 @@
     "earned_time": 1784020033
   },
   "KNT_Achievement_17": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784028347
   },
   "KNT_Achievement_18": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784031500
   },
   "KNT_Achievement_19": {
     "earned": false,
@@ -81,7 +81,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 23,
-    "progress": 7
+    "progress": 8
   },
   "KNT_Achievement_21": {
     "earned": false,
@@ -99,7 +99,7 @@
     "earned": false,
     "earned_time": 0,
     "max_progress": 92,
-    "progress": 22
+    "progress": 23
   },
   "KNT_Achievement_24": {
     "earned": false,
