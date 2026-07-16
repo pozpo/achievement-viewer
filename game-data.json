@@ -1,5 +1,5 @@
 {
-  "last_updated": 1784229432,
+  "last_updated": 1784234144,
   "total_games": 22,
   "games": [
     {
@@ -6071,7 +6071,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5acb28e2b2c0438eae87163a766c5752771f5698.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.5"
+            "percent": "5.6"
           },
           "ACObsidian_Ach_3": {
             "name": "The Memory of My Enemy",
@@ -6080,7 +6080,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5770e9b95b2c6431515dd0819b035067a3e9b904.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "0.5"
+            "percent": "0.6"
           },
           "ACObsidian_Ach_4": {
             "name": "Dilettante",
@@ -6098,7 +6098,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f0d8f9ee63a809e7fbc907a61c014bd4f700d4ce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.6"
+            "percent": "24.7"
           },
           "ACObsidian_Ach_6": {
             "name": "Zero Waste",
@@ -6134,7 +6134,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5aa1269cea8161a5b9d3f3e9aebc5e1a16f83fe3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "27.0"
+            "percent": "27.1"
           },
           "ACObsidian_Ach_10": {
             "name": "Help A Brother Out",
@@ -6143,7 +6143,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/55eaee6e0c445d97dd912c8bef42d860d7bd46dc.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "37.7"
+            "percent": "37.8"
           },
           "ACObsidian_Ach_11": {
             "name": "Seven Deadly Seas",
@@ -6152,7 +6152,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/2e35632d0214c0ab3c34438abac756743a1d85c5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.3"
+            "percent": "3.4"
           },
           "ACObsidian_Ach_12": {
             "name": "Silence, Fool!",
@@ -6161,7 +6161,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c8be76b42ae07c512654afa353f8c86d7e6baf87.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.9"
+            "percent": "25.0"
           },
           "ACObsidian_Ach_13": {
             "name": "Matador",
@@ -6197,7 +6197,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/14b5b6324fd23f22ab7649e8503df36972615802.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "54.8"
+            "percent": "54.9"
           },
           "ACObsidian_Ach_17": {
             "name": "The Hangman",
@@ -6206,7 +6206,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/b2832be5101066445b5ce7090373b2189a1e09ca.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "4.5"
+            "percent": "4.6"
           },
           "ACObsidian_Ach_18": {
             "name": "Caught 'Em All",
@@ -6224,7 +6224,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f35c563cd6efdfc1d6ac46362c101a803ce82bec.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.6"
+            "percent": "19.8"
           },
           "ACObsidian_Ach_20": {
             "name": "Backs To The Wall",
@@ -6251,7 +6251,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/8461ffb76ff63f3a4ff4f943a8a2debec7982548.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.0"
+            "percent": "1.1"
           },
           "ACObsidian_Ach_23": {
             "name": "Lively Havana",
@@ -6260,7 +6260,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/b3e0bbae86417a6d6bdd895e26bde2195c8c73ce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "92.8"
+            "percent": "92.7"
           },
           "ACObsidian_Ach_24": {
             "name": "A Poxy Bird",
@@ -6287,7 +6287,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/1a6ecac1b18e86d6fbc31ba2cbe30dfa7bac0702.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.5"
           },
           "ACObsidian_Ach_27": {
             "name": "Ever A Splinter",
@@ -6296,7 +6296,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c36d4ef2919691c60b5a02bdd998007c402260e4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "3.2"
+            "percent": "3.3"
           },
           "ACObsidian_Ach_28": {
             "name": "All Hands On Deck",
@@ -6305,7 +6305,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/8d4a030e47a5698a623dfe6be5f43f4e43b83b18.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.4"
+            "percent": "3.5"
           },
           "ACObsidian_Ach_29": {
             "name": "Hungover ",
@@ -6314,7 +6314,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/3ff92e23716294795aeb8bb29a6cae1c65a4ceed.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "12.0"
+            "percent": "12.1"
           },
           "ACObsidian_Ach_30": {
             "name": "Collective Madness",
@@ -6323,7 +6323,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/1c55e7de491f33a37ebb5c5aa0141a5c3787e235.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.5"
+            "percent": "16.6"
           },
           "ACObsidian_Ach_31": {
             "name": "Strike The Colors",
@@ -6332,7 +6332,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/2d344113f47cb696e599214a39f6c9eecdd6c438.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.9"
+            "percent": "40.0"
           },
           "ACObsidian_Ach_32": {
             "name": "Unsinkable",
@@ -6359,7 +6359,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/acd6ab3b729c25d98c562d1d2ab6c27a95e80cd4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.3"
+            "percent": "16.4"
           },
           "ACObsidian_Ach_35": {
             "name": "Hunter Hunted",
@@ -6368,7 +6368,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/9fde140a80da8dfc1257e8a5b697493044e5f906.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.0"
+            "percent": "7.1"
           },
           "ACObsidian_Ach_36": {
             "name": "Devil of the Caribbean",
@@ -6386,7 +6386,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/905f0d6b185fbfc37f68276af847219fa21dfeb6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "34.3"
+            "percent": "34.4"
           },
           "ACObsidian_Ach_38": {
             "name": "Not So Little Friend",
@@ -6422,7 +6422,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/101888faefa098d8f35102a3bf760ddb0b7c54f2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "41.6"
+            "percent": "41.7"
           },
           "ACObsidian_Ach_42": {
             "name": "Ship This",
@@ -6440,7 +6440,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5f86877f184c8b18bc8a041c1590767d5da4df72.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "29.4"
+            "percent": "29.6"
           },
           "ACObsidian_Ach_44": {
             "name": "Friend To All",
@@ -6476,7 +6476,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/32221a08c7e807511c6deaec89cf66b365cb49b1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.4"
+            "percent": "1.5"
           },
           "ACObsidian_Ach_48": {
             "name": "Edward Catway",
@@ -6485,7 +6485,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/3c59fcc82946f4be852acf32d8ef6e37590fbd2b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "1.1"
+            "percent": "1.2"
           },
           "ACObsidian_Ach_49": {
             "name": "Ed the Diver",
@@ -6494,7 +6494,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c526ab32882f39937aa16d237723cca7bcd091db.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.6"
+            "percent": "18.7"
           }
         },
         "platform": null,
@@ -6688,7 +6688,8 @@
         "ACObsidian_Ach_41": {
           "description": "Spend 50,000 Reales",
           "displayName": "Business And Pleasure",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1784232344
         },
         "ACObsidian_Ach_42": {
           "description": "Fully upgrade the Jackdaw",
@@ -6733,7 +6734,8 @@
         "ACObsidian_Ach_5": {
           "description": "Restore all buildings in the Great Inagua village",
           "displayName": "Governor",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1784232565
         },
         "ACObsidian_Ach_6": {
           "description": "Restore a map from map pieces",
