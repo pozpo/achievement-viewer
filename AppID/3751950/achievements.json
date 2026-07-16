@@ -37,7 +37,8 @@
   "ACObsidian_Ach_16": {
     "description": "Complete every activity in a single location",
     "displayName": "Owned",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784221771
   },
   "ACObsidian_Ach_17": {
     "description": "Kill 10 enemies by hanging them with the rope dart",
@@ -47,7 +48,8 @@
   "ACObsidian_Ach_18": {
     "description": "Catch at least five enemies within a single smoke bomb",
     "displayName": "Caught 'Em All",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784225136
   },
   "ACObsidian_Ach_19": {
     "description": "Use pistols to kill four enemies in a row within five seconds",
@@ -161,7 +163,8 @@
   "ACObsidian_Ach_38": {
     "description": "Unlock the secondary firing mode on a Jackdaw weapon",
     "displayName": "Not So Little Friend",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784220772
   },
   "ACObsidian_Ach_39": {
     "description": "Equip new cosmetics in each of the Jackdaw's vanity slots",
