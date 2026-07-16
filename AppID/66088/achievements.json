@@ -1,278 +1,253 @@
 {
-  "ACObsidian_Ach_1": {
-    "description": "Complete the Prologue",
-    "displayName": "Prologue",
+  "1": {
+    "description": "Take a seat on a burning ship",
+    "displayName": "Last To Leave",
     "earned": 0
   },
-  "ACObsidian_Ach_10": {
-    "description": "Meet Ibuki",
-    "displayName": "The Ronin",
+  "10": {
+    "description": "Complete a Templar Hunt sequence",
+    "displayName": "Help A Brother Out",
     "earned": 0
   },
-  "ACObsidian_Ach_11": {
-    "description": "Meet Yaya",
-    "displayName": "The Warrior Monk",
+  "11": {
+    "description": "Find all treasure chests in underwater shipwrecks",
+    "displayName": "Seven Deadly Seas",
     "earned": 0
   },
-  "ACObsidian_Ach_12": {
-    "description": "Meet Katsuhime",
-    "displayName": "The Sharpshooter",
+  "12": {
+    "description": "Kill a guard ringing a bell",
+    "displayName": "Silence, Fool!",
     "earned": 0
   },
-  "ACObsidian_Ach_13": {
-    "description": "Recruit your first ally",
-    "displayName": "Build Your League",
+  "13": {
+    "description": "Dodge a total of three charge attacks by a Wild Pig",
+    "displayName": "Matador",
     "earned": 0
   },
-  "ACObsidian_Ach_14": {
-    "description": "Fully train an ally",
-    "displayName": "Front of the Pack",
+  "14": {
+    "description": "Get a perfect harpoon shot on a Great White Shark",
+    "displayName": "Perfect Predator",
     "earned": 0
   },
-  "ACObsidian_Ach_15": {
-    "description": "Master the way of the shinobi",
-    "displayName": "Art of Ninjutsu",
+  "15": {
+    "description": "Parry two Ocelot attacks in rapid succession",
+    "displayName": "Double Tap",
     "earned": 0
   },
-  "ACObsidian_Ach_16": {
-    "description": "Master the way of the samurai",
-    "displayName": "Art of Kenjutsu",
+  "16": {
+    "description": "Complete every activity in a single location",
+    "displayName": "Owned",
     "earned": 0
   },
-  "ACObsidian_Ach_17": {
-    "description": "Engrave your first weapon",
-    "displayName": "Make it Personal",
+  "17": {
+    "description": "Kill 10 enemies by hanging them with the rope dart",
+    "displayName": "The Hangman",
     "earned": 0
   },
-  "ACObsidian_Ach_18": {
-    "description": "Equip legendary gear in all slots",
-    "displayName": "Better than a Bucket",
+  "18": {
+    "description": "Catch at least five enemies within a single smoke bomb",
+    "displayName": "Caught 'Em All",
     "earned": 0
   },
-  "ACObsidian_Ach_19": {
-    "description": "Find a legendary piece of gear of each type",
-    "displayName": "Limitless",
+  "19": {
+    "description": "Use pistols to kill four enemies in a row within five seconds",
+    "displayName": "Gun-kata",
     "earned": 0
   },
-  "ACObsidian_Ach_2": {
-    "description": "Complete Act 1 of the main story",
-    "displayName": "A New League Rises",
+  "2": {
+    "description": "Capture all forts",
+    "displayName": "King of the Castle",
     "earned": 0
   },
-  "ACObsidian_Ach_20": {
-    "description": "Fully upgrade your tools and ammunition",
-    "displayName": "In Case of Trouble",
+  "20": {
+    "description": "Kill an enemy with a wall takedown",
+    "displayName": "Backs To The Wall",
     "earned": 1,
-    "earned_time": 1784207819
+    "earned_time": 1784208634
   },
-  "ACObsidian_Ach_21": {
-    "description": "Fully upgrade your rations",
-    "displayName": "Suture Self",
+  "21": {
+    "description": "After a perfect parry, perform a total of four takedowns",
+    "displayName": "Let Me Explain",
     "earned": 0
   },
-  "ACObsidian_Ach_22": {
-    "description": "Perform a landing roll",
-    "displayName": "Sometimes",
+  "22": {
+    "description": "Kick a berserk enemy caught in smoke off a ship",
+    "displayName": "Overdesign IV",
     "earned": 0
   },
-  "ACObsidian_Ach_23": {
-    "description": "Escape conflict by using a breathing reed to hide in shallow water",
-    "displayName": "Reeding is Fundamental",
+  "23": {
+    "description": "Get a tour of Havana (complete Sequence 2, Memory 1)",
+    "displayName": "Lively Havana",
     "earned": 1,
-    "earned_time": 1784207819
+    "earned_time": 1784208634
   },
-  "ACObsidian_Ach_24": {
-    "description": "Distract the same enemy 3 times with shinobi bells",
-    "displayName": "Just Your Shadow",
+  "24": {
+    "description": "Captain your own ship (complete Sequence 2, Memory 6)",
+    "displayName": "A Poxy Bird",
     "earned": 1,
-    "earned_time": 1784207819
+    "earned_time": 1784208634
   },
-  "ACObsidian_Ach_25": {
-    "description": "Stay airborne by swinging from one grappling hook point to another",
-    "displayName": "Hook, Line, and Swinger",
+  "25": {
+    "description": "Settle in a new home (complete Sequence 4, Memory 1)",
+    "displayName": "Walls That Hold Back The Wind",
     "earned": 0
   },
-  "ACObsidian_Ach_26": {
-    "description": "Perform a leap of faith from a grappling hook swing",
-    "displayName": "Acrobatics",
+  "26": {
+    "description": "Witness the end of a legend (complete Sequence 8, Memory 1)",
+    "displayName": "In A World Without Gold",
     "earned": 0
   },
-  "ACObsidian_Ach_27": {
-    "description": "Perform a leap of faith as Yasuke",
-    "displayName": "Leap of Fail",
+  "27": {
+    "description": "Stop a Templar plot (complete Sequence 12, Memory 5)",
+    "displayName": "Ever A Splinter",
     "earned": 0
   },
-  "ACObsidian_Ach_28": {
-    "description": "Perform your first assassination",
-    "displayName": "Adept Shinobi",
+  "28": {
+    "description": "Recruit all Officers",
+    "displayName": "All Hands On Deck",
     "earned": 0
   },
-  "ACObsidian_Ach_29": {
-    "description": "Assassinate an enemy through a shoji door",
-    "displayName": "Master Shinobi",
+  "29": {
+    "description": "Wake up in a haystack",
+    "displayName": "Hungover ",
     "earned": 0
   },
-  "ACObsidian_Ach_3": {
-    "description": "Complete Act 2 of the main story",
-    "displayName": "An Oath Fulfilled",
+  "3": {
+    "description": "Display all character portraits in the Great Inagua manor",
+    "displayName": "The Memory of My Enemy",
     "earned": 0
   },
-  "ACObsidian_Ach_30": {
-    "description": "Perform 5 assassinations in a row without being noticed or entering combat",
-    "displayName": "Unseen",
+  "30": {
+    "description": "Add one of each ship class to Kenway's fleet",
+    "displayName": "Collective Madness",
     "earned": 0
   },
-  "ACObsidian_Ach_31": {
-    "description": "Assassinate a powerful guardian in one go",
-    "displayName": "Giant Slayer",
+  "31": {
+    "description": "Board a Lead Convoy ship",
+    "displayName": "Strike The Colors",
     "earned": 0
   },
-  "ACObsidian_Ach_32": {
-    "description": "Perform your first Finisher as Yasuke",
-    "displayName": "Adept Samurai",
+  "32": {
+    "description": "Survive a rogue wave taken from the side",
+    "displayName": "Unsinkable",
     "earned": 0
   },
-  "ACObsidian_Ach_33": {
-    "description": "Parry an incoming projectile",
-    "displayName": "Master Samurai",
+  "33": {
+    "description": "Learn a new shanty",
+    "displayName": "Yo Ho…",
     "earned": 1,
-    "earned_time": 1784207819
+    "earned_time": 1784208634
   },
-  "ACObsidian_Ach_34": {
-    "description": "Use Samurai Stand before performing a Finisher on an enemy",
-    "displayName": "Unstoppable",
+  "34": {
+    "description": "Dash ram a ramming Brig",
+    "displayName": "Return The Favor",
     "earned": 0
   },
-  "ACObsidian_Ach_35": {
-    "description": "Kick an enemy from a high place",
-    "displayName": "This is Japan, Actually",
+  "35": {
+    "description": "Defeat a Pirate Hunter while at maximum Wanted Level",
+    "displayName": "Hunter Hunted",
     "earned": 0
   },
-  "ACObsidian_Ach_36": {
-    "description": "Perform a Finisher on an enemy that is both Poisoned and Dazed",
-    "displayName": "Overdesign III",
+  "36": {
+    "description": "Defeat all legendary ships",
+    "displayName": "Devil of the Caribbean",
     "earned": 0
   },
-  "ACObsidian_Ach_37": {
-    "description": "Sheath your weapon immediately after an enemy dies from Bleed",
-    "displayName": "Final Hearing",
+  "37": {
+    "description": "Perform 3 perfect braces",
+    "displayName": "Old Ironsides",
     "earned": 0
   },
-  "ACObsidian_Ach_38": {
-    "description": "Shoot an enemy in the knee with an arrow",
-    "displayName": "Adventurer",
+  "38": {
+    "description": "Unlock the secondary firing mode on a Jackdaw weapon",
+    "displayName": "Not So Little Friend",
     "earned": 0
   },
-  "ACObsidian_Ach_39": {
-    "description": "Complete an Objective Board",
-    "displayName": "Mortal Reminder",
+  "39": {
+    "description": "Equip new cosmetics in each of the Jackdaw's vanity slots",
+    "displayName": "Dressing Overall",
     "earned": 0
   },
-  "ACObsidian_Ach_4": {
-    "description": "Complete Act 3 of the main story",
-    "displayName": "Fall of the Shinbakufu",
+  "4": {
+    "description": "Fill all Art Collection and Equipment slots in the Great Inagua manor",
+    "displayName": "Dilettante",
     "earned": 0
   },
-  "ACObsidian_Ach_40": {
-    "description": "Defeat the final enemy in the tournament",
-    "displayName": "Test Your Might",
+  "40": {
+    "description": "Craft an item",
+    "displayName": "Smooth Operator",
     "earned": 1,
-    "earned_time": 1784207819
+    "earned_time": 1784208634
   },
-  "ACObsidian_Ach_41": {
-    "description": "Complete your first kofun",
-    "displayName": "Kofun Raider",
+  "41": {
+    "description": "Spend 50,000 Reales",
+    "displayName": "Business And Pleasure",
     "earned": 0
   },
-  "ACObsidian_Ach_42": {
-    "description": "Complete your first kata",
-    "displayName": "Good Form",
+  "42": {
+    "description": "Fully upgrade the Jackdaw",
+    "displayName": "Ship This",
     "earned": 0
   },
-  "ACObsidian_Ach_43": {
-    "description": "Complete all Kuji-kiri",
-    "displayName": "Zen Master",
+  "43": {
+    "description": "Consume 20 food items",
+    "displayName": "Glutton for Nourishment",
     "earned": 0
   },
-  "ACObsidian_Ach_44": {
-    "description": "Complete all legendary sumi-e",
-    "displayName": "A Rare Occurrence",
+  "44": {
+    "description": "Interact with all seven friendly animals",
+    "displayName": "Friend To All",
     "earned": 0
   },
-  "ACObsidian_Ach_45": {
-    "description": "Complete a collection",
-    "displayName": "Collector",
+  "45": {
+    "description": "Shoot down all the hanging bodies in Long Bay",
+    "displayName": "Blow The Man Down",
     "earned": 0
   },
-  "ACObsidian_Ach_46": {
-    "description": "Unlock the Hideout",
-    "displayName": "Sole Sanctum",
+  "46": {
+    "description": "Swim to the lowest point on the map",
+    "displayName": "Davy Jones' Locker",
     "earned": 0
   },
-  "ACObsidian_Ach_47": {
-    "description": "Add a sumi-e to the Hideout",
-    "displayName": "Chase the Morning",
+  "47": {
+    "description": "Visit every location in the game",
+    "displayName": "Cartographer",
     "earned": 0
   },
-  "ACObsidian_Ach_48": {
-    "description": "Fully upgrade a building in the Hideout",
-    "displayName": "Against Wood and Stone",
+  "48": {
+    "description": "Break 50 potted plants",
+    "displayName": "Edward Catway",
     "earned": 0
   },
-  "ACObsidian_Ach_49": {
-    "description": "Adopt a pet",
-    "displayName": "Everybody Benefits!",
+  "49": {
+    "description": "Swim a total of 1000m underwater, excluding underwater shipwrecks",
+    "displayName": "Ed the Diver",
     "earned": 0
   },
-  "ACObsidian_Ach_5": {
-    "description": "Complete the Epilogue",
-    "displayName": "Epilogue",
+  "5": {
+    "description": "Restore all buildings in the Great Inagua village",
+    "displayName": "Governor",
     "earned": 0
   },
-  "ACObsidian_Ach_50": {
-    "description": "Reach the highest point on the map",
-    "displayName": "Happy Place",
+  "6": {
+    "description": "Restore a map from map pieces",
+    "displayName": "Zero Waste",
     "earned": 0
   },
-  "ACObsidian_Ach_51": {
-    "description": "Visit every province on the map",
-    "displayName": "Pathfinder",
+  "7": {
+    "description": "Win at each of the different tavern games",
+    "displayName": "Grandmaster",
     "earned": 0
   },
-  "ACObsidian_Ach_52": {
-    "description": "Gather information using a scout",
-    "displayName": "Scouting Mission",
-    "earned": 0
-  },
-  "ACObsidian_Ach_53": {
-    "description": "Complete a contract in each province",
-    "displayName": "Would You Kindly?",
-    "earned": 0
-  },
-  "ACObsidian_Ach_54": {
-    "description": "Look for treasure behind the waterfall in the Hideout",
-    "displayName": "Made You Look!",
-    "earned": 0
-  },
-  "ACObsidian_Ach_6": {
-    "description": "Defeat all Shinbakufu",
-    "displayName": "Death Blossom",
-    "earned": 0
-  },
-  "ACObsidian_Ach_7": {
-    "description": "Meet Gennojo",
-    "displayName": "The Thief",
-    "earned": 0
-  },
-  "ACObsidian_Ach_8": {
-    "description": "Meet Oni-yuri",
-    "displayName": "The Toxin Master",
+  "8": {
+    "description": "Ensure the survival of all pirates in a street fight",
+    "displayName": "Articles Of Agreement",
     "earned": 1,
-    "earned_time": 1784207819
+    "earned_time": 1784208634
   },
-  "ACObsidian_Ach_9": {
-    "description": "Meet Yagoro",
-    "displayName": "The Eager Assassin",
+  "9": {
+    "description": "Unlock a smuggler's chest",
+    "displayName": "Among Thieves",
     "earned": 0
   }
 }
