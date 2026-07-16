@@ -185,7 +185,8 @@
   "ACObsidian_Ach_41": {
     "description": "Spend 50,000 Reales",
     "displayName": "Business And Pleasure",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784232344
   },
   "ACObsidian_Ach_42": {
     "description": "Fully upgrade the Jackdaw",
@@ -230,7 +231,8 @@
   "ACObsidian_Ach_5": {
     "description": "Restore all buildings in the Great Inagua village",
     "displayName": "Governor",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784232565
   },
   "ACObsidian_Ach_6": {
     "description": "Restore a map from map pieces",
