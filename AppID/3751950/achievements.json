@@ -7,7 +7,8 @@
   "ACObsidian_Ach_10": {
     "description": "Complete a Templar Hunt sequence",
     "displayName": "Help A Brother Out",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784281994
   },
   "ACObsidian_Ach_11": {
     "description": "Find all treasure chests in underwater shipwrecks",
