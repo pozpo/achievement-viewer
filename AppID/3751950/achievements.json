@@ -92,7 +92,8 @@
   "ACObsidian_Ach_25": {
     "description": "Settle in a new home (complete Sequence 4, Memory 1)",
     "displayName": "Walls That Hold Back The Wind",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784233739
   },
   "ACObsidian_Ach_26": {
     "description": "Witness the end of a legend (complete Sequence 8, Memory 1)",
