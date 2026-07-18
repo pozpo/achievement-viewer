@@ -1,5 +1,5 @@
 {
-  "last_updated": 1784301078,
+  "last_updated": 1784373960,
   "total_games": 22,
   "games": [
     {
@@ -8881,7 +8881,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/925735f6fda873e848ac764fda9cc026b36ac66d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.8"
+            "percent": "49.7"
           },
           "ODEATH": {
             "name": "O Death",
@@ -8899,7 +8899,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/e4fe0e8de18d3d9233ac9595fe7b95898e0a1a47.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "6.6"
+            "percent": "6.5"
           },
           "NOSTONELEFTUNTURNED": {
             "name": "No Stone Left Unturned",
@@ -8944,7 +8944,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/93be670c124ab41e3678d70cc91150a56fa244f3.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.3"
+            "percent": "62.2"
           },
           "ALWAYSWEARASEATBELT": {
             "name": "Always Wear a Seatbelt",
@@ -8971,7 +8971,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/1417846dc800bfefefc68aafd75d00e01b319023.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "38.5"
+            "percent": "38.4"
           },
           "ORGANICWASTEDISPOSAL": {
             "name": "Organic Waste Disposal",
@@ -8980,7 +8980,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/508d4d73ae7fe2383da98b55dffa5cd6d02f7cae.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "43.2"
+            "percent": "43.1"
           },
           "ISTHISDECAF": {
             "name": "Is This Decaf?",
@@ -9025,7 +9025,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/dd89eb6920a573e20bee328665c2bb96a4482534.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "38.4"
+            "percent": "38.3"
           },
           "HUMANAFTERALL": {
             "name": "Human After All",
@@ -9034,7 +9034,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/96675e91951422eaf1f4b804ba962d3ccae31545.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.4"
+            "percent": "18.3"
           },
           "THISISNOTAPLACEOFHONOR": {
             "name": "This is Not a Place of Honor",
@@ -9043,7 +9043,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/a12fb515fbff8d7714978f11aac338dad031ffee.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.8"
+            "percent": "25.7"
           },
           "MESSAGEINABOTTLE": {
             "name": "Message in a Bottle",
@@ -9052,7 +9052,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/f1878d8cab236e2a595b21cfe287db0e93c07c11.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "29.6"
+            "percent": "29.5"
           },
           "STEALTH100": {
             "name": "Stealth 100",
@@ -9061,7 +9061,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/fbe291a0b854c87f206f1731b3f1a4c5ea41ee56.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.4"
+            "percent": "44.3"
           },
           "CATSOUTTHEBAG": {
             "name": "Cat's Out the Bag",
@@ -9070,7 +9070,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/f6d24a7190f9ae573354fa80dad086e85c2cccce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.2"
+            "percent": "17.1"
           },
           "WEHAVERESERVES": {
             "name": "We Have Reserves",
@@ -9088,7 +9088,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2255370/6630eddb872587f7f8718d6bc627c6de47ff1377.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.7"
+            "percent": "11.6"
           },
           "NDABREAKER": {
             "name": "NDA Breaker",
@@ -9118,8 +9118,8 @@
           "earned_time": 0
         },
         "CYCLECOMPLETE": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1784372863
         },
         "DEARMUM": {
           "earned": false,
@@ -9142,8 +9142,8 @@
           "earned_time": 1784131241
         },
         "LIVEWITHTHECONSEQUENCES": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1784372863
         },
         "LOSTANDFOUND": {
           "earned": true,
@@ -9154,8 +9154,8 @@
           "earned_time": 0
         },
         "NDABREAKER": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1784372863
         },
         "NOSTONELEFTUNTURNED": {
           "earned": false,
