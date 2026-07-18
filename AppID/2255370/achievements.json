@@ -12,8 +12,8 @@
     "earned_time": 0
   },
   "CYCLECOMPLETE": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784372863
   },
   "DEARMUM": {
     "earned": false,
@@ -36,8 +36,8 @@
     "earned_time": 1784131241
   },
   "LIVEWITHTHECONSEQUENCES": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784372863
   },
   "LOSTANDFOUND": {
     "earned": true,
@@ -48,8 +48,8 @@
     "earned_time": 0
   },
   "NDABREAKER": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1784372863
   },
   "NOSTONELEFTUNTURNED": {
     "earned": false,
