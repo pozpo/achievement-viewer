@@ -1,6 +1,6 @@
 {
-  "last_updated": 1784373960,
-  "total_games": 22,
+  "last_updated": 1784649211,
+  "total_games": 23,
   "games": [
     {
       "appid": "1895900",
@@ -2884,6 +2884,346 @@
           "earned_time": 0
         },
         "UNTILDEATHDOUSPART2": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "2569760",
+      "info": {
+        "appid": "2569760",
+        "name": "The Mound: Omen of Cthulhu",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2569760/0a3d1867d5781f18cb4fd0b1151729605e892c6b/header.jpg?t=1784110925",
+        "achievements": {
+          "achievement1": {
+            "name": "Proven in the Field",
+            "description": "Reach Rank 10",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/36f11a450c27a2d7f6e954e90ea0997b45dc996b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/5217bb8e2f593fdc787b147a1f440dc233dc5b3c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.8"
+          },
+          "achievement2": {
+            "name": "Scarred but Standing",
+            "description": "Reach Rank 20",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/c5c88a17f0d65f57cf14c057a583d2097416ba72.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/cbe92099dab9c39049aadfd8f82ef055a6a48657.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.6"
+          },
+          "achievement3": {
+            "name": "Tempered by Madness",
+            "description": "Reach Rank 30",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/c99af29f247f685779d13c12f5e2c29a723206be.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/64c413493b79d3e85c50dd2487a51e2c133b830c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.5"
+          },
+          "achievement23": {
+            "name": "Nine Guardians",
+            "description": "Have the Woodworker craft 9 Sacred Figures",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/e46fca5625388635018825df99ed2e87c901f6c9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/be2384e46067e68250ef2de495bbc87f08c2fc1f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.0"
+          },
+          "achievement11": {
+            "name": "Records of the Lost",
+            "description": "Recover 7 logbooks from the continent",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/363f7ddfaffc22dd7ae261beca9d5b1b6f642c41.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/d4a95b18cbaf59c5debb63b167dac6d333fb046c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.1"
+          },
+          "achievement12": {
+            "name": "The Full Account",
+            "description": "Recover 13 logbooks from the continent",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/9092639d482a1939e13e720c819c706f725d00ca.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/5313d005ce31b7fdd8e645edf9da61cd61136cb2.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.9"
+          },
+          "achievement13": {
+            "name": "Patron of the Arts",
+            "description": "Find 2 additional songs for the Lute Player",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/352faebb13f2174d56b811c87568d19b569be00f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/2240571a6038b806051b8768258764da757d16f5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.0"
+          },
+          "achievement8": {
+            "name": "Relics of Blasphemy",
+            "description": "Bring back 5 new occult tools or artifacts for the galleon's shop",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/9b71112c9b7b9ae4280e3c2a88ba7cc1df2ebeca.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/2656b7faa731774bb48f11f58f67194a1046e11f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.5"
+          },
+          "achievement9": {
+            "name": "Pages Best Left Blank",
+            "description": "Unlock 7 pages of the Creature Codex",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/8fc3c267ba0b829485ac00ec4a4ee93b5855ec69.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/7d3f840d6dd1dbf6abaf231b1b40171c11fc168f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.9"
+          },
+          "achievement10": {
+            "name": "The Horrors Named",
+            "description": "Unlock 13 pages of the Creature Codex",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/ad9f91f10107b05e36f33627a0b9e82bcf6d6b97.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/6aaa414b590e6995f4c06c541aa776deb85c7676.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.1"
+          },
+          "achievement16": {
+            "name": "A Dire Commission",
+            "description": "Successfully complete a mid-Level mission",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/3ad1904965950a89c97864af87fa33a3a1a3ff97.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/2c887fb89df4fa4a2c5d581b5cd0def1cde32a83.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "30.4"
+          },
+          "achievement14": {
+            "name": "A Fateful Commission",
+            "description": "Successfully complete an advanced mission",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/6207100426475311b819e914ec27c0b6c2afdb66.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/2e5e081ef3e44249ce1fd2c26874bfbdc3089eab.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.2"
+          },
+          "achievement15": {
+            "name": "A Legendary Commission",
+            "description": "Successfully complete a legendary mission",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/c47dc4eda1fa5b91be16f868f9fedd6a7e63f2c2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/0b9e4839f69056104d97fc9457f4d725ed78684a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.7"
+          },
+          "achievement4": {
+            "name": "Pulled from the Brink",
+            "description": "Revive another player 10 times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/988dc9edaf81be6c0401646acfe8fdc2f2992525.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/3ce09b6b924f715523ca1100c0302bc456e226c6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.6"
+          },
+          "achievement5": {
+            "name": "Refusing the Grave",
+            "description": "Revive another player 30 times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/0c24a2d59daae08b415ebf858cbb8c20d1c3b3e2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/8f7380a55bb6212fa3a5d889008eb5039a1803dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.4"
+          },
+          "achievement6": {
+            "name": "Too Stubborn to Die",
+            "description": "Revive another player 50 times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/04c0c69829f4253f5c7a039dfbd4ea7b69f7a7bf.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/82b22cd361139e24d0f165a9448030799a1de3fb.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.1"
+          },
+          "achievement25": {
+            "name": "Seven Willing Souls",
+            "description": "Unlock 7 playable characters",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/dff8ff1b668b3fee25de0c8b591fea538afd6946.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/eb0b7b03dd117332890eadb8a1896885a5e44e76.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.1"
+          },
+          "achievement17": {
+            "name": "A Little Extra",
+            "description": "Recover 20% more treasure than the Captain demanded during an expedition",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/3793c2ac2b914311ea0fd0a3c8b93137427b54f5.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/476abd7b0c7bbd7a10d77fa2a3b6da013b679a80.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "90.5"
+          },
+          "achievement18": {
+            "name": "Greed Rewarded",
+            "description": "Recover 50% more treasure than the Captain demanded during an expedition",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/d0b3c2d3a98b4d0425314768b34cc5e0a4e4228c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/178985d24f49c2a0cd6fd858264344364a530cfd.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "85.2"
+          },
+          "achievement20": {
+            "name": "Like Moths to a Flame",
+            "description": "Lure 5 creatures simultaneously using a single jar of Black Ichor",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/febb8aea31692b3d2cfa622b959e3c9c5193cd4b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/5d77d6c73a2a3b06cb0fac540892bbd36cf0fa23.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.5"
+          },
+          "achievement19": {
+            "name": "Long Shot",
+            "description": "Shoot down a Bandurria mid-flight from at least 50 meters away",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/c25b24727648808f41a2b7c54883280ef4e38f05.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/a584695a8ab5aa6b5a967b9a29a0286e2eebd9a2.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.0"
+          },
+          "achievement22": {
+            "name": "One Clean Throw",
+            "description": "Kill a Y'm-bhi with a spear headshot",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/57c7de83f59a4b9ad3213356fc02d4ec87c87dab.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/9627d487477083c1b6f74fb3fb39a40c40dc39c3.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.0"
+          },
+          "achievement7": {
+            "name": "Aim True",
+            "description": "Perform 50 headshots on Y'm-bhi creatures",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/a8b2944eaa604ef941fd47605c26958c10457a5a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/99bcdc45031a828ee989a7b52312a720f2960768.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.8"
+          },
+          "achievement21": {
+            "name": "Just in Time",
+            "description": "Interrupt a Y'm-bhi just as it is about to grab an ally",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/7e374979cb6c6ee6e5343d6014c8ba04eb6fdd80.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/1854d4922f05a92024d0fb4d323813f8e7226e6e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "14.1"
+          },
+          "achievement24": {
+            "name": "The Mound",
+            "description": "Reach The Mound",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/6a8af65038d205ca32fd8821c258743b4655fb80.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2569760/44f360606f9ae78279d98306b1f9e30919aadcdc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.8"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "achievement1": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement12": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement13": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement15": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement16": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement17": {
+          "earned": true,
+          "earned_time": 1784583382
+        },
+        "achievement18": {
+          "earned": true,
+          "earned_time": 1784583382
+        },
+        "achievement19": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement2": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement20": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement23": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement5": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement6": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement7": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement8": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "achievement9": {
           "earned": false,
           "earned_time": 0
         }
