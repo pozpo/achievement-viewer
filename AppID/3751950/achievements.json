@@ -18,7 +18,8 @@
   "ACObsidian_Ach_12": {
     "description": "Kill a guard ringing a bell",
     "displayName": "Silence, Fool!",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784650161
   },
   "ACObsidian_Ach_13": {
     "description": "Dodge a total of three charge attacks by a Wild Pig",
@@ -129,7 +130,8 @@
   "ACObsidian_Ach_31": {
     "description": "Board a Lead Convoy ship",
     "displayName": "Strike The Colors",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784653704
   },
   "ACObsidian_Ach_32": {
     "description": "Survive a rogue wave taken from the side",
