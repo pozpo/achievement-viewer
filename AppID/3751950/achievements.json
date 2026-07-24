@@ -200,7 +200,8 @@
   "ACObsidian_Ach_43": {
     "description": "Consume 20 food items",
     "displayName": "Glutton for Nourishment",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1784838602
   },
   "ACObsidian_Ach_44": {
     "description": "Interact with all seven friendly animals",
