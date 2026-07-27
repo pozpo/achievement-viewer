@@ -1,0 +1,118 @@
+{
+  "appid": "4024600",
+  "name": "Pyramidion",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4024600/c95119865f21441535386af017872f90a6343a81/header.jpg?t=1780968306",
+  "achievements": {
+    "ACH_WHIP_MASTER": {
+      "name": "The Motivation Will Continue",
+      "description": "Boost your friends 25 times. Morale hasn't improved yet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.5"
+    },
+    "ACH_WIN_GAME": {
+      "name": "Pharaoh's Penthouse",
+      "description": "Reach the very top of the Pyramid. Look down on the mortals.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "ACH_LONG_THROW": {
+      "name": "Yeet!",
+      "description": "Launch the stone over 100 meters with a single strong push. Newton would be proud.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACH_COOP_PUSH": {
+      "name": "Apes Together Strong",
+      "description": "Push the stone alongside your teammates for 500 meters. Teamwork makes the dream work... mostly.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.4"
+    },
+    "ACH_WHIP_PUSH": {
+      "name": "No Pain Rocky!",
+      "description": "Push the stone for 500 meters while under the influence of the boost. Harder! Better! Faster!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.9"
+    },
+    "ACH_RESET_SPAM": {
+      "name": "Sisyphus Reborn",
+      "description": "Reset to a checkpoint 10 times. One must imagine Sisyphus happy.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "68.8"
+    },
+    "ACH_FAINT_TIRED": {
+      "name": "Need a Nap?",
+      "description": "Faint from stamina exhaustion while pushing. Cardio is hard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.7"
+    },
+    "ACH_TOXIC_FRIEND": {
+      "name": "With Friends Like These...",
+      "description": "Boost a teammate until they faint. You are a strictly results-oriented person.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.4"
+    },
+    "ACH_NO_FRACTURE": {
+      "name": "Fragile Cargo",
+      "description": "Reach the top without fracturing the stone once. Handle with care!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.1"
+    },
+    "ACH_KO_MUMMIES": {
+      "name": "Mummy Dearest",
+      "description": "Knock out every single mummy in the level. Rest in pieces.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.9"
+    },
+    "ACH_STEALTH": {
+      "name": "Silent as the Grave",
+      "description": "Clear the mummy section without triggering any aggro.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.5"
+    },
+    "ACH_NO_WHIRLPOOL": {
+      "name": "Hydrophobic",
+      "description": "Cross the sea section without getting caught in a single whirlpool.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ce3d28168dc80dd180d1839070cba8c27d31de43.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4024600/ef2909b8f9f1048a729e580a8830da4a9300dd73.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
