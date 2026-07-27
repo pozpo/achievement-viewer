@@ -1,5 +1,5 @@
 {
-  "last_updated": 1785137525,
+  "last_updated": 1785173353,
   "total_games": 25,
   "games": [
     {
@@ -10682,7 +10682,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2369390/8e92d7bc11dbfb50513624568708d796e97d419b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.2"
+            "percent": "21.1"
           },
           "FC6_Ach_5": {
             "name": "Voz del Pueblo",
@@ -10907,7 +10907,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2369390/14a8f27b6a8bb5e9cb6f0513b336e915bed0cea2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "9.6"
+            "percent": "9.5"
           },
           "FC6_Ach_30": {
             "name": "@CanYouPetTheCroc",
@@ -10916,7 +10916,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2369390/36c75a7d4d4bd2015bb7655d969509b45e79f355.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.1"
+            "percent": "44.0"
           },
           "FC6_Ach_31": {
             "name": "Strutting His Stuff",
@@ -11024,7 +11024,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2369390/30dc2439b6177c96a0506cb592a1b86473dc559c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "24.4"
+            "percent": "24.3"
           },
           "FC6_Ach_43": {
             "name": "Didn't See That Coming!",
@@ -11545,497 +11545,497 @@
         "uses_db": false
       },
       "achievements": {
-        "1": {
+        "FC6_Ach_1": {
           "description": "Select Dani's look (Solo Campaign only)",
           "displayName": "Yo Soy Dani Rojas",
           "earned": 0
         },
-        "10": {
+        "FC6_Ach_10": {
           "description": "Return 3 FND Resource vehicles in mint condition",
           "displayName": "Finders Keepers!",
           "earned": 0
         },
-        "11": {
+        "FC6_Ach_11": {
           "description": "Capture 10 Checkpoints (Solo Campaign only)",
           "displayName": "Check It Out",
           "earned": 0
         },
-        "12": {
+        "FC6_Ach_12": {
           "description": "Blow up 16 Anti-Aircraft Cannons (Solo Campaign only)",
           "displayName": "Friendly Skies",
           "earned": 0
         },
-        "13": {
+        "FC6_Ach_13": {
           "description": "Intercept 10 Military Supply Drops (Solo Campaign Only)",
           "displayName": "It's Raining Treasure!",
           "earned": 0
         },
-        "14": {
+        "FC6_Ach_14": {
           "description": "Complete the Yaran Story \"Triada Blessings\"",
           "displayName": "Undying Tradition",
           "earned": 0
         },
-        "15": {
+        "FC6_Ach_15": {
           "description": "Win a Cockfighting match",
           "displayName": "Top of the Pecking Order",
           "earned": 0
         },
-        "16": {
+        "FC6_Ach_16": {
           "description": "Complete 3 Gran Premios",
           "displayName": "Speed Racer",
           "earned": 0
         },
-        "17": {
+        "FC6_Ach_17": {
           "description": "Win a Dominoes game",
           "displayName": "Beginner's Luck",
           "earned": 0
         },
-        "18": {
+        "FC6_Ach_18": {
           "description": "Complete a Special Operation",
           "displayName": "Overheated",
           "earned": 0
         },
-        "19": {
+        "FC6_Ach_19": {
           "description": "Successfully complete 5 Bandido Operations",
           "displayName": "Alpha Guerrilla",
           "earned": 0
         },
-        "2": {
+        "FC6_Ach_2": {
           "description": "Find your way to Miami",
           "displayName": "Hidden In Plain Sight",
           "earned": 0
         },
-        "20": {
+        "FC6_Ach_20": {
           "description": "Perform a Vehicle Machete Kill from a horse",
           "displayName": "Road Rage",
           "earned": 0
         },
-        "21": {
+        "FC6_Ach_21": {
           "description": "Collect 49 Unique Weapons",
           "displayName": "Armed to the Teeth",
           "earned": 0
         },
-        "22": {
+        "FC6_Ach_22": {
           "description": "Fully upgrade one Camp Facility at any Guerrilla Camp (Solo Campaign only)",
           "displayName": "Hogar Dulce Hogar",
           "earned": 0
         },
-        "23": {
+        "FC6_Ach_23": {
           "description": "Acquire every Supremo in Yara",
           "displayName": "Backpacking",
           "earned": 0
         },
-        "24": {
+        "FC6_Ach_24": {
           "description": "Purchase 15 Meals",
           "displayName": "Fry Cry",
           "earned": 0
         },
-        "25": {
+        "FC6_Ach_25": {
           "description": "Find 15 USB Sticks",
           "displayName": "That's My Jam",
           "earned": 0
         },
-        "26": {
+        "FC6_Ach_26": {
           "description": "Unlock 15 Criptograma Chests",
           "displayName": "That's Puzzling",
           "earned": 0
         },
-        "27": {
+        "FC6_Ach_27": {
           "description": "Collect all 4 Rides",
           "displayName": "Car Cry",
           "earned": 0
         },
-        "28": {
+        "FC6_Ach_28": {
           "description": "Find all Roosters",
           "displayName": "Recrooster",
           "earned": 0
         },
-        "29": {
+        "FC6_Ach_29": {
           "description": "Recruit 5 Amigos",
           "displayName": "Loyal Army",
           "earned": 0
         },
-        "3": {
+        "FC6_Ach_3": {
           "description": "Recruit the Legends of '67 and La Moral",
           "displayName": "Cutting Foreign Ties",
           "earned": 0
         },
-        "30": {
+        "FC6_Ach_30": {
           "description": "Pet Guapo",
           "displayName": "@CanYouPetTheCroc",
           "earned": 0
         },
-        "31": {
+        "FC6_Ach_31": {
           "description": "Equip ChicharrÃ³n with the Motherclucker Outfit",
           "displayName": "Strutting His Stuff",
           "earned": 0
         },
-        "32": {
+        "FC6_Ach_32": {
           "description": "Distract 10 soldiers with Chorizo",
           "displayName": "Secret Weapon",
           "earned": 0
         },
-        "33": {
+        "FC6_Ach_33": {
           "description": "Take out 10 soldiers with active Heat",
           "displayName": "Heated Conflict",
           "earned": 0
         },
-        "34": {
+        "FC6_Ach_34": {
           "description": "Take out a shark with an explosion",
           "displayName": "Jawson Brody",
           "earned": 0
         },
-        "35": {
+        "FC6_Ach_35": {
           "description": "Catch 10 fish",
           "displayName": "Sophishticated",
           "earned": 0
         },
-        "36": {
+        "FC6_Ach_36": {
           "description": "Take out a soldier by sabotaging an alarm",
           "displayName": "Outdated Tech",
           "earned": 0
         },
-        "37": {
+        "FC6_Ach_37": {
           "description": "Take out 3 Insurgent Leaders",
           "displayName": "Oh No You Don't!",
           "earned": 0
         },
-        "38": {
+        "FC6_Ach_38": {
           "description": "Take out 10 Special Forces soldiers",
           "displayName": "Not So Special",
           "earned": 0
         },
-        "39": {
+        "FC6_Ach_39": {
           "description": "Disable and hijack a tank using an EMP device",
           "displayName": "Not So Tough",
           "earned": 0
         },
-        "4": {
+        "FC6_Ach_4": {
           "description": "Recruit the Monteros",
           "displayName": "Montero Justicia",
           "earned": 0
         },
-        "40": {
+        "FC6_Ach_40": {
           "description": "Hunt all Mythical Animals (Solo Campaign only)",
           "displayName": "Ultimate Predator",
           "earned": 0
         },
-        "41": {
+        "FC6_Ach_41": {
           "description": "Slide 200m at once",
           "displayName": "Slip Sliding Away",
           "earned": 0
         },
-        "42": {
+        "FC6_Ach_42": {
           "description": "Run over 10 soldiers in a vehicle",
           "displayName": "Hit 'n Run",
           "earned": 0
         },
-        "43": {
+        "FC6_Ach_43": {
           "description": "Use a Security Control Center to disable all cameras and alarms",
           "displayName": "Didn't See That Coming!",
           "earned": 0
         },
-        "44": {
+        "FC6_Ach_44": {
           "description": "Take out a soldier from 50m above them",
           "displayName": "Death From Above",
           "earned": 0
         },
-        "45": {
+        "FC6_Ach_45": {
           "description": "Have poisoned soldiers kill 5 other enemies",
           "displayName": "Toxic Influence",
           "earned": 0
         },
-        "46": {
+        "FC6_Ach_46": {
           "description": "Equip a full matching Gear Set",
           "displayName": "Fashionista",
           "earned": 0
         },
-        "47": {
+        "FC6_Ach_47": {
           "description": "Install every Mod on a single Resolver Weapon",
           "displayName": "Do It Yourself",
           "earned": 0
         },
-        "48": {
+        "FC6_Ach_48": {
           "description": "Build one of each Camp Facility (Solo Campaign only)",
           "displayName": "Glamping",
           "earned": 0
         },
-        "49": {
+        "FC6_Ach_49": {
           "description": "Have 10 parts installed on a Ride",
           "displayName": "Furiously Fast",
           "earned": 0
         },
-        "5": {
+        "FC6_Ach_5": {
           "description": "Recruit MÃ¡ximas Matanzas",
           "displayName": "Voz del Pueblo",
           "earned": 0
         },
-        "50": {
+        "FC6_Ach_50": {
           "description": "Reach the Rank of Comandante",
           "displayName": "Glorious Leader",
           "earned": 0
         },
-        "51": {
+        "FC6_Ach_51": {
           "description": "Complete any Special Operation without exceeding 50% on the PG-240X's temperature meter",
           "displayName": "Stay Cool",
           "earned": 0
         },
-        "52": {
+        "FC6_Ach_52": {
           "description": "Locate a stash of hidden Moneda in any Special Operation",
           "displayName": "Hidden Cash",
           "earned": 0
         },
-        "53": {
+        "FC6_Ach_53": {
           "description": "Free 30 hostages during a Lola's Informants challenge in any Special Operation",
           "displayName": "Termination Phase",
           "earned": 0
         },
-        "54": {
+        "FC6_Ach_54": {
           "description": "Complete Special Operation: Cocodrilo on Mastery 3 difficulty",
           "displayName": "Crocodile Tears",
           "earned": 0
         },
-        "55": {
+        "FC6_Ach_55": {
           "description": "Complete Special Operation: Mesozoico on Mastery 3 difficulty",
           "displayName": "Extinction Level Event",
           "earned": 0
         },
-        "56": {
+        "FC6_Ach_56": {
           "description": "Complete Special Operation: Los Tres Santos on Mastery 3 difficulty",
           "displayName": "Everything Must Go",
           "earned": 0
         },
-        "57": {
+        "FC6_Ach_57": {
           "description": "Complete Special Operation: Puerta del EdÃ©n on Mastery 3 difficulty",
           "displayName": "Queenslayer",
           "earned": 0
         },
-        "58": {
+        "FC6_Ach_58": {
           "description": "Complete Special Operation: Maceo on Mastery 3 difficulty",
           "displayName": "Agua Mala",
           "earned": 0
         },
-        "59": {
+        "FC6_Ach_59": {
           "description": "Escape Vaas' mind",
           "displayName": "No, I Won",
           "earned": 0
         },
-        "6": {
+        "FC6_Ach_6": {
           "description": "Take back Yara",
           "displayName": "Viva La RevoluciÃ³n",
           "earned": 0
         },
-        "60": {
+        "FC6_Ach_60": {
           "description": "Escape Vaasâ€™ mind with a score of at least 25,000",
           "displayName": "I Rule This Kingdom",
           "earned": 0
         },
-        "61": {
+        "FC6_Ach_61": {
           "description": "Carry at least 8,000 Cash at one time",
           "displayName": "The 1%",
           "earned": 0
         },
-        "62": {
+        "FC6_Ach_62": {
           "description": "Discover every location in Vaas' mind",
           "displayName": "This Is Your Brain",
           "earned": 0
         },
-        "63": {
+        "FC6_Ach_63": {
           "description": "Unlock all weapons in Vaas' Armory (Solo Game only)",
           "displayName": "Freudian Field Day",
           "earned": 0
         },
-        "64": {
+        "FC6_Ach_64": {
           "description": "Collect all of Vaas' Diary Pages",
           "displayName": "Dear Diary",
           "earned": 0
         },
-        "65": {
+        "FC6_Ach_65": {
           "description": "Collect all of the Vaas Chibis",
           "displayName": "Puff, Puff, Vaas",
           "earned": 0
         },
-        "66": {
+        "FC6_Ach_66": {
           "description": "Collect all of the Visions in Vaas' mind",
           "displayName": "So Much For Poetics",
           "earned": 0
         },
-        "67": {
+        "FC6_Ach_67": {
           "description": "Fully upgrade all Weapon Cases in Vaas' Armory (Solo Game only)",
           "displayName": "Self-Help",
           "earned": 0
         },
-        "68": {
+        "FC6_Ach_68": {
           "description": "Escape Vaas' mind at Mind Level 5",
           "displayName": "Definition of Insanity",
           "earned": 0
         },
-        "69": {
+        "FC6_Ach_69": {
           "description": "Escape Pagan's mind",
           "displayName": "True End(ing)",
           "earned": 0
         },
-        "7": {
+        "FC6_Ach_7": {
           "description": "Capture an FND Base without being detected (Solo Campaign only)",
           "displayName": "Ninjerilla",
           "earned": 0
         },
-        "70": {
+        "FC6_Ach_70": {
           "description": "Escape Pagan's mind with a score of at least 25,000",
           "displayName": "Mind Monarch",
           "earned": 0
         },
-        "71": {
+        "FC6_Ach_71": {
           "description": "Carry at least 8,000 Respect at once",
           "displayName": "Pocket Money",
           "earned": 0
         },
-        "72": {
+        "FC6_Ach_72": {
           "description": "Discover every location in Pagan's mind",
           "displayName": "Enlightened Monarch",
           "earned": 0
         },
-        "73": {
+        "FC6_Ach_73": {
           "description": "Unlock all weapons in Pagan's Armory (Solo Game only)",
           "displayName": "Accessorizing",
           "earned": 0
         },
-        "74": {
+        "FC6_Ach_74": {
           "description": "Collect all of Pagan's Diary Pages",
           "displayName": "Early Drafts",
           "earned": 0
         },
-        "75": {
+        "FC6_Ach_75": {
           "description": "Collect all of the Pagan Chibis",
           "displayName": "Vanity Project",
           "earned": 0
         },
-        "76": {
+        "FC6_Ach_76": {
           "description": "Collect all of the Visions in Pagan's mind",
           "displayName": "Radio is More My Thing",
           "earned": 0
         },
-        "77": {
+        "FC6_Ach_77": {
           "description": "Have 8 Power equipped at one time",
           "displayName": "Min-Maxed",
           "earned": 0
         },
-        "78": {
+        "FC6_Ach_78": {
           "description": "Escape Pagan's mind at Mind Level 5",
           "displayName": "What's a King to a God?",
           "earned": 0
         },
-        "79": {
+        "FC6_Ach_79": {
           "description": "Successfully escape Joseph's mind",
           "displayName": "A New Dawn",
           "earned": 0
         },
-        "8": {
+        "FC6_Ach_8": {
           "description": "Capture an FND base with a Co-op partner",
           "displayName": "Co-Dependent",
           "earned": 0
         },
-        "80": {
+        "FC6_Ach_80": {
           "description": "Escape Joseph's mind with a score of at least 25,000",
           "displayName": "Crusader",
           "earned": 0
         },
-        "81": {
+        "FC6_Ach_81": {
           "description": "Carry at least 8,000 Penance at one time",
           "displayName": "Non-Profit",
           "earned": 0
         },
-        "82": {
+        "FC6_Ach_82": {
           "description": "Discover every location in Joseph's mind",
           "displayName": "Pilgrimage",
           "earned": 0
         },
-        "83": {
+        "FC6_Ach_83": {
           "description": "Unlock all weapons in Joseph's Armory (Solo Game only)",
           "displayName": "Prepper",
           "earned": 0
         },
-        "84": {
+        "FC6_Ach_84": {
           "description": "Collect all of Joseph's Diary Pages",
           "displayName": "Family History",
           "earned": 0
         },
-        "85": {
+        "FC6_Ach_85": {
           "description": "Collect all of the Joseph Chibis",
           "displayName": "False Idols",
           "earned": 0
         },
-        "86": {
+        "FC6_Ach_86": {
           "description": "Collect all of the Visions in Joseph's mind",
           "displayName": "Parables",
           "earned": 0
         },
-        "87": {
+        "FC6_Ach_87": {
           "description": "Unlock all of Joseph's traits in the Mirror",
           "displayName": "Heavenly Father",
           "earned": 0
         },
-        "88": {
+        "FC6_Ach_88": {
           "description": "Escape Joseph's mind at Mind Level 5",
           "displayName": "Walking the Path",
           "earned": 0
         },
-        "89": {
+        "FC6_Ach_89": {
           "description": "Escape the Encasement with Fai's help",
           "displayName": "Back Home",
           "earned": 0
         },
-        "9": {
+        "FC6_Ach_9": {
           "description": "Capture all FND Bases (Solo Campaign only)",
           "displayName": "Liberty",
           "earned": 0
         },
-        "90": {
+        "FC6_Ach_90": {
           "description": "Collect all 5 Vessel Shards",
           "displayName": "Intergalactic Mechanic",
           "earned": 0
         },
-        "91": {
+        "FC6_Ach_91": {
           "description": "Enter the portal and complete Fractured Fortress",
           "displayName": "Refracted Yara",
           "earned": 0
         },
-        "92": {
+        "FC6_Ach_92": {
           "description": "Complete 5 consecutive rifts without using glints to respawn",
           "displayName": "Now You're Riftin'",
           "earned": 0
         },
-        "93": {
+        "FC6_Ach_93": {
           "description": "Complete a run in Lost Between Worlds in 15 minutes",
           "displayName": "Flawless Clarity",
           "earned": 0
         },
-        "94": {
+        "FC6_Ach_94": {
           "description": "Take out 25 Defense Units with gadgets",
           "displayName": "Into the Void",
           "earned": 0
         },
-        "95": {
+        "FC6_Ach_95": {
           "description": "Take out 10 Defense Units with melee attacks in one run of The Maze",
           "displayName": "Mighty Minotaur",
           "earned": 0
         },
-        "96": {
+        "FC6_Ach_96": {
           "description": "Swim to a depth of 185 meters in Sunken Esperanza",
           "displayName": "Yaran National Scuba Team",
           "earned": 0
         },
-        "97": {
+        "FC6_Ach_97": {
           "description": "Take out 20 Defense Units in one run of Death by Darkness",
           "displayName": "Sun Striker",
           "earned": 0
         },
-        "98": {
+        "FC6_Ach_98": {
           "description": "Blow up 30 Defense Units as Fai in Comandante Fai",
           "displayName": "Demolitions Expert",
           "earned": 0
         },
-        "99": {
+        "FC6_Ach_99": {
           "description": "Complete Color Combat without Dani's health falling to a critical level",
           "displayName": "Crystal Crusader",
           "earned": 0
