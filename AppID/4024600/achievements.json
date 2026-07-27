@@ -1,0 +1,50 @@
+{
+  "ACH_COOP_PUSH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FAINT_TIRED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_KO_MUMMIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LONG_THROW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NO_FRACTURE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_NO_WHIRLPOOL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RESET_SPAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_STEALTH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_TOXIC_FRIEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WHIP_MASTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WHIP_PUSH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_WIN_GAME": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
