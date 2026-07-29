@@ -1,0 +1,100 @@
+{
+  "appid": "3570070",
+  "name": "Paddle Paddle Paddle",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570070/35be35d69c576eeb612eaf49aa62f24689cdc798/header.jpg?t=1783433504",
+  "achievements": {
+    "ACH_PARK": {
+      "name": "The Park",
+      "description": "Complete the Park Area",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/c415ea56944721f37761fe3b25c26892d3bc3c5e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/23f71664e75d45c6ef9e69970351539916252a20.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.5"
+    },
+    "ACH_CAVE": {
+      "name": "The Cave",
+      "description": "Complete the Cave Area",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/a1f8aedd60b69ff28b84ec1f850351355a83c787.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/d62d3bce5faf64244fde046d1ce8e11b2a70821a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.3"
+    },
+    "ACH_PIPES": {
+      "name": "The Pipes",
+      "description": "Complete the Pipe Area",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/6d70ac66ded12fbf7e3983becfc14c576bb1b820.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/ebe3be888da303c1bae119ba3c626165d32b8ae8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "38.4"
+    },
+    "ACH_CITY": {
+      "name": "The City",
+      "description": "Complete the City Area",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/24f0107c4e88e8d5df17a268fef9fc609e7233b7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/730d6575a8d4279bec09cc6b02e7938497dd3d4d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.0"
+    },
+    "ACH_OPEN_SEA": {
+      "name": "The Ocean",
+      "description": "Complete the Ocean Area",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/e6c116627c550e9f7f5933f4d15996bcacae4aac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/55be6c5a230295cb380995a9c633c74c17cd1273.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "30.2"
+    },
+    "ACH_JUNGLE": {
+      "name": "The Jungle",
+      "description": "Complete the Jungle Area",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/e7e3defb6e0fd71372bd844ade91ac90f5521f8c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/98986b4de4a7c696c0b312e50431acd835d1401b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "ACH_VULCANO": {
+      "name": "The Vulcano",
+      "description": "Complete the Vulcano",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/f6a264f096245b4e9c3f2af77b47a7151678bfab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/f4b40499a9faddfafa7df995499305d1f0622da5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.6"
+    },
+    "ACH_Collector": {
+      "name": "Collector",
+      "description": "Find and Collect all Skins (13)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/d3d8cc5f97a7118c24a42bfa6d66bf93875a2f0d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/de3017c7332c6cc36ecce33260272674739e624f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.6"
+    },
+    "ACH_PADDLE_FASTER": {
+      "name": "Paddle Faster",
+      "description": "Complete the Full Game within 2 hours",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/33b52851d83a41abec669dc87c159a1b8e19be8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/e0c1384cf72f8983039fba1fd79e8abe1f74d3fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "ACH_PADDLE_PADDLE_PADDLE": {
+      "name": "Paddle Paddle Paddle",
+      "description": "Paddle 5,000 times",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/88b66c952a0547b4bfac458f7150d1e30ee3fc26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/b16ed9f6a6339164db4860435f551e7a1d285249.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "73.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

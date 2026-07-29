@@ -1,6 +1,6 @@
 {
-  "last_updated": 1785249504,
-  "total_games": 25,
+  "last_updated": 1785315678,
+  "total_games": 27,
   "games": [
     {
       "appid": "570940",
@@ -4045,6 +4045,151 @@
       }
     },
     {
+      "appid": "3722330",
+      "info": {
+        "appid": "3722330",
+        "name": "Shift At Midnight",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1784981268",
+        "achievements": {
+          "ACH_FIRST_BLOOD": {
+            "name": "First Blood",
+            "description": "Kill Your First Customer",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/2ea4cbf49baba558b5ea9e6d9bbaba5543725c1d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/32a34650097381a6c0df6ad07ebb0b23f4cd2b13.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "96.8"
+          },
+          "ACH_STILL_BREATHING": {
+            "name": "Still Breathing",
+            "description": "Survive Your First Hunt",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/bcd09ba0a829c9e4e070327d97599c8137bacd46.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/87926c32405d3e5d4f546a19a02bb497c5eff77c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "93.1"
+          },
+          "ACH_SILENCED": {
+            "name": "Silenced",
+            "description": "Kill a Shrieking Doll",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/fa90b1ac6503c90a90f6733a2c30ccd4d9f71285.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/1f168e1f770b554826baf50a7ce1725253376f88.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "88.3"
+          },
+          "ACH_FREED": {
+            "name": "Freed",
+            "description": "Kill a Demented",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/31c05138b5ba2c71b7412e3c66e3efa0a50065a1.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/23af9f800246a7817ae9341743fc3c47fc346d01.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "76.0"
+          },
+          "ACH_LAST_PERFORMANCE": {
+            "name": "Last Performance",
+            "description": "Kill a Marionette",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/66a5caf5e81313e778899611339b17f48769675d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/ca88a3c26ff0ed3230a6d91a3526f0dd28e1b6c7.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "36.4"
+          },
+          "ACH_RELENTLESS": {
+            "name": "Relentless",
+            "description": "Finish a Hunt within 30 seconds",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/322e25fb0bdba133fb0df24af82c71fba4cb7955.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/9587f06ea6cb075aa1e00a6483f4599916573955.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "41.1"
+          },
+          "ACH_LOCKED_AND_LOADED": {
+            "name": "Locked And Loaded",
+            "description": "Purchase all Melee Weapons & Fill out the Weapons Arsenal",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/fe994794d607abea0816815f3cee3dc33d983c78.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/8dec0dabcfaf9de4385d26c8d9e1d809439f4f13.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.4"
+          },
+          "ACH_GRAVE_DECISION": {
+            "name": "Grave Decision",
+            "description": "Let Clyde die in exchange for your Pet's life",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/91ba0bb969e34afdf15eb1d707546bdcdcade0d2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/7c7c096294ae10535f05b79252a1b1b6fc8d734a.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "26.8"
+          },
+          "ACH_EMPTY_HOME": {
+            "name": "Empty Home",
+            "description": "Let your Pet die in exchange for Clyde's life",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/f57c06b54fc943dff0d554f6510481f8ceef0769.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/0a67371df6da36b1ffdea01e19cf1de144343436.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "7.4"
+          },
+          "ACH_TRUE_ENDING": {
+            "name": "True Ending",
+            "description": "Keep both your Pet and Clyde alive",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/2e9dc71498e42d8896bd5853474d2fd95911727d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3722330/0710f9ca608a56d0e2104f3c024e3d6a2339050d.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "13.9"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ACH_EMPTY_HOME": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_FIRST_BLOOD": {
+          "earned": true,
+          "earned_time": 1785254955
+        },
+        "ACH_FREED": {
+          "earned": true,
+          "earned_time": 1785263761
+        },
+        "ACH_GRAVE_DECISION": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_LAST_PERFORMANCE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_LOCKED_AND_LOADED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_RELENTLESS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SILENCED": {
+          "earned": true,
+          "earned_time": 1785259032
+        },
+        "ACH_STILL_BREATHING": {
+          "earned": true,
+          "earned_time": 1785256480
+        },
+        "ACH_TRUE_ENDING": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
       "appid": "2605790",
       "info": {
         "appid": "2605790",
@@ -5934,6 +6079,151 @@
           "earned_time": 0
         },
         "ACH42": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "3570070",
+      "info": {
+        "appid": "3570070",
+        "name": "Paddle Paddle Paddle",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570070/35be35d69c576eeb612eaf49aa62f24689cdc798/header.jpg?t=1783433504",
+        "achievements": {
+          "ACH_PARK": {
+            "name": "The Park",
+            "description": "Complete the Park Area",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/c415ea56944721f37761fe3b25c26892d3bc3c5e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/23f71664e75d45c6ef9e69970351539916252a20.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "44.5"
+          },
+          "ACH_CAVE": {
+            "name": "The Cave",
+            "description": "Complete the Cave Area",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/a1f8aedd60b69ff28b84ec1f850351355a83c787.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/d62d3bce5faf64244fde046d1ce8e11b2a70821a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "41.3"
+          },
+          "ACH_PIPES": {
+            "name": "The Pipes",
+            "description": "Complete the Pipe Area",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/6d70ac66ded12fbf7e3983becfc14c576bb1b820.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/ebe3be888da303c1bae119ba3c626165d32b8ae8.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "38.4"
+          },
+          "ACH_CITY": {
+            "name": "The City",
+            "description": "Complete the City Area",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/24f0107c4e88e8d5df17a268fef9fc609e7233b7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/730d6575a8d4279bec09cc6b02e7938497dd3d4d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "31.0"
+          },
+          "ACH_OPEN_SEA": {
+            "name": "The Ocean",
+            "description": "Complete the Ocean Area",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/e6c116627c550e9f7f5933f4d15996bcacae4aac.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/55be6c5a230295cb380995a9c633c74c17cd1273.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "30.2"
+          },
+          "ACH_JUNGLE": {
+            "name": "The Jungle",
+            "description": "Complete the Jungle Area",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/e7e3defb6e0fd71372bd844ade91ac90f5521f8c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/98986b4de4a7c696c0b312e50431acd835d1401b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "22.4"
+          },
+          "ACH_VULCANO": {
+            "name": "The Vulcano",
+            "description": "Complete the Vulcano",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/f6a264f096245b4e9c3f2af77b47a7151678bfab.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/f4b40499a9faddfafa7df995499305d1f0622da5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.6"
+          },
+          "ACH_Collector": {
+            "name": "Collector",
+            "description": "Find and Collect all Skins (13)",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/d3d8cc5f97a7118c24a42bfa6d66bf93875a2f0d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/de3017c7332c6cc36ecce33260272674739e624f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "21.6"
+          },
+          "ACH_PADDLE_FASTER": {
+            "name": "Paddle Faster",
+            "description": "Complete the Full Game within 2 hours",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/33b52851d83a41abec669dc87c159a1b8e19be8b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/e0c1384cf72f8983039fba1fd79e8abe1f74d3fc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.3"
+          },
+          "ACH_PADDLE_PADDLE_PADDLE": {
+            "name": "Paddle Paddle Paddle",
+            "description": "Paddle 5,000 times",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/88b66c952a0547b4bfac458f7150d1e30ee3fc26.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3570070/b16ed9f6a6339164db4860435f551e7a1d285249.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "73.3"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ACH_CAVE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CITY": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_Collector": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_JUNGLE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_OPEN_SEA": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PADDLE_FASTER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PADDLE_PADDLE_PADDLE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PARK": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_PIPES": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_VULCANO": {
           "earned": false,
           "earned_time": 0
         }
