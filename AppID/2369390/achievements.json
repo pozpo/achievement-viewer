@@ -2,7 +2,8 @@
   "FC6_Ach_1": {
     "description": "Select Dani's look (Solo Campaign only)",
     "displayName": "Yo Soy Dani Rojas",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785440722
   },
   "FC6_Ach_10": {
     "description": "Return 3 FND Resource vehicles in mint condition",
@@ -117,7 +118,8 @@
   "FC6_Ach_30": {
     "description": "Pet Guapo",
     "displayName": "@CanYouPetTheCroc",
-    "earned": 0
+    "earned": 1,
+    "earned_time": 1785575675
   },
   "FC6_Ach_31": {
     "description": "Equip ChicharrÃ³n with the Motherclucker Outfit",
