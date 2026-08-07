@@ -1,0 +1,190 @@
+{
+  "appid": "1641960",
+  "name": "Forever Skies",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/cc56d2d6fd373940032bba383464ffa626b00717/header_alt_assets_9.jpg?t=1786032970",
+  "achievements": {
+    "ACH_FirstFlight": {
+      "name": "And we're Off!",
+      "description": "Fly in your airship for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/896e894d62f643c7d77d045cd011eaee38c6f52b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/86fcc88d4e40191ac5bc088f1eaeca18fb5c54b0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "65.1"
+    },
+    "ACH_BuildRoom": {
+      "name": "So much space. Need to see it all.",
+      "description": "Expand a living space in your airship for the first time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/2e8de578199b89406ad05a9853d3955b16a61cb0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/07ce9a3a87d81bbb7ed70fb65bb1fa98e79d70d7.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.7"
+    },
+    "ACH_GrowPlant": {
+      "name": "Green Thumb",
+      "description": "Grow a plant in your airship’s garden.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/798c0d53335a4579fa486b55b1f5da8b6b80008b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/517d364da5938c92ad628f297a321cba8fc9a0a0.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.8"
+    },
+    "ACH_Recyleception": {
+      "name": "Recycle-ception",
+      "description": "Recycle a Recycler",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/fdb05753ee2a2bec34c6b47c9c653605600f29cc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/416451b98b614f9e1b8bd9471d9929b54c660ef6.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "2.2"
+    },
+    "ACH_250m": {
+      "name": "Rise, Scientist!",
+      "description": "Place a Turbine on your Airship and ascend to 250 masl",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/c7dee886edbef49045b755dbcd4a968134e2c897.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/f1c174dfb2a2237bedf4d8ae5f5f0414d7c7cb49.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.8"
+    },
+    "ACH_CollapseRuin": {
+      "name": "Timbeeeer",
+      "description": "Make a ruin collapse, by extracting its metal scaffolding",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/daecc79ee0cbb9eb6182b889690e9e91ddfecff4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/a4c3109e92043d41811f4c033b25563cdbc3397e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "65.0"
+    },
+    "ACH_ScrapwingHatchery": {
+      "name": "Stop. It. Now.",
+      "description": "Defeat a Scrapwing Hatchery to protect your airship.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/cae6cf34e876c28ad43ed3712c392bd91969a046.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/264c1931744f50381adeb664a28917a477b4cf60.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "57.1"
+    },
+    "ACH_ChainReaction": {
+      "name": "Chain Reaction",
+      "description": "Set off a Mine using another Mine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/e21fd465cd23c3a71e1c5dbedfbea503533a9141.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/f136cb06e8fd392e4eaa338af406cf3206d3294b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.6"
+    },
+    "ACH_FirstReport": {
+      "name": "Hard landing",
+      "description": "Acquire first mission report",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/1419ad3261720f0cfab9036f6a55e906712fab17.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/d023f8b0f0bd3ab97a6029d3106c18dd7777cc47.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "64.4"
+    },
+    "ACH_SecondReport": {
+      "name": "Search continues",
+      "description": "Acquire second mission report",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/e280ee84adb4d6ce27e6fc5c8d7bd9f12a8802e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/776fdebe1355d0d2b25ca4baff18340d852afb49.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.0"
+    },
+    "ACH_ThirdReport": {
+      "name": "Where is the cure?",
+      "description": "Acquire third mission report",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/4833342f3f64783e82691088c7fd45191de6c6f8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/d1b0715f3dd8ee5624065534fb2b9b06c13ad977.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "32.3"
+    },
+    "ACH_FourthReport": {
+      "name": "Evolving world",
+      "description": "Acquire fourth mission report",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/3f198dacb5f928c0488736676c9fff53d5d1e026.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/70fab44dc78f274e2da8e02bd6174e9636cd1d60.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "ACH_FriendlyCreature": {
+      "name": "It’s not a bug, It’s a creature!",
+      "description": "Discover an intelligent, friendly creature.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/39c3c134d96af113772ec69aa50be827e7b9d6ae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/ddd8ef01758cb59a63b01b71ffe6c8124106b3c8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "32.3"
+    },
+    "ACH_BeatDisease": {
+      "name": "Performing self-surgery!",
+      "description": "Treat a disease using medical bed.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/4c865b3354ced1380781dacc5908874f757a8767.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/79a77d59ef890a8e11f391ce5b7d0246924d6ea4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.3"
+    },
+    "ACH_PetThePet": {
+      "name": "Yes, you can!",
+      "description": "Pet the Friendly Insect for the first time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/df5330f227eb68462b9c08d1a6238b597480e7b2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/8893d47eb604d30702b1b6e02ae6f85fc003602a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "ACH_RawFood": {
+      "name": "Iron stomach",
+      "description": "Eat uncooked food",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/ab4f09535fa6ea28dfa56c28395c8882dac84495.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/145fd29b3aa3616988e0f2574d57a3a4b18c9436.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.2"
+    },
+    "ACH_Moths": {
+      "name": "Total Eclipse",
+      "description": "Fill your moth vivarium with 3 different moths.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/370cd02d54b846aed82fc74274b0c1f49f72e220.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/eaa33e011abe1a2390b74e1d6423898928521b24.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACH_Diseases": {
+      "name": "The more the merrier",
+      "description": "Simultaneously experience 3 diseases and 1 booster effect (Hard Mode only).",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/81ff0eb7217ff5bd11406e1273c37d8ba602498c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/499d1c80a152686d380352b498c92cea707c23d7.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ACH_HumanitySaved": {
+      "name": "Never send a human to do a machine's job",
+      "description": "Complete the game and save the humanity.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/f1abe4c00c7c165bf073accdf5ee81795bd22003.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/5b3303210ab66714c364e05fdad9cff2593ae458.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "8.8"
+    },
+    "ACH_HumanityFallen": {
+      "name": "Human beings are a disease",
+      "description": "Complete the game and fail to save humanity.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/c3d48add722450ca9d5bd0921e250fba3566371f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1641960/8dfa5f9bf1ed72552775a5e924336d0e81b51f7d.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "6.0"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
