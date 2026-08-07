@@ -1,0 +1,271 @@
+{
+  "appid": "3453910",
+  "name": "Happy's Humble Burger Cult",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/b34b3ff6030ef996ab3446447741af2231cdbd11/header.jpg?t=1785934040",
+  "achievements": {
+    "HHBF_FIRST_SHIFT": {
+      "name": "Welcome to THE CULT.",
+      "description": "Completed your first shift.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/e8f89098577321e5522eb60296cd94e1004eba0b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.6"
+    },
+    "HHBF_5_SHIFT": {
+      "name": "Adept",
+      "description": "Completed 5 shifts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/979a9d2fcddc1495b10b0d134781b7cce091c751.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.2"
+    },
+    "HHBF_10_SHIFT": {
+      "name": "Professional",
+      "description": "Completed 10 shifts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/8d1c78ff5d9a040011571d10a388b66e15391eba.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "HHBF_20_SHIFT": {
+      "name": "Expert",
+      "description": "Completed 20 shifts.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/26ca17aa56e00a0ef620f712f5f887be7e322375.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "HHBF_PERFECT_SHIFT": {
+      "name": "Perfect Associate",
+      "description": "Completed a perfect shift.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/0536e14078b73dbe3cd12f20c92c0bea69f2e2fb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.6"
+    },
+    "HHBF_FAILED_SHIFT": {
+      "name": "Joyful",
+      "description": "Failed your first shift.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/365d9e923482377d120679e3764264fffbbc5767.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "53.2"
+    },
+    "HHBF_DIED": {
+      "name": "Up Close and Personal",
+      "description": "You have died once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/1e24857a6ce77a763097e442152b1b20dd4dcd58.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.2"
+    },
+    "HHBF_100_CUSTOMERS": {
+      "name": "Aspiring Cashier",
+      "description": "Served 100 customers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/c4f1987cab020deac5917a432f25d83d1af52615.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.0"
+    },
+    "HHBF_250_CUSTOMERS": {
+      "name": "Experienced Cashier",
+      "description": "Served 250 customers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/8e31d5b93297cd854aff7a92efac68f815a57450.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.2"
+    },
+    "HHBF_500_CUSTOMERS": {
+      "name": "Professional Cashier",
+      "description": "Served 500 customers.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/8508d6e6f2a318e412e1be9a11a0f593efe8009d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "HHBF_FIRST_CUSTOMER": {
+      "name": "Welcome, Customer!",
+      "description": "Served your first customer!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/a900d45bfc495cf4ebb0a4a3d7482b41af637955.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "82.8"
+    },
+    "HHBF_DEAD_CUSTOMER": {
+      "name": "Mistakes Happen",
+      "description": "Knocked over your first customer.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/4c4ef23ba9b574b749e8fa0e3dce944fe55acdf2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "58.2"
+    },
+    "HHBF_1000_MONEYRUN": {
+      "name": "We're Rich! Rich I tell ya!",
+      "description": "Earn $1000 or more.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/6f6f9d9250596d4f1d745e83d25e3baeb5f1923f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.1"
+    },
+    "HHBF_2500_MONEYRUN": {
+      "name": "Bank Robbers",
+      "description": "Earn $2500 or more.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/eeddfcc854bf2e10790efce16f7de2d36b1654a2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "HHBF_5000_MONEYRUN": {
+      "name": "Time Investors",
+      "description": "Earn $5000 or more.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/2bb1ae81ff5e191d21b9954087f4d93a3a2fef7d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.7"
+    },
+    "PARTY_OF_TWO": {
+      "name": "Occult",
+      "description": "Play with 2 or more people!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/1c05ebe969aefdf064792776b5b513aa2661064f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.5"
+    },
+    "QUOTA_FIRST": {
+      "name": "No Refunds",
+      "description": "Hit your first quota!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/2754679a2ab1767a1ac1b6c87662a754a0fef6e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "78.2"
+    },
+    "QUOTA_SECOND": {
+      "name": "A Whole New World!",
+      "description": "Hit your Second Quota!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/ec400af1b7afab2dbb2d15c3d9f6bc0b2ba1076d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "67.8"
+    },
+    "QUOTA_THIRD": {
+      "name": "Is this some kind of Cult?",
+      "description": "Hit your Third Quota!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/10b9953433c41d3f07e2d694a26f536f24ef07e6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "52.7"
+    },
+    "QUOTA_FOURTH": {
+      "name": "Stay Happy, Stay Humble.",
+      "description": "Hit your Fourth Quota!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/afb86184613455495141af1137483e720b3d2adf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "37.1"
+    },
+    "QUOTA_FIFTH": {
+      "name": "The Long Shift Ahead.",
+      "description": "Hit your Fifth Quota!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/9da4eb51e58f01092e44065df133b975ae993098.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.1"
+    },
+    "HHB_ADDICTION": {
+      "name": "Woo-hoo!",
+      "description": "Gain an Addiction.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/9988c66af3703dc737eb7812e042469e27cb65e4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "HHB_5_STATUS_EFFECTS": {
+      "name": "Spaced Out",
+      "description": "Have 5 Status Conditions applied at once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/233a1b1dbc5dd3978cffbc548f4193bfeb2a5238.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "16.1"
+    },
+    "HHB_SHOVE_FRIEND": {
+      "name": "Workplace Liability",
+      "description": "Shove or punch another co-worker 50 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/34e5784875f65168ea3e9bd0bc02a24d2931eab8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "HHB_TUTORIAL_BEATEN": {
+      "name": "I'm Ready!",
+      "description": "Complete the Tutorial!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/37e28acae6e0a49d0409f35b1b55e017e1b089fa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.1"
+    },
+    "HHB_COMPLETE_SOLO": {
+      "name": "Graveyard Shift",
+      "description": "Complete a shift in Solo.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/aaa0f979edf681f2e1ed2907cb17675454097c6e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "HHB_HORSEBET": {
+      "name": "Future Horse Racer 4000!",
+      "description": "Bet on the winning horse on the Future Horse Racer 4000!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/b7d3b202db3d163f2d5be92b9af11ca538d407ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.6"
+    },
+    "HHB_CUSTOMIZE": {
+      "name": "Fabulous!",
+      "description": "Change how you look at the Mirror.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/a230be053e43a658664c8ea9d8fae39742c07305.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "59.4"
+    },
+    "HHB_TOXIN": {
+      "name": "Smoke Break.",
+      "description": "Use an item that causes a Nicotine Buzz.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/85b94d43f1429bc13e265ae8f9b72eda30f4ec04.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.1"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

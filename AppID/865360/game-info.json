@@ -1,0 +1,208 @@
+{
+  "appid": "865360",
+  "name": "We Were Here Together",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg?t=1764330773",
+  "achievements": {
+    "INVITE_A_FRIEND": {
+      "name": "We're in this Together!",
+      "description": "Invite a friend to play We Were Here Together",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/8b27cbf98a18ddb082dd0a8cd1feab8a29cd5c1d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "61.1"
+    },
+    "COMPLETE_BASECAMP": {
+      "name": "The Signal",
+      "description": "Set out on a rescue mission",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/3fa7462f3afe735c6812b444e15c303bf12a239e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "87.0"
+    },
+    "COMPLETE_WALL": {
+      "name": "Up Down Up Down",
+      "description": "Reached the top of the excavation site",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/bf659d8d0a5031b79d15b663c1cc1c711f1cae26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "81.4"
+    },
+    "COMPLETE_CAVE": {
+      "name": "Iceolated",
+      "description": "Discovered a way through the abandoned mine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/191c6fc702986403b888460f2a2e69d565e76994.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "77.4"
+    },
+    "COMPLETE_BRIDGE": {
+      "name": "Abridged Adventure",
+      "description": "Discovered a way across the ravine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/0c2bd578536b7f84df7a87734a6b257a59eb8b3a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "74.7"
+    },
+    "COMPLETE_NUMBER_LINK_TOWER": {
+      "name": "The Tower",
+      "description": "Split up and infiltrated the Tower",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/a221453e2ba2b3e83c510abc3f5869f0fc6e1e13.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "40.1"
+    },
+    "COMPLETE_NUMBER_LINK_CHURCH": {
+      "name": "The Cathedral",
+      "description": "Split up and infiltrated the Cathedral",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/c48a0dc8a46484376becb51d20e20cdf370f88de.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "39.9"
+    },
+    "COMPLETE_TESLA_TOWER": {
+      "name": "Energize",
+      "description": "Disable the tesla reactor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/049e93d8989d15be994efb7502addfd372ed20d8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/fab73f253282eec337d082f5b1cac840729e30b8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.3"
+    },
+    "COMPLETE_TESLA_CHURCH": {
+      "name": "Shock Therapy",
+      "description": "Assisted in disabling the tesla reactor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/9fa393d6ce81d33abe0848a5018fdc4b90ac39c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "38.2"
+    },
+    "COMPLETE_PIPES_BOTH": {
+      "name": "Chromatic Apparatus",
+      "description": "Refilled the colored tanks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/d9ace6c15768e3c8c2b0d57fd838e51386ab8278.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "59.3"
+    },
+    "COMPLETE_SILO_TOWER": {
+      "name": "Buoyfriends",
+      "description": "Get rescued from the watersilo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/65e383314281d005ef4b90b5c63e3eb8d2b33ad7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.3"
+    },
+    "COMPLETE_SILO_CHURCH": {
+      "name": "Water you waiting for",
+      "description": "Rescue your partner from the watersilo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/2eaece4cb63d7fa76d4bb25cbe7f39c0a6fcbaa2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "COMPLETE_BREWERY_TOWER": {
+      "name": "Growing Pains",
+      "description": "Exterminate the carnivorous weeds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/d22467caee56128f129df1d0338d9f92acffab89.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.8"
+    },
+    "COMPLETE_BREWERY_CHURCH": {
+      "name": "Recipe for Disasters",
+      "description": "Created the pesticide",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/b7327f7ebe42826fddff38486240d4603c26a95b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.7"
+    },
+    "COMPLETE_MIRROR_ROOM_TOWER": {
+      "name": "Minor Illusion",
+      "description": "Solve the puzzles of the High Alchemist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/bb01f39a61794ed00f439e477dd45d6686e3f35b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "COMPLETE_MIRROR_ROOM_CHURCH": {
+      "name": "Reflection",
+      "description": "Solve the puzzles of the Head Priest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/b976c4b5f227659f531e512cef7b454a18b12a20.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "29.4"
+    },
+    "COMPLETE_ALCHEMY_TOWER": {
+      "name": "Equivalent Exchange",
+      "description": "Create the Soulstone through the power of alchemy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/f7291cfcc642053ab5bfba2e7e4342e671a1a5ff.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.7"
+    },
+    "COMPLETE_ALCHEMY_CHURCH": {
+      "name": "Mixed Feelings",
+      "description": "Assist in creating the Soulstone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/10ef75f1bcef01acee394bd7e74bfd6a8dbabd00.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.4"
+    },
+    "COMPLETE_THRONE_ROOM_TOWER": {
+      "name": "Grand Orders",
+      "description": "Solve the Guardians' riddle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/550ba9af259a2720a159265f9b9a91e7dd1312e5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/fab73f253282eec337d082f5b1cac840729e30b8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "COMPLETE_THRONE_ROOM_CHURCH": {
+      "name": "Cardinal Correction",
+      "description": "Solve the Guardians' riddle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/5d762dc30b94b5f68e707c7615b60c39f074695e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "26.2"
+    },
+    "KILL_OTHER": {
+      "name": "We Were Here",
+      "description": "End a part of yourself..",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/bb8e301d5b15e991012df04feca5b77c8f7d1b26.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "14.4"
+    },
+    "KILL_YOURSELF": {
+      "name": "Together",
+      "description": "Sacrifice a part of yourself..",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/8a6764a8bc0a67826aeda678b12b6ccf0c012761.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "16.9"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

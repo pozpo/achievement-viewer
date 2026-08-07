@@ -1,6 +1,6 @@
 {
-  "last_updated": 1786108041,
-  "total_games": 28,
+  "last_updated": 1786137707,
+  "total_games": 32,
   "games": [
     {
       "appid": "570940",
@@ -2540,6 +2540,281 @@
           "earned_time": 0
         },
         "9": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "677160",
+      "info": {
+        "appid": "677160",
+        "name": "We Were Here Too",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677160/header.jpg?t=1764329780",
+        "achievements": {
+          "SLOTMACHINE_PUZZLE_COMPLETED_PEASANT": {
+            "name": "Big Hit",
+            "description": "Escape from the Royal Tomb",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/95c4c8e33c71b0a823c00635006ded4912811bca.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "57.6"
+          },
+          "SLOTMACHINE_PUZZLE_COMPLETED_LORD": {
+            "name": "Payline",
+            "description": "Escape from the Crypts",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/1a3db46643bbb40661de91846e6f1de0a2961b8e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "57.6"
+          },
+          "RITUAL_PUZZLE_COMPLETED_PEASANT": {
+            "name": "Occultist Culling",
+            "description": "Escape from the Ritual Chamber",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/1fea0007c4810c69dc01bcfe23b82683d00b944f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "55.4"
+          },
+          "RITUAL_PUZZLE_COMPLETED_ROYALTY": {
+            "name": "Esoteric Etymology",
+            "description": "Assisted in escaping the Ritual Chamber",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/36b90f5da0f4ff51cc2cf2f185435b9f7b25ec48.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "55.4"
+          },
+          "STAIRS_PUZZLE_COMPLETED_PEASANT": {
+            "name": "Step by Step",
+            "description": "Escape from the Dark Stairwell",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/401546924a511cc43d9dc91454d2f5788f9bbde2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "51.3"
+          },
+          "STAIRS_PUZZLE_COMPLETED_LORD": {
+            "name": "Ascending Acuity",
+            "description": "Assisted in escaping the Dark Stairwell",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/aba9985d053c9e1fe136c0cb2f83b4a49f7db53b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "51.1"
+          },
+          "WEAPONS_PUZZLE_COMPLETED_PEASANT": {
+            "name": "The Pointy End",
+            "description": "Assisted in escaping the Royal Promenade",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/894e36b12eb2b950f23704c8c095e95dba6cddfc.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "49.1"
+          },
+          "WEAPONS_PUZZLE_COMPLETED_LORD": {
+            "name": "Astriction Constriction",
+            "description": "Escaped the Royal Promenade",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/5b18bcff1c843f1e0adc51ba80771c646046e3b0.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "49.1"
+          },
+          "BOB_ROSS_PUZZLE_COMPLETED_PEASANT": {
+            "name": "Layer Illustrator",
+            "description": "Succesfully installed Windows",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/b11c9e9c2cf3d44c646725d3e1c5c633378459dd.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "47.4"
+          },
+          "BOB_ROSS_PUZZLE_COMPLETED_LORD": {
+            "name": "The Joy of Puzzling",
+            "description": "Assisted in installing Windows",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dc3a96383c4f22f0b29d55b9f0145170966308d9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "47.5"
+          },
+          "ARENA_PUZZLE_COMPLETED_PEASANT": {
+            "name": "Maze Jogger",
+            "description": "Escaped the Arena",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/0c96e975a39ab86a49db08c17cfccfae9a60d886.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "44.7"
+          },
+          "ARENA_PUZZLE_COMPLETED_LORD": {
+            "name": "The Runner Games",
+            "description": "Assisted in escaping the Arena",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/c90f143b9a85cc18bd4bcca38afd89159139bb3f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "44.7"
+          },
+          "BATTLEBOARD_PUZZLE_COMPLETED_PEASANT": {
+            "name": "Parallel Peril",
+            "description": "Escaped the Battlefield",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/cbe233bb948934a5b377d112659d82ca38cd6b29.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "46.4"
+          },
+          "BATTLEBOARD_PUZZLE_COMPLETED_LORD": {
+            "name": "Gordian Knight",
+            "description": "Assisted in escaping the Battlefield",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/c421ffaac86ad287c9de461a757e8bebf3939900.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "46.4"
+          },
+          "INCIN_PUZZLE_COMPLETED_PEASANT": {
+            "name": "Too Hot To Handle",
+            "description": "Escaped the Incinerator",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/32f3464b8f15f8deaae94baa24ef000d45a63f50.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "43.1"
+          },
+          "INCIN_PUZZLE_COMPLETED_LORD": {
+            "name": "Medium-Rare",
+            "description": "Assisted in escaping the Incinerator",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/b59ecdb4d2d597e985898404089ed842cb1fa816.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "43.2"
+          },
+          "ENDING_ESCAPED_ALONE": {
+            "name": "Relation Elevation",
+            "description": "Was this sacrifice neccessary?",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/6c822191b3439f39c26ef6ae7cf7833ea2fecbc4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "43.4"
+          },
+          "ENDING_LEFT_BEHIND": {
+            "name": "Ups and Downs",
+            "description": "Was there another way?",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/e61abae93f62c842f4a10eebad51d18046db097d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "42.6"
+          },
+          "ENDING_SECRET": {
+            "name": "Another way..",
+            "description": "...",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/1f58b0156f6efc729c583a5ad4d2de886d798ea2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "11.2"
+          },
+          "INVITE_A_FRIEND": {
+            "name": "Conundrum Comrades",
+            "description": "Invite a friend who is good at solving puzzles!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/c761e183452da7e2f365dee3a6d4934f4412c3d4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "75.2"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ARENA_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ARENA_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BATTLEBOARD_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BATTLEBOARD_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BOB_ROSS_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BOB_ROSS_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ENDING_ESCAPED_ALONE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ENDING_LEFT_BEHIND": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ENDING_SECRET": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "INCIN_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "INCIN_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "INVITE_A_FRIEND": {
+          "earned": true,
+          "earned_time": 1786108669
+        },
+        "RITUAL_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "RITUAL_PUZZLE_COMPLETED_ROYALTY": {
+          "earned": true,
+          "earned_time": 1786119413
+        },
+        "SLOTMACHINE_PUZZLE_COMPLETED_LORD": {
+          "earned": true,
+          "earned_time": 1786109495
+        },
+        "SLOTMACHINE_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "STAIRS_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "STAIRS_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WEAPONS_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WEAPONS_PUZZLE_COMPLETED_PEASANT": {
           "earned": false,
           "earned_time": 0
         }
@@ -5511,6 +5786,216 @@
       }
     },
     {
+      "appid": "4108000",
+      "info": {
+        "appid": "4108000",
+        "name": "Machine Party",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1785909320",
+        "achievements": {
+          "ACH_01": {
+            "name": "Quick draw!",
+            "description": "Kill someone that has already assembled a gun before you in Firearm Factory.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/904f1382ee47fad367ff998854c750f664f775d9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/097c2b29875a25c0ce9345dcf1fd459ad1c2112b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "54.2"
+          },
+          "ACH_02": {
+            "name": "Mind the gap.",
+            "description": "Survive until there are only 10 tiles left in Stable Footing.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/e0f37563e622f6a891f7eb107816775f09e2b7ea.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/da5da4bac5d6c0ab963ec5db1698f66b5a9b6617.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "20.2"
+          },
+          "ACH_03": {
+            "name": "Catch this!",
+            "description": "Knock someone off by throwing a crate at them in Debris Platforms.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/9b06aa60b5d6174f11a9700e0c53d5307d595586.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/6cfe69e095c3edd611871a89c373afc2e403e6b6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "39.0"
+          },
+          "ACH_04": {
+            "name": "Will it blend?",
+            "description": "Push 15 people into hacksaws in Lethal Rebound.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/c2c41296e2a150639b707fb381c7914b11106be9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/d15a09be9a8b28ec204c904ab756438df568f06c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.7"
+          },
+          "ACH_05": {
+            "name": "Flourished Memories",
+            "description": "Survive a round until the maximum number of cube segments are removed in Chisel Gauntlet.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/f77ca3f3358c1376b72f60a748b08077d99c6396.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/eacfb604f3b591aa8ad46a881d46e194f6c3f3e3.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.1"
+          },
+          "ACH_06": {
+            "name": "Leg it!",
+            "description": "Reach the end of the minefield without using the sonar.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/a48c6c82241b581b176021346b1e0058e0a525e7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/5f836c1781f183a78693dfe4709c6b8abca0a528.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.8"
+          },
+          "ACH_07": {
+            "name": "Stairmaster",
+            "description": "Take 50 correct steps in a row in Wrong Way.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/cd036db7e845ca782596375462f1e4cbf8d620ac.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/e212ca0d77556c3153825ac8bb70bd1ae29328af.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "9.8"
+          },
+          "ACH_08": {
+            "name": "Full Pack",
+            "description": "Smoke a total of 20 cigarettes.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/2b13fdc264e558e492c20b157e7c57b8bfff4900.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/02cd44796369ee7e25e82c55921da3d80158aec4.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.5"
+          },
+          "ACH_09": {
+            "name": "About those TPS reports.",
+            "description": "Infect someone in under 3 seconds after getting the syringe in Inside Job.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/ff3703cea561a007cf02977cb2b0f0f44cbbb928.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/3a4401ef03040a5ff6d9ee3540f1b941793b23d6.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "7.6"
+          },
+          "ACH_10": {
+            "name": "This is my hole.",
+            "description": "Win by taking the last nook in Tunnel Hazard.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/b917064a7fe582d12bac023517b8d6d7bb5ac88d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/cd64e6b331791f3c7b12f1897795f72fcbebcfb9.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "46.8"
+          },
+          "ACH_11": {
+            "name": "BOOM HEADSHOT!",
+            "description": "Land a headshot in Duck Hunt.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/f0f36cef5cb17a8ee67df5dfd85795702d2998e1.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/115bb8e9b59cecea9727287c1b0c74de60e65b46.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "51.7"
+          },
+          "ACH_12": {
+            "name": "Gluttony",
+            "description": "Finish eating your meal in under 20 seconds in Table Manners.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/99125702e5b4cab6c4261e068a4763b39b69d930.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/5c57cda0c75b51a12713debda91938883c21ab45.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.4"
+          },
+          "ACH_13": {
+            "name": "Dodge this!",
+            "description": "Throw the device with under 1 second left on its timer in Spinebreaker.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/4bcb6ba9aa38884484addc3d9d7a853e5df7e42f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/a6841e8c8580da93d9c2276840b9539bd93f107c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "41.9"
+          },
+          "ACH_14": {
+            "name": "Mine. All mine!",
+            "description": "Have 4 crates in your deposit area in Forklift Certified.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/19344c74ff3732a3f8b0ce6c3e188a114e6380f3.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/214b1436a9813880d67b356abf6816fa404d17aa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.0"
+          },
+          "ACH_15": {
+            "name": "Just another day at the job.",
+            "description": "Win a round with 100% accuracy in the Filter.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/bacdc0ad084e3fab9154db72a6a26318a8095c05.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/4e4b2c93f004c78d2d35bf62526580f3d0c07559.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "29.4"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ACH_01": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_02": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_03": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_04": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_05": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_06": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_07": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_08": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_09": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_12": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_13": {
+          "earned": true,
+          "earned_time": 1786118137
+        },
+        "ACH_14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_15": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
       "appid": "374320",
       "info": {
         "appid": "374320",
@@ -6499,6 +6984,307 @@
           "earned_time": 0
         },
         "ACH_VULCANO": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "865360",
+      "info": {
+        "appid": "865360",
+        "name": "We Were Here Together",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865360/header.jpg?t=1764330773",
+        "achievements": {
+          "INVITE_A_FRIEND": {
+            "name": "We're in this Together!",
+            "description": "Invite a friend to play We Were Here Together",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/8b27cbf98a18ddb082dd0a8cd1feab8a29cd5c1d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "61.1"
+          },
+          "COMPLETE_BASECAMP": {
+            "name": "The Signal",
+            "description": "Set out on a rescue mission",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/3fa7462f3afe735c6812b444e15c303bf12a239e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "87.0"
+          },
+          "COMPLETE_WALL": {
+            "name": "Up Down Up Down",
+            "description": "Reached the top of the excavation site",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/bf659d8d0a5031b79d15b663c1cc1c711f1cae26.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "81.4"
+          },
+          "COMPLETE_CAVE": {
+            "name": "Iceolated",
+            "description": "Discovered a way through the abandoned mine",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/191c6fc702986403b888460f2a2e69d565e76994.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "77.4"
+          },
+          "COMPLETE_BRIDGE": {
+            "name": "Abridged Adventure",
+            "description": "Discovered a way across the ravine",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/0c2bd578536b7f84df7a87734a6b257a59eb8b3a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "74.7"
+          },
+          "COMPLETE_NUMBER_LINK_TOWER": {
+            "name": "The Tower",
+            "description": "Split up and infiltrated the Tower",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/a221453e2ba2b3e83c510abc3f5869f0fc6e1e13.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "40.1"
+          },
+          "COMPLETE_NUMBER_LINK_CHURCH": {
+            "name": "The Cathedral",
+            "description": "Split up and infiltrated the Cathedral",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/c48a0dc8a46484376becb51d20e20cdf370f88de.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "39.9"
+          },
+          "COMPLETE_TESLA_TOWER": {
+            "name": "Energize",
+            "description": "Disable the tesla reactor",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/049e93d8989d15be994efb7502addfd372ed20d8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/fab73f253282eec337d082f5b1cac840729e30b8.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "38.3"
+          },
+          "COMPLETE_TESLA_CHURCH": {
+            "name": "Shock Therapy",
+            "description": "Assisted in disabling the tesla reactor",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/9fa393d6ce81d33abe0848a5018fdc4b90ac39c8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "38.2"
+          },
+          "COMPLETE_PIPES_BOTH": {
+            "name": "Chromatic Apparatus",
+            "description": "Refilled the colored tanks",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/d9ace6c15768e3c8c2b0d57fd838e51386ab8278.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "59.3"
+          },
+          "COMPLETE_SILO_TOWER": {
+            "name": "Buoyfriends",
+            "description": "Get rescued from the watersilo",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/65e383314281d005ef4b90b5c63e3eb8d2b33ad7.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "31.3"
+          },
+          "COMPLETE_SILO_CHURCH": {
+            "name": "Water you waiting for",
+            "description": "Rescue your partner from the watersilo",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/2eaece4cb63d7fa76d4bb25cbe7f39c0a6fcbaa2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "31.2"
+          },
+          "COMPLETE_BREWERY_TOWER": {
+            "name": "Growing Pains",
+            "description": "Exterminate the carnivorous weeds",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/d22467caee56128f129df1d0338d9f92acffab89.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "30.8"
+          },
+          "COMPLETE_BREWERY_CHURCH": {
+            "name": "Recipe for Disasters",
+            "description": "Created the pesticide",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/b7327f7ebe42826fddff38486240d4603c26a95b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "30.7"
+          },
+          "COMPLETE_MIRROR_ROOM_TOWER": {
+            "name": "Minor Illusion",
+            "description": "Solve the puzzles of the High Alchemist",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/bb01f39a61794ed00f439e477dd45d6686e3f35b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "29.4"
+          },
+          "COMPLETE_MIRROR_ROOM_CHURCH": {
+            "name": "Reflection",
+            "description": "Solve the puzzles of the Head Priest",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/b976c4b5f227659f531e512cef7b454a18b12a20.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "29.4"
+          },
+          "COMPLETE_ALCHEMY_TOWER": {
+            "name": "Equivalent Exchange",
+            "description": "Create the Soulstone through the power of alchemy",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/f7291cfcc642053ab5bfba2e7e4342e671a1a5ff.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "27.7"
+          },
+          "COMPLETE_ALCHEMY_CHURCH": {
+            "name": "Mixed Feelings",
+            "description": "Assist in creating the Soulstone",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/10ef75f1bcef01acee394bd7e74bfd6a8dbabd00.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "27.4"
+          },
+          "COMPLETE_THRONE_ROOM_TOWER": {
+            "name": "Grand Orders",
+            "description": "Solve the Guardians' riddle",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/550ba9af259a2720a159265f9b9a91e7dd1312e5.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/fab73f253282eec337d082f5b1cac840729e30b8.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "26.2"
+          },
+          "COMPLETE_THRONE_ROOM_CHURCH": {
+            "name": "Cardinal Correction",
+            "description": "Solve the Guardians' riddle",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/5d762dc30b94b5f68e707c7615b60c39f074695e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "26.2"
+          },
+          "KILL_OTHER": {
+            "name": "We Were Here",
+            "description": "End a part of yourself..",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/bb8e301d5b15e991012df04feca5b77c8f7d1b26.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "14.4"
+          },
+          "KILL_YOURSELF": {
+            "name": "Together",
+            "description": "Sacrifice a part of yourself..",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/8a6764a8bc0a67826aeda678b12b6ccf0c012761.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
+            "hidden": true,
+            "group": "Base Game",
+            "percent": "16.9"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "COMPLETE_ALCHEMY_CHURCH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_ALCHEMY_TOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_BASECAMP": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_BREWERY_CHURCH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_BREWERY_TOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_BRIDGE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_CAVE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_MIRROR_ROOM_CHURCH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_MIRROR_ROOM_TOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_NUMBER_LINK_CHURCH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_NUMBER_LINK_TOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_PIPES_BOTH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_SILO_CHURCH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_SILO_TOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_TESLA_CHURCH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_TESLA_TOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_THRONE_ROOM_CHURCH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_THRONE_ROOM_TOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "COMPLETE_WALL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "INVITE_A_FRIEND": {
+          "earned": true,
+          "earned_time": 1786136539
+        },
+        "KILL_OTHER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KILL_YOURSELF": {
           "earned": false,
           "earned_time": 0
         }
@@ -9574,6 +10360,398 @@
           "displayName": "Among Thieves",
           "earned": 1,
           "earned_time": 1785008605
+        }
+      }
+    },
+    {
+      "appid": "3453910",
+      "info": {
+        "appid": "3453910",
+        "name": "Happy's Humble Burger Cult",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/b34b3ff6030ef996ab3446447741af2231cdbd11/header.jpg?t=1785934040",
+        "achievements": {
+          "HHBF_FIRST_SHIFT": {
+            "name": "Welcome to THE CULT.",
+            "description": "Completed your first shift.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/e8f89098577321e5522eb60296cd94e1004eba0b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "53.6"
+          },
+          "HHBF_5_SHIFT": {
+            "name": "Adept",
+            "description": "Completed 5 shifts.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/979a9d2fcddc1495b10b0d134781b7cce091c751.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "28.2"
+          },
+          "HHBF_10_SHIFT": {
+            "name": "Professional",
+            "description": "Completed 10 shifts.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/8d1c78ff5d9a040011571d10a388b66e15391eba.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "14.4"
+          },
+          "HHBF_20_SHIFT": {
+            "name": "Expert",
+            "description": "Completed 20 shifts.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/26ca17aa56e00a0ef620f712f5f887be7e322375.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "5.6"
+          },
+          "HHBF_PERFECT_SHIFT": {
+            "name": "Perfect Associate",
+            "description": "Completed a perfect shift.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/0536e14078b73dbe3cd12f20c92c0bea69f2e2fb.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "46.6"
+          },
+          "HHBF_FAILED_SHIFT": {
+            "name": "Joyful",
+            "description": "Failed your first shift.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/365d9e923482377d120679e3764264fffbbc5767.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "53.2"
+          },
+          "HHBF_DIED": {
+            "name": "Up Close and Personal",
+            "description": "You have died once.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/1e24857a6ce77a763097e442152b1b20dd4dcd58.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "78.2"
+          },
+          "HHBF_100_CUSTOMERS": {
+            "name": "Aspiring Cashier",
+            "description": "Served 100 customers.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/c4f1987cab020deac5917a432f25d83d1af52615.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "17.0"
+          },
+          "HHBF_250_CUSTOMERS": {
+            "name": "Experienced Cashier",
+            "description": "Served 250 customers.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/8e31d5b93297cd854aff7a92efac68f815a57450.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.2"
+          },
+          "HHBF_500_CUSTOMERS": {
+            "name": "Professional Cashier",
+            "description": "Served 500 customers.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/8508d6e6f2a318e412e1be9a11a0f593efe8009d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.0"
+          },
+          "HHBF_FIRST_CUSTOMER": {
+            "name": "Welcome, Customer!",
+            "description": "Served your first customer!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/a900d45bfc495cf4ebb0a4a3d7482b41af637955.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "82.8"
+          },
+          "HHBF_DEAD_CUSTOMER": {
+            "name": "Mistakes Happen",
+            "description": "Knocked over your first customer.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/4c4ef23ba9b574b749e8fa0e3dce944fe55acdf2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "58.2"
+          },
+          "HHBF_1000_MONEYRUN": {
+            "name": "We're Rich! Rich I tell ya!",
+            "description": "Earn $1000 or more.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/6f6f9d9250596d4f1d745e83d25e3baeb5f1923f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "24.1"
+          },
+          "HHBF_2500_MONEYRUN": {
+            "name": "Bank Robbers",
+            "description": "Earn $2500 or more.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/eeddfcc854bf2e10790efce16f7de2d36b1654a2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.3"
+          },
+          "HHBF_5000_MONEYRUN": {
+            "name": "Time Investors",
+            "description": "Earn $5000 or more.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/2bb1ae81ff5e191d21b9954087f4d93a3a2fef7d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.7"
+          },
+          "PARTY_OF_TWO": {
+            "name": "Occult",
+            "description": "Play with 2 or more people!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/1c05ebe969aefdf064792776b5b513aa2661064f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "78.5"
+          },
+          "QUOTA_FIRST": {
+            "name": "No Refunds",
+            "description": "Hit your first quota!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/2754679a2ab1767a1ac1b6c87662a754a0fef6e4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "78.2"
+          },
+          "QUOTA_SECOND": {
+            "name": "A Whole New World!",
+            "description": "Hit your Second Quota!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/ec400af1b7afab2dbb2d15c3d9f6bc0b2ba1076d.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "67.8"
+          },
+          "QUOTA_THIRD": {
+            "name": "Is this some kind of Cult?",
+            "description": "Hit your Third Quota!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/10b9953433c41d3f07e2d694a26f536f24ef07e6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "52.7"
+          },
+          "QUOTA_FOURTH": {
+            "name": "Stay Happy, Stay Humble.",
+            "description": "Hit your Fourth Quota!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/afb86184613455495141af1137483e720b3d2adf.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "37.1"
+          },
+          "QUOTA_FIFTH": {
+            "name": "The Long Shift Ahead.",
+            "description": "Hit your Fifth Quota!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/9da4eb51e58f01092e44065df133b975ae993098.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "25.1"
+          },
+          "HHB_ADDICTION": {
+            "name": "Woo-hoo!",
+            "description": "Gain an Addiction.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/9988c66af3703dc737eb7812e042469e27cb65e4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "27.1"
+          },
+          "HHB_5_STATUS_EFFECTS": {
+            "name": "Spaced Out",
+            "description": "Have 5 Status Conditions applied at once.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/233a1b1dbc5dd3978cffbc548f4193bfeb2a5238.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "16.1"
+          },
+          "HHB_SHOVE_FRIEND": {
+            "name": "Workplace Liability",
+            "description": "Shove or punch another co-worker 50 times.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/34e5784875f65168ea3e9bd0bc02a24d2931eab8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "27.1"
+          },
+          "HHB_TUTORIAL_BEATEN": {
+            "name": "I'm Ready!",
+            "description": "Complete the Tutorial!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/37e28acae6e0a49d0409f35b1b55e017e1b089fa.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "28.1"
+          },
+          "HHB_COMPLETE_SOLO": {
+            "name": "Graveyard Shift",
+            "description": "Complete a shift in Solo.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/aaa0f979edf681f2e1ed2907cb17675454097c6e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.4"
+          },
+          "HHB_HORSEBET": {
+            "name": "Future Horse Racer 4000!",
+            "description": "Bet on the winning horse on the Future Horse Racer 4000!",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/b7d3b202db3d163f2d5be92b9af11ca538d407ff.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "15.6"
+          },
+          "HHB_CUSTOMIZE": {
+            "name": "Fabulous!",
+            "description": "Change how you look at the Mirror.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/a230be053e43a658664c8ea9d8fae39742c07305.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "59.4"
+          },
+          "HHB_TOXIN": {
+            "name": "Smoke Break.",
+            "description": "Use an item that causes a Nicotine Buzz.",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/85b94d43f1429bc13e265ae8f9b72eda30f4ec04.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3453910/f1e7c5c80441f6ded64b1fd69495cd0a836230dc.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "51.1"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "HHB_5_STATUS_EFFECTS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHB_ADDICTION": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHB_COMPLETE_SOLO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHB_CUSTOMIZE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHB_HORSEBET": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHB_SHOVE_FRIEND": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHB_TOXIN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHB_TUTORIAL_BEATEN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_10_SHIFT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_100_CUSTOMERS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_1000_MONEYRUN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_20_SHIFT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_250_CUSTOMERS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_2500_MONEYRUN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_5_SHIFT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_500_CUSTOMERS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_5000_MONEYRUN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_DEAD_CUSTOMER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_DIED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_FAILED_SHIFT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_FIRST_CUSTOMER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_FIRST_SHIFT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HHBF_PERFECT_SHIFT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PARTY_OF_TWO": {
+          "earned": true,
+          "earned_time": 1786114501
+        },
+        "QUOTA_FIFTH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "QUOTA_FIRST": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "QUOTA_FOURTH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "QUOTA_SECOND": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "QUOTA_THIRD": {
+          "earned": false,
+          "earned_time": 0
         }
       }
     },

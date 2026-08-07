@@ -1,0 +1,190 @@
+{
+  "appid": "677160",
+  "name": "We Were Here Too",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677160/header.jpg?t=1764329780",
+  "achievements": {
+    "SLOTMACHINE_PUZZLE_COMPLETED_PEASANT": {
+      "name": "Big Hit",
+      "description": "Escape from the Royal Tomb",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/95c4c8e33c71b0a823c00635006ded4912811bca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.6"
+    },
+    "SLOTMACHINE_PUZZLE_COMPLETED_LORD": {
+      "name": "Payline",
+      "description": "Escape from the Crypts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/1a3db46643bbb40661de91846e6f1de0a2961b8e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "57.6"
+    },
+    "RITUAL_PUZZLE_COMPLETED_PEASANT": {
+      "name": "Occultist Culling",
+      "description": "Escape from the Ritual Chamber",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/1fea0007c4810c69dc01bcfe23b82683d00b944f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.4"
+    },
+    "RITUAL_PUZZLE_COMPLETED_ROYALTY": {
+      "name": "Esoteric Etymology",
+      "description": "Assisted in escaping the Ritual Chamber",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/36b90f5da0f4ff51cc2cf2f185435b9f7b25ec48.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "55.4"
+    },
+    "STAIRS_PUZZLE_COMPLETED_PEASANT": {
+      "name": "Step by Step",
+      "description": "Escape from the Dark Stairwell",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/401546924a511cc43d9dc91454d2f5788f9bbde2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.3"
+    },
+    "STAIRS_PUZZLE_COMPLETED_LORD": {
+      "name": "Ascending Acuity",
+      "description": "Assisted in escaping the Dark Stairwell",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/aba9985d053c9e1fe136c0cb2f83b4a49f7db53b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.1"
+    },
+    "WEAPONS_PUZZLE_COMPLETED_PEASANT": {
+      "name": "The Pointy End",
+      "description": "Assisted in escaping the Royal Promenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/894e36b12eb2b950f23704c8c095e95dba6cddfc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "WEAPONS_PUZZLE_COMPLETED_LORD": {
+      "name": "Astriction Constriction",
+      "description": "Escaped the Royal Promenade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/5b18bcff1c843f1e0adc51ba80771c646046e3b0.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "49.1"
+    },
+    "BOB_ROSS_PUZZLE_COMPLETED_PEASANT": {
+      "name": "Layer Illustrator",
+      "description": "Succesfully installed Windows",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/b11c9e9c2cf3d44c646725d3e1c5c633378459dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.4"
+    },
+    "BOB_ROSS_PUZZLE_COMPLETED_LORD": {
+      "name": "The Joy of Puzzling",
+      "description": "Assisted in installing Windows",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dc3a96383c4f22f0b29d55b9f0145170966308d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.5"
+    },
+    "ARENA_PUZZLE_COMPLETED_PEASANT": {
+      "name": "Maze Jogger",
+      "description": "Escaped the Arena",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/0c96e975a39ab86a49db08c17cfccfae9a60d886.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.7"
+    },
+    "ARENA_PUZZLE_COMPLETED_LORD": {
+      "name": "The Runner Games",
+      "description": "Assisted in escaping the Arena",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/c90f143b9a85cc18bd4bcca38afd89159139bb3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.7"
+    },
+    "BATTLEBOARD_PUZZLE_COMPLETED_PEASANT": {
+      "name": "Parallel Peril",
+      "description": "Escaped the Battlefield",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/cbe233bb948934a5b377d112659d82ca38cd6b29.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.4"
+    },
+    "BATTLEBOARD_PUZZLE_COMPLETED_LORD": {
+      "name": "Gordian Knight",
+      "description": "Assisted in escaping the Battlefield",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/c421ffaac86ad287c9de461a757e8bebf3939900.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.4"
+    },
+    "INCIN_PUZZLE_COMPLETED_PEASANT": {
+      "name": "Too Hot To Handle",
+      "description": "Escaped the Incinerator",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/32f3464b8f15f8deaae94baa24ef000d45a63f50.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.1"
+    },
+    "INCIN_PUZZLE_COMPLETED_LORD": {
+      "name": "Medium-Rare",
+      "description": "Assisted in escaping the Incinerator",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/b59ecdb4d2d597e985898404089ed842cb1fa816.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.2"
+    },
+    "ENDING_ESCAPED_ALONE": {
+      "name": "Relation Elevation",
+      "description": "Was this sacrifice neccessary?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/6c822191b3439f39c26ef6ae7cf7833ea2fecbc4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.4"
+    },
+    "ENDING_LEFT_BEHIND": {
+      "name": "Ups and Downs",
+      "description": "Was there another way?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/e61abae93f62c842f4a10eebad51d18046db097d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "42.6"
+    },
+    "ENDING_SECRET": {
+      "name": "Another way..",
+      "description": "...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/1f58b0156f6efc729c583a5ad4d2de886d798ea2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "INVITE_A_FRIEND": {
+      "name": "Conundrum Comrades",
+      "description": "Invite a friend who is good at solving puzzles!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/c761e183452da7e2f365dee3a6d4934f4412c3d4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/677160/dfcfdba8927693ef4369f69ccf8b235c67419530.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "75.2"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}

@@ -1,0 +1,145 @@
+{
+  "appid": "4108000",
+  "name": "Machine Party",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1785909320",
+  "achievements": {
+    "ACH_01": {
+      "name": "Quick draw!",
+      "description": "Kill someone that has already assembled a gun before you in Firearm Factory.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/904f1382ee47fad367ff998854c750f664f775d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/097c2b29875a25c0ce9345dcf1fd459ad1c2112b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "54.2"
+    },
+    "ACH_02": {
+      "name": "Mind the gap.",
+      "description": "Survive until there are only 10 tiles left in Stable Footing.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/e0f37563e622f6a891f7eb107816775f09e2b7ea.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/da5da4bac5d6c0ab963ec5db1698f66b5a9b6617.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.2"
+    },
+    "ACH_03": {
+      "name": "Catch this!",
+      "description": "Knock someone off by throwing a crate at them in Debris Platforms.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/9b06aa60b5d6174f11a9700e0c53d5307d595586.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/6cfe69e095c3edd611871a89c373afc2e403e6b6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "39.0"
+    },
+    "ACH_04": {
+      "name": "Will it blend?",
+      "description": "Push 15 people into hacksaws in Lethal Rebound.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/c2c41296e2a150639b707fb381c7914b11106be9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/d15a09be9a8b28ec204c904ab756438df568f06c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.7"
+    },
+    "ACH_05": {
+      "name": "Flourished Memories",
+      "description": "Survive a round until the maximum number of cube segments are removed in Chisel Gauntlet.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/f77ca3f3358c1376b72f60a748b08077d99c6396.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/eacfb604f3b591aa8ad46a881d46e194f6c3f3e3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.1"
+    },
+    "ACH_06": {
+      "name": "Leg it!",
+      "description": "Reach the end of the minefield without using the sonar.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/a48c6c82241b581b176021346b1e0058e0a525e7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/5f836c1781f183a78693dfe4709c6b8abca0a528.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.8"
+    },
+    "ACH_07": {
+      "name": "Stairmaster",
+      "description": "Take 50 correct steps in a row in Wrong Way.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/cd036db7e845ca782596375462f1e4cbf8d620ac.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/e212ca0d77556c3153825ac8bb70bd1ae29328af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "ACH_08": {
+      "name": "Full Pack",
+      "description": "Smoke a total of 20 cigarettes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/2b13fdc264e558e492c20b157e7c57b8bfff4900.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/02cd44796369ee7e25e82c55921da3d80158aec4.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.5"
+    },
+    "ACH_09": {
+      "name": "About those TPS reports.",
+      "description": "Infect someone in under 3 seconds after getting the syringe in Inside Job.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/ff3703cea561a007cf02977cb2b0f0f44cbbb928.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/3a4401ef03040a5ff6d9ee3540f1b941793b23d6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "ACH_10": {
+      "name": "This is my hole.",
+      "description": "Win by taking the last nook in Tunnel Hazard.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/b917064a7fe582d12bac023517b8d6d7bb5ac88d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/cd64e6b331791f3c7b12f1897795f72fcbebcfb9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.8"
+    },
+    "ACH_11": {
+      "name": "BOOM HEADSHOT!",
+      "description": "Land a headshot in Duck Hunt.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/f0f36cef5cb17a8ee67df5dfd85795702d2998e1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/115bb8e9b59cecea9727287c1b0c74de60e65b46.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "ACH_12": {
+      "name": "Gluttony",
+      "description": "Finish eating your meal in under 20 seconds in Table Manners.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/99125702e5b4cab6c4261e068a4763b39b69d930.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/5c57cda0c75b51a12713debda91938883c21ab45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.4"
+    },
+    "ACH_13": {
+      "name": "Dodge this!",
+      "description": "Throw the device with under 1 second left on its timer in Spinebreaker.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/4bcb6ba9aa38884484addc3d9d7a853e5df7e42f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/a6841e8c8580da93d9c2276840b9539bd93f107c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "41.9"
+    },
+    "ACH_14": {
+      "name": "Mine. All mine!",
+      "description": "Have 4 crates in your deposit area in Forklift Certified.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/19344c74ff3732a3f8b0ce6c3e188a114e6380f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/214b1436a9813880d67b356abf6816fa404d17aa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.0"
+    },
+    "ACH_15": {
+      "name": "Just another day at the job.",
+      "description": "Win a round with 100% accuracy in the Filter.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/bacdc0ad084e3fab9154db72a6a26318a8095c05.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/4108000/4e4b2c93f004c78d2d35bf62526580f3d0c07559.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "29.4"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
