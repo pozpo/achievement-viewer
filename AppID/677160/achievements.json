@@ -1,0 +1,82 @@
+{
+  "ARENA_PUZZLE_COMPLETED_LORD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ARENA_PUZZLE_COMPLETED_PEASANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BATTLEBOARD_PUZZLE_COMPLETED_LORD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BATTLEBOARD_PUZZLE_COMPLETED_PEASANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BOB_ROSS_PUZZLE_COMPLETED_LORD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BOB_ROSS_PUZZLE_COMPLETED_PEASANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDING_ESCAPED_ALONE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDING_LEFT_BEHIND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENDING_SECRET": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "INCIN_PUZZLE_COMPLETED_LORD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "INCIN_PUZZLE_COMPLETED_PEASANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "INVITE_A_FRIEND": {
+    "earned": true,
+    "earned_time": 1786108669
+  },
+  "RITUAL_PUZZLE_COMPLETED_PEASANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RITUAL_PUZZLE_COMPLETED_ROYALTY": {
+    "earned": true,
+    "earned_time": 1786119413
+  },
+  "SLOTMACHINE_PUZZLE_COMPLETED_LORD": {
+    "earned": true,
+    "earned_time": 1786109495
+  },
+  "SLOTMACHINE_PUZZLE_COMPLETED_PEASANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STAIRS_PUZZLE_COMPLETED_LORD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STAIRS_PUZZLE_COMPLETED_PEASANT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WEAPONS_PUZZLE_COMPLETED_LORD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WEAPONS_PUZZLE_COMPLETED_PEASANT": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "HHB_5_STATUS_EFFECTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHB_ADDICTION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHB_COMPLETE_SOLO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHB_CUSTOMIZE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHB_HORSEBET": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHB_SHOVE_FRIEND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHB_TOXIN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHB_TUTORIAL_BEATEN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_10_SHIFT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_100_CUSTOMERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_1000_MONEYRUN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_20_SHIFT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_250_CUSTOMERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_2500_MONEYRUN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_5_SHIFT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_500_CUSTOMERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_5000_MONEYRUN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_DEAD_CUSTOMER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_DIED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_FAILED_SHIFT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_FIRST_CUSTOMER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_FIRST_SHIFT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HHBF_PERFECT_SHIFT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PARTY_OF_TWO": {
+    "earned": true,
+    "earned_time": 1786114501
+  },
+  "QUOTA_FIFTH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUOTA_FIRST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUOTA_FOURTH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUOTA_SECOND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUOTA_THIRD": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

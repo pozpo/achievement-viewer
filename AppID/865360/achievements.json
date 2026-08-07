@@ -1,0 +1,90 @@
+{
+  "COMPLETE_ALCHEMY_CHURCH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_ALCHEMY_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_BASECAMP": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_BREWERY_CHURCH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_BREWERY_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_BRIDGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_CAVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_MIRROR_ROOM_CHURCH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_MIRROR_ROOM_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_NUMBER_LINK_CHURCH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_NUMBER_LINK_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_PIPES_BOTH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_SILO_CHURCH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_SILO_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_TESLA_CHURCH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_TESLA_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_THRONE_ROOM_CHURCH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_THRONE_ROOM_TOWER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETE_WALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "INVITE_A_FRIEND": {
+    "earned": true,
+    "earned_time": 1786136539
+  },
+  "KILL_OTHER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILL_YOURSELF": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
