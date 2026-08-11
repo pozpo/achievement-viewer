@@ -8,8 +8,8 @@
     "earned_time": 0
   },
   "COMPLETE_BASECAMP": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1786140438
   },
   "COMPLETE_BREWERY_CHURCH": {
     "earned": false,
@@ -77,7 +77,7 @@
   },
   "INVITE_A_FRIEND": {
     "earned": true,
-    "earned_time": 1786136539
+    "earned_time": 1786194676
   },
   "KILL_OTHER": {
     "earned": false,
