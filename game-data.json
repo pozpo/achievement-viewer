@@ -1,5 +1,5 @@
 {
-  "last_updated": 1786137707,
+  "last_updated": 1786474875,
   "total_games": 32,
   "games": [
     {
@@ -7174,7 +7174,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/865360/841c7efbb2b68baab3190c5f1c54a97f9df6a01c.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "26.2"
+            "percent": "26.1"
           },
           "KILL_OTHER": {
             "name": "We Were Here",
@@ -7209,8 +7209,8 @@
           "earned_time": 0
         },
         "COMPLETE_BASECAMP": {
-          "earned": false,
-          "earned_time": 0
+          "earned": true,
+          "earned_time": 1786140438
         },
         "COMPLETE_BREWERY_CHURCH": {
           "earned": false,
@@ -7278,7 +7278,7 @@
         },
         "INVITE_A_FRIEND": {
           "earned": true,
-          "earned_time": 1786136539
+          "earned_time": 1786194676
         },
         "KILL_OTHER": {
           "earned": false,
