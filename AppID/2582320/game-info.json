@@ -1,0 +1,244 @@
+{
+  "appid": "2582320",
+  "name": "Mixtape",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582320/95bbf1097b6f66f39b56f6388250c97a2f43b59e/header.jpg?t=1785424305",
+  "achievements": {
+    "GoodbyeStaceysRoom": {
+      "name": "Goodbye, Stacey's Room",
+      "description": "Complete all memories in Rockford’s room.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/893ee016bbee701390b6c32d0c3a89253417239c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/af863adf889dac67e6283f60efa7a027d9215961.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "74.3"
+    },
+    "MatchingTheDrapes": {
+      "name": "Matching The Drapes",
+      "description": "Complete all memories in Cassandra’s room.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/2ecc152eba337bbf837d5971c8d560269437abdd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/b3b90ab697386ef8b501262f0a308ebab0695e09.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.6"
+    },
+    "EightMinuteOdyssey": {
+      "name": "Eight Minute Odyssey ",
+      "description": "Complete all memories in Slater’s room.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/e6036fd46c61a3f942176525b7e99b10d7db1c06.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/7723469bfc32110e712fb313d8bd43e3289ac59f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.4"
+    },
+    "LastSong": {
+      "name": "Last Song",
+      "description": "Complete the game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/b255a2a1c542fb8b9d3ac685cfe7eb6fc40da56f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/5be71d4c155c052ae1a620b889ca399cd2443c7c.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "54.7"
+    },
+    "Thrashed": {
+      "name": "Thrashed",
+      "description": "Ollie a car.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/9bd6c3962093e2a8bffd46d51d86127c32bb34a1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/ec3c125778036ad449b1a6c55531d2aa170a785d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "22.4"
+    },
+    "FrontToBack": {
+      "name": "Front To Back",
+      "description": "Find everything in the bedrooms and all unique conversations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/cac21f9c099e3000f44f303f70281c77493280d1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/0d16425209dc4a338c2b5cb68706d84a3c661544.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.2"
+    },
+    "FrenchConnection": {
+      "name": "French Connection",
+      "description": "Kiss for 60 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/1cf12feec19ec619baef9478b203285a92d559d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/9933ee14e6ec9f293276bd6481c561057bb25a9f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.0"
+    },
+    "SmoothShopper": {
+      "name": "Smooth Shopper",
+      "description": "Don't crash once while escaping in the shopping cart.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/d152bc265ad8d327f9f96f34281bea0081c5a1a5.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/16d1861b2b3ce38792b78b245642b39a63027738.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "46.7"
+    },
+    "GrungeMetalAlchemist": {
+      "name": "Grunge Metal Alchemist",
+      "description": "Make Slater's secret slushy recipe.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/d0e08e3baecc33421493f49608f8cf570635dd6d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/09abb040613cbb6a2537518d201675b23ea07c6e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.0"
+    },
+    "ConeIslandBaby": {
+      "name": "Cone Island, Baby",
+      "description": "Knock over 10 traffic cones during the skate from Rockford's house.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/9f1facf48f140d04a09f64e71a959759b33354cb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/755ccc7f25b8a065a9bf62fa1c931cd79f71477e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.8"
+    },
+    "SkimGordon": {
+      "name": "Skim Gordon",
+      "description": "Throw a stone through the tyre swing. ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/9f23dd59fab812453511bca1d20a90520c11027d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/1b70d57cf866e8a4421f4d160a045364455bee49.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "51.7"
+    },
+    "InstructionsNotRequired": {
+      "name": "Instructions Not Required",
+      "description": "Complete minimaster assembly in under 15 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/e78b60130a90fceaedbd82f0b38570169058a277.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/440cdb25c7246718f20e83a855464d8c64005a42.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "20.9"
+    },
+    "AndItsOuttaThere": {
+      "name": "And It's Outta There!",
+      "description": "Hit only home runs as Cassandra.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/84da7fb28c3df59c503055030fbfe93a4551d9f2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/19ea07efe3d5b1f0a226fded088c1576966155cb.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.7"
+    },
+    "TriplePly": {
+      "name": "Triple Ply",
+      "description": "Throw 50 rolls at the house.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/3d46065a85e98c24a6f8a6a20e02a2b5218a4740.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/bd923b4f242fcbaa9222b0af051746933fa4a719.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "25.5"
+    },
+    "ItsThePigsDarling": {
+      "name": "It's The Pigs, Darling",
+      "description": "Hit 3 pig balloons.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/fc0d8f266b1990e8eefc1d9c1374094c36bc9ed1.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/552309579ba29976052c8fd470d325f1bcd95257.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "47.8"
+    },
+    "DontMove": {
+      "name": "Don't. Move.",
+      "description": "Take 20 photos in Bodacious Cretaceous.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/0b5e5453f68d356c22816ad1aa1fdd21e3133441.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/6a1e994ae8051f8d3eceb0fcc29e4e7f1fd07fc6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.0"
+    },
+    "AppetiteForDestruction": {
+      "name": "Appetite For Destruction",
+      "description": "Explode all objects on your way to the secret hideout.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/ed4ff2066d0438ada4a03a1968ed477b0a90b5c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/d0d09befb9d5098da8a7886448bc90f233ae8027.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.2"
+    },
+    "PaintItBlackIfYouWant": {
+      "name": "Paint it, Black, If You Want.",
+      "description": "Paint the entire door in under 30 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/0c1fa0a4de15c4a5aede5f97ea8db97421eff2fc.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/34fd34fc76e1434750ebc8862cf34ae4504776e1.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.6"
+    },
+    "SofaKingFast": {
+      "name": "Sofa King Fast",
+      "description": "Get the couch in place within 30 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/0afb7394f8cbd747d1eaf240c9c0ea573c136150.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/7da6ecc0a6c52ad62b7ae14a384d3fa406fd2ac6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "7.3"
+    },
+    "LeavesThatAreGreen": {
+      "name": "Leaves That Are Green",
+      "description": "Clear the leaves in under 45 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/6c57cf9fef8a8c08fa0bdf4324bccccd2304e88c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/ebf6f630628207e3628fc325ed7efb48c13b3842.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "18.2"
+    },
+    "FromTheHip": {
+      "name": "From The Hip",
+      "description": "Hit all the cans in under 30 seconds.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/9cdf652df54fc1645c3665f34f7549c96539a8b4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/aaadfcd36cc76ca27b7d7f4a5e8977f27e7658fc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "Doppelbanger": {
+      "name": "Doppelbanger",
+      "description": "Knock over all the character cut outs in the video store.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/ea3f14d8534e95649bdd74438b0504787a95967a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/cde2ebd3bbc5a331d79be0a34029b8adbd92b4fe.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.8"
+    },
+    "TapeheadGraveyard": {
+      "name": "Tapehead Graveyard",
+      "description": "Knock 200 VHS tapes off the shelves in the video store.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/3fa2848b6e5c78a0dd38708827fc02597381529d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/25f4bc02d48facfbc7d7ca83100846da20d15379.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "21.2"
+    },
+    "WellTakeALookAtYou": {
+      "name": "Well, Take A Look At You",
+      "description": "Don't miss a single jump or slide while rescuing Cassandra.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/6cb5aab297ddd49bdbbb086d331250256c4a03f3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/107d4ec24f823bb156459f892c9a4335d8d15c40.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.0"
+    },
+    "BannedInMassachusetts": {
+      "name": "Banned In Massachusetts",
+      "description": "Don't miss any fireworks in the coastal cruise.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/253eceec8ed23bc16332506194c69c9600d36855.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/0424f3670ffa503b3098e12103010d4ea6977a3f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.6"
+    },
+    "FightForYourRight": {
+      "name": "Fight For Your Right",
+      "description": "Acquire all the items at the party.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/5ad0e33d636feb9a02e6ef8c5b9a395c5bf0492d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2582320/d2f427035fec52f537e5c0ab0887a63726ba6c35.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
