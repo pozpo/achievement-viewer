@@ -1,0 +1,397 @@
+{
+  "appid": "1493640",
+  "name": "Banishers: Ghosts of New Eden",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1493640/header.jpg?t=1763044792",
+  "achievements": {
+    "ACH_ALL_ACHIEVEMENTS": {
+      "name": "Master Banishers",
+      "description": "Unlock all achievements",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/abf5c1b3b6bef5a4b611e906dfc08588d975fb81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/6b891498d6d23055957f22513d9c7625e1dd1a08.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.5"
+    },
+    "ACH_MAX_ESSENCES": {
+      "name": "Cases Closed",
+      "description": "Solve all the Haunting Cases of New Eden",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/e5cae8038d13d5a062834ecc7201dd6723294c8f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/e1c413991c1bc5a9f07b0bf26afef7aa5c06ae55.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "ACH_RESURRECTION": {
+      "name": "Death is a journey",
+      "description": "Successfully bring Antea back to life",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f8a3d7150e457ef2e6df7c41304c2e7334a3a7dd.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/965a5d45baf7bd818f8ce755444df10a1b62a474.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.3"
+    },
+    "ACH_ASCEND": {
+      "name": "Farewell my love",
+      "description": "Successfully give Antea her ascent",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/7d6cbaf8cb53017c59ebde3272b10d973b2dad8b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/69a71294b93073ea108f5e6978a5889c2eea13c6.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "ACH_FIRST_PACT": {
+      "name": "A Promise made",
+      "description": "Take your Oath",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/71360c9c72924854bcbe928af51acb459d84b77d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/c029e0da5739e11413c8a9cf96270b24d8e9a00e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "60.6"
+    },
+    "ACH_SECOND_PACT": {
+      "name": "Final Promise",
+      "description": "Reaffirm your Oath",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f20b994bd88689b697104a4112c130c982bbc116.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/0761ad2f70f5b8b44863568df1581dd64645d731.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "ACH_REUNION": {
+      "name": "Reunion",
+      "description": "Find Antea",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/294ed81635a755b12b9f559a62e82bf571fc0a3d.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/4666bfae2787a214fc4c88d743d2b76824ffd4ef.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "66.9"
+    },
+    "ACH_BEAST": {
+      "name": "No more Beast",
+      "description": "Defeat the Beast",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/dc6b9da9bf92fb89b0148a829f70574c7a9d21e3.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/a102e42341fdfc4994831d3196c2b528b73ef91a.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.4"
+    },
+    "ACH_PUPPETEER": {
+      "name": "Broken Puppet",
+      "description": "Defeat the Puppeteer",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/6d4422d0eb4d6caefdad16031b1d4b34027ca474.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/59b31c208da8b653b772d7d184969c7561f1137b.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "ACH_ENTITY": {
+      "name": "Injustice For All",
+      "description": "Defeat the Infamy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/79c9ca752fb86ada6583100927995d142c10c596.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/da7d847355f6aa9bf3df4cb4d5f9f95a5cdeb3e8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.5"
+    },
+    "ACH_AUL_SAUL": {
+      "name": "Old moss-head",
+      "description": "Defeat Aul' Saul",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/7ca8edd1054548136bae1c6652830454a2c4af16.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/dac47de1aae2037a828d3df7ad0c40d81a88d6e8.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "30.3"
+    },
+    "ACH_CALENDRE": {
+      "name": "Nazuku no more",
+      "description": "Defeat Calendre",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/15c211a8e88c1d75859f64d2e2b8fe2dd69fd86f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/0d7fc2a9c2eb06bf789f764688e387312d00655e.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "21.0"
+    },
+    "ACH_NIGHTMARE": {
+      "name": "The Curse is lifted",
+      "description": "Defeat the Nightmare",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/b16d6e3d06a5c71fb5869b83b4dd962f585d2762.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/a134663bef6c27ba072ffad6b3e75967046f5a80.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "20.8"
+    },
+    "ACH_MKC_THICKSKIN": {
+      "name": "Rose's fate",
+      "description": "Choose the destiny of Thickskin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/5a86feb11cc2eb4817b452637b056f811dd9bbe2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/2ec0f002317ed28fe4b416da1de8469f1d377e00.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "43.4"
+    },
+    "ACH_MKC_PENNINGTON": {
+      "name": "Burden of Command",
+      "description": "Choose the destiny of Captain Pennington",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/a2ad0d4f4f7ba11d3ed925dd5127ab97cac5f9ab.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/5a3a565d3472f643200ef1bca579c27946839405.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.1"
+    },
+    "ACH_MKC_HASKELL": {
+      "name": "Judged Jury",
+      "description": "Choose the destiny of Fairefax Haskell",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/b79f9d2fcb6460ec231dc763618748cc6142d80b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/1fada549d93c42f4e62ffa0f1854f06fee310b90.jpg",
+      "hidden": true,
+      "group": "Base Game",
+      "percent": "27.4"
+    },
+    "ACH_NWD_PRIMER_BOOK": {
+      "name": "Teacher's Pet",
+      "description": "Find 15 Bibles for Hugh Batcheler",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/048e5ed389e839c267875d8dd471f8d6a4dac6eb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/d93952e82d2015218a330cc4fd483c66f2c2e715.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.6"
+    },
+    "ACH_VAMPYR_BOOK": {
+      "name": "American Vampyr",
+      "description": "Find the old writings by the Brotherhood of Saint Paul's Stole",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/6245d304077ef9e546fd5aecf69cff2ee6297293.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/2c4bf1ddb9a5f05cee39f573e58c4ccc7a013b45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.0"
+    },
+    "ACH_NAMED_ENCOUNTER_VOID": {
+      "name": "Second Death",
+      "description": "Defeat the Specter of a banished ghost in the Void",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/9b79843ea52f704512702e941783a7835147b632.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/7e69d2a169533535d8f21d3b32efb01da7206d60.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.7"
+    },
+    "ACH_MANOR": {
+      "name": "Hidden Door",
+      "description": "Unlock the secret passage in Bligh Manor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/df1d1297cf6518b1bcfcd824d68b4a126f52841b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/4f1fef7adc232d225452bc75737c69e30d16aa4c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "12.3"
+    },
+    "ACH_FREEZE": {
+      "name": "Until a cure is found",
+      "description": "Freeze 5 enemies in a single encounter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/45a1290e76a09cb6476f229d6645ccf79bbaf7ca.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/7150b39a125d64bd595d6bf83235dbcc8af509cc.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.9"
+    },
+    "ACH_POST_PARRY_ATTACK": {
+      "name": "Counterattack",
+      "description": "Defeat 3 enemies with a post parry attack in a single encounter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/123f31e046a0f736009e1d2a9fc2fb4f9f34350c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/dad061a4703f83c205484537376da340e7a769b9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.2"
+    },
+    "ACH_WEAKSPOT_RIFLE": {
+      "name": "Right on Target",
+      "description": "Defeat 5 enemies with a weakspot hit (Rifle) in a single encounter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/692001b7302d567cb6c25175506f1ebccccd5df7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/17edee9aea04c0667e4b8cfee8a78d0d956aae69.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.0"
+    },
+    "ACH_BLAST": {
+      "name": "Outburst",
+      "description": "Defeat 3 enemies with a single Outburst",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/ec52f4586c0e570396263f6ba0b980086d617de2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/2c7a7b66edd325eeb4d3c812ebbaa827ec6c048a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.7"
+    },
+    "ACH_NOHIT": {
+      "name": "Float like a Butterfly",
+      "description": "Defeat 8 enemies in a single encounter without being hit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/977186b472618c445de13b3efd07c57880f2f34a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/256afc98f1598ed85d1a0b7fd9285337a7e021a3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.1"
+    },
+    "ACH_RITUAL": {
+      "name": "A Farmer's Life",
+      "description": "Complete the same Ritual site 10 times (intensity level 10)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/4595736a5f23192d45fd040014eb63bc3158df87.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/683f990574557021bd2c2c23fce83b4976f6234c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.6"
+    },
+    "ACH_BANISH": {
+      "name": "Banishing Move",
+      "description": "Defeat 50 enemies with a Banishment",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/b11c7cf340a835a7233fbb6dea3529d686788aae.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/0d2c22880622f49fb44bd804c1357e44994b8f48.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "24.1"
+    },
+    "ACH_ULTIMATE": {
+      "name": "Soulmates",
+      "description": "Defeat 50 enemies while Fusion is active",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/24395fe3c29c44884dd65aa1950d0773b3da93e9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/c0ca9947e0cef7681c9ad9f34a1d6adf3190a2e8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.6"
+    },
+    "ACH_TEAMWORK": {
+      "name": "Teamwork",
+      "description": "Defeat at least 4 enemies with Red and at least 4 enemies with Antea in a single encounter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f0ed284da7ca5d399fe08d824909129072bd164f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/3352b37cb8c26e8c18ec48213ca14bab26bf9b3c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "44.5"
+    },
+    "ACH_SHELTER": {
+      "name": "Gimme Shelter",
+      "description": "Activate all Shelters in New Eden",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/09093b01bff58851d44b303f8cd7dd97b077954b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/3c79418e4daad3c3eb3e76ae1b15f71a34eb2ac0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.4"
+    },
+    "ACH_DESTRUCTIBLES": {
+      "name": "Demolition Man",
+      "description": "Destroy 300 destructibles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/46ee1608bbe3e988adfac3105dcdf79abae59633.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/c2ed50b5c63faa2b6834615b8579340664630069.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.6"
+    },
+    "ACH_LOCKED_CHEST": {
+      "name": "Locksmith",
+      "description": "Unlock all locked chests in New Eden",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/055881e30d643bc55212f007289cb6d89526f98c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/fcb54ee9942b3a76ec85d60922a9490a94c03d81.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.4"
+    },
+    "ACH_CURSED_CHEST": {
+      "name": "Cursed Locksmith",
+      "description": "Unlock all cursed chests in New Eden",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/b663eb0adf7a12de64a54700990dd0ad700a9daa.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/032bb035b300e6f0115ed0c5049fd34a328d6123.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.7"
+    },
+    "ACH_DUNGEON": {
+      "name": "Raider",
+      "description": "Complete all Haunted Grounds of New Eden",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f09758d2ecb26cb9164295d8c59bf865ce8f9fd7.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/895c5b59abd163aff55bc373493a9a78607f3eec.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "9.0"
+    },
+    "ACH_COLLECTIBLE": {
+      "name": "Bookworm",
+      "description": "Collect all Collectibles in New Eden",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/6d6b092a852264e3d4b5179c0a77c6670840349e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/5a19ab62abffb42b30cf50d51aa825e2522e5a45.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "6.6"
+    },
+    "ACH_SOUL_GRABBER": {
+      "name": "The Good Hunter",
+      "description": "Find 50 Soul Grabbers in New Eden",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/3bc5093e80dd78889d990bdccb011577182722bb.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/667412a280db1fcb9222456c6798567739a50db8.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "ACH_TREASURE_MAP": {
+      "name": "Prospector",
+      "description": "Complete all treasure maps",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/b6144aa9a16d2a23c47d8215929258fe17cb41d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/1c3c20fe3867c1c311722a52c40edb0c89b1e74d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.4"
+    },
+    "ACH_UPGRADE_ITEM": {
+      "name": "Unlimited Power",
+      "description": "Upgrade an item",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/e10432e024e05a5ffe6503d06f796886a15a1681.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f4cab3bf6b844d2ae5aafec943e866c39df6e34f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "64.3"
+    },
+    "ACH_FULL_ITEM_RANK7": {
+      "name": "Bring it on!",
+      "description": "Equip 8 items at rank 7 (Relic) at the same moment",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f46c462cefb89fa04acca0525c7c735c35ac2182.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/81310e33e19492bf2ec97edabe86729fba07681d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "ACH_ITEM_RANK7": {
+      "name": "A Perfect Tool",
+      "description": "Upgrade an item at rank 7 (Relic)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/580f5f2fe967df4154ea101301765e14d6b7b4d9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/78b2ba9ca5416dc5d1d2e037ca536f00a70bcdcd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "26.9"
+    },
+    "ACH_CURRENCY": {
+      "name": "Round Figure",
+      "description": "Collect 10 000 Pieces of Eight",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/9742f3f64415067b383a524bdd3ad64b1eb59d89.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f7a427171a1e93056d53d6d53976a7776190db1e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "17.9"
+    },
+    "ACH_FULL_EQUIPMENT": {
+      "name": "Catch 'Em All",
+      "description": "Collect all 88 available equipments",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/9dd7fa25db888d90afa49a4e70cfd4ea4b749d49.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f061d220d0675a00189e3c6ce66422f50cc6f4de.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.6"
+    },
+    "ACH_LEVEL_MAX": {
+      "name": "Full Potency",
+      "description": "Reach level 25",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/80015d9c47351f9529deeac8e74f4d4fae87af76.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/936491edbdd18bf142c983319eef82daa0a0eaa3.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "8.5"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
