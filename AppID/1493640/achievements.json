@@ -16,8 +16,8 @@
     "earned_time": 1787214023
   },
   "ACH_BEAST": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1787682749
   },
   "ACH_BLAST": {
     "earned": false,
@@ -52,8 +52,8 @@
     "earned_time": 0
   },
   "ACH_FIRST_PACT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1787256383
   },
   "ACH_FREEZE": {
     "earned": false,
@@ -96,8 +96,8 @@
     "earned_time": 0
   },
   "ACH_MKC_THICKSKIN": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1787683438
   },
   "ACH_NAMED_ENCOUNTER_VOID": {
     "earned": false,
@@ -108,8 +108,8 @@
     "earned_time": 0
   },
   "ACH_NOHIT": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1787682049
   },
   "ACH_NWD_PRIMER_BOOK": {
     "earned": false,
@@ -128,8 +128,8 @@
     "earned_time": 0
   },
   "ACH_REUNION": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1787251482
   },
   "ACH_RITUAL": {
     "earned": false,
@@ -160,8 +160,8 @@
     "earned_time": 0
   },
   "ACH_UPGRADE_ITEM": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1787252098
   },
   "ACH_VAMPYR_BOOK": {
     "earned": false,
