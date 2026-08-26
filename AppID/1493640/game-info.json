@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/e1c413991c1bc5a9f07b0bf26afef7aa5c06ae55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "14.0"
     },
     "ACH_RESURRECTION": {
       "name": "Death is a journey",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/59b31c208da8b653b772d7d184969c7561f1137b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.2"
     },
     "ACH_ENTITY": {
       "name": "Injustice For All",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/dac47de1aae2037a828d3df7ad0c40d81a88d6e8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.4"
     },
     "ACH_CALENDRE": {
       "name": "Nazuku no more",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/0d7fc2a9c2eb06bf789f764688e387312d00655e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.0"
+      "percent": "21.1"
     },
     "ACH_NIGHTMARE": {
       "name": "The Curse is lifted",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/1fada549d93c42f4e62ffa0f1854f06fee310b90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "ACH_NWD_PRIMER_BOOK": {
       "name": "Teacher's Pet",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/256afc98f1598ed85d1a0b7fd9285337a7e021a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.1"
+      "percent": "43.2"
     },
     "ACH_RITUAL": {
       "name": "A Farmer's Life",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/c2ed50b5c63faa2b6834615b8579340664630069.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "ACH_LOCKED_CHEST": {
       "name": "Locksmith",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/895c5b59abd163aff55bc373493a9a78607f3eec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "ACH_COLLECTIBLE": {
       "name": "Bookworm",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/5a19ab62abffb42b30cf50d51aa825e2522e5a45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.6"
+      "percent": "6.7"
     },
     "ACH_SOUL_GRABBER": {
       "name": "The Good Hunter",
