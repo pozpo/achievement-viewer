@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/e1c413991c1bc5a9f07b0bf26afef7aa5c06ae55.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "ACH_RESURRECTION": {
       "name": "Death is a journey",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/c029e0da5739e11413c8a9cf96270b24d8e9a00e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "60.6"
+      "percent": "60.4"
     },
     "ACH_SECOND_PACT": {
       "name": "Final Promise",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/0761ad2f70f5b8b44863568df1581dd64645d731.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ACH_REUNION": {
       "name": "Reunion",
@@ -64,7 +64,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/4666bfae2787a214fc4c88d743d2b76824ffd4ef.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "66.9"
+      "percent": "66.8"
     },
     "ACH_BEAST": {
       "name": "No more Beast",
@@ -73,7 +73,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/a102e42341fdfc4994831d3196c2b528b73ef91a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.3"
     },
     "ACH_PUPPETEER": {
       "name": "Broken Puppet",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/59b31c208da8b653b772d7d184969c7561f1137b.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.2"
+      "percent": "27.1"
     },
     "ACH_ENTITY": {
       "name": "Injustice For All",
@@ -91,7 +91,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/da7d847355f6aa9bf3df4cb4d5f9f95a5cdeb3e8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.4"
     },
     "ACH_AUL_SAUL": {
       "name": "Old moss-head",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/dac47de1aae2037a828d3df7ad0c40d81a88d6e8.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "30.4"
+      "percent": "30.2"
     },
     "ACH_CALENDRE": {
       "name": "Nazuku no more",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/0d7fc2a9c2eb06bf789f764688e387312d00655e.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "21.1"
+      "percent": "21.0"
     },
     "ACH_NIGHTMARE": {
       "name": "The Curse is lifted",
@@ -118,7 +118,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/a134663bef6c27ba072ffad6b3e75967046f5a80.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "ACH_MKC_THICKSKIN": {
       "name": "Rose's fate",
@@ -127,7 +127,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/2ec0f002317ed28fe4b416da1de8469f1d377e00.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "43.4"
+      "percent": "43.2"
     },
     "ACH_MKC_PENNINGTON": {
       "name": "Burden of Command",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/5a3a565d3472f643200ef1bca579c27946839405.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "ACH_MKC_HASKELL": {
       "name": "Judged Jury",
@@ -145,7 +145,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/1fada549d93c42f4e62ffa0f1854f06fee310b90.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.3"
     },
     "ACH_NWD_PRIMER_BOOK": {
       "name": "Teacher's Pet",
@@ -163,7 +163,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/2c4bf1ddb9a5f05cee39f573e58c4ccc7a013b45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.0"
+      "percent": "14.9"
     },
     "ACH_NAMED_ENCOUNTER_VOID": {
       "name": "Second Death",
@@ -190,7 +190,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/7150b39a125d64bd595d6bf83235dbcc8af509cc.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.9"
+      "percent": "13.8"
     },
     "ACH_POST_PARRY_ATTACK": {
       "name": "Counterattack",
@@ -208,7 +208,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/17edee9aea04c0667e4b8cfee8a78d0d956aae69.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.0"
+      "percent": "23.9"
     },
     "ACH_BLAST": {
       "name": "Outburst",
@@ -217,7 +217,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/2c7a7b66edd325eeb4d3c812ebbaa827ec6c048a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.5"
     },
     "ACH_NOHIT": {
       "name": "Float like a Butterfly",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/256afc98f1598ed85d1a0b7fd9285337a7e021a3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "43.2"
+      "percent": "43.0"
     },
     "ACH_RITUAL": {
       "name": "A Farmer's Life",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/0d2c22880622f49fb44bd804c1357e44994b8f48.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.0"
     },
     "ACH_ULTIMATE": {
       "name": "Soulmates",
@@ -262,7 +262,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/3352b37cb8c26e8c18ec48213ca14bab26bf9b3c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "44.5"
+      "percent": "44.4"
     },
     "ACH_SHELTER": {
       "name": "Gimme Shelter",
@@ -271,7 +271,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/3c79418e4daad3c3eb3e76ae1b15f71a34eb2ac0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.4"
+      "percent": "11.3"
     },
     "ACH_DESTRUCTIBLES": {
       "name": "Demolition Man",
@@ -280,7 +280,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/c2ed50b5c63faa2b6834615b8579340664630069.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.7"
+      "percent": "34.5"
     },
     "ACH_LOCKED_CHEST": {
       "name": "Locksmith",
@@ -307,7 +307,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/895c5b59abd163aff55bc373493a9a78607f3eec.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "ACH_COLLECTIBLE": {
       "name": "Bookworm",
@@ -316,7 +316,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/5a19ab62abffb42b30cf50d51aa825e2522e5a45.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "ACH_SOUL_GRABBER": {
       "name": "The Good Hunter",
@@ -325,7 +325,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/667412a280db1fcb9222456c6798567739a50db8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "15.3"
+      "percent": "15.2"
     },
     "ACH_TREASURE_MAP": {
       "name": "Prospector",
@@ -343,7 +343,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f4cab3bf6b844d2ae5aafec943e866c39df6e34f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.3"
+      "percent": "64.2"
     },
     "ACH_FULL_ITEM_RANK7": {
       "name": "Bring it on!",
@@ -352,7 +352,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/81310e33e19492bf2ec97edabe86729fba07681d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "ACH_ITEM_RANK7": {
       "name": "A Perfect Tool",
@@ -361,7 +361,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/78b2ba9ca5416dc5d1d2e037ca536f00a70bcdcd.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "ACH_CURRENCY": {
       "name": "Round Figure",
@@ -370,7 +370,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1493640/f7a427171a1e93056d53d6d53976a7776190db1e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.9"
+      "percent": "17.8"
     },
     "ACH_FULL_EQUIPMENT": {
       "name": "Catch 'Em All",
