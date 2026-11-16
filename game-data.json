@@ -1,6 +1,6 @@
 {
-  "last_updated": 1794846818,
-  "total_games": 26,
+  "last_updated": 1794847021,
+  "total_games": 25,
   "games": [
     {
       "appid": "3722330",
@@ -144,21 +144,6 @@
         "ACH_TRUE_ENDING": {
           "earned": false,
           "earned_time": 0
-        }
-      }
-    },
-    {
-      "appid": "9999999999",
-      "info": {
-        "appid": "9999999999",
-        "name": "Game 9999999999",
-        "icon": "",
-        "achievements": {}
-      },
-      "achievements": {
-        "ACHIEVEMENTSYNC_SYNTHETIC_TEST": {
-          "earned": true,
-          "earned_time": 1794830400
         }
       }
     },
