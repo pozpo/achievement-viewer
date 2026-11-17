@@ -7,6 +7,66 @@
     "earned": false,
     "earned_time": 0
   },
+  "DLC1_Defeat_OneTrueKing": {
+    "earned": true,
+    "earned_time": 1773380413
+  },
+  "DLC1_Discover_True_Ending": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_Obtain_Archetype": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_Obtain_Scribe_Reward": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC1_Obtain_Warden_Reward": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Complete": {
+    "earned": true,
+    "earned_time": 1773641253
+  },
+  "DLC2_Meet_Walt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Obtain_Archetype": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Obtain_Crossbow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC2_Upgrade_Item": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Complete": {
+    "earned": true,
+    "earned_time": 1773710537
+  },
+  "DLC3_Obtain_Archetype": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Obtain_Bastion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Obtain_Redeemer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DLC3_Obtain_SpiritAlternator": {
+    "earned": false,
+    "earned_time": 0
+  },
   "Defeat_Abberations_A": {
     "earned": true,
     "earned_time": 1773639371
@@ -68,66 +128,6 @@
     "earned_time": 0
   },
   "Discover_Letos_Lab": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC1_Defeat_OneTrueKing": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC1_Discover_True_Ending": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC1_Obtain_Archetype": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC1_Obtain_Scribe_Reward": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC1_Obtain_Warden_Reward": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC2_Complete": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC2_Meet_Walt": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC2_Obtain_Archetype": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC2_Obtain_Crossbow": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC2_Upgrade_Item": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC3_Complete": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC3_Obtain_Archetype": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC3_Obtain_Bastion": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC3_Obtain_Redeemer": {
-    "earned": false,
-    "earned_time": 0
-  },
-  "DLC3_Obtain_SpiritAlternator": {
     "earned": false,
     "earned_time": 0
   },

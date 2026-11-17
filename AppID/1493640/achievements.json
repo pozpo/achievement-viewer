@@ -20,8 +20,8 @@
     "earned_time": 1787682749
   },
   "ACH_BLAST": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1790963727
   },
   "ACH_CALENDRE": {
     "earned": false,

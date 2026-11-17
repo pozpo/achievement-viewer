@@ -164,11 +164,11 @@
     "earned_time": 0
   },
   "ACH41": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776333332
   },
   "ACH42": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1776334197
   }
 }
