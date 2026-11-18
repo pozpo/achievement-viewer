@@ -1,5 +1,5 @@
 {
-  "last_updated": 1794986518,
+  "last_updated": 1794991205,
   "total_games": 26,
   "games": [
     {
@@ -105,10 +105,6 @@
         "uses_db": false
       },
       "achievements": {
-        "ACH_EMPTY_HOME": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH_FIRST_BLOOD": {
           "earned": true,
           "earned_time": 1785254955
@@ -117,22 +113,6 @@
           "earned": true,
           "earned_time": 1785263761
         },
-        "ACH_GRAVE_DECISION": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_LAST_PERFORMANCE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_LOCKED_AND_LOADED": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_RELENTLESS": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH_SILENCED": {
           "earned": true,
           "earned_time": 1785259032
@@ -140,10 +120,6 @@
         "ACH_STILL_BREATHING": {
           "earned": true,
           "earned_time": 1785256480
-        },
-        "ACH_TRUE_ENDING": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -1169,141 +1145,13 @@
           "earned": true,
           "earned_time": 1779047258
         },
-        "ACH_CHA_F2_CRASH": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH_CHA_F2_CROSSYROAD": {
           "earned": true,
           "earned_time": 1779045908
         },
-        "ACH_CHA_F2_DICE": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH_CHA_F2_HIGHROLLER2": {
           "earned": true,
           "earned_time": 1779047008
-        },
-        "ACH_CHA_F2_KENO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_LUCKYSTREAK2": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_MONEYWHEEL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F2_PLINKO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_BIGSPENDER3": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_CRAPS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_CROSSYROAD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_DICE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_DRAGONTOWER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_HIGHROLLER3": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_LUCKYSTREAK3": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_MINESWEEPER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_POKER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F3_WHEELOFFORTUNE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_BIGSPENDER4": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_BLACKJACK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_CRASH": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_CROSSYROAD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_DRAGONTOWER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_DUCKRACE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_HIGHROLLER4": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_KENO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_LUCKYSTREAK4": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_MINESWEEPER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_MONEYWHEEL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_PLINKO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_CHA_F4_ROULETTE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ENDING_COINFLIP_LOST": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ENDING_COINFLIP_WON": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_ENDING_DEBT_PAID": {
-          "earned": false,
-          "earned_time": 0
         },
         "ACH_MISC_GETHELP": {
           "earned": true,
@@ -1313,10 +1161,6 @@
           "earned": true,
           "earned_time": 1779052224
         },
-        "ACH_MISC_PEAK": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH_MISC_YESTOGAMBLELOSE": {
           "earned": true,
           "earned_time": 1778963877
@@ -1324,26 +1168,6 @@
         "ACH_MISC_YESTOGAMBLEWIN": {
           "earned": true,
           "earned_time": 1779042603
-        },
-        "ACH_MONEY_100B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MONEY_100M": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MONEY_10B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MONEY_10M": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_MONEY_1B": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -1947,95 +1771,27 @@
       "achievements": {
         "Craft_Weapon_Mod_A": {
           "earned": true,
-          "earned_time": 1773710537
-        },
-        "Craft_Weapon_Mod_B": {
-          "earned": false,
-          "earned_time": 0
+          "earned_time": 1773378038
         },
         "DLC1_Defeat_OneTrueKing": {
           "earned": true,
           "earned_time": 1773380413
         },
-        "DLC1_Discover_True_Ending": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC1_Obtain_Archetype": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC1_Obtain_Scribe_Reward": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC1_Obtain_Warden_Reward": {
-          "earned": false,
-          "earned_time": 0
-        },
         "DLC2_Complete": {
           "earned": true,
           "earned_time": 1773641253
-        },
-        "DLC2_Meet_Walt": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC2_Obtain_Archetype": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC2_Obtain_Crossbow": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC2_Upgrade_Item": {
-          "earned": false,
-          "earned_time": 0
         },
         "DLC3_Complete": {
           "earned": true,
           "earned_time": 1773710537
         },
-        "DLC3_Obtain_Archetype": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC3_Obtain_Bastion": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC3_Obtain_Redeemer": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DLC3_Obtain_SpiritAlternator": {
-          "earned": false,
-          "earned_time": 0
-        },
         "Defeat_Abberations_A": {
           "earned": true,
           "earned_time": 1773639371
         },
-        "Defeat_Abberations_B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Defeat_Boss_No_Damage": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Defeat_Corrupted_Ravager": {
-          "earned": false,
-          "earned_time": 0
-        },
         "Defeat_Cube": {
           "earned": true,
           "earned_time": 1773384365
-        },
-        "Defeat_Faelin_Faerin": {
-          "earned": false,
-          "earned_time": 0
         },
         "Defeat_Final_Boss": {
           "earned": true,
@@ -2049,53 +1805,17 @@
           "earned": true,
           "earned_time": 1773228654
         },
-        "Defeat_Many_Faces": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Defeat_Nightweaver": {
-          "earned": false,
-          "earned_time": 0
-        },
         "Defeat_Special_Enemies": {
           "earned": true,
           "earned_time": 1773643586
-        },
-        "Defeat_Tal_Ratha": {
-          "earned": false,
-          "earned_time": 0
         },
         "Defeat_World_Boss": {
           "earned": true,
           "earned_time": 1773380413
         },
-        "Discover_Blood_Moon_Room": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Discover_Letos_Lab": {
-          "earned": false,
-          "earned_time": 0
-        },
         "Meet_Custodian": {
           "earned": true,
           "earned_time": 1773549506
-        },
-        "Meet_Flautist": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Meet_Meidra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Meet_Mudtooth": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Meet_Nimue": {
-          "earned": false,
-          "earned_time": 0
         },
         "Obtain_Archetype": {
           "earned": true,
@@ -2105,77 +1825,17 @@
           "earned": true,
           "earned_time": 1773637050
         },
-        "Obtain_Archetype_Level": {
-          "earned": false,
-          "earned_time": 0
-        },
         "Obtain_Archetype_Secret": {
           "earned": true,
           "earned_time": 1773710911
-        },
-        "Obtain_Blood_Moon_Item": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Boss_Alt_Reward": {
-          "earned": false,
-          "earned_time": 0
         },
         "Obtain_Boss_Weapon": {
           "earned": true,
           "earned_time": 1773646984
         },
-        "Obtain_Guns_A": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Guns_B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Melee_Weapons_A": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Melee_Weapons_B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Nightweaver_Item": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Relics": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Scrap_A": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Scrap_B": {
-          "earned": false,
-          "earned_time": 0
-        },
         "Obtain_Traits_A": {
           "earned": true,
           "earned_time": 1773245273
-        },
-        "Obtain_Traits_B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Traits_C": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Obtain_Water_Harp_Item": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Upgrade_Boss_Weapon_A": {
-          "earned": false,
-          "earned_time": 0
         },
         "Upgrade_Boss_Weapon_B": {
           "earned": true,
@@ -2189,21 +1849,9 @@
           "earned": true,
           "earned_time": 1773635398
         },
-        "Upgrade_Standard_Weapon_B": {
-          "earned": false,
-          "earned_time": 0
-        },
         "Upgrade_Traits_A": {
           "earned": true,
           "earned_time": 1773556334
-        },
-        "Upgrade_Traits_B": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Upgrade_Weapon_Mutator": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -2490,125 +2138,21 @@
         "uses_db": false
       },
       "achievements": {
-        "AINTGOTTIMETOBLEED": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "CASUALTIESOFWAR": {
-          "earned": false,
-          "earned_time": 0
-        },
         "CHEKOVSGUN": {
           "earned": true,
           "earned_time": 1783280494
-        },
-        "CLIMBINGOUTOFHELL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DOUBLETAP": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FINALGIRL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FRIENDSLIKETHESE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FULLCLEARANCE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "GHOSTSIGNAL": {
-          "earned": false,
-          "earned_time": 0
         },
         "HEARTTOHEART": {
           "earned": true,
           "earned_time": 1783355602
         },
-        "ILLUMINATINGEVIDENCE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "INTOTHESUNSET": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "LETMEHAVEAGO": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "LOSTINTIME": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "OLDDOG": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "PORTENTS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RANDOLPHHODGSON": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "SCRATCHINGATTHEPAST": {
-          "earned": false,
-          "earned_time": 0
-        },
         "SEMPERFI": {
           "earned": true,
           "earned_time": 1783355823
         },
-        "SIXMINUTESOFNIGHT": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "SLAYER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "SOYOUREMYTECHNICIAN": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "STARTTHINKINGLIKEAMARINE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "THEARK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "THEGOLDENPATH": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "THEREISALWAYSHOPE": {
-          "earned": false,
-          "earned_time": 0
-        },
         "THESWORDANDTHESHIELD": {
           "earned": true,
           "earned_time": 1783269656
-        },
-        "THETHING": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "UNTILDEATHDOUSPART": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "WEARENOTALONE": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -2895,105 +2439,25 @@
         "uses_db": false
       },
       "achievements": {
-        "ANDREW_REDEEMED": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ANGELA_REDEEMED": {
           "earned": true,
           "earned_time": 1783194597
-        },
-        "CHOOSE_HEAD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "CHOOSE_HEART": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "COMBAT_FIVE_IN_A_ROW": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "COMPLETED_SOLO": {
-          "earned": false,
-          "earned_time": 0
         },
         "DANIEL_REDEEMED": {
           "earned": true,
           "earned_time": 1783194198
         },
-        "DOOMED_ALL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FOUND_FAMILY_SECRETS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FOUND_PICTURES_ALL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FOUND_PICTURES_BLACK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FOUND_PICTURES_WHITE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "FOUND_SUPERNATURAL_SECRETS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "JOHN_REDEEMED": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KILLED_ALL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "PLAYED_MODE_MOVIENIGHT": {
-          "earned": false,
-          "earned_time": 0
-        },
         "PLAYED_MODE_PROLOGUE": {
           "earned": true,
           "earned_time": 1782854621
         },
-        "REDEEM_ALL": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RELATIONSHIP_ANDREW_ALL": {
+        "Relationship_Andrew_all": {
           "earned": true,
           "earned_time": 1783194111
         },
-        "RELATIONSHIP_ANGELA_JOHN": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RELATIONSHIP_DANIEL_TAYLOR": {
+        "Relationship_Daniel_Taylor": {
           "earned": true,
           "earned_time": 1783193156
-        },
-        "SAVE_MARY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "SOLE_SURVIVOR": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TAYLOR_DEMONS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "TAYLOR_REDEEMED": {
-          "earned": false,
-          "earned_time": 0
         },
         "UNLOCKED_AMIABLE": {
           "earned": true,
@@ -3010,10 +2474,6 @@
         "UNLOCKED_MATURE": {
           "earned": true,
           "earned_time": 1783194597
-        },
-        "UNLOCKED_RATIONAL": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -3588,10 +3048,6 @@
         "uses_db": false
       },
       "achievements": {
-        "Achievement_1_Id": {
-          "earned": true,
-          "earned_time": 1775579762
-        },
         "Achievement_10_Id": {
           "earned": true,
           "earned_time": 1775579762
@@ -3632,7 +3088,7 @@
           "earned": false,
           "earned_time": 0
         },
-        "Achievement_2_Id": {
+        "Achievement_1_Id": {
           "earned": true,
           "earned_time": 1775579762
         },
@@ -3676,7 +3132,7 @@
           "earned": true,
           "earned_time": 1775579762
         },
-        "Achievement_3_Id": {
+        "Achievement_2_Id": {
           "earned": true,
           "earned_time": 1775579762
         },
@@ -3720,7 +3176,7 @@
           "earned": true,
           "earned_time": 1775579762
         },
-        "Achievement_4_Id": {
+        "Achievement_3_Id": {
           "earned": true,
           "earned_time": 1775579762
         },
@@ -3764,7 +3220,7 @@
           "earned": false,
           "earned_time": 0
         },
-        "Achievement_5_Id": {
+        "Achievement_4_Id": {
           "earned": true,
           "earned_time": 1775579762
         },
@@ -3772,25 +3228,9 @@
           "earned": false,
           "earned_time": 0
         },
-        "Achievement_51_Id": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Achievement_52_Id": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Achievement_56_Id": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Achievement_57_Id": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Achievement_58_Id": {
-          "earned": false,
-          "earned_time": 0
+        "Achievement_5_Id": {
+          "earned": true,
+          "earned_time": 1775579762
         },
         "Achievement_6_Id": {
           "earned": true,
@@ -4003,57 +3443,9 @@
         "uses_db": false
       },
       "achievements": {
-        "ARENA_PUZZLE_COMPLETED_LORD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ARENA_PUZZLE_COMPLETED_PEASANT": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "BATTLEBOARD_PUZZLE_COMPLETED_LORD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "BATTLEBOARD_PUZZLE_COMPLETED_PEASANT": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "BOB_ROSS_PUZZLE_COMPLETED_LORD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "BOB_ROSS_PUZZLE_COMPLETED_PEASANT": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ENDING_ESCAPED_ALONE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ENDING_LEFT_BEHIND": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ENDING_SECRET": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "INCIN_PUZZLE_COMPLETED_LORD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "INCIN_PUZZLE_COMPLETED_PEASANT": {
-          "earned": false,
-          "earned_time": 0
-        },
         "INVITE_A_FRIEND": {
           "earned": true,
           "earned_time": 1786108669
-        },
-        "RITUAL_PUZZLE_COMPLETED_PEASANT": {
-          "earned": false,
-          "earned_time": 0
         },
         "RITUAL_PUZZLE_COMPLETED_ROYALTY": {
           "earned": true,
@@ -4062,26 +3454,6 @@
         "SLOTMACHINE_PUZZLE_COMPLETED_LORD": {
           "earned": true,
           "earned_time": 1786109495
-        },
-        "SLOTMACHINE_PUZZLE_COMPLETED_PEASANT": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "STAIRS_PUZZLE_COMPLETED_LORD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "STAIRS_PUZZLE_COMPLETED_PEASANT": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "WEAPONS_PUZZLE_COMPLETED_LORD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "WEAPONS_PUZZLE_COMPLETED_PEASANT": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -4314,97 +3686,17 @@
         "uses_db": false
       },
       "achievements": {
-        "A_DEPLOYMENT_A_DAY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "A_SLICE_OF_GREATNESS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ABOVE_AND_BEYOND": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DOESNT_AFRAID_OF_ANYTHING": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DRONE_SCHOOL_STAR": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "GALLANT_GUARDIAN": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "GAUNTLET_LEGEND": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "GOTOORAK_SLAYER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "GREAT_IN_EVERY_TIMELINE": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ITS_GOING_DOWN": {
           "earned": true,
           "earned_time": 1779563947
-        },
-        "JUNIOR_DETECTIVE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "MALAKTULA_VANQUISHER": {
-          "earned": false,
-          "earned_time": 0
         },
         "PCAA_CERTIFIED": {
           "earned": true,
           "earned_time": 1779562595
         },
-        "PROMOTION_SPOTTED": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RAM_ROD_REALLY_ROCKS": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RAMOK_CONQUEROR": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RECLAIMER_BRONZE": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RECLAIMER_GOLD": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RECLAIMER_IRON": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "RECLAIMER_SILVER": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ROGUED_OUT": {
           "earned": true,
           "earned_time": 1779563355
-        },
-        "STOLEN_VALOR": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "WITNESS_ASCENSION": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -4511,33 +3803,9 @@
         "uses_db": false
       },
       "achievements": {
-        "COME_IN": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DOWN_IN_DARK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "DRIFTER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "EAVESDROPPER": {
-          "earned": false,
-          "earned_time": 0
-        },
         "HITCHED_UP": {
           "earned": true,
           "earned_time": 1782751157
-        },
-        "HOLY_COW": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "OUT_OF_SIGHT": {
-          "earned": false,
-          "earned_time": 0
         },
         "SURVIVOR": {
           "earned": true,
@@ -4546,10 +3814,6 @@
         "TEXTER": {
           "earned": true,
           "earned_time": 1782759286
-        },
-        "WHOS_WATCHING": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -4953,170 +4217,6 @@
         "uses_db": false
       },
       "achievements": {
-        "ACH00": {
-          "earned": true,
-          "earned_time": 1776334197
-        },
-        "ACH01": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH02": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH03": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH04": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH05": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH06": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH07": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH08": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH09": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH10": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH11": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH12": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH13": {
-          "earned": true,
-          "earned_time": 1776333332
-        },
-        "ACH14": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH15": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH16": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH17": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH18": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH19": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH20": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH21": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH22": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH23": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH24": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH25": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH26": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH27": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH28": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH29": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH30": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH31": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH32": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH33": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH34": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH35": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH36": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH37": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH38": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH39": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH40": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH41": {
           "earned": true,
           "earned_time": 1776333332
@@ -5996,145 +5096,33 @@
           "earned": true,
           "earned_time": 1773115880
         },
-        "ACH_11": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_12": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH_13": {
           "earned": true,
           "earned_time": 1772153133
         },
-        "ACH_14": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_15": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_16": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_17": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH_18": {
           "earned": true,
-          "earned_time": 1773118856
-        },
-        "ACH_19": {
-          "earned": false,
-          "earned_time": 0
+          "earned_time": 1772167800
         },
         "ACH_2": {
           "earned": true,
           "earned_time": 1772165205
         },
-        "ACH_20": {
-          "earned": true,
-          "earned_time": 1772169077
-        },
-        "ACH_21": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_22": {
-          "earned": true,
-          "earned_time": 1773124395
-        },
         "ACH_23": {
           "earned": true,
-          "earned_time": 1772221536
-        },
-        "ACH_24": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_25": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_26": {
-          "earned": false,
-          "earned_time": 0
+          "earned_time": 1772169077
         },
         "ACH_27": {
           "earned": true,
           "earned_time": 1772985341
         },
-        "ACH_28": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_29": {
-          "earned": true,
-          "earned_time": 1772985341
-        },
         "ACH_3": {
           "earned": true,
-          "earned_time": 1773120264
-        },
-        "ACH_30": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_31": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_32": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_33": {
-          "earned": true,
-          "earned_time": 1772167800
-        },
-        "ACH_34": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_35": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_36": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_37": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_38": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_39": {
-          "earned": false,
-          "earned_time": 0
+          "earned_time": 1772221536
         },
         "ACH_4": {
           "earned": true,
           "earned_time": 1772593611
-        },
-        "ACH_40": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_41": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_42": {
-          "earned": false,
-          "earned_time": 0
         },
         "ACH_5": {
           "earned": true,
@@ -6147,14 +5135,6 @@
         "ACH_7": {
           "earned": true,
           "earned_time": 1773124395
-        },
-        "ACH_8": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_9": {
-          "earned": true,
-          "earned_time": 1772153133
         }
       }
     },
@@ -6441,77 +5421,13 @@
         "uses_db": false
       },
       "achievements": {
-        "0451": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "AWARDWORTHY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "CAMERASHY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "CANYOUPETTHEDOG": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "COLLECTOR": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "CRIMESCENEPHOTOGRAPHER": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "EXTINGUISHED": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "GUILTY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "HANDY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "HAPPIERENDING": {
-          "earned": false,
-          "earned_time": 0
-        },
         "HAPPYENDING": {
           "earned": true,
           "earned_time": 1783883656
         },
-        "HARK": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "HOPEYOUENJOYEDYOURSTAY": {
-          "earned": false,
-          "earned_time": 0
-        },
         "IGNITED": {
           "earned": true,
           "earned_time": 1783874723
-        },
-        "ILIKEMONEY": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "INVESTIGATOR": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "LENDMEAHAND": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "MANOFMANYINTERESTS": {
-          "earned": false,
-          "earned_time": 0
         },
         "MURDERCASTLE": {
           "earned": true,
@@ -6521,45 +5437,21 @@
           "earned": true,
           "earned_time": 1783875570
         },
-        "PHOTOGENIC": {
-          "earned": false,
-          "earned_time": 0
-        },
         "REKINDLED": {
           "earned": true,
           "earned_time": 1783870149
-        },
-        "SAYCHEESE": {
-          "earned": false,
-          "earned_time": 0
         },
         "SHATTERINGEXPECTATIONS": {
           "earned": true,
           "earned_time": 1783879851
         },
-        "SHOCKING": {
-          "earned": false,
-          "earned_time": 0
-        },
         "SPARKS": {
           "earned": true,
           "earned_time": 1783800399
         },
-        "THECYCLECONTINUES": {
-          "earned": false,
-          "earned_time": 0
-        },
         "TOASTY": {
           "earned": true,
           "earned_time": 1783801890
-        },
-        "UNHAPPYENDING": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "UNTILDEATHDOUSPART2": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -6711,65 +5603,9 @@
         "uses_db": false
       },
       "achievements": {
-        "ACH_01": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_02": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_03": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_04": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_05": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_06": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_07": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_08": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_09": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_10": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_11": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_12": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACH_13": {
           "earned": true,
           "earned_time": 1786118137
-        },
-        "ACH_14": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACH_15": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -7011,34 +5847,6 @@
         "uses_db": false
       },
       "achievements": {
-        "achievement1": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement10": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement11": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement12": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement13": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement14": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement15": {
-          "earned": false,
-          "earned_time": 0
-        },
         "achievement16": {
           "earned": true,
           "earned_time": 1784664156
@@ -7050,66 +5858,6 @@
         "achievement18": {
           "earned": true,
           "earned_time": 1784754015
-        },
-        "achievement19": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement2": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement20": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement21": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement22": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement23": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement24": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement25": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement3": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement4": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement5": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement6": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement7": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement8": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "achievement9": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -7162,7 +5910,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/71360c9c72924854bcbe928af51acb459d84b77d.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/c029e0da5739e11413c8a9cf96270b24d8e9a00e.jpg",
             "hidden": true,
-            "percent": "60.4",
+            "percent": "60.5",
             "group": "Base Game"
           },
           "ACH_SECOND_PACT": {
@@ -7171,7 +5919,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/f20b994bd88689b697104a4112c130c982bbc116.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/0761ad2f70f5b8b44863568df1581dd64645d731.jpg",
             "hidden": true,
-            "percent": "30.3",
+            "percent": "30.4",
             "group": "Base Game"
           },
           "ACH_REUNION": {
@@ -7198,7 +5946,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/6d4422d0eb4d6caefdad16031b1d4b34027ca474.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/59b31c208da8b653b772d7d184969c7561f1137b.jpg",
             "hidden": true,
-            "percent": "27.2",
+            "percent": "27.3",
             "group": "Base Game"
           },
           "ACH_ENTITY": {
@@ -7243,7 +5991,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/5a86feb11cc2eb4817b452637b056f811dd9bbe2.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/2ec0f002317ed28fe4b416da1de8469f1d377e00.jpg",
             "hidden": true,
-            "percent": "43.3",
+            "percent": "43.4",
             "group": "Base Game"
           },
           "ACH_MKC_PENNINGTON": {
@@ -7261,7 +6009,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/b79f9d2fcb6460ec231dc763618748cc6142d80b.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/1fada549d93c42f4e62ffa0f1854f06fee310b90.jpg",
             "hidden": true,
-            "percent": "27.5",
+            "percent": "27.6",
             "group": "Base Game"
           },
           "ACH_NWD_PRIMER_BOOK": {
@@ -7477,7 +6225,7 @@
             "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/580f5f2fe967df4154ea101301765e14d6b7b4d9.jpg",
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/78b2ba9ca5416dc5d1d2e037ca536f00a70bcdcd.jpg",
             "hidden": false,
-            "percent": "26.9",
+            "percent": "27.0",
             "group": "Base Game"
           },
           "ACH_CURRENCY": {
@@ -8142,270 +6890,199 @@
       },
       "achievements": {
         "ACObsidian_Ach_1": {
-          "description": "Take a seat on a burning ship",
-          "displayName": "Last To Leave",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1785175276
         },
         "ACObsidian_Ach_10": {
-          "description": "Complete a Templar Hunt sequence",
-          "displayName": "Help A Brother Out",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784281994
         },
         "ACObsidian_Ach_11": {
-          "description": "Find all treasure chests in underwater shipwrecks",
-          "displayName": "Seven Deadly Seas",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_12": {
-          "description": "Kill a guard ringing a bell",
-          "displayName": "Silence, Fool!",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784650161
         },
         "ACObsidian_Ach_13": {
-          "description": "Dodge a total of three charge attacks by a Wild Pig",
-          "displayName": "Matador",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_14": {
-          "description": "Get a perfect harpoon shot on a Great White Shark",
-          "displayName": "Perfect Predator",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_15": {
-          "description": "Parry two Ocelot attacks in rapid succession",
-          "displayName": "Double Tap",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_16": {
-          "description": "Complete every activity in a single location",
-          "displayName": "Owned",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784221771
         },
         "ACObsidian_Ach_17": {
-          "description": "Kill 10 enemies by hanging them with the rope dart",
-          "displayName": "The Hangman",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_18": {
-          "description": "Catch at least five enemies within a single smoke bomb",
-          "displayName": "Caught 'Em All",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784225136
         },
         "ACObsidian_Ach_19": {
-          "description": "Use pistols to kill four enemies in a row within five seconds",
-          "displayName": "Gun-kata",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1785013694
         },
         "ACObsidian_Ach_2": {
-          "description": "Capture all forts",
-          "displayName": "King of the Castle",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_20": {
-          "description": "Kill an enemy with a wall takedown",
-          "displayName": "Backs To The Wall",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784210543
         },
         "ACObsidian_Ach_21": {
-          "description": "After a perfect parry, perform a total of four takedowns",
-          "displayName": "Let Me Explain",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_22": {
-          "description": "Kick a berserk enemy caught in smoke off a ship",
-          "displayName": "Overdesign IV",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_23": {
-          "description": "Get a tour of Havana (complete Sequence 2, Memory 1)",
-          "displayName": "Lively Havana",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784210542
         },
         "ACObsidian_Ach_24": {
-          "description": "Captain your own ship (complete Sequence 2, Memory 6)",
-          "displayName": "A Poxy Bird",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784210542
         },
         "ACObsidian_Ach_25": {
-          "description": "Settle in a new home (complete Sequence 4, Memory 1)",
-          "displayName": "Walls That Hold Back The Wind",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784233739
         },
         "ACObsidian_Ach_26": {
-          "description": "Witness the end of a legend (complete Sequence 8, Memory 1)",
-          "displayName": "In A World Without Gold",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1785002877
         },
         "ACObsidian_Ach_27": {
-          "description": "Stop a Templar plot (complete Sequence 12, Memory 5)",
-          "displayName": "Ever A Splinter",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1785356387
         },
         "ACObsidian_Ach_28": {
-          "description": "Recruit all Officers",
-          "displayName": "All Hands On Deck",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1785243751
         },
         "ACObsidian_Ach_29": {
-          "description": "Wake up in a haystack",
-          "displayName": "Hungover ",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_3": {
-          "description": "Display all character portraits in the Great Inagua manor",
-          "displayName": "The Memory of My Enemy",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_30": {
-          "description": "Add one of each ship class to Kenway's fleet",
-          "displayName": "Collective Madness",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_31": {
-          "description": "Board a Lead Convoy ship",
-          "displayName": "Strike The Colors",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784653704
         },
         "ACObsidian_Ach_32": {
-          "description": "Survive a rogue wave taken from the side",
-          "displayName": "Unsinkable",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_33": {
-          "description": "Learn a new shanty",
-          "displayName": "Yo Hoâ€¦",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784210543
         },
         "ACObsidian_Ach_34": {
-          "description": "Dash ram a ramming Brig",
-          "displayName": "Return The Favor",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_35": {
-          "description": "Defeat a Pirate Hunter while at maximum Wanted Level",
-          "displayName": "Hunter Hunted",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_36": {
-          "description": "Defeat all legendary ships",
-          "displayName": "Devil of the Caribbean",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_37": {
-          "description": "Perform 3 perfect braces",
-          "displayName": "Old Ironsides",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_38": {
-          "description": "Unlock the secondary firing mode on a Jackdaw weapon",
-          "displayName": "Not So Little Friend",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784220772
         },
         "ACObsidian_Ach_39": {
-          "description": "Equip new cosmetics in each of the Jackdaw's vanity slots",
-          "displayName": "Dressing Overall",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_4": {
-          "description": "Fill all Art Collection and Equipment slots in the Great Inagua manor",
-          "displayName": "Dilettante",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_40": {
-          "description": "Craft an item",
-          "displayName": "Smooth Operator",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784210543
         },
         "ACObsidian_Ach_41": {
-          "description": "Spend 50,000 Reales",
-          "displayName": "Business And Pleasure",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784232344
         },
         "ACObsidian_Ach_42": {
-          "description": "Fully upgrade the Jackdaw",
-          "displayName": "Ship This",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_43": {
-          "description": "Consume 20 food items",
-          "displayName": "Glutton for Nourishment",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784838602
         },
         "ACObsidian_Ach_44": {
-          "description": "Interact with all seven friendly animals",
-          "displayName": "Friend To All",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_45": {
-          "description": "Shoot down all the hanging bodies in Long Bay",
-          "displayName": "Blow The Man Down",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_46": {
-          "description": "Swim to theÂ lowestÂ point on the map",
-          "displayName": "Davy Jones' Locker",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_47": {
-          "description": "Visit every location in the game",
-          "displayName": "Cartographer",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_48": {
-          "description": "Break 50 potted plants",
-          "displayName": "Edward Catway",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_49": {
-          "description": "Swim a total of 1000m underwater, excluding underwater shipwrecks",
-          "displayName": "Ed the Diver",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_5": {
-          "description": "Restore all buildings in the Great Inagua village",
-          "displayName": "Governor",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784232565
         },
         "ACObsidian_Ach_6": {
-          "description": "Restore a map from map pieces",
-          "displayName": "Zero Waste",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_7": {
-          "description": "Win at each of the different tavern games",
-          "displayName": "Grandmaster",
-          "earned": 0
+          "earned": false,
+          "earned_time": 0
         },
         "ACObsidian_Ach_8": {
-          "description": "Ensure the survival of all pirates in a street fight",
-          "displayName": "Articles Of Agreement",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1784210543
         },
         "ACObsidian_Ach_9": {
-          "description": "Unlock a smuggler's chest",
-          "displayName": "Among Thieves",
-          "earned": 1,
+          "earned": true,
           "earned_time": 1785008605
         }
       }
@@ -10991,206 +9668,6 @@
         "uses_db": false
       },
       "achievements": {
-        "Arc_Abs": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Cla": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Eta": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Fle": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_For": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Gal": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Kra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Lar": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Lox": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_May": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Oly": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Orc": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Ran": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Sla": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Wra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Arc_Zet": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Abs": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Cla": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Eta": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Fle": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_For": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Gal": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Kra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Lar": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Lox": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_May": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Oly": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Orc": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Ran": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Sla": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Wra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "KO_Zet": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Abs": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Cla": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Eta": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Fle": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_For": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Gal": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Kra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Lar": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Lox": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_May": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Oly": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Orc": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Ran": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Sla": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Wra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Lvl_Zet": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "New_2v2": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "New_CPU": {
-          "earned": false,
-          "earned_time": 0
-        },
         "New_Emote": {
           "earned": true,
           "earned_time": 1782840974
@@ -11198,82 +9675,6 @@
         "New_Icon": {
           "earned": true,
           "earned_time": 1782812469
-        },
-        "New_Mint": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "New_Skin": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "New_Training": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Abs": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Cla": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Eta": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Fle": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_For": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Gal": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Kra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Lar": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Lox": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_May": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Oly": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Orc": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Ran": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Sla": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Wra": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "Skill_Zet": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     },
@@ -11697,33 +10098,23 @@
         },
         "KNT_Achievement_19": {
           "earned": false,
-          "earned_time": 0,
-          "max_progress": 10,
-          "progress": 1
+          "earned_time": 0
         },
         "KNT_Achievement_20": {
           "earned": false,
-          "earned_time": 0,
-          "max_progress": 23,
-          "progress": 8
+          "earned_time": 0
         },
         "KNT_Achievement_21": {
           "earned": false,
-          "earned_time": 0,
-          "max_progress": 14,
-          "progress": 6
+          "earned_time": 0
         },
         "KNT_Achievement_22": {
           "earned": false,
-          "earned_time": 0,
-          "max_progress": 36,
-          "progress": 7
+          "earned_time": 0
         },
         "KNT_Achievement_23": {
           "earned": false,
-          "earned_time": 0,
-          "max_progress": 92,
-          "progress": 23
+          "earned_time": 0
         },
         "KNT_Achievement_24": {
           "earned": false,
@@ -11771,9 +10162,7 @@
         },
         "KNT_Achievement_35": {
           "earned": false,
-          "earned_time": 0,
-          "max_progress": 3,
-          "progress": 0
+          "earned_time": 0
         },
         "KNT_Achievement_36": {
           "earned": false,
@@ -11781,9 +10170,7 @@
         },
         "KNT_Achievement_37": {
           "earned": false,
-          "earned_time": 0,
-          "max_progress": 9,
-          "progress": 1
+          "earned_time": 0
         }
       }
     },
@@ -12689,33 +11076,9 @@
         "uses_db": false
       },
       "achievements": {
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_00": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_01": {
           "earned": true,
           "earned_time": 1775984654
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_02": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_03": {
-          "earned": true,
-          "earned_time": 1775731145
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_04": {
-          "earned": true,
-          "earned_time": 1775728172
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_05": {
-          "earned": true,
-          "earned_time": 1775734259
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_06": {
-          "earned": true,
-          "earned_time": 1775984280
         },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_07": {
           "earned": true,
@@ -12725,73 +11088,13 @@
           "earned": true,
           "earned_time": 1775730060
         },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_09": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_10": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_11": {
           "earned": true,
           "earned_time": 1775500925
         },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_12": {
-          "earned": true,
-          "earned_time": 1775474362
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_13": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_14": {
-          "earned": false,
-          "earned_time": 0
-        },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_15": {
           "earned": true,
           "earned_time": 1775560370
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_16": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_17": {
-          "earned": true,
-          "earned_time": 1775503079
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_18": {
-          "earned": true,
-          "earned_time": 1775475293
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_19": {
-          "earned": true,
-          "earned_time": 1775475534
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_20": {
-          "earned": true,
-          "earned_time": 1775734793
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_21": {
-          "earned": true,
-          "earned_time": 1775560296
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_22": {
-          "earned": true,
-          "earned_time": 1775483440
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_23": {
-          "earned": true,
-          "earned_time": 1775730036
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_24": {
-          "earned": true,
-          "earned_time": 1775732567
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_25": {
-          "earned": true,
-          "earned_time": 1775556059
         },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_26": {
           "earned": true,
@@ -12799,7 +11102,7 @@
         },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_27": {
           "earned": true,
-          "earned_time": 1775984654
+          "earned_time": 1775475293
         },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28": {
           "earned": true,
@@ -12815,7 +11118,7 @@
         },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_31": {
           "earned": true,
-          "earned_time": 1775730060
+          "earned_time": 1775556059
         },
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32": {
           "earned": true,
@@ -12848,10 +11151,6 @@
         "ACHIEVEMENT_FRPG_ACHIEVEMENTS_39": {
           "earned": true,
           "earned_time": 1775731145
-        },
-        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_40": {
-          "earned": false,
-          "earned_time": 0
         }
       }
     }
