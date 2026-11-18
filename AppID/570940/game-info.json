@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/fde13ddfbeb188d4e83ca5e581deb69dea09c615.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/52bcaf712d1290af73067720174a859ab26a3dbe.jpg",
       "hidden": false,
-      "percent": "31.1",
+      "percent": "31.0",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_02": {
@@ -252,7 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/1cef9627ae9f7f676d22343778b9b5f52d77c304.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/fd3cf75ee705a9f191bb626574e1b4d545441b39.jpg",
       "hidden": false,
-      "percent": "93.8",
+      "percent": "93.9",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28": {

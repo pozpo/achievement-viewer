@@ -198,7 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/7c6ca8df9dcb786aeb91622980946a6bd8c4278e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/1d5664be0fbdccbd0fbfedb190138d6204a3ea32.jpg",
       "hidden": false,
-      "percent": "15.4",
+      "percent": "15.5",
       "group": "Base Game"
     },
     "KO_Wra": {
@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/a3dd5f89354b3736d0323f239d4fcb7a13314a59.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/a2ad0c31196d69551109888fae4da6072233b738.jpg",
       "hidden": false,
-      "percent": "3.1",
+      "percent": "3.0",
       "group": "Base Game"
     },
     "Skill_Wra": {

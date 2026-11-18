@@ -216,7 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "22.7",
+      "percent": "22.6",
       "group": "Base Game"
     },
     "ACH_CHA_F3_CRAPS": {
@@ -279,7 +279,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "2.2",
+      "percent": "2.1",
       "group": "Base Game"
     },
     "ACH_CHA_F3_WHEELOFFORTUNE": {
@@ -450,7 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "19.5",
+      "percent": "19.4",
       "group": "Base Game"
     },
     "ACH_MISC_NOTOGAMBLE": {

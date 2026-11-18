@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/5dac7663102532156682f3b7ac596e8b4e24275f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/61442954014d5644c276676b4e8d224a72966144.jpg",
       "hidden": false,
-      "percent": "47.9",
+      "percent": "48.0",
       "group": "Base Game"
     },
     "LIVEWITHTHECONSEQUENCES": {
@@ -27,7 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/3d66889ae75d945f8ecbc36e04cd8d6be2d4927a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/a30efc7b58f730d1bbfaa196170afe62e15e6d68.jpg",
       "hidden": false,
-      "percent": "85.5",
+      "percent": "85.6",
       "group": "Base Game"
     },
     "PAINTTHEWALLS": {
@@ -126,7 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/519d9dccdb8e08bb67734029b0b1eb0b49494246.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/0919c0391962625470df8c413f4c341e6a20b4e8.jpg",
       "hidden": true,
-      "percent": "48.9",
+      "percent": "49.0",
       "group": "Base Game"
     },
     "LOSTANDFOUND": {
@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/5b75c26fd0dada337226d73ffe47ce268bbb7182.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/71556482fd3f2faa44d64715741a5aa3ee3405ba.jpg",
       "hidden": true,
-      "percent": "47.2",
+      "percent": "47.3",
       "group": "Base Game"
     },
     "THISSTEAKSRAW": {
@@ -171,7 +171,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/7149d74d3a5f57eb1d1a595deaf35faefa7eb62a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/426695279e82cfcd6171647669c3a1b90a3403c7.jpg",
       "hidden": false,
-      "percent": "37.0",
+      "percent": "37.1",
       "group": "Base Game"
     },
     "PASSWORD1": {
@@ -234,7 +234,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/e373da413f8741ad48d5672f7f99602bcc6b033b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2255370/fbe291a0b854c87f206f1731b3f1a4c5ea41ee56.jpg",
       "hidden": false,
-      "percent": "46.7",
+      "percent": "46.8",
       "group": "Base Game"
     },
     "CATSOUTTHEBAG": {

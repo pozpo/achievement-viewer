@@ -45,7 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/71360c9c72924854bcbe928af51acb459d84b77d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/c029e0da5739e11413c8a9cf96270b24d8e9a00e.jpg",
       "hidden": true,
-      "percent": "60.5",
+      "percent": "60.4",
       "group": "Base Game"
     },
     "ACH_SECOND_PACT": {
@@ -54,7 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/f20b994bd88689b697104a4112c130c982bbc116.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/0761ad2f70f5b8b44863568df1581dd64645d731.jpg",
       "hidden": true,
-      "percent": "30.4",
+      "percent": "30.3",
       "group": "Base Game"
     },
     "ACH_REUNION": {
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/6d4422d0eb4d6caefdad16031b1d4b34027ca474.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/59b31c208da8b653b772d7d184969c7561f1137b.jpg",
       "hidden": true,
-      "percent": "27.3",
+      "percent": "27.2",
       "group": "Base Game"
     },
     "ACH_ENTITY": {
@@ -126,7 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/5a86feb11cc2eb4817b452637b056f811dd9bbe2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/2ec0f002317ed28fe4b416da1de8469f1d377e00.jpg",
       "hidden": true,
-      "percent": "43.4",
+      "percent": "43.3",
       "group": "Base Game"
     },
     "ACH_MKC_PENNINGTON": {
@@ -360,7 +360,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/580f5f2fe967df4154ea101301765e14d6b7b4d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493640/78b2ba9ca5416dc5d1d2e037ca536f00a70bcdcd.jpg",
       "hidden": false,
-      "percent": "27.0",
+      "percent": "26.9",
       "group": "Base Game"
     },
     "ACH_CURRENCY": {
