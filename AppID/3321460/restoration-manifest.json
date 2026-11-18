@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "appId": "3321460",
+  "achievementFormat": "json",
+  "achievementSourcePath": "C:\\Users\\Reyad\\AppData\\Roaming\\GSE Saves\\3321460\\achievements.json",
+  "achievementSourceName": "achievements.json",
+  "saves": [
+    {
+      "rootKey": "Steam userdata (x86)",
+      "relativePath": "9554227611",
+      "sourcePath": "C:\\Program Files (x86)\\Steam\\userdata\\1840399620\\3321460\\9554227611",
+      "repoPath": "AppID/3321460/save/9554227611",
+      "size": 5159,
+      "sha256": "83F0B7715446F228DE88185C0BD8FD19229ACC1B2DA68792FA3DCD2A4BF7B1BD"
+    },
+    {
+      "rootKey": "GSE Saves",
+      "relativePath": "achievements.json",
+      "sourcePath": "C:\\Users\\Reyad\\AppData\\Roaming\\GSE Saves\\3321460\\achievements.json",
+      "repoPath": "AppID/3321460/save/achievements.json",
+      "size": 2387,
+      "sha256": "B7D6F0B8CB2707CB29569E8E0424D0228142887548EC1971C316FC7883F9EF7E"
+    }
+  ]
+}

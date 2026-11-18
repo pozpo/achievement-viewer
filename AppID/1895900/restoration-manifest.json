@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "appId": "1895900",
+  "achievementFormat": "json",
+  "achievementSourcePath": "C:\\Users\\Reyad\\AppData\\Roaming\\GSE Saves\\1895900\\achievements.json",
+  "achievementSourceName": "achievements.json",
+  "saves": [
+    {
+      "rootKey": "GSE Saves",
+      "relativePath": "achievements.json",
+      "sourcePath": "C:\\Users\\Reyad\\AppData\\Roaming\\GSE Saves\\1895900\\achievements.json",
+      "repoPath": "AppID/1895900/save/achievements.json",
+      "size": 1574,
+      "sha256": "A44D493353BCF33A15766AD1115C349E15606664C29BE1C0E525E9579C54D350"
+    },
+    {
+      "rootKey": "GSE Saves",
+      "relativePath": "playtime.txt",
+      "sourcePath": "C:\\Users\\Reyad\\AppData\\Roaming\\GSE Saves\\1895900\\playtime.txt",
+      "repoPath": "AppID/1895900/save/playtime.txt",
+      "size": 1,
+      "sha256": "5FECEB66FFC86F38D952786C6D696C79C2DBC239DD4E91B46729D73A27FB57E9"
+    }
+  ]
+}

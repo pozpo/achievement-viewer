@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "appId": "3008130",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "OnlineFix",
+      "relativePath": "out\\profiles\\dltb_settings.dat",
+      "sourcePath": "C:\\Users\\Public\\Documents\\OnlineFix\\3008130\\Saves\\out\\profiles\\dltb_settings.dat",
+      "repoPath": "AppID/3008130/save/out/profiles/dltb_settings.dat",
+      "size": 4389,
+      "sha256": "DC75F7CA734E799FD213115D8DA52E0569CD05CDC1A380C624C1A6A45F49D87C"
+    },
+    {
+      "rootKey": "OnlineFix",
+      "relativePath": "out\\save\\save_ft_0.sav",
+      "sourcePath": "C:\\Users\\Public\\Documents\\OnlineFix\\3008130\\Saves\\out\\save\\save_ft_0.sav",
+      "repoPath": "AppID/3008130/save/out/save/save_ft_0.sav",
+      "size": 205617,
+      "sha256": "21B21E87CFD09BEE5D3B6FD0C081254B5E9CA10AEABFE5DBA3CDAD50B5387E3A"
+    },
+    {
+      "rootKey": "OnlineFix",
+      "relativePath": "out\\save\\save_ft_0_chp000.sbk",
+      "sourcePath": "C:\\Users\\Public\\Documents\\OnlineFix\\3008130\\Saves\\out\\save\\save_ft_0_chp000.sbk",
+      "repoPath": "AppID/3008130/save/out/save/save_ft_0_chp000.sbk",
+      "size": 185725,
+      "sha256": "DAE12165072A8BBA63A64DA61835880DA5CD60532C4C40A35DFA616E4F2EED72"
+    }
+  ]
+}

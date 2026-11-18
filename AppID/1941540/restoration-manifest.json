@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "appId": "1941540",
+  "achievementFormat": "json",
+  "achievementSourcePath": "C:\\Users\\Reyad\\AppData\\Roaming\\GSE Saves\\1941540\\achievements.json",
+  "achievementSourceName": "achievements.json",
+  "saves": [
+    {
+      "rootKey": "GSE Saves",
+      "relativePath": "achievements.json",
+      "sourcePath": "C:\\Users\\Reyad\\AppData\\Roaming\\GSE Saves\\1941540\\achievements.json",
+      "repoPath": "AppID/1941540/save/achievements.json",
+      "size": 3833,
+      "sha256": "0BEDE2E277C90986C079DF8793DA6D62A7C51DAC4DB7E5D3B49020173C956C69"
+    }
+  ]
+}
