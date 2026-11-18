@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "appId": "2217000",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "Steam userdata (x86)",
+      "relativePath": "remotecache.vdf",
+      "sourcePath": "C:\\Program Files (x86)\\Steam\\userdata\\1588369920\\2217000\\remotecache.vdf",
+      "repoPath": "AppID/2217000/save/remotecache.vdf",
+      "size": 2001,
+      "sha256": "EAFDF14A924BDF7CD6D30C41CBD9EAE80DA67444E720FC75B5D4424F53A15858"
+    }
+  ]
+}

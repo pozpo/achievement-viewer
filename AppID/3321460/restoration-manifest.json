@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "appId": "3321460",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "Steam userdata (x86)",
+      "relativePath": "9554227611",
+      "sourcePath": "C:\\Program Files (x86)\\Steam\\userdata\\1840399620\\3321460\\9554227611",
+      "repoPath": "AppID/3321460/save/9554227611",
+      "size": 5159,
+      "sha256": "83F0B7715446F228DE88185C0BD8FD19229ACC1B2DA68792FA3DCD2A4BF7B1BD"
+    }
+  ]
+}
