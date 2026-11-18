@@ -1,0 +1,529 @@
+{
+  "schemaVersion": 1,
+  "appId": "4115450",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Autosave1_24542138_0_506F7A6F_Tamriel_001307_20260405181223_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Autosave1_24542138_0_506F7A6F_Tamriel_001307_20260405181223_13_1.ess",
+      "repoPath": "AppID/4115450/save/Autosave1_24542138_0_506F7A6F_Tamriel_001307_20260405181223_13_1.ess",
+      "size": 4455095,
+      "sha256": "2861DEE539E6AC314D42BAD5FF3BC83F92B97AF0D818299E0EFDE24C780C074F"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Autosave2_24542138_0_506F7A6F_WinterholdJarlsLonghouse_001309_20260405181356_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Autosave2_24542138_0_506F7A6F_WinterholdJarlsLonghouse_001309_20260405181356_13_1.ess",
+      "repoPath": "AppID/4115450/save/Autosave2_24542138_0_506F7A6F_WinterholdJarlsLonghouse_001309_20260405181356_13_1.ess",
+      "size": 4410759,
+      "sha256": "0505256059FAFC260E08B1404607E059F7DFD710957608D7F68FB8BF8715B6F3"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Autosave3_24542138_0_506F7A6F_Tamriel_001311_20260405181558_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Autosave3_24542138_0_506F7A6F_Tamriel_001311_20260405181558_13_1.ess",
+      "repoPath": "AppID/4115450/save/Autosave3_24542138_0_506F7A6F_Tamriel_001311_20260405181558_13_1.ess",
+      "size": 4428645,
+      "sha256": "25A99AEC3A64DCD611E1D02C681759E43A7B86F71CBE3B00FA1F09BBE32C2CD5"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "Cache\\PBZInstallVerify.bin",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\Cache\\PBZInstallVerify.bin",
+      "repoPath": "AppID/4115450/save/Cache/PBZInstallVerify.bin",
+      "size": 42400,
+      "sha256": "CED4004B9474A16BED11F78E85D6353DDB79F243507AD01473DA69D3FBA4602F"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "Cache\\PBZSplitPSO_BlobV2D93D1B8_24_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\Cache\\PBZSplitPSO_BlobV2D93D1B8_24_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "repoPath": "AppID/4115450/save/Cache/PBZSplitPSO_BlobV2D93D1B8_24_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "size": 345628,
+      "sha256": "BE4C80E231D6AAB15D2B93FE85B7B99D0B7F6B40E572253AF722F81408AA2BFB"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "Cache\\PBZSplitPSO_BlobV2D93D1B8_25_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\Cache\\PBZSplitPSO_BlobV2D93D1B8_25_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "repoPath": "AppID/4115450/save/Cache/PBZSplitPSO_BlobV2D93D1B8_25_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "size": 423012,
+      "sha256": "CECCAC71751011A3EC1566ED4B020BEA89CD18881E79194A9A97BEF551D74CD7"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "Cache\\PBZSplitPSO_BlobV2D93D1B8_26_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\Cache\\PBZSplitPSO_BlobV2D93D1B8_26_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "repoPath": "AppID/4115450/save/Cache/PBZSplitPSO_BlobV2D93D1B8_26_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "size": 73692,
+      "sha256": "4D6EF790326D6E0700BAD1DFB05130E6664CF33C19E5E0865DABC77709920DDE"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "Cache\\PBZSplitPSO_Exclusion_245A18ED4936E668935D5B9F49D4E3A3_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\Cache\\PBZSplitPSO_Exclusion_245A18ED4936E668935D5B9F49D4E3A3_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "repoPath": "AppID/4115450/save/Cache/PBZSplitPSO_Exclusion_245A18ED4936E668935D5B9F49D4E3A3_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "size": 327648,
+      "sha256": "A4650E8D718E357926F477679E7D3E03C2CB911DFEDD4F78AB842DDD336DC54A"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "Cache\\PBZSplitPSO_Exclusion_3127D66E46FF4A8D78EF1197FD9220EA_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\Cache\\PBZSplitPSO_Exclusion_3127D66E46FF4A8D78EF1197FD9220EA_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "repoPath": "AppID/4115450/save/Cache/PBZSplitPSO_Exclusion_3127D66E46FF4A8D78EF1197FD9220EA_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "size": 396,
+      "sha256": "153A8958C5303460B93D6C6092402CDEF7B7FD79751D40F620C60CBBF160B8E7"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "Cache\\PBZSplitPSO_Index_V2D93D1B8_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\Cache\\PBZSplitPSO_Index_V2D93D1B8_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "repoPath": "AppID/4115450/save/Cache/PBZSplitPSO_Index_V2D93D1B8_D3DDriverByteCodeBlob_V4318_D10336_S1044715434_R161.bin",
+      "size": 2305312,
+      "sha256": "45F8AAE902742853412C9A5DF5EFEEA78E5E50ABFE315FCAFC140CA732DA0EE0"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "EnhancedInputUserSettings.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\EnhancedInputUserSettings.sav",
+      "repoPath": "AppID/4115450/save/EnhancedInputUserSettings.sav",
+      "size": 50631,
+      "sha256": "9DCECEE542A1FBE177CCDB3FD88A469D896A1EB3C8D0B59B7A5F941F4581FE58"
+    },
+    {
+      "rootKey": "Documents Rockstar Games SaveGames (wildcarded)",
+      "relativePath": "GTASAsf1.sav",
+      "sourcePath": "%USERPROFILE%\\Documents\\Rockstar Games\\GTA San Andreas Definitive Edition\\SaveGames\\GTASAsf1.sav",
+      "repoPath": "AppID/4115450/save/GTASAsf1.sav",
+      "size": 519752,
+      "sha256": "E5ADF1397261B91EA952AF88030A6C6637CDBE1FD159B3DACFA36B495F936244"
+    },
+    {
+      "rootKey": "Documents Rockstar Games SaveGames (wildcarded)",
+      "relativePath": "GTASAsf10.sav",
+      "sourcePath": "%USERPROFILE%\\Documents\\Rockstar Games\\GTA San Andreas Definitive Edition\\SaveGames\\GTASAsf10.sav",
+      "repoPath": "AppID/4115450/save/GTASAsf10.sav",
+      "size": 595156,
+      "sha256": "AB0E2DA80A3655D7362AEEC9D7DBA22EEFCF33E810432D1FAAB8542A84A8EDC6"
+    },
+    {
+      "rootKey": "Documents Rockstar Games SaveGames (wildcarded)",
+      "relativePath": "GTASAsf9.sav",
+      "sourcePath": "%USERPROFILE%\\Documents\\Rockstar Games\\GTA San Andreas Definitive Edition\\SaveGames\\GTASAsf9.sav",
+      "repoPath": "AppID/4115450/save/GTASAsf9.sav",
+      "size": 525524,
+      "sha256": "55823E1C7B8B72EF21BA4896FC7257C18D3C9345E746393B3AC007996AF51359"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "PBZLocalSetting.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\PBZLocalSetting.sav",
+      "repoPath": "AppID/4115450/save/PBZLocalSetting.sav",
+      "size": 1630,
+      "sha256": "23BB6F36A69E269F879682B39BC4D89E04B89554E307611BB3DE4560233AE71D"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "PBZSharedSetting.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\PBZSharedSetting.sav",
+      "repoPath": "AppID/4115450/save/PBZSharedSetting.sav",
+      "size": 1931,
+      "sha256": "00ADC8FCBE2EC365527F1565276FA3466FF41C8317C366033567D768CBFA111E"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Quicksave0_24542138_0_506F7A6F_WindhelmWorld_001219_20260404201821_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Quicksave0_24542138_0_506F7A6F_WindhelmWorld_001219_20260404201821_13_1.ess",
+      "repoPath": "AppID/4115450/save/Quicksave0_24542138_0_506F7A6F_WindhelmWorld_001219_20260404201821_13_1.ess",
+      "size": 4475538,
+      "sha256": "EC662C539E7C7F305C920BAA722C2A7FFBE179595D6C55A9CBEA1DB1BCDF43E0"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save10_24542138_0_506F7A6F_HighGateRuins01_000820_20260330144410_11_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save10_24542138_0_506F7A6F_HighGateRuins01_000820_20260330144410_11_1.ess",
+      "repoPath": "AppID/4115450/save/Save10_24542138_0_506F7A6F_HighGateRuins01_000820_20260330144410_11_1.ess",
+      "size": 4058208,
+      "sha256": "498C409F632F6313608873D215185714F697CAD64D6EA3CC559C746D70E9768A"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save12_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000846_20260331064409_11_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save12_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000846_20260331064409_11_1.ess",
+      "repoPath": "AppID/4115450/save/Save12_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000846_20260331064409_11_1.ess",
+      "size": 3949314,
+      "sha256": "071DF061F74C09159A92E5D4A7EC06B44F5DB86AF8A0C772FBD10089E0170107"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save13_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331064508_11_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save13_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331064508_11_1.ess",
+      "repoPath": "AppID/4115450/save/Save13_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331064508_11_1.ess",
+      "size": 3991748,
+      "sha256": "F198A26C8A7AF4395562186A1A3AB6804E2DF7CE9749018F6F780A936FB5AB01"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save14_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331070733_11_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save14_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331070733_11_1.ess",
+      "repoPath": "AppID/4115450/save/Save14_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331070733_11_1.ess",
+      "size": 3971524,
+      "sha256": "8AF984046B32D191406C62C68486F9712D119DB79E5C259817DDEBC60EF43CAF"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save15_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331205803_11_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save15_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331205803_11_1.ess",
+      "repoPath": "AppID/4115450/save/Save15_24542138_0_506F7A6F_RiftenThievesGuildHeadquarters_000847_20260331205803_11_1.ess",
+      "size": 3958143,
+      "sha256": "F88AB36B12233385C0B19280684F867ABE71CD938C216251DD54508E05F2CDED"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save17_24542138_0_506F7A6F_RiftenWorld_000929_20260402060908_11_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save17_24542138_0_506F7A6F_RiftenWorld_000929_20260402060908_11_1.ess",
+      "repoPath": "AppID/4115450/save/Save17_24542138_0_506F7A6F_RiftenWorld_000929_20260402060908_11_1.ess",
+      "size": 4023167,
+      "sha256": "A92160AFBDBF877B609509240912F8F791D832EF98337F4505090E61AD00D8FF"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save18_24542138_0_506F7A6F_WindhelmWorld_001113_20260402095107_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save18_24542138_0_506F7A6F_WindhelmWorld_001113_20260402095107_13_1.ess",
+      "repoPath": "AppID/4115450/save/Save18_24542138_0_506F7A6F_WindhelmWorld_001113_20260402095107_13_1.ess",
+      "size": 4371696,
+      "sha256": "A3B45BDC1E04840E583EE60AB5E30E973868AD384996A64CF904F1FF373DCB9C"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save19_24542138_0_506F7A6F_WindhelmWorld_001212_20260403072945_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save19_24542138_0_506F7A6F_WindhelmWorld_001212_20260403072945_13_1.ess",
+      "repoPath": "AppID/4115450/save/Save19_24542138_0_506F7A6F_WindhelmWorld_001212_20260403072945_13_1.ess",
+      "size": 4466693,
+      "sha256": "EF431D8C228AE32F7F5479938AAB29AEC355CB233E10C46817967CD1F440AABC"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save1_24542138_0_506F7A6F_Tamriel_000049_20260326190121_1_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save1_24542138_0_506F7A6F_Tamriel_000049_20260326190121_1_1.ess",
+      "repoPath": "AppID/4115450/save/Save1_24542138_0_506F7A6F_Tamriel_000049_20260326190121_1_1.ess",
+      "size": 2832305,
+      "sha256": "3A791CCABA7D7BB918C60B0BA2879EE50AB0AEFF584EE5037F1FE8A717943BA8"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save1_3B27B41E_0_507269736F6E6572_Tamriel_000004_20260326181007_1_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save1_3B27B41E_0_507269736F6E6572_Tamriel_000004_20260326181007_1_1.ess",
+      "repoPath": "AppID/4115450/save/Save1_3B27B41E_0_507269736F6E6572_Tamriel_000004_20260326181007_1_1.ess",
+      "size": 2763952,
+      "sha256": "FDBD4D8B1EE6BB766B333AB662580A4310B0BB0B82A32A9886FA07F843FD9E66"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save20_24542138_0_506F7A6F_WindhelmWorld_001213_20260403115220_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save20_24542138_0_506F7A6F_WindhelmWorld_001213_20260403115220_13_1.ess",
+      "repoPath": "AppID/4115450/save/Save20_24542138_0_506F7A6F_WindhelmWorld_001213_20260403115220_13_1.ess",
+      "size": 4493948,
+      "sha256": "38315DA66098E8C7335FFE3151F79F42E8E07161A888B0BF25C5AD6F4BDA9086"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save21_24542138_0_506F7A6F_WindhelmWorld_001213_20260403120820_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save21_24542138_0_506F7A6F_WindhelmWorld_001213_20260403120820_13_1.ess",
+      "repoPath": "AppID/4115450/save/Save21_24542138_0_506F7A6F_WindhelmWorld_001213_20260403120820_13_1.ess",
+      "size": 4495596,
+      "sha256": "5EDD6012AAF3BB6FD44A9F104D7569F75BDC0DC24BE1575A1127278718EE1A67"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save22_24542138_0_506F7A6F_WindhelmWorld_001215_20260404094755_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save22_24542138_0_506F7A6F_WindhelmWorld_001215_20260404094755_13_1.ess",
+      "repoPath": "AppID/4115450/save/Save22_24542138_0_506F7A6F_WindhelmWorld_001215_20260404094755_13_1.ess",
+      "size": 4475237,
+      "sha256": "19B5969B41BEAD797887CB592E2B194CE6AD9AF36AF8648EFE0DD799950FB578"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save23_24542138_0_506F7A6F_WindhelmWorld_001217_20260404094929_13_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save23_24542138_0_506F7A6F_WindhelmWorld_001217_20260404094929_13_1.ess",
+      "repoPath": "AppID/4115450/save/Save23_24542138_0_506F7A6F_WindhelmWorld_001217_20260404094929_13_1.ess",
+      "size": 4470173,
+      "sha256": "3B63F16613884C28C7C7755007A3493A47535AFD9E03FEFFFC90CDDB198960FA"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save2_24542138_0_506F7A6F_Tamriel_000111_20260327093203_1_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save2_24542138_0_506F7A6F_Tamriel_000111_20260327093203_1_1.ess",
+      "repoPath": "AppID/4115450/save/Save2_24542138_0_506F7A6F_Tamriel_000111_20260327093203_1_1.ess",
+      "size": 2885559,
+      "sha256": "868552B5E2F65715082E36C1D5AA7EE6234A0B93CF7DD7FE01329AA0A4A13426"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save3_24542138_0_506F7A6F_Tamriel_000258_20260327114729_5_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save3_24542138_0_506F7A6F_Tamriel_000258_20260327114729_5_1.ess",
+      "repoPath": "AppID/4115450/save/Save3_24542138_0_506F7A6F_Tamriel_000258_20260327114729_5_1.ess",
+      "size": 3261840,
+      "sha256": "F592B847B32C7DCD898685D99A1DDF6CB6A91A193A361F2B38B43493EA8B4431"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save4_24542138_0_506F7A6F_Tamriel_000406_20260328060059_5_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save4_24542138_0_506F7A6F_Tamriel_000406_20260328060059_5_1.ess",
+      "repoPath": "AppID/4115450/save/Save4_24542138_0_506F7A6F_Tamriel_000406_20260328060059_5_1.ess",
+      "size": 3373258,
+      "sha256": "FB096717D4D08A588FC66B1B67506459FDE45BFA564687B88F833F5FCBF43717"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save5_24542138_0_506F7A6F_RiftenWorld_000533_20260328135254_7_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save5_24542138_0_506F7A6F_RiftenWorld_000533_20260328135254_7_1.ess",
+      "repoPath": "AppID/4115450/save/Save5_24542138_0_506F7A6F_RiftenWorld_000533_20260328135254_7_1.ess",
+      "size": 3978460,
+      "sha256": "AFD4C088BAE85CC45838DA48E8409D70B2331AC6611AA21CF760DEEC8CA69161"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save6_24542138_0_506F7A6F_GoldenglowEstate02_000618_20260328192802_7_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save6_24542138_0_506F7A6F_GoldenglowEstate02_000618_20260328192802_7_1.ess",
+      "repoPath": "AppID/4115450/save/Save6_24542138_0_506F7A6F_GoldenglowEstate02_000618_20260328192802_7_1.ess",
+      "size": 3859547,
+      "sha256": "B0DE65642FC38B019EF5D2EBA3185700CD6DF29A047A1DB7A0084B0256530100"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save7_24542138_0_506F7A6F_HonningbrewMeadery02_000704_20260328203231_7_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save7_24542138_0_506F7A6F_HonningbrewMeadery02_000704_20260328203231_7_1.ess",
+      "repoPath": "AppID/4115450/save/Save7_24542138_0_506F7A6F_HonningbrewMeadery02_000704_20260328203231_7_1.ess",
+      "size": 3924501,
+      "sha256": "FFF5A681B114D38965505CCB8C26C0247D674194676B893954769657CC48BF98"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save8_24542138_0_506F7A6F_SolitudeBluePalace_000724_20260330134751_9_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save8_24542138_0_506F7A6F_SolitudeBluePalace_000724_20260330134751_9_1.ess",
+      "repoPath": "AppID/4115450/save/Save8_24542138_0_506F7A6F_SolitudeBluePalace_000724_20260330134751_9_1.ess",
+      "size": 3974802,
+      "sha256": "385EFEFB4F0CF1BE0C4C55EEC4DF06FA992F23DBBC56606A595DDDC2EDEB09D5"
+    },
+    {
+      "rootKey": "Documents My Games Saves (wildcarded)",
+      "relativePath": "Save9_24542138_0_506F7A6F_BrinewaterGrottoWorld_000751_20260330141546_9_1.ess",
+      "sourcePath": "%USERPROFILE%\\Documents\\My Games\\Skyrim Special Edition\\Saves\\Save9_24542138_0_506F7A6F_BrinewaterGrottoWorld_000751_20260330141546_9_1.ess",
+      "repoPath": "AppID/4115450/save/Save9_24542138_0_506F7A6F_BrinewaterGrottoWorld_000751_20260330141546_9_1.ess",
+      "size": 4074896,
+      "sha256": "BAE80BC0FABF165A7AE1AE5A122B30E4D5ECF46611A1DDD2929EFE6D1B8A6082"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195835-707.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195835-707.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-195835-707.sav",
+      "size": 340758,
+      "sha256": "513569DBFDBFEFE99B450F711022756CE421A938B056B6D565CDAC5618A2C5B7"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195841-226.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195841-226.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-195841-226.sav",
+      "size": 340987,
+      "sha256": "767EA6201CBA2F4FA421DD4A73F8E18DC094C8837EA6690B7DECB1C06AC8B6F9"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195849-508.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195849-508.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-195849-508.sav",
+      "size": 341045,
+      "sha256": "AC01F5BADE8504E9C877EF634A02EAF36F2A3E1B46F2A22E00687023C57BECCA"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195904-861.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195904-861.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-195904-861.sav",
+      "size": 348125,
+      "sha256": "CA26BE1C2F3B4D6FD29640118F7C09CA971CC6FD5B677BA04202B7B91C0E1C33"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195919-610.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-195919-610.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-195919-610.sav",
+      "size": 348058,
+      "sha256": "2F6CDCAA97CEA794A9C3BBBE1D7F740F780C0C2D3B42DC3AE2F2B2EFA0B8EDBE"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200316-930.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200316-930.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-200316-930.sav",
+      "size": 348065,
+      "sha256": "3C851EB95ED1C36E4BED04432D8A814728AD71D7397425BCACC0DD28910D37CD"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200317-015.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200317-015.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-200317-015.sav",
+      "size": 348065,
+      "sha256": "388B0D8BD4141B2A8E8E528876FC6F6BC1E96EA02DBC2C2E13A31F61D1786E31"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200601-922.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200601-922.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-200601-922.sav",
+      "size": 352303,
+      "sha256": "B39FE3D97B53E5BABD70BFD5F502BF2FA62B58EC85D60BD4ABF185394C5A938F"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200703-880.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200703-880.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-200703-880.sav",
+      "size": 352848,
+      "sha256": "CDDDC269BE4B2945049242CC82D1167AC945D60A6EA969A4974FFE4DBC442F30"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200755-974.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\1RealTime\\20261117-200755-974.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/1RealTime/20261117-200755-974.sav",
+      "size": 353208,
+      "sha256": "AC94560B0EAF95AA86347B85CB725E2830117677E1DD3EF4B2928C4210DC5C68"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261114-141649-643.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261114-141649-643.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261114-141649-643.sav",
+      "size": 201098,
+      "sha256": "829903C9C109549CFE89DFBFF56DF76B68CF6BDDF2274D8127AB788263E3F238"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261114-151941-199.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261114-151941-199.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261114-151941-199.sav",
+      "size": 242800,
+      "sha256": "1D1BB79BDEF97580318DD6A403590941E6EA1FE6DE671BF73657EA4B4B7CD6F3"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261114-192851-219.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261114-192851-219.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261114-192851-219.sav",
+      "size": 255847,
+      "sha256": "B48FFD2C874D4B0E09C58C1E95575A5E7245DEB99DD39D70CD23AD55AF344801"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261115-173639-788.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261115-173639-788.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261115-173639-788.sav",
+      "size": 262226,
+      "sha256": "7EF8A3DA794E1044AB9A786B6C99CBDC1E8FEFE91D33B9F0BCD599FC11F27AF4"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261115-184617-762.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261115-184617-762.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261115-184617-762.sav",
+      "size": 270217,
+      "sha256": "0B367FA0FFAD2EF3C42B32607CBD05AB35B2820E2AD94978904180BCD8B39945"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261115-194753-575.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261115-194753-575.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261115-194753-575.sav",
+      "size": 283157,
+      "sha256": "F2AB1C9EF9C9D8E9612BD5E2069068B213419E9638ED4D23D9E201AC6F4F5898"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261115-205126-658.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261115-205126-658.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261115-205126-658.sav",
+      "size": 297490,
+      "sha256": "643E892BB40B809962240670DC7068133C6DE71E0DA8C5D02EFB2D351EB633D8"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261116-192400-703.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261116-192400-703.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261116-192400-703.sav",
+      "size": 316079,
+      "sha256": "05D30EE993963595F01384587B214433B232B976456E99AB670A2E1A9F0E3FA3"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261116-211241-813.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261116-211241-813.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261116-211241-813.sav",
+      "size": 328505,
+      "sha256": "A4822D9F3EA8553B36FEEE1285AFFADDBF50DBC38099A6EAC7474A73A7E511F3"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\2Hourly\\20261117-194701-235.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\2Hourly\\20261117-194701-235.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/2Hourly/20261117-194701-235.sav",
+      "size": 337901,
+      "sha256": "5928894D5B912B8D34BA31F3D01E04CBC4C11A4462614BECE02FFD74EE24DEDF"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\3Daily\\20261113-175315-854.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\3Daily\\20261113-175315-854.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/3Daily/20261113-175315-854.sav",
+      "size": 127896,
+      "sha256": "9FCC20BABCA6CF1F1DA435AD80067263711322FE2B4D19D42AFE91480D37842B"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\3Daily\\20261114-072303-825.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\3Daily\\20261114-072303-825.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/3Daily/20261114-072303-825.sav",
+      "size": 300,
+      "sha256": "CF4A816FDA450DA96A663A55FE6CCF43A0FEF67704C3600431096D0F2CBDE10E"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\3Daily\\20261115-173639-788.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\3Daily\\20261115-173639-788.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/3Daily/20261115-173639-788.sav",
+      "size": 262226,
+      "sha256": "7EF8A3DA794E1044AB9A786B6C99CBDC1E8FEFE91D33B9F0BCD599FC11F27AF4"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\3Daily\\20261116-192400-703.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\3Daily\\20261116-192400-703.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/3Daily/20261116-192400-703.sav",
+      "size": 316079,
+      "sha256": "05D30EE993963595F01384587B214433B232B976456E99AB670A2E1A9F0E3FA3"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\3Daily\\20261117-194701-235.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\3Daily\\20261117-194701-235.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/3Daily/20261117-194701-235.sav",
+      "size": 337901,
+      "sha256": "5928894D5B912B8D34BA31F3D01E04CBC4C11A4462614BECE02FFD74EE24DEDF"
+    },
+    {
+      "rootKey": "Steam appmanifest",
+      "relativePath": "SaveGames\\Steam\\76561198726324420\\PBZSaveGame.sav",
+      "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\SaveGames\\Steam\\76561198726324420\\PBZSaveGame.sav",
+      "repoPath": "AppID/4115450/save/SaveGames/Steam/76561198726324420/PBZSaveGame.sav",
+      "size": 353208,
+      "sha256": "AC94560B0EAF95AA86347B85CB725E2830117677E1DD3EF4B2928C4210DC5C68"
+    }
+  ]
+}
