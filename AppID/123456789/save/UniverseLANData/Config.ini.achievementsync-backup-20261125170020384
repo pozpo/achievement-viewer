@@ -1,0 +1,93 @@
+[Settings]
+Language = english
+
+; Language code consists of ISO-639 language code and ISO-3166 country code, ex. "en-US", "pl-PL".
+LanguageCode = en-US
+
+; Enable all downloaded and installed DLC which you already own
+EnableAllDLC = 0
+
+; When enabled, client will save any requested DLC product IDs into UniverseLAN\DLC.ini
+SaveUnknownDLCIDs = 1
+
+SaveAchievementsAndStats = 1
+
+EnableConsole = 1
+
+[Storage]
+AllowFileSharingDownload = 1
+AllowFileSharingUpload = 0
+
+[Telemetry]
+Store = 0
+
+[Client]
+ServerAddress = 127.0.0.1
+Port = 19486
+
+[User]
+; PersonaNameType can be:
+; - @WindowsAccountName
+; - @WindowsAccountNameHash
+; - @ComputerName
+; - @ComputerNameHash
+; - @MachineID
+; - @MachineIDHash
+; - @NetworkAdapterMACHash
+; - @ProcessID
+; - @DebugID
+; - @Custom (allows you to specify your username in CustomPersonaName)
+;
+PersonaNameType = @Custom
+CustomPersonaName = Player
+
+; If true (1) then CustomPersonaName will be appended to 
+; whatever option has been chosen for PersonaNameType.
+;
+; For example if 
+;  "PersonaNameType = @ComputerName" 
+; and 
+;  "CustomPersonaName = Player" 
+; then the resulting name will be 
+;  "ComputerNamePlayer"
+;
+SuffixPersonaNameTypeResultWithCustomPersonaName = 1
+
+; GalaxyIDType can be:
+; - @WindowsAccountNameHash
+; - @ComputerNameHash
+; - @MachineIDHash
+; - @NetworkAdapterMACHash
+; - @Custom
+;
+GalaxyIDType = @NetworkAdapterMACHash
+
+; 64bit unsigned integer
+CustomGalaxyID = 1
+
+; static offset that is applied to the custom or calculated GalaxyID
+; Can be:
+; - a literal / number
+; -  @ProcessID
+; -  @DebugID
+; @ProcessID can be used to offset the GalaxyID with the ID value of the current process
+; Useful when running multiple instances on a single computer (e.g. during tests)
+GalaxyIDOffset = 0
+
+; filename of the avatar
+Avatar = me.png
+
+SignedIn = 1
+
+; Automatically accept game invitations when received
+AutoAcceptGameInvitations = 1
+
+[Interceptor]
+
+OverrideInitKeys = 0
+OverrideInitKeyId = 0
+OverrideInitKeySecret = 0
+
+OverrideSignIn = 0
+OverrideSignInId = 0
+OverrideSignInPassword = 0
