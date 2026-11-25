@@ -179,9 +179,57 @@
     "earned": false,
     "earned_time": 0
   },
+  "Achievement_51_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_52_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_56_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_57_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_58_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_59_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
   "Achievement_5_Id": {
     "earned": true,
     "earned_time": 1775579762
+  },
+  "Achievement_60_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_61_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_62_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_63_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_64_Id": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Achievement_65_Id": {
+    "earned": false,
+    "earned_time": 0
   },
   "Achievement_6_Id": {
     "earned": true,

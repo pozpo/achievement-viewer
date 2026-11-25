@@ -1,7 +1,31 @@
 {
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_00": {
+    "earned": false,
+    "earned_time": 0
+  },
   "ACHIEVEMENT_FRPG_ACHIEVEMENTS_01": {
     "earned": true,
     "earned_time": 1775984654
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_02": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_03": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_04": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_05": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_06": {
+    "earned": false,
+    "earned_time": 0
   },
   "ACHIEVEMENT_FRPG_ACHIEVEMENTS_07": {
     "earned": true,
@@ -11,13 +35,73 @@
     "earned": true,
     "earned_time": 1775730060
   },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_09": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_10": {
+    "earned": false,
+    "earned_time": 0
+  },
   "ACHIEVEMENT_FRPG_ACHIEVEMENTS_11": {
     "earned": true,
     "earned_time": 1775500925
   },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_12": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_13": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_14": {
+    "earned": false,
+    "earned_time": 0
+  },
   "ACHIEVEMENT_FRPG_ACHIEVEMENTS_15": {
     "earned": true,
     "earned_time": 1775560370
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_16": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_17": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_18": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_19": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_20": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_21": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_22": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_23": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_24": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_25": {
+    "earned": false,
+    "earned_time": 0
   },
   "ACHIEVEMENT_FRPG_ACHIEVEMENTS_26": {
     "earned": true,
@@ -74,5 +158,9 @@
   "ACHIEVEMENT_FRPG_ACHIEVEMENTS_39": {
     "earned": true,
     "earned_time": 1775731145
+  },
+  "ACHIEVEMENT_FRPG_ACHIEVEMENTS_40": {
+    "earned": false,
+    "earned_time": 0
   }
 }

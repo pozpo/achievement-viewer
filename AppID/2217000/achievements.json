@@ -23,6 +23,10 @@
     "earned": false,
     "earned_time": 0
   },
+  "Arc_Gou": {
+    "earned": false,
+    "earned_time": 0
+  },
   "Arc_Kra": {
     "earned": false,
     "earned_time": 0
@@ -87,6 +91,10 @@
     "earned": false,
     "earned_time": 0
   },
+  "KO_Gou": {
+    "earned": false,
+    "earned_time": 0
+  },
   "KO_Kra": {
     "earned": false,
     "earned_time": 0
@@ -148,6 +156,10 @@
     "earned_time": 0
   },
   "Lvl_Gal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Lvl_Gou": {
     "earned": false,
     "earned_time": 0
   },
@@ -240,6 +252,10 @@
     "earned_time": 0
   },
   "Skill_Gal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Skill_Gou": {
     "earned": false,
     "earned_time": 0
   },
