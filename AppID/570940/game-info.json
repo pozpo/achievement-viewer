@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/22067071ea9eeb92edb952b2d65abce16e973fc7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/0001fa9e92975a990f649d3c69d239dfca79dd12.jpg",
       "hidden": false,
-      "percent": "8.1",
+      "percent": "8.2",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_01": {
@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/fde13ddfbeb188d4e83ca5e581deb69dea09c615.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/52bcaf712d1290af73067720174a859ab26a3dbe.jpg",
       "hidden": false,
-      "percent": "31.0",
+      "percent": "31.1",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_02": {
@@ -27,7 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/638c52abf0711ffcabc273473dd247b071cd3734.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/7d07081488721d92cd2d0d595e7fe8c1aab1ad5c.jpg",
       "hidden": false,
-      "percent": "19.6",
+      "percent": "19.7",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_03": {
@@ -126,7 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/27ab0882f3da601233df240cfa292ccbb00e7b7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/1527dfe4d351b6f19fe37749d3d6822a735f566f.jpg",
       "hidden": false,
-      "percent": "29.3",
+      "percent": "29.4",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_14": {
@@ -144,7 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/62829ea5acc97389e120a047e2cd41cbb648bb62.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/5c1bb78cab99069167cdf4058b3a7a75c5291764.jpg",
       "hidden": false,
-      "percent": "47.8",
+      "percent": "47.9",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_16": {
@@ -198,7 +198,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/03437e8700ccc93666feac747ef2fd0396ec4974.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/6e635c5bdd2ee21bd19b74e9b91752dbbc8ee403.jpg",
       "hidden": false,
-      "percent": "11.4",
+      "percent": "11.5",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_22": {
@@ -252,7 +252,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/1cef9627ae9f7f676d22343778b9b5f52d77c304.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/fd3cf75ee705a9f191bb626574e1b4d545441b39.jpg",
       "hidden": false,
-      "percent": "93.9",
+      "percent": "93.8",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28": {
@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/089ee0bcbd7bf03b8b50cadc8bf3095f6c91a8eb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/28405d1d7fa6c08ccc9dc618a9f232d1f4386be0.jpg",
       "hidden": false,
-      "percent": "48.9",
+      "percent": "49.0",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32": {
@@ -324,7 +324,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/db896134ce1490a92163bd2caf0b16a611bb5a7e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/36b7b34331bc0e37c8c485aaa2e12e5deeca2edc.jpg",
       "hidden": false,
-      "percent": "42.3",
+      "percent": "42.4",
       "group": "Base Game"
     },
     "ACHIEVEMENT_FRPG_ACHIEVEMENTS_36": {
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/66ec494c0bd72ac4e3290efa1509ac78be00ee98.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/570940/8e668da7ee46372245a48d56e9c2bc08030a4d7a.jpg",
       "hidden": false,
-      "percent": "34.1",
+      "percent": "34.2",
       "group": "Base Game"
     }
   },

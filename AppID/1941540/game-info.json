@@ -18,7 +18,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/a3884387d6169f0eeba561e550d4593eff624a09.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "91.2",
+      "percent": "91.1",
       "group": "Base Game"
     },
     "Achievement_3_Id": {
@@ -54,7 +54,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/d958286812ad267a03a08060fdc18633d708f47c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "77.2",
+      "percent": "77.1",
       "group": "Base Game"
     },
     "Achievement_7_Id": {
@@ -189,7 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/ff2aa68a9ca71ec451e6024c743a1e16730d565a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "62.3",
+      "percent": "62.2",
       "group": "Base Game"
     },
     "Achievement_22_Id": {
@@ -333,7 +333,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/248d61fbe30d1187441335eb338ee0c321825934.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/745019437876a8cae89b0df3d0c8c88107d6613e.jpg",
       "hidden": true,
-      "percent": "32.4",
+      "percent": "32.3",
       "group": "Base Game"
     },
     "Achievement_38_Id": {
@@ -504,7 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/ab01b901a2056ffc904033cc172b1d60dc710d67.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1941540/8bd3a5439859712149a45a7a2c501499bd3353a2.jpg",
       "hidden": false,
-      "percent": "7.9",
+      "percent": "8.0",
       "group": "Base Game"
     },
     "Achievement_60_Id": {

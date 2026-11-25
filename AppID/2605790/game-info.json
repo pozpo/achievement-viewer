@@ -27,7 +27,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/631f9af690ceca439217512d4d2649ce31782969.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "54.9",
+      "percent": "55.0",
       "group": "Base Game"
     },
     "PROMOTION_SPOTTED": {
@@ -45,7 +45,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/b4c747f97d336b656e0900aaaf84b98d402dcb00.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "11.1",
+      "percent": "11.2",
       "group": "Base Game"
     },
     "GALLANT_GUARDIAN": {
@@ -63,7 +63,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/e472c7966297a75c0f1ceea89ec5ae4e1cf24ef1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "18.0",
+      "percent": "18.1",
       "group": "Base Game"
     },
     "DRONE_SCHOOL_STAR": {
@@ -72,7 +72,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/72d865eb3863fd49c71e2761a898575499adecf5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "16.2",
+      "percent": "16.3",
       "group": "Base Game"
     },
     "ITS_GOING_DOWN": {
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/96b1bc437641a7b7d351e4f02c06933864cb75a9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "87.5",
+      "percent": "87.4",
       "group": "Base Game"
     },
     "JUNIOR_DETECTIVE": {
@@ -108,7 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/f1ebd0007abc5c97988dfe0bda78d1d35edf3a95.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "47.7",
+      "percent": "47.8",
       "group": "Base Game"
     },
     "RECLAIMER_SILVER": {
@@ -117,7 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/b43f06325a219173e7a7108e039896cea335945f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "28.6",
+      "percent": "28.8",
       "group": "Base Game"
     },
     "RECLAIMER_GOLD": {
@@ -126,7 +126,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/c490ba819f0df0aa3e460dabd69e9132c3819106.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "14.9",
+      "percent": "15.0",
       "group": "Base Game"
     },
     "GOTOORAK_SLAYER": {
@@ -144,7 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/08db77f75f51867d593d82d8a0395adcebe19dec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "41.6",
+      "percent": "41.7",
       "group": "Base Game"
     },
     "MALAKTULA_VANQUISHER": {
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/df9f6a76c3087d34f735a810c86f35c3946284a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "24.5",
+      "percent": "24.7",
       "group": "Base Game"
     },
     "A_DEPLOYMENT_A_DAY": {
@@ -162,7 +162,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/2d6367fae8a6b2ded668d449f5e27aa565c80d56.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "17.5",
+      "percent": "17.6",
       "group": "Base Game"
     },
     "DOESNT_AFRAID_OF_ANYTHING": {
@@ -189,7 +189,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/0608a10036a56b227e994d3bf09bb06b9f3f7cb3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "12.8",
+      "percent": "12.9",
       "group": "Base Game"
     },
     "RAM_ROD_REALLY_ROCKS": {
@@ -207,7 +207,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/40228ebea69d72ea294697ea0e0894d482acc235.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "23.6",
+      "percent": "23.7",
       "group": "Base Game"
     },
     "BALGORATH_ANNIHILATOR": {
@@ -216,7 +216,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/44ca5513ae87079fa946c9a6186913f564e37d60.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
       "hidden": false,
-      "percent": "5.0",
+      "percent": "5.2",
       "group": "Base Game"
     }
   },

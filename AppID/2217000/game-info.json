@@ -288,7 +288,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/a3dd5f89354b3736d0323f239d4fcb7a13314a59.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/a2ad0c31196d69551109888fae4da6072233b738.jpg",
       "hidden": false,
-      "percent": "3.0",
+      "percent": "3.1",
       "group": "Base Game"
     },
     "Skill_Wra": {
@@ -414,7 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/4c038949a3f7899ca15bc1ac21ea22690b7678f1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/a39630f37d3498d97b8b22d17c38729ad4b07c76.jpg",
       "hidden": false,
-      "percent": "37.8",
+      "percent": "37.7",
       "group": "Base Game"
     },
     "Lvl_Eta": {
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/12c633a0d33b2db4fadd52d94444cf4bc09ccb5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/538bfedeeebfa89f42c49259e16fcb3ebec018cd.jpg",
       "hidden": false,
-      "percent": "9.0",
+      "percent": "9.1",
       "group": "Base Game"
     },
     "Skill_Eta": {
@@ -450,7 +450,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/a3d905d318dfbfcbac8c7994b78df989f8813c07.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/bb81a5c7bc29fd010f280e28c2ff8f89fc10886c.jpg",
       "hidden": false,
-      "percent": "4.7",
+      "percent": "4.8",
       "group": "Base Game"
     },
     "Lvl_Oly": {
@@ -495,7 +495,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/14b1ea519393bc9a6e0fa631df3663e749d03e14.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/8cd16d637628177d0c16833fa448f57860540f3e.jpg",
       "hidden": false,
-      "percent": "1.8",
+      "percent": "1.9",
       "group": "Base Game"
     },
     "Arc_Abs": {
@@ -504,7 +504,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/6cb9a2578768306896d53f7f320d37b0a37d5d62.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/d54dd80d008542a28215fbd4f2733a7792ea7017.jpg",
       "hidden": false,
-      "percent": "1.0",
+      "percent": "1.1",
       "group": "Base Game"
     },
     "KO_Abs": {
@@ -522,7 +522,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/e7aeef55779c0c7ae066ba7315fa002abbc01c24.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/6afe606013442aeee46e78c55b560145b078f75d.jpg",
       "hidden": false,
-      "percent": "3.3",
+      "percent": "3.4",
       "group": "Base Game"
     },
     "Lvl_Gal": {
@@ -558,7 +558,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/8e8dd2a39a89988a2bf765ca84ea69031ce685d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2217000/f43cfe0943bbda833c501ea3530412a6ca037310.jpg",
       "hidden": false,
-      "percent": "2.6",
+      "percent": "2.7",
       "group": "Base Game"
     },
     "New_Mint": {
