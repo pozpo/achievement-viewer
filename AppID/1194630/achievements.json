@@ -1,0 +1,122 @@
+{
+  "ANDREW_REDEEMED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ANGELA_REDEEMED": {
+    "earned": true,
+    "earned_time": 1783194597
+  },
+  "CHOOSE_HEAD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHOOSE_HEART": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMBAT_FIVE_IN_A_ROW": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COMPLETED_SOLO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DANIEL_REDEEMED": {
+    "earned": true,
+    "earned_time": 1783194198
+  },
+  "DOOMED_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOUND_FAMILY_SECRETS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOUND_PICTURES_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOUND_PICTURES_BLACK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOUND_PICTURES_WHITE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOUND_SUPERNATURAL_SECRETS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "JOHN_REDEEMED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILLED_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLAYED_MODE_MOVIENIGHT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PLAYED_MODE_PROLOGUE": {
+    "earned": true,
+    "earned_time": 1782854621
+  },
+  "REDEEM_ALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RELATIONSHIP_ANDREW_ALL": {
+    "earned": true,
+    "earned_time": 1783194111
+  },
+  "RELATIONSHIP_ANGELA_JOHN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RELATIONSHIP_DANIEL_TAYLOR": {
+    "earned": true,
+    "earned_time": 1783193156
+  },
+  "SAVE_MARY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SOLE_SURVIVOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TAYLOR_DEMONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TAYLOR_REDEEMED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UNLOCKED_AMIABLE": {
+    "earned": true,
+    "earned_time": 1783159690
+  },
+  "UNLOCKED_COMPASSION": {
+    "earned": true,
+    "earned_time": 1783182160
+  },
+  "UNLOCKED_HEADSTRONG": {
+    "earned": true,
+    "earned_time": 1783191172
+  },
+  "UNLOCKED_MATURE": {
+    "earned": true,
+    "earned_time": 1783194597
+  },
+  "UNLOCKED_RATIONAL": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
