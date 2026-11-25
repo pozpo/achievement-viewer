@@ -1,0 +1,226 @@
+{
+  "appid": "2605790",
+  "name": "Deep Rock Galactic: Rogue Core",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605790/8a84d291390183d33a9629e68cdd35ad27d6217b/header_alt_assets_2.jpg?t=1794902204",
+  "achievements": {
+    "PCAA_CERTIFIED": {
+      "name": "PCAA Certified",
+      "description": "You passed your Post-Cryonic Aptitude Assessment. Now get to work.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/70e427de3a23aa02a09c326d86070703a19398e1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "85.0",
+      "group": "Base Game"
+    },
+    "ROGUED_OUT": {
+      "name": "Rogue'd Out",
+      "description": "You've had your first bitter taste of failure.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/5776da4d84d334d0759a6ac307e5a6fa8a6c06a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "72.1",
+      "group": "Base Game"
+    },
+    "ABOVE_AND_BEYOND": {
+      "name": "Above and Beyond",
+      "description": "Successfully complete an entire run without getting downed.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/631f9af690ceca439217512d4d2649ce31782969.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "55.0",
+      "group": "Base Game"
+    },
+    "PROMOTION_SPOTTED": {
+      "name": "Promotion Spotted",
+      "description": "Earn an Ascension as Spotter.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/5dd16d2715dac49b6031908f2243e2928c865343.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "15.7",
+      "group": "Base Game"
+    },
+    "GREAT_IN_EVERY_TIMELINE": {
+      "name": "Great in Every Timeline",
+      "description": "Earn an Ascension as Retcon.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/b4c747f97d336b656e0900aaaf84b98d402dcb00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "11.2",
+      "group": "Base Game"
+    },
+    "GALLANT_GUARDIAN": {
+      "name": "Gallant Guardian",
+      "description": "Earn an Ascension as Guardian.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/1bedd47f916b2295079497f392619f4e8d36a710.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "15.2",
+      "group": "Base Game"
+    },
+    "A_SLICE_OF_GREATNESS": {
+      "name": "A Slice of Greatness",
+      "description": "Earn an Ascension as Slicer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/e472c7966297a75c0f1ceea89ec5ae4e1cf24ef1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "18.1",
+      "group": "Base Game"
+    },
+    "DRONE_SCHOOL_STAR": {
+      "name": "Drone School Star",
+      "description": "Earn an Ascension as Falconer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/72d865eb3863fd49c71e2761a898575499adecf5.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "16.3",
+      "group": "Base Game"
+    },
+    "ITS_GOING_DOWN": {
+      "name": "It's Going Down",
+      "description": "Enjoy your first elevator ride.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/96b1bc437641a7b7d351e4f02c06933864cb75a9.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "87.4",
+      "group": "Base Game"
+    },
+    "JUNIOR_DETECTIVE": {
+      "name": "Junior Detective",
+      "description": "Fully complete every task in any single Intel clearance level.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/db25fdd9065caae72fd8f551298649efe7ef1a71.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "53.7",
+      "group": "Base Game"
+    },
+    "RECLAIMER_IRON": {
+      "name": "Reclaimer Iron",
+      "description": "Successfully reclaim a Depth 1 facility.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/4da96380644ce21b80bf9ed7bad33bdf1b3cdb34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "72.9",
+      "group": "Base Game"
+    },
+    "RECLAIMER_BRONZE": {
+      "name": "Reclaimer Bronze",
+      "description": "Successfully reclaim a Depth 2 facility.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/f1ebd0007abc5c97988dfe0bda78d1d35edf3a95.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "47.8",
+      "group": "Base Game"
+    },
+    "RECLAIMER_SILVER": {
+      "name": "Reclaimer Silver",
+      "description": "Successfully reclaim a Depth 3 facility.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/b43f06325a219173e7a7108e039896cea335945f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "28.8",
+      "group": "Base Game"
+    },
+    "RECLAIMER_GOLD": {
+      "name": "Reclaimer Gold",
+      "description": "Successfully reclaim a Depth 4 facility.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/c490ba819f0df0aa3e460dabd69e9132c3819106.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "15.0",
+      "group": "Base Game"
+    },
+    "GOTOORAK_SLAYER": {
+      "name": "Gotoorak Slayer",
+      "description": "Defeat a Gotoorak Gatekeeper.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/dfb3bd219d1dc159edfa84ccb67579928e8dbf74.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "73.7",
+      "group": "Base Game"
+    },
+    "RAMOK_CONQUEROR": {
+      "name": "Ramok Conqueror",
+      "description": "Defeat a Ramok Gatekeeper.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/08db77f75f51867d593d82d8a0395adcebe19dec.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "41.7",
+      "group": "Base Game"
+    },
+    "MALAKTULA_VANQUISHER": {
+      "name": "Molaktula Vanquisher",
+      "description": "Defeat a Molaktula Gatekeeper.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/df9f6a76c3087d34f735a810c86f35c3946284a1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "24.7",
+      "group": "Base Game"
+    },
+    "A_DEPLOYMENT_A_DAY": {
+      "name": "A Deployment A Day",
+      "description": "Complete and claim a daily Deployment assignment.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/2d6367fae8a6b2ded668d449f5e27aa565c80d56.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "17.6",
+      "group": "Base Game"
+    },
+    "DOESNT_AFRAID_OF_ANYTHING": {
+      "name": "Doesn't Afraid of Anything",
+      "description": "You survived a standard weekly Gauntlet and lived to tell the tale.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/5a093c749ebff6a4fff08d3174c66c25ba2b3085.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "5.1",
+      "group": "Base Game"
+    },
+    "GAUNTLET_LEGEND": {
+      "name": "Gauntlet Legend",
+      "description": "You beat one of OMEGA's extra-spicy weekly Gauntlets. Badass.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/e3c32aa9af936e7d5fc917b6c32448580b7d5ae8.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "2.2",
+      "group": "Base Game"
+    },
+    "STOLEN_VALOR": {
+      "name": "Stolen Valor",
+      "description": "Reclaim a facility with another class' Bio-Booster Deck equipped.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/0608a10036a56b227e994d3bf09bb06b9f3f7cb3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "12.9",
+      "group": "Base Game"
+    },
+    "RAM_ROD_REALLY_ROCKS": {
+      "name": "Ram Rod Really Rocks",
+      "description": "Gather four Reclaimers in the showers aboard the RV-09 Ramrod.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/8bb907f9dc454978564bc36897e6cabd2462ab00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": true,
+      "percent": "6.0",
+      "group": "Base Game"
+    },
+    "WITNESS_ASCENSION": {
+      "name": "Reverence for a Comrade",
+      "description": "Witness the Ascension Ceremony of a fellow Reclaimer.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/40228ebea69d72ea294697ea0e0894d482acc235.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "23.7",
+      "group": "Base Game"
+    },
+    "BALGORATH_ANNIHILATOR": {
+      "name": "Balgorath Annihilator",
+      "description": "Defeat a Balgorath Gatekeeper",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/44ca5513ae87079fa946c9a6186913f564e37d60.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2605790/054a841b8087f23a0530ea3df3620476c51cf0b8.jpg",
+      "hidden": false,
+      "percent": "5.2",
+      "group": "Base Game"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
