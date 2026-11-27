@@ -1,0 +1,206 @@
+{
+  "Blackjack": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Blackjack1000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Burn10": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Client1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Client100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Day21": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Day49": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Day99": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dep": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dish1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dish100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dish1000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DreamKitchen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Event1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EventImp": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FS_3card": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FS_ez": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FS_gen": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FS_hard": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FS_med": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FS_uniq": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Fortune": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FortuneCloth": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Furn1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Furn2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Furn3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GoblinBoss": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Groceries500": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Groceries5000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Groceries50000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HallforKings": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Note": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Rep100": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Rep1000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Rep10000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Shit1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Shit2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Talents1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TalentsFull": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Tax1000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Tax10000": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Tutorial": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VIP1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VIP25": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VIPGhost": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VIPGoblin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VIPOrc": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VIPSkeleton": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VIPVampire": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VIPWerewolf": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VampireBoss1": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

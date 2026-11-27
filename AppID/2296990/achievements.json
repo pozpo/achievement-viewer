@@ -1,0 +1,50 @@
+{
+  "AssembleACrew": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GoldMedalCrewmates": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GoldPact": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "OurFriendshipIsGolden": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PelagicPerils": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ShipDip": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheArtOfParley": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TheGoldenRatio": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TilesTrailsTreasure": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WeCanDoBetter": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WeighAnchorSetSail": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WelcomeAboard": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

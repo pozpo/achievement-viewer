@@ -1,0 +1,558 @@
+{
+  "ALL_COLOSSI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_FINAL_QUEST_COMPLETER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_FIS_BOOSTER_USED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_FORTRESSES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_GEOMANCY_BUFFS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_LUXURY_BOOSTER_USED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_MAP_BOOSTS_BUFFS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_MEDALS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_ORB_UNLOCKS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_STRATEGIC_EXTRACTORS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_STRATEGIC_RESOURCES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_UNIQUE_FACILITIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALL_WONDERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ARDENT_MAGES_MANY_PILLARS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ATTACK_ALLY_WITH_PRIVATEERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ATTACK_LAND_WITH_SUBMERSIBLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BATTLE_FOMORIANS_VARIETY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BATTLE_SHIFT_FORM_VARIETY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEST_EMPIRE_PLAN": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEST_SCORE_EARLY_DIFFICULTY3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BEST_SCORE_EARLY_DIFFICULTY6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BLACK_SPOT_USED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BROKEN_LORDS_DISTRICT_DUST": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BROKEN_LORDS_DUST_CONSUMER_OVERALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BUILDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CAPTURE_WONDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CAST_VOTES_OVERALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CATCH_AND_RELEASE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COLLECT_BIG_ORB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COLLECT_ORBS_OVERALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COLLECT_ORBS_PLAYTHROUGH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COLOSSI_KILLER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "COOP_QUEST_CONTRIBUTOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CREEPING_SPREE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CULTISTS_MANY_CONVERTED_VILLAGES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CULTISTS_MINIONS_LEGION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DIFFICULTY0_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DIFFICULTY1_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DIFFICULTY2_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DIFFICULTY3_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DIFFICULTY4_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DIFFICULTY5_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DIFFICULTY6_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DIPLOMACY_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DRAKKENS_INSTANT_WORLD_PEACE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DRAKKENS_VICTORY_NO_WAR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DRAKKEN_MANY_RUINS_EXPLOITED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DROWN_ON_ICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DUST_STORM_AMBUSH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ECONOMY_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ENEMY_EXPLOITATION_TERRAFORMED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EXPANSION_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONBROKENLORDS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONCULTISTS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONDRAKKENS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONFLAMES_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONMADFAIRIES_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONMIMICS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONNECROPHAGES_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONRAGEWIZARDS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONREPLICANTS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONROVINGCLANS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONSEADEMONS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONVAULTERS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTIONWINTERSHIFTERS_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FACTION_CUSTOM_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FAST_EXPLORER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIGHT_ON_ICE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FINAL_QUESTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FIRST_SECOND_ERA_REPLICANTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOG_BANK_AMBUSH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOMORIAN_FORTRESS_CAPTURE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOMORIAN_QUEST_COMPLETER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FORCE_SHIFT_OVERALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GLOBALSCOREWHENLASTTURNREACHED_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HERO_CAPTURE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HERO_HOARDER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HERO_LEVELER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILLED_MIGRATION_UNIT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "KILL_GOVERNOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LASTEMPIRESTANDING_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LONG_UNBROKEN_ALLIANCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAD_FAIRIES_HIGH_SPEED_JOURNEY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAD_SEASON_TEMPLES_INVESTIGATION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MANTA_EXTRACTION_OVERALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MANY_ACTIVE_LUXURY_BOOSTERS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MANY_LEVELED_BOROUGHS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MANY_TRADE_ROUTES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MASS_DUST_GAINED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAX_NET_CITY_DUST_ACH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAX_NET_CITY_FOOD_ACH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAX_NET_CITY_INDUSTRY_ACH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAX_NET_CITY_INFLUENCE_ACH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MAX_NET_CITY_SCIENCE_ACH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MINOR_FACTIONS_ASSIMILATION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MONSTER_WRANGLER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOSTTECHNOLOGIESDISCOVERED_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MULTIPLAYER_GAME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MULTIPLAYER_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MULTIPLE_CITY_CONQUERED_WINTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NECROPHAGES_BATTLEBORN_CREATOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "NECROPHAGES_MANY_CADAVER_BOOSTER_USED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "OCEAN_CONTROL_WITH_TRADE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PILLAGE_BUILDINGS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PILLAGE_DUST_LOOT": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUEST_COMPLETED_ENDLESSDAY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUEST_COMPLETER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "QUEST_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RAGE_WIZARDS_CRITICAL_DAMAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RESISTANCE_IS_FUTILE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ROVING_CLANS_HERO_KILLER_SETSEKE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ROVING_CLANS_IRS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SCENARIO_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SEA_DEMONS_4_CONTINENTS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SEA_DEMONS_NO_LAND_UNITS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SEA_DEMONS_OCEANIC_HUB": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SEA_MONSTER_FAILED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SEA_MONSTER_KILLED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SHADOW_OF_THE_COLOSSI": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SHAKE_YOUR_FUNDATIONS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SHARED_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPORETASTIC": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPY_ACTION_SERIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "STEAL_TECHNOLOGIES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SUPREMACY_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "THE_EXTERMINATOR": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TILES_TERRAFORMED_OVERALL": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TURNS_PLAYED1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TURNS_PLAYED2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TURNS_PLAYED3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TUTORIAL_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "TWO_CITIES_EARLY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "UNITS_KILLER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VAULTERS_TELEPORTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VAULTERS_TELEPORT_TO_SIEGING_HERO": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "VILLAGE_PACIFIER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WELCOME_TO_THE_FOLD": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WILD_WALKERS_WIN_WITHOUT_DAMAGE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WONDER_VICTORY": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

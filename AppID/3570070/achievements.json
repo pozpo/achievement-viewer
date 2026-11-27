@@ -1,0 +1,42 @@
+{
+  "ACH_CAVE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_CITY": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_Collector": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_JUNGLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_OPEN_SEA": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PADDLE_FASTER": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PADDLE_PADDLE_PADDLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PARK": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_PIPES": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_VULCANO": {
+    "earned": false,
+    "earned_time": 0
+  }
+}

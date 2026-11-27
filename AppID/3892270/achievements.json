@@ -218,5 +218,25 @@
   "ACH_MONEY_1B": {
     "earned": false,
     "earned_time": 0
+  },
+  "name:better": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "name:faster": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "name:harder": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "name:stronger": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "name:workisneverover": {
+    "earned": false,
+    "earned_time": 0
   }
 }
