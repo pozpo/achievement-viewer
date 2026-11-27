@@ -19,7 +19,7 @@
       "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\PBZLocalSetting.sav",
       "repoPath": "AppID/4115450/save/PBZLocalSetting.sav",
       "size": 1630,
-      "sha256": "A5D6629FF43BEE6084E6CD9E5E8773EF5716EA0646B1427E4A4EC003B0FA82DC"
+      "sha256": "A999412B618FF4E44C9634FC28980AC565329D811A5263C56128B477A193AE8C"
     },
     {
       "rootKey": "Steam appmanifest",
@@ -27,7 +27,7 @@
       "sourcePath": "%ProgramFiles(x86)%\\Steam\\steamapps\\common\\PBZ\\ProjectPBZ\\Saved\\PBZSharedSetting.sav",
       "repoPath": "AppID/4115450/save/PBZSharedSetting.sav",
       "size": 1931,
-      "sha256": "B522B1086F7B419B1B510CD69C814EDBBCAA449A53CC4D75D0B4E02D8E34FE21"
+      "sha256": "143F4EB6AFC3B0ABCE9A0DB45F0CBBDC9063C6C124BCD9811DAF530B82AF452A"
     },
     {
       "rootKey": "Steam appmanifest",
