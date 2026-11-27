@@ -117,7 +117,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "42.7",
+      "percent": "42.8",
       "group": "Base Game"
     },
     "ACH_CHA_F2_BIGSPENDER2": {
@@ -135,7 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "11.2",
+      "percent": "11.3",
       "group": "Base Game"
     },
     "ACH_CHA_F2_CROSSYROAD": {
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "9.8",
+      "percent": "9.9",
       "group": "Base Game"
     },
     "ACH_CHA_F2_HIGHROLLER2": {
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "8.7",
+      "percent": "8.8",
       "group": "Base Game"
     },
     "ACH_CHA_F3_CROSSYROAD": {
@@ -342,7 +342,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/f0ac9bcdb62b9667ba9542403be24b464ee330f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "2.1",
+      "percent": "2.2",
       "group": "Base Game"
     },
     "ACH_CHA_F4_HIGHROLLER4": {
@@ -414,7 +414,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/d46a400375ef72a3c360136fee5e1126dab3df37.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": false,
-      "percent": "44.5",
+      "percent": "44.6",
       "group": "Base Game"
     },
     "ACH_MONEY_100M": {
@@ -486,7 +486,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/bd841186e2f335e5b1af013286429ba4c12d515f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3892270/9d6e58e76024ee69d0bc8536bd4a93321aa38690.jpg",
       "hidden": true,
-      "percent": "36.1",
+      "percent": "36.0",
       "group": "Base Game"
     },
     "ACH_MISC_GETHELP": {
