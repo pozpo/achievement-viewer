@@ -1,7 +1,122 @@
 {
-  "last_updated": 1795878781,
-  "total_games": 21,
+  "last_updated": 1795878821,
+  "total_games": 35,
   "games": [
+    {
+      "appid": "582500",
+      "info": {
+        "appid": "582500",
+        "name": "Game 582500",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "CHESS_PUZZLE_ROAM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "CHESS_PUZZLE_STUDY": {
+          "earned": true,
+          "earned_time": 1786036334
+        },
+        "DUNGEON_PUZZLE_ROAM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DUNGEON_PUZZLE_STUDY": {
+          "earned": true,
+          "earned_time": 1786033896
+        },
+        "ENDING_ESCAPED_ALONE": {
+          "earned": true,
+          "earned_time": 1786047718
+        },
+        "ENDING_STAYED_BEHIND": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EYES_PUZZLE_ROAM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EYES_PUZZLE_STUDY": {
+          "earned": true,
+          "earned_time": 1786031235
+        },
+        "INVITE_A_FRIEND": {
+          "earned": true,
+          "earned_time": 1786045949
+        },
+        "PAINTING_PUZZLE_ROAM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PAINTING_PUZZLE_STUDY": {
+          "earned": true,
+          "earned_time": 1786031586
+        },
+        "PERFECT_PLAYTHROUGH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PERFECT_PLAY_CHESS_PUZZLE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PERFECT_PLAY_DUNGEON_PUZZLE": {
+          "earned": true,
+          "earned_time": 1786033896
+        },
+        "PERFECT_PLAY_EYES_PUZZLE": {
+          "earned": true,
+          "earned_time": 1786031235
+        },
+        "PERFECT_PLAY_PAINTING_PUZZLE": {
+          "earned": true,
+          "earned_time": 1786031586
+        },
+        "PERFECT_PLAY_SPIKE_PUZZLE": {
+          "earned": true,
+          "earned_time": 1786046574
+        },
+        "PERFECT_PLAY_THEATER_PUZZLE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "PERFECT_PLAY_WATER_PUZZLE": {
+          "earned": true,
+          "earned_time": 1786032237
+        },
+        "RED_LEVER_EASTER_EGG": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SPIKE_PUZZLE_ROAM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SPIKE_PUZZLE_STUDY": {
+          "earned": true,
+          "earned_time": 1786037347
+        },
+        "THEATER_PUZZLE_ROAM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "THEATER_PUZZLE_STUDY": {
+          "earned": true,
+          "earned_time": 1786047658
+        },
+        "WATER_PUZZLE_ROAM": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WATER_PUZZLE_STUDY": {
+          "earned": true,
+          "earned_time": 1786032237
+        }
+      }
+    },
     {
       "appid": "2569760",
       "info": {
@@ -1309,6 +1424,305 @@
       }
     },
     {
+      "appid": "552520",
+      "info": {
+        "appid": "552520",
+        "name": "Game 552520",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "FC5_Ach_1": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_10": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_11": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_12": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_13": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_14": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_15": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_16": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_17": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_18": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_19": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_2": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_20": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_21": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_22": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_23": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_26": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_27": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_28": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_29": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_3": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_30": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_31": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_32": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_33": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_34": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_36": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_37": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_38": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_39": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_4": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_40": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_41": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_42": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_43": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_44": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_45": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_46": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_47": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_48": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_49": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_5": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_50": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_51": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_52": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_53": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_54": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_55": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_56": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_57": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_58": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_59": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_6": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_60": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_61": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_62": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_63": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_64": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_65": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_66": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_67": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_68": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_69": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_7": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_70": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_71": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_72": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "FC5_Ach_8": {
+          "earned": true,
+          "earned_time": 1782476066
+        },
+        "FC5_Ach_9": {
+          "earned": true,
+          "earned_time": 1782476066
+        }
+      }
+    },
+    {
       "appid": "233270",
       "info": {
         "appid": "233270",
@@ -1565,6 +1979,97 @@
           "earned_time": 1775584992
         },
         "FC3BD_Ach_9": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "677160",
+      "info": {
+        "appid": "677160",
+        "name": "Game 677160",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ARENA_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ARENA_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BATTLEBOARD_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BATTLEBOARD_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BOB_ROSS_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BOB_ROSS_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ENDING_ESCAPED_ALONE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ENDING_LEFT_BEHIND": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ENDING_SECRET": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "INCIN_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "INCIN_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "INVITE_A_FRIEND": {
+          "earned": true,
+          "earned_time": 1786108669
+        },
+        "RITUAL_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "RITUAL_PUZZLE_COMPLETED_ROYALTY": {
+          "earned": true,
+          "earned_time": 1786119413
+        },
+        "SLOTMACHINE_PUZZLE_COMPLETED_LORD": {
+          "earned": true,
+          "earned_time": 1786109495
+        },
+        "SLOTMACHINE_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "STAIRS_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "STAIRS_PUZZLE_COMPLETED_PEASANT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WEAPONS_PUZZLE_COMPLETED_LORD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "WEAPONS_PUZZLE_COMPLETED_PEASANT": {
           "earned": false,
           "earned_time": 0
         }
@@ -5052,6 +5557,316 @@
       }
     },
     {
+      "appid": "3768760",
+      "info": {
+        "appid": "3768760",
+        "name": "Game 3768760",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "KNT_Achievement_01": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_02": {
+          "earned": true,
+          "earned_time": 1783437803
+        },
+        "KNT_Achievement_03": {
+          "earned": true,
+          "earned_time": 1783437803
+        },
+        "KNT_Achievement_04": {
+          "earned": true,
+          "earned_time": 1783437803
+        },
+        "KNT_Achievement_05": {
+          "earned": true,
+          "earned_time": 1783437802
+        },
+        "KNT_Achievement_06": {
+          "earned": true,
+          "earned_time": 1783449819
+        },
+        "KNT_Achievement_07": {
+          "earned": true,
+          "earned_time": 1783451623
+        },
+        "KNT_Achievement_08": {
+          "earned": true,
+          "earned_time": 1783454169
+        },
+        "KNT_Achievement_09": {
+          "earned": true,
+          "earned_time": 1783455153
+        },
+        "KNT_Achievement_10": {
+          "earned": true,
+          "earned_time": 1783499008
+        },
+        "KNT_Achievement_11": {
+          "earned": true,
+          "earned_time": 1783501143
+        },
+        "KNT_Achievement_12": {
+          "earned": true,
+          "earned_time": 1783853482
+        },
+        "KNT_Achievement_13": {
+          "earned": true,
+          "earned_time": 1783859744
+        },
+        "KNT_Achievement_14": {
+          "earned": true,
+          "earned_time": 1783941547
+        },
+        "KNT_Achievement_15": {
+          "earned": true,
+          "earned_time": 1784017361
+        },
+        "KNT_Achievement_16": {
+          "earned": true,
+          "earned_time": 1784020033
+        },
+        "KNT_Achievement_17": {
+          "earned": true,
+          "earned_time": 1784028347
+        },
+        "KNT_Achievement_18": {
+          "earned": true,
+          "earned_time": 1784031500
+        },
+        "KNT_Achievement_19": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_20": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_23": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_25": {
+          "earned": true,
+          "earned_time": 1783437802
+        },
+        "KNT_Achievement_26": {
+          "earned": true,
+          "earned_time": 1783497294
+        },
+        "KNT_Achievement_27": {
+          "earned": true,
+          "earned_time": 1783437802
+        },
+        "KNT_Achievement_28": {
+          "earned": true,
+          "earned_time": 1783453495
+        },
+        "KNT_Achievement_29": {
+          "earned": true,
+          "earned_time": 1783437802
+        },
+        "KNT_Achievement_30": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_31": {
+          "earned": true,
+          "earned_time": 1783454082
+        },
+        "KNT_Achievement_32": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_33": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_34": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_36": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "KNT_Achievement_37": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "3357650",
+      "info": {
+        "appid": "3357650",
+        "name": "Game 3357650",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "1": {
+          "earned": true,
+          "earned_time": 1777892120
+        },
+        "10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "12": {
+          "earned": true,
+          "earned_time": 1777892408
+        },
+        "13": {
+          "earned": true,
+          "earned_time": 1777912072
+        },
+        "14": {
+          "earned": true,
+          "earned_time": 1778776670
+        },
+        "15": {
+          "earned": true,
+          "earned_time": 1777895521
+        },
+        "16": {
+          "earned": true,
+          "earned_time": 1778775152
+        },
+        "17": {
+          "earned": true,
+          "earned_time": 1778788190
+        },
+        "18": {
+          "earned": true,
+          "earned_time": 1778789447
+        },
+        "19": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "2": {
+          "earned": true,
+          "earned_time": 1777896320
+        },
+        "20": {
+          "earned": true,
+          "earned_time": 1777910756
+        },
+        "21": {
+          "earned": true,
+          "earned_time": 1778702360
+        },
+        "22": {
+          "earned": true,
+          "earned_time": 1778774415
+        },
+        "23": {
+          "earned": true,
+          "earned_time": 1777895444
+        },
+        "24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "26": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "27": {
+          "earned": true,
+          "earned_time": 1778774430
+        },
+        "28": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "29": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "3": {
+          "earned": true,
+          "earned_time": 1778789288
+        },
+        "30": {
+          "earned": true,
+          "earned_time": 1778779458
+        },
+        "31": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "32": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "33": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "34": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "5": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "6": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "7": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "8": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "9": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
       "appid": "1281590",
       "info": {
         "appid": "1281590",
@@ -5451,6 +6266,181 @@
           "earned_time": 0
         },
         "WEARENOTALONE": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "570940",
+      "info": {
+        "appid": "570940",
+        "name": "Game 570940",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_00": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_01": {
+          "earned": true,
+          "earned_time": 1775984654
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_02": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_03": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_04": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_05": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_06": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_07": {
+          "earned": true,
+          "earned_time": 1775476357
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_08": {
+          "earned": true,
+          "earned_time": 1775730060
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_09": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_11": {
+          "earned": true,
+          "earned_time": 1775500925
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_12": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_13": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_15": {
+          "earned": true,
+          "earned_time": 1775560370
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_16": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_17": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_18": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_19": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_20": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_23": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_26": {
+          "earned": true,
+          "earned_time": 1775474362
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_27": {
+          "earned": true,
+          "earned_time": 1775475293
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28": {
+          "earned": true,
+          "earned_time": 1775475534
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_29": {
+          "earned": true,
+          "earned_time": 1775483440
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_30": {
+          "earned": true,
+          "earned_time": 1775560296
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_31": {
+          "earned": true,
+          "earned_time": 1775556059
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32": {
+          "earned": true,
+          "earned_time": 1775503079
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_33": {
+          "earned": true,
+          "earned_time": 1775728172
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_34": {
+          "earned": true,
+          "earned_time": 1775730036
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_35": {
+          "earned": true,
+          "earned_time": 1775732567
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_36": {
+          "earned": true,
+          "earned_time": 1775734259
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_37": {
+          "earned": true,
+          "earned_time": 1775734793
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_38": {
+          "earned": true,
+          "earned_time": 1775984280
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_39": {
+          "earned": true,
+          "earned_time": 1775731145
+        },
+        "ACHIEVEMENT_FRPG_ACHIEVEMENTS_40": {
           "earned": false,
           "earned_time": 0
         }
@@ -7164,6 +8154,213 @@
       }
     },
     {
+      "appid": "3751950",
+      "info": {
+        "appid": "3751950",
+        "name": "Game 3751950",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ACObsidian_Ach_1": {
+          "earned": true,
+          "earned_time": 1785175276
+        },
+        "ACObsidian_Ach_10": {
+          "earned": true,
+          "earned_time": 1784281994
+        },
+        "ACObsidian_Ach_11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_12": {
+          "earned": true,
+          "earned_time": 1784650161
+        },
+        "ACObsidian_Ach_13": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_15": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_16": {
+          "earned": true,
+          "earned_time": 1784221771
+        },
+        "ACObsidian_Ach_17": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_18": {
+          "earned": true,
+          "earned_time": 1784225136
+        },
+        "ACObsidian_Ach_19": {
+          "earned": true,
+          "earned_time": 1785013694
+        },
+        "ACObsidian_Ach_2": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_20": {
+          "earned": true,
+          "earned_time": 1784210543
+        },
+        "ACObsidian_Ach_21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_23": {
+          "earned": true,
+          "earned_time": 1784210542
+        },
+        "ACObsidian_Ach_24": {
+          "earned": true,
+          "earned_time": 1784210542
+        },
+        "ACObsidian_Ach_25": {
+          "earned": true,
+          "earned_time": 1784233739
+        },
+        "ACObsidian_Ach_26": {
+          "earned": true,
+          "earned_time": 1785002877
+        },
+        "ACObsidian_Ach_27": {
+          "earned": true,
+          "earned_time": 1785356387
+        },
+        "ACObsidian_Ach_28": {
+          "earned": true,
+          "earned_time": 1785243751
+        },
+        "ACObsidian_Ach_29": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_30": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_31": {
+          "earned": true,
+          "earned_time": 1784653704
+        },
+        "ACObsidian_Ach_32": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_33": {
+          "earned": true,
+          "earned_time": 1784210543
+        },
+        "ACObsidian_Ach_34": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_36": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_37": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_38": {
+          "earned": true,
+          "earned_time": 1784220772
+        },
+        "ACObsidian_Ach_39": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_40": {
+          "earned": true,
+          "earned_time": 1784210543
+        },
+        "ACObsidian_Ach_41": {
+          "earned": true,
+          "earned_time": 1784232344
+        },
+        "ACObsidian_Ach_42": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_43": {
+          "earned": true,
+          "earned_time": 1784838602
+        },
+        "ACObsidian_Ach_44": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_45": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_46": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_47": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_48": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_49": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_5": {
+          "earned": true,
+          "earned_time": 1784232565
+        },
+        "ACObsidian_Ach_6": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_7": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACObsidian_Ach_8": {
+          "earned": true,
+          "earned_time": 1784210543
+        },
+        "ACObsidian_Ach_9": {
+          "earned": true,
+          "earned_time": 1785008605
+        }
+      }
+    },
+    {
       "appid": "1941540",
       "info": {
         "appid": "1941540",
@@ -8743,6 +9940,189 @@
       }
     },
     {
+      "appid": "374320",
+      "info": {
+        "appid": "374320",
+        "name": "Game 374320",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ACH00": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH01": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH02": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH03": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH04": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH05": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH06": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH07": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH08": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH09": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH12": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH13": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH15": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH16": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH17": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH18": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH19": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH20": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH21": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH23": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH24": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH26": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH27": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH28": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH29": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH30": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH31": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH32": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH33": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH34": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH36": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH37": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH38": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH39": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH40": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH41": {
+          "earned": true,
+          "earned_time": 1776333332
+        },
+        "ACH42": {
+          "earned": true,
+          "earned_time": 1776334197
+        }
+      }
+    },
+    {
       "appid": "2605790",
       "info": {
         "appid": "2605790",
@@ -9064,6 +10444,57 @@
           "earned_time": 0
         },
         "WITNESS_ASCENSION": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "4121170",
+      "info": {
+        "appid": "4121170",
+        "name": "Game 4121170",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "COME_IN": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DOWN_IN_DARK": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "DRIFTER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "EAVESDROPPER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HITCHED_UP": {
+          "earned": true,
+          "earned_time": 1782751157
+        },
+        "HOLY_COW": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "OUT_OF_SIGHT": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SURVIVOR": {
+          "earned": true,
+          "earned_time": 1782763431
+        },
+        "TEXTER": {
+          "earned": true,
+          "earned_time": 1782759286
+        },
+        "WHOS_WATCHING": {
           "earned": false,
           "earned_time": 0
         }
@@ -9644,6 +11075,181 @@
       }
     },
     {
+      "appid": "3321460",
+      "info": {
+        "appid": "3321460",
+        "name": "Game 3321460",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "35": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "36": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "37": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "38": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "39": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "40": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "41": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BattlefieldWarlord": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BeastButcherer": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Bowmaster": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "BrilliantTactician": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ConfidentReturnee": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ConqueroroftheAbysses": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ExpertExplorer": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ExpertStoryteller": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "GameConqueror": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "GoldenMerchant": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "GreatWeaponMaster": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Gunmaster": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "HonorarySovereign": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "LegendaryTrainer": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "LightLeader": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "MasterCamper": {
+          "earned": true,
+          "earned_time": 1777193877
+        },
+        "MazeHunter": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "NaturalGatherer": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "NoviceAdventurer": {
+          "earned": true,
+          "earned_time": 1777193877
+        },
+        "PailuneseGuardian": {
+          "earned": true,
+          "earned_time": 1777796541
+        },
+        "PuzzleSolver": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "RapierMaster": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SceneryPilgrim": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ShadowRuler": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Shieldmaster": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "SiegeMaster": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Spearmaster": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "StarpathNavigator": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "Swordmaster": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TheUltimateWarrior": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "TowerBreaker": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UltimateHunter": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UltimateWeaponCollector": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "UnbreakableFighter": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
       "appid": "1547000",
       "info": {
         "appid": "1547000",
@@ -10108,6 +11714,128 @@
           "earned_time": 0
         },
         "ACH35": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "3722330",
+      "info": {
+        "appid": "3722330",
+        "name": "Game 3722330",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ACH_EMPTY_HOME": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_FIRST_BLOOD": {
+          "earned": true,
+          "earned_time": 1785254955
+        },
+        "ACH_FREED": {
+          "earned": true,
+          "earned_time": 1785263761
+        },
+        "ACH_GRAVE_DECISION": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_LAST_PERFORMANCE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_LOCKED_AND_LOADED": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_RELENTLESS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_SILENCED": {
+          "earned": true,
+          "earned_time": 1785259032
+        },
+        "ACH_STILL_BREATHING": {
+          "earned": true,
+          "earned_time": 1785256480
+        },
+        "ACH_TRUE_ENDING": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "4108000",
+      "info": {
+        "appid": "4108000",
+        "name": "Game 4108000",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ACH_01": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_02": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_03": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_04": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_05": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_06": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_07": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_08": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_09": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_10": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_11": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_12": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_13": {
+          "earned": true,
+          "earned_time": 1786118137
+        },
+        "ACH_14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_15": {
           "earned": false,
           "earned_time": 0
         }
@@ -11124,6 +12852,281 @@
           "earned_time": 0
         },
         "TLOTF_ACHIEVEMENT_087": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "4115450",
+      "info": {
+        "appid": "4115450",
+        "name": "Game 4115450",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ACH_001": {
+          "earned": true,
+          "earned_time": 1793701998
+        },
+        "ACH_002": {
+          "earned": true,
+          "earned_time": 1794079054
+        },
+        "ACH_003": {
+          "earned": true,
+          "earned_time": 1794589364
+        },
+        "ACH_004": {
+          "earned": true,
+          "earned_time": 1794658830
+        },
+        "ACH_005": {
+          "earned": true,
+          "earned_time": 1794768471
+        },
+        "ACH_006": {
+          "earned": true,
+          "earned_time": 1794938315
+        },
+        "ACH_007": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_008": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_009": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_010": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_011": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_012": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_013": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_014": {
+          "earned": true,
+          "earned_time": 1794077579
+        },
+        "ACH_015": {
+          "earned": true,
+          "earned_time": 1794082022
+        },
+        "ACH_016": {
+          "earned": true,
+          "earned_time": 1794419379
+        },
+        "ACH_017": {
+          "earned": true,
+          "earned_time": 1794591537
+        },
+        "ACH_018": {
+          "earned": true,
+          "earned_time": 1794658609
+        },
+        "ACH_019": {
+          "earned": true,
+          "earned_time": 1794766694
+        },
+        "ACH_020": {
+          "earned": true,
+          "earned_time": 1795711185
+        },
+        "ACH_021": {
+          "earned": true,
+          "earned_time": 1795722900
+        },
+        "ACH_022": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_023": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_024": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_025": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_026": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_027": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_028": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_029": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_030": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_031": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_032": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_033": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_034": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_035": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_036": {
+          "earned": true,
+          "earned_time": 1794857113
+        },
+        "ACH_037": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_038": {
+          "earned": true,
+          "earned_time": 1795542560
+        },
+        "ACH_039": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_040": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_041": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_042": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_043": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_044": {
+          "earned": true,
+          "earned_time": 1794764609
+        },
+        "ACH_045": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_046": {
+          "earned": true,
+          "earned_time": 1795378504
+        },
+        "ACH_047": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_048": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_049": {
+          "earned": true,
+          "earned_time": 1793994762
+        },
+        "ACH_050": {
+          "earned": true,
+          "earned_time": 1794644646
+        },
+        "ACH_051": {
+          "earned": true,
+          "earned_time": 1793994601
+        },
+        "ACH_052": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_053": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_054": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_055": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_056": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_057": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_058": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_059": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_060": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_061": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_062": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_063": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_064": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_065": {
+          "earned": true,
+          "earned_time": 1794764873
+        },
+        "ACH_066": {
           "earned": false,
           "earned_time": 0
         }
@@ -12974,6 +14977,237 @@
           "earned_time": 0
         },
         "Skill_Zet": {
+          "earned": false,
+          "earned_time": 0
+        }
+      }
+    },
+    {
+      "appid": "3892270",
+      "info": {
+        "appid": "3892270",
+        "name": "Game 3892270",
+        "icon": "",
+        "achievements": {}
+      },
+      "achievements": {
+        "ACH_CHA_F1_BIGSPENDER": {
+          "earned": true,
+          "earned_time": 1779052816
+        },
+        "ACH_CHA_F1_BLACKJACK": {
+          "earned": true,
+          "earned_time": 1779051548
+        },
+        "ACH_CHA_F1_BLACKJACK2": {
+          "earned": true,
+          "earned_time": 1779043743
+        },
+        "ACH_CHA_F1_CRAPS": {
+          "earned": true,
+          "earned_time": 1779050398
+        },
+        "ACH_CHA_F1_DUCKRACE": {
+          "earned": true,
+          "earned_time": 1779052224
+        },
+        "ACH_CHA_F1_HIGHROLLER": {
+          "earned": true,
+          "earned_time": 1779044445
+        },
+        "ACH_CHA_F1_LUCKYSTREAK": {
+          "earned": true,
+          "earned_time": 1779053278
+        },
+        "ACH_CHA_F1_ROULETTE": {
+          "earned": true,
+          "earned_time": 1779053451
+        },
+        "ACH_CHA_F1_SLOTS": {
+          "earned": true,
+          "earned_time": 1779044154
+        },
+        "ACH_CHA_F1_WHEELOFFORTUNE": {
+          "earned": true,
+          "earned_time": 1779052443
+        },
+        "ACH_CHA_F2_BIGSPENDER2": {
+          "earned": true,
+          "earned_time": 1779047258
+        },
+        "ACH_CHA_F2_CRASH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F2_CROSSYROAD": {
+          "earned": true,
+          "earned_time": 1779045908
+        },
+        "ACH_CHA_F2_DICE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F2_HIGHROLLER2": {
+          "earned": true,
+          "earned_time": 1779047008
+        },
+        "ACH_CHA_F2_KENO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F2_LUCKYSTREAK2": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F2_MONEYWHEEL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F2_PLINKO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_BIGSPENDER3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_CRAPS": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_CROSSYROAD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_DICE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_DRAGONTOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_HIGHROLLER3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_LUCKYSTREAK3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_MINESWEEPER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_POKER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F3_WHEELOFFORTUNE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_BIGSPENDER4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_BLACKJACK": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_CRASH": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_CROSSYROAD": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_DRAGONTOWER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_DUCKRACE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_HIGHROLLER4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_KENO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_LUCKYSTREAK4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_MINESWEEPER": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_MONEYWHEEL": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_PLINKO": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_CHA_F4_ROULETTE": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ENDING_COINFLIP_LOST": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ENDING_COINFLIP_WON": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_ENDING_DEBT_PAID": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MISC_GETHELP": {
+          "earned": true,
+          "earned_time": 1779050184
+        },
+        "ACH_MISC_NOTOGAMBLE": {
+          "earned": true,
+          "earned_time": 1779052224
+        },
+        "ACH_MISC_PEAK": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MISC_YESTOGAMBLELOSE": {
+          "earned": true,
+          "earned_time": 1778963877
+        },
+        "ACH_MISC_YESTOGAMBLEWIN": {
+          "earned": true,
+          "earned_time": 1779042603
+        },
+        "ACH_MONEY_100B": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MONEY_100M": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MONEY_10B": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MONEY_10M": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACH_MONEY_1B": {
           "earned": false,
           "earned_time": 0
         }
