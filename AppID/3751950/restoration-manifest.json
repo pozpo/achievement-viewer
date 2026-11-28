@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "appId": "3751950",
   "achievementFormat": "json",
-  "achievementSourcePath": null,
-  "achievementSourceName": null,
+  "achievementSourcePath": "%LOCALAPPDATA%\\AchievementSync\\metadata\\3751950\\achievements.json",
+  "achievementSourceName": "achievements.json",
   "saves": [
     {
       "rootKey": "native-appdata-roaming",
