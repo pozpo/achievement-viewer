@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-local-rivals2",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Rivals2_EmoteSaveSlot.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\SaveGames\\Rivals2_EmoteSaveSlot.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/SaveGames/Rivals2_EmoteSaveSlot.sav",
+      "size": 2351,
+      "sha256": "5A9F69FF7E8A971DB0091A1FBA3ECFC47970CA52EAEE3E22C4FABDDC8D797997"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Rivals2_PlayerTagSaveSlot.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\SaveGames\\Rivals2_PlayerTagSaveSlot.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/SaveGames/Rivals2_PlayerTagSaveSlot.sav",
+      "size": 2548848,
+      "sha256": "0C03C30EA0A085197569CDB5433990257D7555A27258AB5BC9C96013F26984A8"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Rivals2_PlayerTagSaveSlot_BACKUP.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\SaveGames\\Rivals2_PlayerTagSaveSlot_BACKUP.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/SaveGames/Rivals2_PlayerTagSaveSlot_BACKUP.sav",
+      "size": 1594,
+      "sha256": "6A9C8C013EB0DC671E4F1FBD04B1CB6954E9E13071603704D9799EFAF42F3280"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Rivals2_SaveSlot_V1.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\SaveGames\\Rivals2_SaveSlot_V1.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/SaveGames/Rivals2_SaveSlot_V1.sav",
+      "size": 3173,
+      "sha256": "063E308F63CE3B0103E2E97E0AE93DFE96FAC68AAA3FEEF41C0C1CA632624AE8"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Rivals2_StatsSaveSlot.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\SaveGames\\Rivals2_StatsSaveSlot.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/SaveGames/Rivals2_StatsSaveSlot.sav",
+      "size": 70644,
+      "sha256": "BAE6BC2A286F633807D8AE63CD680A44D2A57E7C7D144F4DD885B79A684CDCFD"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Training.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\SaveGames\\Training.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/SaveGames/Training.sav",
+      "size": 1593,
+      "sha256": "2C7EF8367D0D60F31048CBAB497E75D7AF298F77FEAB10B942F6088EAA2AE37D"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Tutorial.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\SaveGames\\Tutorial.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/SaveGames/Tutorial.sav",
+      "size": 1833,
+      "sha256": "90EA9258B575588D2D2B0E46766252888EE22F7166C04F2E4A2A982D75865EE9"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SavedInventories\\steam_76561199548635648\\EncryptedInventoryData.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\SavedInventories\\steam_76561199548635648\\EncryptedInventoryData.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/SavedInventories/steam_76561199548635648/EncryptedInventoryData.sav",
+      "size": 32,
+      "sha256": "7A571FCC68868AB8BE53A68F35918CBD7B73CA85FAC8A8BF738079E2EFC7B265"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\StagePreferences\\Rivals2_StagePreferencesSaveSlot.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Rivals2\\Saved\\StagePreferences\\Rivals2_StagePreferencesSaveSlot.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/Rivals2/save/Saved/StagePreferences/Rivals2_StagePreferencesSaveSlot.sav",
+      "size": 2959,
+      "sha256": "61F157B5178BCE76B70AEC4834077A18E44D2A64D868E3AF10903EB76F83AD96"
+    }
+  ],
+  "repositoryFolder": "AppID/_platforms/Native/native-appdata-local/Rivals2"
+}
