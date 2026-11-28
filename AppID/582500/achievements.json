@@ -1,0 +1,106 @@
+{
+  "CHESS_PUZZLE_ROAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CHESS_PUZZLE_STUDY": {
+    "earned": true,
+    "earned_time": 1786036334
+  },
+  "DUNGEON_PUZZLE_ROAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DUNGEON_PUZZLE_STUDY": {
+    "earned": true,
+    "earned_time": 1786033896
+  },
+  "ENDING_ESCAPED_ALONE": {
+    "earned": true,
+    "earned_time": 1786047718
+  },
+  "ENDING_STAYED_BEHIND": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EYES_PUZZLE_ROAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EYES_PUZZLE_STUDY": {
+    "earned": true,
+    "earned_time": 1786031235
+  },
+  "INVITE_A_FRIEND": {
+    "earned": true,
+    "earned_time": 1786045949
+  },
+  "PAINTING_PUZZLE_ROAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PAINTING_PUZZLE_STUDY": {
+    "earned": true,
+    "earned_time": 1786031586
+  },
+  "PERFECT_PLAYTHROUGH": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PERFECT_PLAY_CHESS_PUZZLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PERFECT_PLAY_DUNGEON_PUZZLE": {
+    "earned": true,
+    "earned_time": 1786033896
+  },
+  "PERFECT_PLAY_EYES_PUZZLE": {
+    "earned": true,
+    "earned_time": 1786031235
+  },
+  "PERFECT_PLAY_PAINTING_PUZZLE": {
+    "earned": true,
+    "earned_time": 1786031586
+  },
+  "PERFECT_PLAY_SPIKE_PUZZLE": {
+    "earned": true,
+    "earned_time": 1786046574
+  },
+  "PERFECT_PLAY_THEATER_PUZZLE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "PERFECT_PLAY_WATER_PUZZLE": {
+    "earned": true,
+    "earned_time": 1786032237
+  },
+  "RED_LEVER_EASTER_EGG": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPIKE_PUZZLE_ROAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPIKE_PUZZLE_STUDY": {
+    "earned": true,
+    "earned_time": 1786037347
+  },
+  "THEATER_PUZZLE_ROAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "THEATER_PUZZLE_STUDY": {
+    "earned": true,
+    "earned_time": 1786047658
+  },
+  "WATER_PUZZLE_ROAM": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "WATER_PUZZLE_STUDY": {
+    "earned": true,
+    "earned_time": 1786032237
+  }
+}
