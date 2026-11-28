@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "appId": "4108000",
+  "achievementFormat": "json",
+  "achievementSourcePath": "%LOCALAPPDATA%\\AchievementSync\\metadata\\4108000\\achievements.json",
+  "achievementSourceName": "achievements.json",
+  "saves": [],
+  "repositoryFolder": "AppID/4108000"
+}
