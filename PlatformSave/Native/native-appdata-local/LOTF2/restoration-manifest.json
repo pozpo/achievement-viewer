@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-local-lotf2",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\PersistentDownloadDir\\EOSCache\\datastorage\\f2d5f78997994c9891b8f23d962be28e\\00022cdfb9ac415288c5016a0c68a3ec\\__EOS__\\PDSFriends.db",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\PersistentDownloadDir\\EOSCache\\datastorage\\f2d5f78997994c9891b8f23d962be28e\\00022cdfb9ac415288c5016a0c68a3ec\\__EOS__\\PDSFriends.db",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/PersistentDownloadDir/EOSCache/datastorage/f2d5f78997994c9891b8f23d962be28e/00022cdfb9ac415288c5016a0c68a3ec/__EOS__/PDSFriends.db",
+      "size": 424,
+      "sha256": "A8A7420F83F72EE07DC9532B65B463B9254E312B4414A85B22AFBE2A27D9E3DC"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\GeneralSave.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\SaveGames\\GeneralSave.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/SaveGames/GeneralSave.sav",
+      "size": 4691,
+      "sha256": "0C23CECA8752B6A034E4067FA873E692A8B15C3D894EDCC510FE72325EEDA973"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\GeneralSave_b1.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\SaveGames\\GeneralSave_b1.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/SaveGames/GeneralSave_b1.sav",
+      "size": 4690,
+      "sha256": "CF1270DD489E67D77795BC582935F443D32BF253A9DE8B1F5FDBF003A4E9CB30"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\GeneralSave_b2.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\SaveGames\\GeneralSave_b2.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/SaveGames/GeneralSave_b2.sav",
+      "size": 4697,
+      "sha256": "A9FC6244E8BF4C1ED1C43F1A16EE5EC2FD779D40487194487BD792EF072E95F3"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Photo00.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\SaveGames\\Photo00.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/SaveGames/Photo00.sav",
+      "size": 2260939,
+      "sha256": "785F2BF39235B6877C5C9ABFFB4FCF5B76BD3029E1CE64501BF27899FF1B28A2"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Photo01.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\SaveGames\\Photo01.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/SaveGames/Photo01.sav",
+      "size": 3233802,
+      "sha256": "5F114ED261B57240A6FA1820303B13E605B78B6415DA8C39A24FBBF5A767BCC1"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Save00.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\SaveGames\\Save00.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/SaveGames/Save00.sav",
+      "size": 2502401,
+      "sha256": "4F1EFC37936A9164DB0A70AB4A78784EC3E3D814D897827E4FEB35BF6C8456D9"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Save00_b1.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\SaveGames\\Save00_b1.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/SaveGames/Save00_b1.sav",
+      "size": 2502369,
+      "sha256": "5D05C11EF71BD09F7B87644A021788A879B6199D5422EE1ADEED9F461E03D9E6"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Save00_b2.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LOTF2\\Saved\\SaveGames\\Save00_b2.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/LOTF2/save/Saved/SaveGames/Save00_b2.sav",
+      "size": 33841,
+      "sha256": "D18F7FE6F400BAABE33623BC375A7C0FC7BE020DEB3DF805675FD4592CB65C0E"
+    }
+  ],
+  "repositoryFolder": "PlatformSave/Native/native-appdata-local/LOTF2"
+}
