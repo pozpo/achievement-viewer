@@ -1,0 +1,70 @@
+{
+  "BuildBase": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BuildCyclops": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BuildExosuit": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BuildSeamoth": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CureInfection": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DeployTimeCapsule": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DiveForTheVeryFirstTime": {
+    "earned": true,
+    "earned_time": 1678505231
+  },
+  "FindDegasiDeepGrandReefBase": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindDegasiFloatingIslandsBase": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindDegasiJellyshroomCavesBase": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindPrecursorGun": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindPrecursorLavaCastleFacility": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindPrecursorLostRiverFacility": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindPrecursorPrisonFacility": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "HatchCutefish": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "LaunchRocket": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "RepairAuroraReactor": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
