@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-local-newmoon",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Steam\\76561197960287930\\DefaultSaveGame.sav",
+      "sourcePath": "%LOCALAPPDATA%\\NewMoon\\Saved\\SaveGames\\Steam\\76561197960287930\\DefaultSaveGame.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/NewMoon/save/Saved/SaveGames/Steam/76561197960287930/DefaultSaveGame.sav",
+      "size": 4081005,
+      "sha256": "AC1B1C3AF6D9548146AB4A4214377A040E5CED1E31FA9AF18FE31607D0BE2E34"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\Steam\\76561197960287930\\SharedGameSettings.sav",
+      "sourcePath": "%LOCALAPPDATA%\\NewMoon\\Saved\\SaveGames\\Steam\\76561197960287930\\SharedGameSettings.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/NewMoon/save/Saved/SaveGames/Steam/76561197960287930/SharedGameSettings.sav",
+      "size": 2091,
+      "sha256": "D1C69B48B4A3FD324CEF8C04DA67EABB591618B8EBB5BB7DA3A1401F1D2A163B"
+    }
+  ],
+  "repositoryFolder": "AppID/_platforms/Native/native-appdata-local/NewMoon"
+}
