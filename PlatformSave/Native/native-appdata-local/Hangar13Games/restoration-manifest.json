@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-local-hangar13games",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Mafia The Old Country\\SaveGames\\76561199885609379\\Collectibles.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Hangar 13 Games\\Mafia The Old Country\\SaveGames\\76561199885609379\\Collectibles.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/Hangar13Games/save/Mafia The Old Country/SaveGames/76561199885609379/Collectibles.sav",
+      "size": 29554,
+      "sha256": "3C3B1D90FC0F605AA7498126493C9559E6921BA2D6E9AA65C55D3C662B5F270A"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Mafia The Old Country\\SaveGames\\76561199885609379\\FreerideProgression.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Hangar 13 Games\\Mafia The Old Country\\SaveGames\\76561199885609379\\FreerideProgression.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/Hangar13Games/save/Mafia The Old Country/SaveGames/76561199885609379/FreerideProgression.sav",
+      "size": 2585,
+      "sha256": "D6A39D1C00D20A92D0E9E514B438BD9BE492B4DA95CFD9CC7AACECEF30F57D14"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Mafia The Old Country\\SaveGames\\76561199885609379\\StoryProgression.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Hangar 13 Games\\Mafia The Old Country\\SaveGames\\76561199885609379\\StoryProgression.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/Hangar13Games/save/Mafia The Old Country/SaveGames/76561199885609379/StoryProgression.sav",
+      "size": 95880,
+      "sha256": "FA0BD830F3C38BF58B8305F0C26A2C6D2A997B5986911DAFCBEB7147FED4BD9E"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Mafia The Old Country\\SaveGames\\76561199885609379\\UI.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Hangar 13 Games\\Mafia The Old Country\\SaveGames\\76561199885609379\\UI.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/Hangar13Games/save/Mafia The Old Country/SaveGames/76561199885609379/UI.sav",
+      "size": 6050,
+      "sha256": "AE49DD83DB54637931C9970A953FCA9EB1F4D4521785E1D977BA97E28D490B9F"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Mafia The Old Country\\SaveGames\\76561199885609379\\UserSettings.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Hangar 13 Games\\Mafia The Old Country\\SaveGames\\76561199885609379\\UserSettings.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/Hangar13Games/save/Mafia The Old Country/SaveGames/76561199885609379/UserSettings.sav",
+      "size": 14497,
+      "sha256": "ACC6CDF982C0D7EDC255F9540F547995E2D51A7F5EC05DE73F828BF7668A8B83"
+    }
+  ],
+  "repositoryFolder": "PlatformSave/Native/native-appdata-local/Hangar13Games"
+}
