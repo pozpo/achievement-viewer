@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-roaming-renpy",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-1-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-1-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-1-LT1.save",
+      "size": 186993,
+      "sha256": "FFDD8C1E4F9C810B60936EDD8217D2BB6BE52B0FC5250339B9C4CFEFF433E842"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-10-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-10-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-10-LT1.save",
+      "size": 194792,
+      "sha256": "DB6BCDE182781B9C52C5849576F3C01185FDB2BDB74EADEA56169AC0F59A72A2"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-2-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-2-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-2-LT1.save",
+      "size": 186891,
+      "sha256": "80ADA4D7682BA0E1C504215798C8F4077C34883B9AA1AD9F17AFBE9ED319BF92"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-3-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-3-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-3-LT1.save",
+      "size": 147174,
+      "sha256": "13A592D65E5D3D2DC6DA27B24F3B9BFEEC8F92931619554E1617C82C8D7C492B"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-4-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-4-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-4-LT1.save",
+      "size": 174147,
+      "sha256": "DEDB48744DD0D5580DBADBAD7036D249E4335F5795C1CE8527C7151545D45523"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-5-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-5-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-5-LT1.save",
+      "size": 178960,
+      "sha256": "57002DBB1722AB714DDAFBA567CE09E030928D652444A46003D5E125147160AA"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-6-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-6-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-6-LT1.save",
+      "size": 178968,
+      "sha256": "0B5DF396E0C7214E0E3F817315B0493258110E158D9B63EA4622BE93D5C6CEDB"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-7-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-7-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-7-LT1.save",
+      "size": 177808,
+      "sha256": "AAD7A696D19F181A694CD14B39675F4A500B3A11FABE0F2EA8CF7CEA3EEFB4AF"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-8-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-8-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-8-LT1.save",
+      "size": 177851,
+      "sha256": "456DE921FE0C6DBBFCED09925E4158B209519737968DFD5D9C5CE4BFAF6B6EDC"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\auto-9-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\auto-9-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/auto-9-LT1.save",
+      "size": 178785,
+      "sha256": "AA59045CDE7D73F828E4A881FEEE2CA673588706FC56F8C069C2322BAB9EED78"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\quick-1-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\quick-1-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/quick-1-LT1.save",
+      "size": 193756,
+      "sha256": "C9AB57A8AFEB76D3EC964FBB7946B89810B72FF573527314D6B9AD30CC19A12A"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\quick-2-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\quick-2-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/quick-2-LT1.save",
+      "size": 179890,
+      "sha256": "40C0364C6A4398E923FF63F845E9790BA0EBE96F009873360074FCF0E42BEEDD"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\quick-3-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\quick-3-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/quick-3-LT1.save",
+      "size": 175594,
+      "sha256": "8023347E0590A15B95746030898BAB1C1910A53DC10674ED268803DDEDE69C60"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\quick-4-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\quick-4-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/quick-4-LT1.save",
+      "size": 186508,
+      "sha256": "D3E592978DFEE6A7A3AFC57303E1778AC9E17CE05FE59930511EE1E7AA350C11"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\quick-5-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\quick-5-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/quick-5-LT1.save",
+      "size": 155629,
+      "sha256": "6163F0BD1B55DA5DE795982D319C2EA6BCCA8142572E4C3DF05D0AEA01045CD2"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\quick-6-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\quick-6-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/quick-6-LT1.save",
+      "size": 186982,
+      "sha256": "9EBD032C6404DECB0E7B6C81BE65D57BD20A1762D1CFEBDF807DAB630ED5FF3B"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-1-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-1-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-1-LT1.save",
+      "size": 186993,
+      "sha256": "FFDD8C1E4F9C810B60936EDD8217D2BB6BE52B0FC5250339B9C4CFEFF433E842"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-10-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-10-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-10-LT1.save",
+      "size": 194792,
+      "sha256": "DB6BCDE182781B9C52C5849576F3C01185FDB2BDB74EADEA56169AC0F59A72A2"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-2-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-2-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-2-LT1.save",
+      "size": 186891,
+      "sha256": "80ADA4D7682BA0E1C504215798C8F4077C34883B9AA1AD9F17AFBE9ED319BF92"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-3-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-3-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-3-LT1.save",
+      "size": 147174,
+      "sha256": "13A592D65E5D3D2DC6DA27B24F3B9BFEEC8F92931619554E1617C82C8D7C492B"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-4-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-4-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-4-LT1.save",
+      "size": 174147,
+      "sha256": "DEDB48744DD0D5580DBADBAD7036D249E4335F5795C1CE8527C7151545D45523"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-5-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-5-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-5-LT1.save",
+      "size": 178960,
+      "sha256": "57002DBB1722AB714DDAFBA567CE09E030928D652444A46003D5E125147160AA"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-6-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-6-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-6-LT1.save",
+      "size": 178968,
+      "sha256": "0B5DF396E0C7214E0E3F817315B0493258110E158D9B63EA4622BE93D5C6CEDB"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-7-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-7-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-7-LT1.save",
+      "size": 177808,
+      "sha256": "AAD7A696D19F181A694CD14B39675F4A500B3A11FABE0F2EA8CF7CEA3EEFB4AF"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-8-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-8-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-8-LT1.save",
+      "size": 177851,
+      "sha256": "456DE921FE0C6DBBFCED09925E4158B209519737968DFD5D9C5CE4BFAF6B6EDC"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\auto-9-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\auto-9-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/auto-9-LT1.save",
+      "size": 178785,
+      "sha256": "AA59045CDE7D73F828E4A881FEEE2CA673588706FC56F8C069C2322BAB9EED78"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\quick-1-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\quick-1-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/quick-1-LT1.save",
+      "size": 193756,
+      "sha256": "C9AB57A8AFEB76D3EC964FBB7946B89810B72FF573527314D6B9AD30CC19A12A"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\quick-2-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\quick-2-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/quick-2-LT1.save",
+      "size": 179890,
+      "sha256": "40C0364C6A4398E923FF63F845E9790BA0EBE96F009873360074FCF0E42BEEDD"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\quick-3-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\quick-3-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/quick-3-LT1.save",
+      "size": 175594,
+      "sha256": "8023347E0590A15B95746030898BAB1C1910A53DC10674ED268803DDEDE69C60"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\quick-4-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\quick-4-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/quick-4-LT1.save",
+      "size": 186508,
+      "sha256": "D3E592978DFEE6A7A3AFC57303E1778AC9E17CE05FE59930511EE1E7AA350C11"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\quick-5-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\quick-5-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/quick-5-LT1.save",
+      "size": 155629,
+      "sha256": "6163F0BD1B55DA5DE795982D319C2EA6BCCA8142572E4C3DF05D0AEA01045CD2"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "NoMercySteam\\sync\\quick-6-LT1.save",
+      "sourcePath": "%APPDATA%\\RenPy\\NoMercySteam\\sync\\quick-6-LT1.save",
+      "repoPath": "PlatformSave/Native/native-appdata-roaming/RenPy/save/NoMercySteam/sync/quick-6-LT1.save",
+      "size": 186982,
+      "sha256": "9EBD032C6404DECB0E7B6C81BE65D57BD20A1762D1CFEBDF807DAB630ED5FF3B"
+    }
+  ],
+  "repositoryFolder": "PlatformSave/Native/native-appdata-roaming/RenPy"
+}
