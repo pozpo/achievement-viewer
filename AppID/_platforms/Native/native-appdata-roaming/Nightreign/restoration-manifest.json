@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-roaming-nightreign",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "76561199548635648\\NR0000.co2",
+      "sourcePath": "%APPDATA%\\Nightreign\\76561199548635648\\NR0000.co2",
+      "repoPath": "AppID/_platforms/Native/native-appdata-roaming/Nightreign/save/76561199548635648/NR0000.co2",
+      "size": 19531312,
+      "sha256": "F0143F9AE438646321756514DD443E410ECFD37EA47398D688A9972325DE32C6"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
+      "relativePath": "76561199548635648\\NR0000.co2.bak",
+      "sourcePath": "%APPDATA%\\Nightreign\\76561199548635648\\NR0000.co2.bak",
+      "repoPath": "AppID/_platforms/Native/native-appdata-roaming/Nightreign/save/76561199548635648/NR0000.co2.bak",
+      "size": 19531312,
+      "sha256": "F0143F9AE438646321756514DD443E410ECFD37EA47398D688A9972325DE32C6"
+    }
+  ],
+  "repositoryFolder": "AppID/_platforms/Native/native-appdata-roaming/Nightreign"
+}
