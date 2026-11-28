@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-local-pyramid",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\PlayerSettingsSlot.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Pyramid\\Saved\\SaveGames\\PlayerSettingsSlot.sav",
+      "repoPath": "PlatformSave/Native/native-appdata-local/Pyramid/save/Saved/SaveGames/PlayerSettingsSlot.sav",
+      "size": 20584,
+      "sha256": "7D57D22BE38B92B50889C3284E8D9108ED5A6C24D02C834B179F88335185C7B8"
+    }
+  ],
+  "repositoryFolder": "PlatformSave/Native/native-appdata-local/Pyramid"
+}
