@@ -15,6 +15,14 @@
     },
     {
       "rootKey": "native-appdata-roaming",
+      "relativePath": "76561199023125438\\ER0000.co2.bak",
+      "sourcePath": "%APPDATA%\\EldenRing\\76561199023125438\\ER0000.co2.bak",
+      "repoPath": "AppID/1245620/save/native-appdata-roaming/76561199023125438/ER0000.co2.bak",
+      "size": 28967888,
+      "sha256": "B260FBBDD6251C85365FF83A95A19A9432E198CBC16B562E3EA8875027BF840B"
+    },
+    {
+      "rootKey": "native-appdata-roaming",
       "relativePath": "76561199023125439\\ER0000.co2",
       "sourcePath": "%APPDATA%\\EldenRing\\76561199023125439\\ER0000.co2",
       "repoPath": "AppID/1245620/save/native-appdata-roaming/76561199023125439/ER0000.co2",
