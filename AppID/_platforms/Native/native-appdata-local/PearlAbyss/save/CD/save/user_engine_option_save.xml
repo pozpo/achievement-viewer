@@ -1,0 +1,45 @@
+<EngineOptionSave ReflectObjectXMLDataVersion="9" _selectPreset="Cinematic">
+	<EngineOption Name="_option" Template="/OS_M_Windows::Cinematic.engineoption" _check__videoOption="True" _check__resolutionOption="True" _check__graphicsOption="True" _check__controlsOption="True" _check__audioOption="True" _check__languageOption="True">
+		<EngineOptionVideo Name="_videoOption" Template="/OS_M_Windows::Default.engineoptionvideo">
+			<OptionBool Name="_enableFrameGeneration" _localStr="NVIDIA DLSS Frame Generation" _value="True"/>
+			<OptionStringVector Name="_numFramesToGenerate" _value="2">
+				<Vector Name="_enableGroup" IdBase="444" isOverrided="true">
+					<removedElements count="3">
+						<elementId value="189741761184137216"/>
+						<elementId value="189741766169067521"/>
+						<elementId value="189741769093545986"/>
+					</removedElements>
+					<OptionStringElement ItemID="1865077802332586428" _value="2" _useValueAsStr="True"/>
+				</Vector>
+			</OptionStringVector>
+			<OptionBool Name="_enableNvidiaReflex" _value="True"/>
+			<OptionBool Name="_isLinkZoomDistanceRateWithFov" _value="False"/>
+			<OptionBool Name="_chromaticAberration" _value="False"/>
+			<OptionStringVector Name="_enableVsync" _value="Off"/>
+		</EngineOptionVideo>
+		<EngineOptionResolution Name="_resolutionOption" Template="/OS_M_Windows::Default.engineoptionresolution">
+			<OptionStringVector Name="_upscaleModeSelect" _value="NVIDIA DLSS 4.5 L"/>
+			<EnumSelectResolutionScale Name="_upscaleResolution" _select="59%">
+				<Vector Name="_modeGroup" isOverrided="false">
+					<EnumOptionResolutionScale _localStr="UI_GameSetting_Common_Unuse"/>
+					<EnumOptionResolutionScale _mode="AA" _localStr="UI_GameSetting_Render_UpscaleResolution_DLAA" _descLocalStr="UI_GameSetting_Render_UpscaleResolution_NativeAADesc"/>
+					<EnumOptionResolutionScale _mode="67%" _localStr="UI_GameSetting_Render_UpscaleResolution_Quality" _descLocalStr="UI_GameSetting_Render_UpscaleResolution_QualityDesc"/>
+					<EnumOptionResolutionScale _mode="59%" _localStr="UI_GameSetting_Render_UpscaleResolution_Balanced" _descLocalStr="UI_GameSetting_Render_UpscaleResolution_BalancedDesc"/>
+					<EnumOptionResolutionScale _mode="50%" _localStr="UI_GameSetting_Render_UpscaleResolution_Performance" _descLocalStr="UI_GameSetting_Render_UpscaleResolution_PerformanceDesc"/>
+					<EnumOptionResolutionScale _mode="33%" _localStr="UI_GameSetting_Render_UpscaleResolution_UltraPerformance" _descLocalStr="UI_GameSetting_Render_UpscaleResolution_UltraPerformanceDesc"/>
+				</Vector>
+			</EnumSelectResolutionScale>
+		</EngineOptionResolution>
+		<EngineOptionControls Name="_controlsOption">
+			<EnumSelectKeyboardMousePresetOptionType Name="_keyboardMousePresetOptionType" _select="A"/>
+		</EngineOptionControls>
+		<EngineOptionLanguage Name="_languageOption">
+			<OptionBool Name="_enableWorldObserverView" _value="False"/>
+			<EnumSelectShowPlayerCharacterHelmType Name="_showPlayerCharacterHelmType" _select="HideOnCutScenes"/>
+			<EnumSelectShowPlayerCharacterMeleeWeaponType Name="_showPlayerCharacterMeleeWeaponType" _select="ShowSelected"/>
+			<EnumSelectShowPlayerCharacterRangedWeaponType Name="_showPlayerCharacterRangedWeaponType" _select="ShowSelected"/>
+		</EngineOptionLanguage>
+	</EngineOption>
+	<EngineOptionSaveVersion Name="_version" _minor="1" _patch="1"/>
+</EngineOptionSave>
+
