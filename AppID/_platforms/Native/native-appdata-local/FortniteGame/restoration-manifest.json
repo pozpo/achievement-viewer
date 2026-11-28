@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-local-fortnitegame",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\Cloud\\bf8efdcf82404a1b9d65f3f9fe6c7de0\\ClientSettings.Sav",
+      "sourcePath": "%LOCALAPPDATA%\\FortniteGame\\Saved\\Cloud\\bf8efdcf82404a1b9d65f3f9fe6c7de0\\ClientSettings.Sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/FortniteGame/save/Saved/Cloud/bf8efdcf82404a1b9d65f3f9fe6c7de0/ClientSettings.Sav",
+      "size": 14388,
+      "sha256": "6B211D4D9E55AD627A156EA1DDBFBAEDEBD77816CDBCA2648ADE1D78B7A6DAC3"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\LMS\\Manifest.sav",
+      "sourcePath": "%LOCALAPPDATA%\\FortniteGame\\Saved\\LMS\\Manifest.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/FortniteGame/save/Saved/LMS/Manifest.sav",
+      "size": 1286,
+      "sha256": "C15F77D5930940D088E37F4AFAF90A640DB059A7132D63426A1A0492675E8533"
+    }
+  ],
+  "repositoryFolder": "AppID/_platforms/Native/native-appdata-local/FortniteGame"
+}
