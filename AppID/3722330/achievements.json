@@ -1,0 +1,42 @@
+{
+  "ACH_EMPTY_HOME": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_FIRST_BLOOD": {
+    "earned": true,
+    "earned_time": 1785254955
+  },
+  "ACH_FREED": {
+    "earned": true,
+    "earned_time": 1785263761
+  },
+  "ACH_GRAVE_DECISION": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LAST_PERFORMANCE": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_LOCKED_AND_LOADED": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_RELENTLESS": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ACH_SILENCED": {
+    "earned": true,
+    "earned_time": 1785259032
+  },
+  "ACH_STILL_BREATHING": {
+    "earned": true,
+    "earned_time": 1785256480
+  },
+  "ACH_TRUE_ENDING": {
+    "earned": false,
+    "earned_time": 0
+  }
+}
