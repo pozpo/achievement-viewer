@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "appId": "1742230",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_25_23_56_2.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_25_23_56_2.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_25_23_56_2.sav",
+      "size": 60214,
+      "sha256": "E2DFC91F368158029F642CA4669AA7493F26F33C372001B6A550408DD49D74A7"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_17_22.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_17_22.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_26_0_17_22.sav",
+      "size": 66629,
+      "sha256": "CC9413456AC3117FD30DE3F08B4A44A283D2DA25CC2DB2150DD06FBE4BF678F6"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_25_14.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_25_14.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_26_0_25_14.sav",
+      "size": 67066,
+      "sha256": "707DF850CD4F067A5E288F5FD20A824F923C29EAD3EC2C558017D0580BA364C5"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_39_33.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_39_33.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_26_0_39_33.sav",
+      "size": 64261,
+      "sha256": "BBDEFADAC99B7BC29A8779B94A02BDD0A14E57259F2E732F0EEF9E58CC5DECAB"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_47_28.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_47_28.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_26_0_47_28.sav",
+      "size": 64794,
+      "sha256": "2FB3DC342402B0AA127B9AC54F634380FEF41C28D80D077CAC7C36D8E22FE75E"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_6_51.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_0_6_51.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_26_0_6_51.sav",
+      "size": 66317,
+      "sha256": "8B70D1015D50E3F9584DD2496C1415F61C53935D5B0AE06E449F271C35A2405C"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_1_15_5.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_1_15_5.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_26_1_15_5.sav",
+      "size": 72299,
+      "sha256": "97DC3CEBB8A659D9E3CAEBCCEE8E95017054E6200DC04C9545387657F3AEA263"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_1_2_14.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_1_2_14.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_26_1_2_14.sav",
+      "size": 66355,
+      "sha256": "8FA92921F1EA6219E40FC176C2F09E5951F6043159321BCF5536EDE9FB06F08F"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_1_7_20.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_26_1_7_20.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_26_1_7_20.sav",
+      "size": 67295,
+      "sha256": "53B5AF534A9D2F2D5E05ADD411AC0C446FCD373EB09E6767EF20FBFE99789F8C"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_27_20_57_16.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_27_20_57_16.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_27_20_57_16.sav",
+      "size": 72750,
+      "sha256": "3C24286C2EEDF1454B45C27A90CD98EAF9E59AA82413E2A7C0B99B0A06E9E84A"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_27_21_11_19.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_27_21_11_19.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_27_21_11_19.sav",
+      "size": 80751,
+      "sha256": "D9B9FA4E532FD6BBEC42FF649840F875A7881F60F8BC6FD228655C22BDBB5B93"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_27_21_16_4.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_27_21_16_4.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_27_21_16_4.sav",
+      "size": 83156,
+      "sha256": "76A30138A4C0CAAE62419645A78395D2FAF6C84C6A8A14EFE5D9E3B3F98C97F0"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_27_21_5_55.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_2_27_21_5_55.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_2_27_21_5_55.sav",
+      "size": 78597,
+      "sha256": "3E859EDAA6D4851DC0168DEA452D9E2C84CBDD7449B3A2B0E90C909C5CAC6F00"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_3_1_4_36_31.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\EXPEDITION_0_2026_3_1_4_36_31.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/EXPEDITION_0_2026_3_1_4_36_31.sav",
+      "size": 83997,
+      "sha256": "3D0C0AE3827A0509415EE95321FE3AB86D53AD43BB5B250AEBE72EE0D904FA29"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\Backup\\SavesContainer.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\Backup\\SavesContainer.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/Backup/SavesContainer.sav",
+      "size": 13659,
+      "sha256": "C7ABB5D4926CEF838A0EBF997435714A040DEE53B38012DFF6D5F133C53ED1F7"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\EXPEDITION_0.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\EXPEDITION_0.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/EXPEDITION_0.sav",
+      "size": 83997,
+      "sha256": "3D0C0AE3827A0509415EE95321FE3AB86D53AD43BB5B250AEBE72EE0D904FA29"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\EnhancedInputUserSettings.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\EnhancedInputUserSettings.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/EnhancedInputUserSettings.sav",
+      "size": 2504,
+      "sha256": "616013E6EE616C72BC4178694EB045BB488003CCF6BFB5679AAA22B6AA6A2781"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\PlatformSaveData.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\PlatformSaveData.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/PlatformSaveData.sav",
+      "size": 1883,
+      "sha256": "8E9AE284C1B5D40B306297A34A0F751EFBD4955EB06372415754603A60AE4F9E"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\SavesContainer.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\SavesContainer.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/SavesContainer.sav",
+      "size": 13659,
+      "sha256": "C7ABB5D4926CEF838A0EBF997435714A040DEE53B38012DFF6D5F133C53ED1F7"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\76561197960271872\\SharedGameUserSettings.sav",
+      "sourcePath": "%LOCALAPPDATA%\\Sandfall\\Saved\\SaveGames\\76561197960271872\\SharedGameUserSettings.sav",
+      "repoPath": "AppID/1742230/save/native-appdata-local/Saved/SaveGames/76561197960271872/SharedGameUserSettings.sav",
+      "size": 3085,
+      "sha256": "190B0076B3C95F4E975B56B95F4E62B7BECF10EB865DA04E3BC2CF1ACA04E8A9"
+    }
+  ],
+  "repositoryFolder": "AppID/1742230"
+}
