@@ -99,7 +99,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/020dea62175af4f7ccf8ce22be1660bc11044f42.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/c1f5b7f86623311f322c254fccb74c1a1dfce1f0.jpg",
       "hidden": true,
-      "percent": "65.9",
+      "percent": "66.0",
       "group": "Base Game"
     },
     "KNT_Achievement_12": {
@@ -108,7 +108,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/a70faad78fd6609b88297b70e161c76737e8dd34.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/eb718bf54f6047b978b241575d816181abb7cb64.jpg",
       "hidden": true,
-      "percent": "63.5",
+      "percent": "63.6",
       "group": "Base Game"
     },
     "KNT_Achievement_13": {
@@ -135,7 +135,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/ed92c00338addcae138ade3f1287bee3ef7d211c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/93d33499b30c1ee7ab42ca4befa801cf8fa64aee.jpg",
       "hidden": true,
-      "percent": "58.4",
+      "percent": "58.5",
       "group": "Base Game"
     },
     "KNT_Achievement_16": {
@@ -144,7 +144,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/15c1c53eecaa1b6b783c79a20fa41358f1c87760.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/7eaf6cfdf0d3764cc49a623fdbf8ade0bb0bcfb0.jpg",
       "hidden": true,
-      "percent": "57.5",
+      "percent": "57.6",
       "group": "Base Game"
     },
     "KNT_Achievement_17": {
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/ea87673bd63d056dd785b5d530273f120386c590.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3768760/d4b6edf1747689bd1c11012221fcad382ff0b3a0.jpg",
       "hidden": false,
-      "percent": "91.1",
+      "percent": "91.0",
       "group": "Base Game"
     },
     "KNT_Achievement_26": {
