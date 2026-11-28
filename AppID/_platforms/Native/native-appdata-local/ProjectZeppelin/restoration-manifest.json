@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "appId": "native-local-projectzeppelin",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\ProfileSaves\\PlayerProfile.sav",
+      "sourcePath": "%LOCALAPPDATA%\\ProjectZeppelin\\Saved\\ProfileSaves\\PlayerProfile.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/ProjectZeppelin/save/Saved/ProfileSaves/PlayerProfile.sav",
+      "size": 367,
+      "sha256": "88C0EF3BF1D1EB06F7F2E7125AD61A4F5909FC37744254EF89CEEECFCB9A61EC"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\SaveGameSlot_0.sav",
+      "sourcePath": "%LOCALAPPDATA%\\ProjectZeppelin\\Saved\\SaveGames\\SaveGameSlot_0.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/ProjectZeppelin/save/Saved/SaveGames/SaveGameSlot_0.sav",
+      "size": 2573499,
+      "sha256": "59B818D3D6775EEC38ED0C3F8AE2754508A3067D4B593EF6D48B5092B40DA34D"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\SaveGameSlot_0_25.sav",
+      "sourcePath": "%LOCALAPPDATA%\\ProjectZeppelin\\Saved\\SaveGames\\SaveGameSlot_0_25.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/ProjectZeppelin/save/Saved/SaveGames/SaveGameSlot_0_25.sav",
+      "size": 2573499,
+      "sha256": "65420E52B688720CCE21DF0DCC4B397911982687E22BDC37EF9F8BBFE635BAE6"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\SaveGameSlot_0_26.sav",
+      "sourcePath": "%LOCALAPPDATA%\\ProjectZeppelin\\Saved\\SaveGames\\SaveGameSlot_0_26.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/ProjectZeppelin/save/Saved/SaveGames/SaveGameSlot_0_26.sav",
+      "size": 2573499,
+      "sha256": "1F76DC4597BF3FBC0E9B95B391C96A0C676E916E1C2031524F32E983FE7811BA"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\SaveGameSlot_0_27.sav",
+      "sourcePath": "%LOCALAPPDATA%\\ProjectZeppelin\\Saved\\SaveGames\\SaveGameSlot_0_27.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/ProjectZeppelin/save/Saved/SaveGames/SaveGameSlot_0_27.sav",
+      "size": 2573499,
+      "sha256": "A844C811552883789100B7FD1AB362571BECA26477D310F6568D00A5665D59E0"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\SaveGameSlot_0_28.sav",
+      "sourcePath": "%LOCALAPPDATA%\\ProjectZeppelin\\Saved\\SaveGames\\SaveGameSlot_0_28.sav",
+      "repoPath": "AppID/_platforms/Native/native-appdata-local/ProjectZeppelin/save/Saved/SaveGames/SaveGameSlot_0_28.sav",
+      "size": 2385007,
+      "sha256": "18D121FF9120AAFA9BADF0C8A994DFABE49BEB90A5F090D874144CE6522FDE20"
+    }
+  ],
+  "repositoryFolder": "AppID/_platforms/Native/native-appdata-local/ProjectZeppelin"
+}
