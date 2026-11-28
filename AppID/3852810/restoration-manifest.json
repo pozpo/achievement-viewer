@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "appId": "3852810",
+  "achievementFormat": "json",
+  "achievementSourcePath": null,
+  "achievementSourceName": null,
+  "saves": [
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\OptionPCOnly.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LittleHope\\Saved\\SaveGames\\OptionPCOnly.sav",
+      "repoPath": "AppID/3852810/save/native-appdata-local/Saved/SaveGames/OptionPCOnly.sav",
+      "size": 16191,
+      "sha256": "7328948559E3AA60ADC946F8A19F903559689F04223C8B33C904466FEA239921"
+    },
+    {
+      "rootKey": "native-appdata-local",
+      "relativePath": "Saved\\SaveGames\\OptionSettings.sav",
+      "sourcePath": "%LOCALAPPDATA%\\LittleHope\\Saved\\SaveGames\\OptionSettings.sav",
+      "repoPath": "AppID/3852810/save/native-appdata-local/Saved/SaveGames/OptionSettings.sav",
+      "size": 43166,
+      "sha256": "82B08F0727328E8A7923F9A12BFF771355A9C3489074970FA2EAD0AD5A96CEA7"
+    }
+  ],
+  "repositoryFolder": "AppID/3852810"
+}
