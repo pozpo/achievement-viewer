@@ -1,0 +1,658 @@
+{
+  "appid": "552520",
+  "name": "Far Cry® 5",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/0dbbd22689fafc2b5b86996257a8e115ff935e81/header.jpg?t=1792530774",
+  "achievements": {
+    "FC5_Ach_1": {
+      "name": "The Spark",
+      "description": "Complete the game intro by liberating Dutch’s island (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/cf3a8d6d7e45e1c6c03a81eb31a63b5cf8e71e97.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3238584c8c111c4ac5da5caea6b77b1b3833b6e6.jpg",
+      "hidden": false,
+      "percent": "31.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_2": {
+      "name": "You Are Wrath",
+      "description": "Be deemed the Sin of Wrath (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/eedd7814800d34d21cb4f72f1dc919d30cf1f21d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/928a74953ec7b2ae808e55e0fd245ab06a060a9d.jpg",
+      "hidden": false,
+      "percent": "20.8",
+      "group": "Base Game"
+    },
+    "FC5_Ach_3": {
+      "name": "Special Delivery",
+      "description": "Ensure a baby's safe passage into this world (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/f09ea1e1e427a0ee58a2c92ad1390461a6c6005d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/2f8fe0d6fe139e2df0fa13275ee676815999e5e2.jpg",
+      "hidden": false,
+      "percent": "12.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_4": {
+      "name": "Only You",
+      "description": "Sucessfully complete the First Trial (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/0a2b14b47a9373ae03aa59e4bfcb4a19bf8088ee.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/338d3e455f03dc7ccff4ad6521204ac41c5d2799.jpg",
+      "hidden": false,
+      "percent": "17.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_5": {
+      "name": "Walk The Path",
+      "description": "Discover the Bliss (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/88d5b65420bf48a8a5020ed1f62a71b951ec12b1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/75cc7ee8d84cff6f0cd8af2a7c15b0d85439ece6.jpg",
+      "hidden": false,
+      "percent": "18.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_6": {
+      "name": "Together Forever",
+      "description": "Get to the End (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/a7f44d78aac27399279fd7103e3c1cacb2887227.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/fc25e702e5737379b5704570b17fe5aa75b6185d.jpg",
+      "hidden": false,
+      "percent": "10.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_7": {
+      "name": "Saving Deputy Hudson",
+      "description": "Save Deputy Hudson (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/1861a534b14e8f15adc3df8914d9e726e4e6229f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/d7347dc71c5f37d7944b5bd7075c0893cf0086a8.jpg",
+      "hidden": false,
+      "percent": "17.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_8": {
+      "name": "Blissful",
+      "description": "Save the Marshal from the Bliss (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/5195fc6f00e138f127084cca30c2275c8ad39e01.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/ce915f21a2d860008e7765223d783b4b07afd5dc.jpg",
+      "hidden": false,
+      "percent": "16.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_9": {
+      "name": "Saving Sheriff Whitehorse",
+      "description": "Save Sheriff Whitehorse (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/20a24afe07268d5cba289527200a1807df14b40d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/824507d0a23528f47d633a73695c137cba76b607.jpg",
+      "hidden": false,
+      "percent": "14.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_10": {
+      "name": "Saving Deputy Pratt",
+      "description": "Save Deputy Pratt (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/2cbff8843c1b4d2681c1a4dbaf99b7ccf7bb1b28.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/7afc835c877365529b31ec9accbb490159ef02a3.jpg",
+      "hidden": false,
+      "percent": "13.1",
+      "group": "Base Game"
+    },
+    "FC5_Ach_11": {
+      "name": "Science Fact",
+      "description": "Put aside skepticism and help Larry (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/ecfcbcaf59b1066b064e4933bbb7bc6c967e749e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b2ea7425ed0eb00a59f11d0bc84112507729557e.jpg",
+      "hidden": false,
+      "percent": "10.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_12": {
+      "name": "Ain't No Wallflower",
+      "description": "Who are these people? Speak to 50 citizens of Hope County (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/ab6aa841ad9129c461fd7b3b7ff9a82c85ca501d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/1f9566f02593eae945dfff906a3be79c916d5c4d.jpg",
+      "hidden": false,
+      "percent": "16.1",
+      "group": "Base Game"
+    },
+    "FC5_Ach_13": {
+      "name": "Been There, Done That",
+      "description": "Complete all Hunting & Fishing Challenges (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/a6e0319df36c469f0cb31f8b9900ef371c27638e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/1a36837b991c580b4d1ca10c4f7d9fff13dfb710.jpg",
+      "hidden": false,
+      "percent": "0.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_14": {
+      "name": "Liberator",
+      "description": "Liberate 5 locations from the Project at Eden's Gate (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/35180c16b5e4ea062da6bbfe7ce1d32551284903.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/4ff541b22ff997cd8b4662da4631a19a698ec358.jpg",
+      "hidden": false,
+      "percent": "23.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_15": {
+      "name": "Scavenger",
+      "description": "Follow the clues to the end of 3 treasure hunts (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/49a361c28822b6d5e7e895255e50c8d9bf881c3e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/2b417c0467b53f7e0df59f4916dbd6e153f68b35.jpg",
+      "hidden": false,
+      "percent": "20.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_16": {
+      "name": "What Now?",
+      "description": "Complete 3 Side Missions in Hope County (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/12e8e1ed8796284883aaf4e49eff037ecd70a88a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/8e4e47a80d9335935fa9fa2fdf0d94bc5c6cc018.jpg",
+      "hidden": false,
+      "percent": "22.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_17": {
+      "name": "The Greatest SOB That Ever Lived",
+      "description": "Laugh in danger's face by executing a Clutch Nixon stunt in each region (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/402e651b914dc8357ab12f1a49dd2663a96da44d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b6697576ad0a37e0db52b4acb1be64b9691c8fab.jpg",
+      "hidden": false,
+      "percent": "4.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_18": {
+      "name": "Pack Rat",
+      "description": "Grab 1 of each collectible item. You never know when it will come in handy (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/21cfc53a611434650e9fd0563ceee7af4aa4f306.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3a211c5d00e8afb8725f3e0ba1e511083086780b.jpg",
+      "hidden": false,
+      "percent": "4.7",
+      "group": "Base Game"
+    },
+    "FC5_Ach_19": {
+      "name": "A Wing And A Prayer",
+      "description": "Fly Nick's plane. Hopefully you're not afraid of heights (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/19ac1042ef304b5421dd884327111762d110d592.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/bb74c8fcbceaf48463dd75c28d6bc94636bc4895.jpg",
+      "hidden": false,
+      "percent": "20.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_20": {
+      "name": "Troublemaker",
+      "description": "Discover the joys of destroying cult property in every region (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/52e1bcf6d4c5c06a6538b3557b0ec839f93b1e3a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/14b4f30a67311f406656a045c772b1ef6cdbc8ec.jpg",
+      "hidden": false,
+      "percent": "11.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_21": {
+      "name": "Sewer Rat",
+      "description": "Destroy a cult water treatment pump and make them thirst for revenge (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/d00dc06520d3023348f4a7a0c9823521176b1447.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/01b526c9b13a5e96b94227d405b073d7edca9188.jpg",
+      "hidden": false,
+      "percent": "16.8",
+      "group": "Base Game"
+    },
+    "FC5_Ach_22": {
+      "name": "Peachy Keen",
+      "description": "Bait Peaches into going back home (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/ef858fe080998ee9c3ae956110982b539e6d6329.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/5a855c2c3ff39f5de4a8d3ce4a0242a3b449b2d7.jpg",
+      "hidden": false,
+      "percent": "16.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_23": {
+      "name": "Kicking the Hornet's Nest",
+      "description": "Trigger the wrath of a Herald (Solo Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/e9f4be8c028862736a50472e2edc339038813a90.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3d4a1b58b1e402f8f29e11d3d3647c2971ddd1cd.jpg",
+      "hidden": false,
+      "percent": "19.7",
+      "group": "Base Game"
+    },
+    "FC5_Ach_24": {
+      "name": "ARCADE Player",
+      "description": "Reach level 20 in the Arcade (Arcade only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/2463a022127a6c888eb853a8ca2504a246a25731.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/ce880c985d265c37752e07b6bd5500c8903d4e59.jpg",
+      "hidden": false,
+      "percent": "1.0",
+      "group": "Base Game"
+    },
+    "FC5_Ach_25": {
+      "name": "ARCADE Hero",
+      "description": "Play the 'Arcade Hero' mode 5 times (Arcade only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/4ce194a65ca3e0f6acb5eb8cd66a89dc0f0ca14c.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b43111748b436d7f6dd1f3404c8f938accb606cb.jpg",
+      "hidden": false,
+      "percent": "0.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_26": {
+      "name": "ARCADE Hunter",
+      "description": "Kill 100 enemies in Arcade Multiplayer maps (Arcade only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/44202c149f92d98532064ad9314588b586e2012f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/5c81dc202d57501043dd4e0d3cb2a9d1cac7fec5.jpg",
+      "hidden": false,
+      "percent": "0.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_27": {
+      "name": "ARCADE Enthusiast",
+      "description": "Successfully complete 10 featured Arcade maps in Solo or Co-op (Arcade only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/320c2440e8b584cac10d94006840eb6acab70559.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3ddd7883c44d4f39246f7e60429bf4f69cc7d41e.jpg",
+      "hidden": false,
+      "percent": "0.6",
+      "group": "Base Game"
+    },
+    "FC5_Ach_28": {
+      "name": "ARCADE Competitor",
+      "description": "Win 10 featured maps in Multiplayer (Arcade only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/c13c30146da5ac7d0d225771ff23fc2417b30a6d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/f956c69297896705ee09eb25a1968b08e36e890b.jpg",
+      "hidden": false,
+      "percent": "0.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_29": {
+      "name": "The Hurk Locker",
+      "description": "Truly bond with Hurk by destroying 15 vehicles together (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/e716a0fbfebcd12c6939cc494876157ecd3c917a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/d805f8e73ca8440ffc19f8207f25d30a009075fa.jpg",
+      "hidden": false,
+      "percent": "2.6",
+      "group": "Base Game"
+    },
+    "FC5_Ach_30": {
+      "name": "Hope County Master Angler",
+      "description": "Acquire all 4 Fishing Rods (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/1c63f86e87a33db39cc799e5c4ca3113e2da78fa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/4ee0d5130df4f98cca434f02f8bf6d89f3a80327.jpg",
+      "hidden": false,
+      "percent": "0.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_31": {
+      "name": "Locked and Loaded",
+      "description": "Fully customize your weapon (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b54bf813c93e505a22bde36f7bdb20a901a01167.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/58869dacbe5e55789101bd6ebfac359baf799ac8.jpg",
+      "hidden": false,
+      "percent": "10.0",
+      "group": "Base Game"
+    },
+    "FC5_Ach_32": {
+      "name": "Ghost Kill",
+      "description": "Perform a Headshot kill with any bow or rifle on an enemy cultist more than 150m away (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/29eb23b6f798e9b0fc593fbfb6a1b9cbc134f2fc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/7139e88bf3341df806701712633ed26afb7c96a7.jpg",
+      "hidden": false,
+      "percent": "13.6",
+      "group": "Base Game"
+    },
+    "FC5_Ach_33": {
+      "name": "Extra Crafty",
+      "description": "Craft 25 recipes (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/35b2201e7e5a6d458ec4aa9b306d987de3e1780b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/c287cc89086aaea4c1afa5c9ab66c2a082512f1e.jpg",
+      "hidden": false,
+      "percent": "11.0",
+      "group": "Base Game"
+    },
+    "FC5_Ach_34": {
+      "name": "Fashion First",
+      "description": "Purchase $1000 in clothing (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/114c7e1ec249c656759601d9a461f33c5027a71d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b96579606382be13e5a44f6560810ed9f2a91398.jpg",
+      "hidden": false,
+      "percent": "12.7",
+      "group": "Base Game"
+    },
+    "FC5_Ach_35": {
+      "name": "Big Spender",
+      "description": "Spend $50000 in Vehicle Shops (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/bb0a38c4a60722fe43bfecc52984024fc4b0cc00.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/e0769ce828efac242d4658116f277b10b0af3974.jpg",
+      "hidden": false,
+      "percent": "2.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_36": {
+      "name": "Stocked Garage",
+      "description": "Buy 3 vehicles to populate your garage (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/31cb4cd3f69674de4af9d39f52d5e7197613ea1f.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/53fa68d15c136538526881e52d45d9f1d089fa28.jpg",
+      "hidden": false,
+      "percent": "12.8",
+      "group": "Base Game"
+    },
+    "FC5_Ach_37": {
+      "name": "Ace Killer",
+      "description": "Destroy 10 planes while driving any aerial vehicle (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/4f09c9d2ef74cf9b6ffe6804ba1f94d758109896.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/a043973476aee2d6f2927efb0b9890d5f5a5dbc5.jpg",
+      "hidden": false,
+      "percent": "0.7",
+      "group": "Base Game"
+    },
+    "FC5_Ach_38": {
+      "name": "Squash and Run",
+      "description": "Run over and kill 20 enemies (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/c6e1fea5b9ef74c2b762acd5b0aacdf64cdc309b.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/a6767845858dedac9a7ef94deed7aaf9d06f336a.jpg",
+      "hidden": false,
+      "percent": "8.6",
+      "group": "Base Game"
+    },
+    "FC5_Ach_39": {
+      "name": "Fertilizing the Land",
+      "description": "Using a tractor, obliterate 5 enemies (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/c239881ca816c9d6379a3ee01d6833d42d777a34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/28c52c47cd5f853c61d38078aa9ff609114b94dd.jpg",
+      "hidden": false,
+      "percent": "2.6",
+      "group": "Base Game"
+    },
+    "FC5_Ach_40": {
+      "name": "Death From Above",
+      "description": "Drop a bomb from a plane and destroy or disable 4 vehicles at once (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/f68770ab46e45dde8a8e29fc5f2e04474edd0a37.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/438f06c2fef7355099d3df46a6408ef56763f9ef.jpg",
+      "hidden": false,
+      "percent": "0.5",
+      "group": "Base Game"
+    },
+    "FC5_Ach_41": {
+      "name": "Opportunity Knocks",
+      "description": "Using rocks or cans, distract 15 enemies (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/46776df0e6c60ef31b6d0e2db82bf6c71757c1b0.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b9c679bfd6e88a56449be6a882a260d676c20c84.jpg",
+      "hidden": false,
+      "percent": "2.5",
+      "group": "Base Game"
+    },
+    "FC5_Ach_42": {
+      "name": "Road Gunner",
+      "description": "While driving or leaning out of a vehicle, kill 25 enemies (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/965dce58bed6addcf65c3b8cd678d624bbb44f4e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/09b8cdc876644837fd6b277371b90a3711e6d860.jpg",
+      "hidden": false,
+      "percent": "28.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_43": {
+      "name": "Fish Market",
+      "description": "Sell 20 fish for cash (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/4fe73d8f5132ee5954df0a04d20a69614749e8aa.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/089d8f60bc1f83c35bda9871ab8dc0d087b6aa91.jpg",
+      "hidden": false,
+      "percent": "4.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_44": {
+      "name": "Where's the Beef?",
+      "description": "Tenderize a bull with your bare hands. To death (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/0c3829e7a42d034a6416fcb5ae014c5a87676b34.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/2489c11d167ebf09ebec3af8754de5f8f8e82520.jpg",
+      "hidden": false,
+      "percent": "0.8",
+      "group": "Base Game"
+    },
+    "FC5_Ach_45": {
+      "name": "Ignoble Beasts",
+      "description": "Kill a bison using only melee weapons (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/db02bec74fa9ba187fe20eb1a3d33733bdf51886.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3cb08b84ce138f36432e806826cf5de9e9120cda.jpg",
+      "hidden": false,
+      "percent": "1.5",
+      "group": "Base Game"
+    },
+    "FC5_Ach_46": {
+      "name": "Hitting it Off",
+      "description": "Play 3 quests with a friend (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/062aad8a9b6d6167fdd3f69409a8628408c7a69e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b7150f905655d87e56ecb68e556a6205f4ec6c01.jpg",
+      "hidden": false,
+      "percent": "12.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_47": {
+      "name": "Like A Bird",
+      "description": "Use a wingsuit to travel more than 5000m (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/8f04a006bd2ada2873be415ddec1000feb2fd237.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b3122b3cc47ef5f6f198236ee9ac597656a71289.jpg",
+      "hidden": false,
+      "percent": "9.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_48": {
+      "name": "Close and Personal",
+      "description": "Perform 25 close combat Takedown Kills (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/4f764bd34809faa19c88e34bb9eac2030c1f36dc.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/6317646418749210ad033b867209972149c5c7da.jpg",
+      "hidden": false,
+      "percent": "15.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_49": {
+      "name": "Explosive Surprise",
+      "description": "Sabotage 5 vehicles in a way that kills an enemy (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/d64aa55d641cc8779c71d6fa1008d932851fdb03.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/8bc4b773769b9897cfa8867409099e471f59b7c6.jpg",
+      "hidden": false,
+      "percent": "0.6",
+      "group": "Base Game"
+    },
+    "FC5_Ach_50": {
+      "name": "Survivalist",
+      "description": "Purchase half of all perks available (Campaign only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/0a80e9d82cc4de22894879e3782fee006328ab7e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/2c41722110ae2a7359bd57e7e658c885f6c1e9c9.jpg",
+      "hidden": false,
+      "percent": "9.9",
+      "group": "Base Game"
+    },
+    "FC5_Ach_51": {
+      "name": "Silent Death",
+      "description": "Perform 25 stealth kills while you have the 4 survival instinct tokens.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/f163742db111454514a3495611112468a0043c21.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/54be526cc9044db0ff7012452754372ece0a01ae.jpg",
+      "hidden": false,
+      "percent": "1.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_52": {
+      "name": "80s Hero",
+      "description": "Complete the game in Action Movie Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/070e400ccc00ed130ef8638df5dab34f58ef491e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/37ceaa74254ae168217f7d5939d369ab4fb1882a.jpg",
+      "hidden": false,
+      "percent": "0.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_53": {
+      "name": "Wendell's Story",
+      "description": "Complete the game.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3f439b7822e04e071e37f73f968da453b2218048.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/24b2ff4fcc53d2278edb3cb25a1c4806a5f16f3a.jpg",
+      "hidden": false,
+      "percent": "1.5",
+      "group": "Base Game"
+    },
+    "FC5_Ach_54": {
+      "name": "Roguelike",
+      "description": "Complete the game in Survivor Mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/7e3847744e8e7bd6814b01c8e077b3083b9dc635.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/be475d0e6997240e8a0b0e7a1bdd5111dd57f0ea.jpg",
+      "hidden": false,
+      "percent": "0.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_55": {
+      "name": "Leave no one behind",
+      "description": "Free the 3 US prisoner of war.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/426a21a44d0e98341bd4428f004b4dcba4bfc6ab.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3794a8bd0446d15148ff11f0ae7ba064afba114e.jpg",
+      "hidden": false,
+      "percent": "1.5",
+      "group": "Base Game"
+    },
+    "FC5_Ach_56": {
+      "name": "Make them count",
+      "description": "Kill a total of 25 enemies with airstrikes.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3637f9054fb51d677e88ddf6774896f6e36eb44e.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/d6deeeeea9ca24fa89f707b99b7e4cc0ed7076ef.jpg",
+      "hidden": false,
+      "percent": "0.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_57": {
+      "name": "Welcome to Nam",
+      "description": "Get back your gear at the helicopter crash site.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/bdbb3998126b63f5c6ad6ece08d06cf4c7525144.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3ed0c57ac60ea0f6050461e25e5ea475097b26ac.jpg",
+      "hidden": false,
+      "percent": "2.7",
+      "group": "Base Game"
+    },
+    "FC5_Ach_58": {
+      "name": "DLC: Mars:Bug Squasher",
+      "description": "Perform 10 takedowns on Arachnids using the Power Glove.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3147e69dc95e756bf5375c6df38af94bf3d600d1.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/21d16f45004b83304c06f9a2f373308ad3a591d2.jpg",
+      "hidden": false,
+      "percent": "0.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_59": {
+      "name": "DLC: Mars: Mars Second Amendment",
+      "description": "Buy 12 weapons.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/8233a7d02a5f6cb515840952e3eb5b3d151da5cd.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/72c793215e5d0f231f9ae0b5600d06856ed75a61.jpg",
+      "hidden": false,
+      "percent": "0.4",
+      "group": "Base Game"
+    },
+    "FC5_Ach_60": {
+      "name": "DLC: Mars: Martian Journal",
+      "description": "Collect all of Larry's notes (Host Only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/8ebbdc4b24c37fd46a90bdecdb851c3b9302dd67.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/e8b878edec2f51cab1ffaac00a8b3efba3ff6439.jpg",
+      "hidden": false,
+      "percent": "0.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_61": {
+      "name": "DLC: Mars: Nick's Story",
+      "description": "Complete the game (Host Only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/a28df6ec2009d8df25bace290efe6f98b5766220.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/997bc9780914df3d3b9eef302c37c8a9920101df.jpg",
+      "hidden": false,
+      "percent": "0.8",
+      "group": "Base Game"
+    },
+    "FC5_Ach_62": {
+      "name": "DLC: Mars: Slimy Death",
+      "description": "Hit 10 Arachnids with Crabmones.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/f3bf4a2404417f69c15d5080404240b94b6f62d3.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/825055df16c9c8d13c43351bd25cee1bf8e4f8d1.jpg",
+      "hidden": false,
+      "percent": "0.5",
+      "group": "Base Game"
+    },
+    "FC5_Ach_63": {
+      "name": "DLC: Mars: The Queen is Dead!",
+      "description": "Kill all the Queens (Host Only).",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/8dc82102f48b992130e576f3746506d5f7b9ed7d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/7c8025a099bb1872fbcd2c7eadb44b45c1cceda6.jpg",
+      "hidden": false,
+      "percent": "0.6",
+      "group": "Base Game"
+    },
+    "FC5_Ach_64": {
+      "name": "DLC: Mars: Welcome to Mars",
+      "description": "Reboot the Terminal on top of the Control Center Antenna.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/dc7d4ca9b68a4d839ecf2e526116c971a545e455.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/4a24665bb37793ea1f0770e6c0f23952b5fa5c1f.jpg",
+      "hidden": false,
+      "percent": "2.0",
+      "group": "Base Game"
+    },
+    "FC5_Ach_65": {
+      "name": "DLC Zombies: FertiliZer",
+      "description": "Kill 10 Gougers or Hot Heads with the tractor in Fields of Terror.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b45600a1880fa1265e53b46dd4c842c7ea0af09d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/8f4812973541cab56b8f543f519b24fc883d8951.jpg",
+      "hidden": false,
+      "percent": "0.6",
+      "group": "Base Game"
+    },
+    "FC5_Ach_66": {
+      "name": "DLC Zombies: Early ExZit Denied",
+      "description": "Try to escape the bridge early in Burned Bridges.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b82123619b1f78c569a44bf73bc6873ae80d63be.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/3eac7ea3f0d475fa506ac5c9101ba21bd22526d2.jpg",
+      "hidden": false,
+      "percent": "0.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_67": {
+      "name": "DLC Zombies: Blood Zragon",
+      "description": "Kill the Blood Dragon in Killer Climate.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/14df05c13dd13080558a66450e4e4e0be9daec0a.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/82116186200b86e59859078b24a091a92064ede7.jpg",
+      "hidden": false,
+      "percent": "0.8",
+      "group": "Base Game"
+    },
+    "FC5_Ach_68": {
+      "name": "DLC Zombies: Killer BeeZ",
+      "description": "Destroy all the Zom-bee nests in Laboratory of the Dead.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/eff363180be06770e32b1df5d3fc176591195003.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/42222e29f3368164daa504be7d1d004738753f03.jpg",
+      "hidden": false,
+      "percent": "0.3",
+      "group": "Base Game"
+    },
+    "FC5_Ach_69": {
+      "name": "DLC Zombies: ReZolution",
+      "description": "Complete all 7 movie pitches.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/23b4452b917a5d8c7fb0f6af2385ef1ed9625f24.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/b0a89b320156c26119f5e862ed53e56a2e5a5d8b.jpg",
+      "hidden": false,
+      "percent": "0.8",
+      "group": "Base Game"
+    },
+    "FC5_Ach_70": {
+      "name": "DLC Zombies: DeceaZed to ExZist",
+      "description": "Kill 5000 total Gougers, Hot Heads, or Behemoths in any mode.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/ce6b7a81f4a2b7259ec28b26f60d8e0a7b09c3f2.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/23d41d5969ec2a4b2c4cc31fb4dd20b2a36b3307.jpg",
+      "hidden": false,
+      "percent": "0.1",
+      "group": "Base Game"
+    },
+    "FC5_Ach_71": {
+      "name": "DLC Zombies: Gold MedaliZt",
+      "description": "Get a gold medal in all 7 movie pitches in Score Attack.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/e4a81b7a0ab679212380b7c36f36de0b1f37f74d.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/55f05197b644f34f2fc2b96ade8a4af8ac32e76d.jpg",
+      "hidden": false,
+      "percent": "0.2",
+      "group": "Base Game"
+    },
+    "FC5_Ach_72": {
+      "name": "Infamous",
+      "description": "Complete New Game+ with Infamous difficulty.",
+      "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/255e81be00b8c28dffb8c553110fd23d71dadf17.jpg",
+      "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/552520/07d734a4429caceaf20c16ce649354356182edb2.jpg",
+      "hidden": false,
+      "percent": "0.6",
+      "group": "Base Game"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
