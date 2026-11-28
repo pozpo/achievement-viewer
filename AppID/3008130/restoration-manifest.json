@@ -4,6 +4,15 @@
   "achievementFormat": "json",
   "achievementSourcePath": "%LOCALAPPDATA%\\AchievementSync\\metadata\\3008130\\achievements.json",
   "achievementSourceName": "achievements.json",
-  "saves": [],
+  "saves": [
+    {
+      "rootKey": "OnlineFix out\\save",
+      "relativePath": "save_ft_0.sav",
+      "sourcePath": "%PUBLIC%\\Documents\\OnlineFix\\3008130\\Saves\\out\\save\\save_ft_0.sav",
+      "repoPath": "AppID/3008130/save/save_ft_0.sav",
+      "size": 205617,
+      "sha256": "21B21E87CFD09BEE5D3B6FD0C081254B5E9CA10AEABFE5DBA3CDAD50B5387E3A"
+    }
+  ],
   "repositoryFolder": "AppID/3008130"
 }
